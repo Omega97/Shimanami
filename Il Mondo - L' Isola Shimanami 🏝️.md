@@ -24,38 +24,37 @@
 ↘️Takamura: 2100 abitanti
 ↙️Umihana: 1900 abitanti
 
-```Python 
+
 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦
-🟦🟦🐳🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🐟🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦
-🟦🟦🟦🟦🟦🟦⛵️🟦🟦🟦🟦🏖🟨🟨🟨🟨🟦🟦🟦🟦🟦🌊🟦🟦🟦🟦🟦🟦🟦🟦
-🟦🟦🟦🟦🟦🟦🟦🟦🟦🟨🟨🏠🏡🌴🌳🟨🟨🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🐟🟦🟦
-🟦🟦🟦🟦🟦🟦🟦⚓️🟨🏝️🏘🏺🏠🏡🌳🌴🌳🟨🟨🟨🟨🟦🟦🟦🟦🌊🟦🟦🟦🟦
-🟦🟦🟦🟦🟦🟦🟨🏠🏘🏘🏦🏘🏰⚔️🌱🌱🫘🌳🌳🟩🟨🏝️🏝️🟦🟦🟦🟦🟦🟦🟦
-🟦🌊🟦🟦🟦🟦🟨🏠🏘🏺🏬🏫🏡📚🌱🌱🫘🌳🌳🟩🌳🟨🏝️🏝️🟦🟦🟦🟦🟦🟦
-🟦🟦🟦🟦🟦🟨🏡🏠🏥🏡🏘🌷🌲🟩🌱🌱🟩🟩🟩🌳🌳🌴🟨🏝️🟦🟦🟦🟦🟦🟦
-🟦🟦🟦🟦🟦🟨🎋🏡🌾🌾🍠🍠🍠🌲🟩🟩🪵🌲🌳🟩🏚🌴🟨🟦🟦🦀🟦🟦🟦🟦
-🟦🟦🟦🟦🟦🟨🎋🟩🌾🌾🍠🍠🍠🟩🗻🦇🌲🌲🌲🟩🌳🟨🟦🟦🟦🟦🟦🟦🟦🟦
-🟦🟦🟦🟦🏝️🟨🎋🟩🌾🌾🌾🟩🟩🗻🗻🗻🗻🌲🌲🟩🌳🟨🟦🟦🟦🟦🟦🟦🟦🟦
-🟦🟦🟦🟦🟨🌴🌲🌳🟩🟩🟩🌲🗻🗻🗻🏯🗻🌳🌲🌲🟩🌳🟨🟦🟦🟦🐟🟦🟦🟦
-🟦🟦🟦🟨🌲🌲🌲🟩🎋🎋🎋🟩🌲⛏️🗻🗻🌲🎋🎋🎋🟩🌳🟨🟦⛩️🟦🟦🟦🟦🟦
-🟦🟦🟦🟨🌲🌲🌲🟩🎋🌲🌲🌲🟩🟩🏡🌲🎋🎋🟩🟩🌳🌳🟨🟦🟨🟦🟦🟦🟦🟦
-🟦🌊🟦🟦🟨🌲🌲🌲🟩🌲🌳🌲🌳🌳🟩🌲🌲🟩🌲🌲🌲🌴🟨🟦🟨🟦🟦🟦🟦🟦
-🟦🟦🟦🟦🟦🟨🟨🟩🌲🌲🌲🛖🌿🌳🌳🟩🌳🟩🌲🌲🌲🏡🟨🟦🟨🟦🟦🟦🟦🟦
-🟦🟦🐟🟦🟦🟨🏡🌲🟩🌲🌲🌳🌳🌲🌲🌳🟩🌲🌱🌱🌳🌳🟨🟨🟨🟦🟦🟦🟦🟦
-🟦🟦🟦🟦🏝️🟨🌲🌲🌲🟩🟩🌳🌳🌲🌳🌲🟩🫘🌱🌱🌳🌳🌳🟨🟦🟦🟦🟦🟦🟦
-🟦🟦🟦🟦🏝️🟨🌲🌲🟩🌲🌳🟩🟩🎋🎋🟩🌾🌾🌱🌱🌾🌾🌲🟨🟦🟦🟦🟦🟦🟦
-🟦🟦🟦🟦🟦🟨🟩🟩🌱🌱🌱🌲🎋🟩🟩⛲️🌾🌾🌳🏠🌾🌾🟨🟨🟦🟦🟦🌊🟦🟦
-🟦🟦🟦🦪🟦🟨🌲🌲🌱🌱🌱🌾🌾🌾🌳🟩🌾🌾🏠🏦🏘🏡🌴🏝️🟦🟦🟦🟦🟦🟦
-🟦🟦🟦🟦🟦🟦🟨🌲🌱🌱🌱🌾🌾🌾🌳🟩🌾🌾🏘🏫🏠🏠🏡🏝️🟦🟦🟦🟦🟦🟦
-🟦🟦🟦🌿🟦🟦🟨🏝️🌳🏠🫘🌾🌾🌾🟩🌳🟩🏠🏺🏬🟨🟨⚓️🟦🟦🟦🟦🟦🟦🟦
-🟦🟦🌿🌿🟦🟦🟨🏡🏘🏦🏺🏡🟩🟩🌳🌳🌳🏡🏘🏠🟨🟦🟦🟦⛵️🟦🟦🟦🟦🟦
-🟦🟦🌿🌿🟦🟦🟨🏘🏠🏫🏬🎋🎋🍠🍠🌳🪵🌳🏡🟨🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦
-🟦🟦🟦🟦🟦🟦🟦⚓️🏠🏠🏘🏡🪵🍠🍠🌳🌳🌳🟨🟨🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦
-🟦🟦🟦🟦🟦⛵️🟦🟦🟨🟨🟨🏠🌳🟨🟨🌳🌴🟨🟨🟦🟦🟦🟦🟦🟦🟦🟦🌊🟦🟦
-🟦🟦🐟🟦🟦🟦🟦🟦🟦🟦🟨🟨🟨🟦🟦🟨🟨🟨🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦
-🟦🟦🟦🟦🟦🟦🟦🟦🌊🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🐟🟦🟦🟦
+🟦🟦🟦🐳🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🐟🟦🟦🟦🟦🌊🟦🟦🟦🟦
+🟦🟦🟦🟦🟦🟦🟦⛵️🟦🟦🟦🟦🟨🟨🟨🟨🟨🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦
+🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟨🟨🏠🏡🌴🌳🟨🟨🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🌊🟦
+🟦🟦🟦🟦🟦🟦🟦🟦⚓️🟨🏝️🏘🏺🏠🏡🌳🌴🌳🟨🟨🟨🟨🟦🟦🟦🟦🟦🟦🟦🟦
+🟦🟦🟦🟦🟦🟦🟦🟨🏠🏘🏘🏦🏘🏰⚔️🌱🌱🫛🌳🌳🟩🟨🏝️🏝️🟦🟦🟦🟦🟦🟦
+🟦🟦🌊🟦🟦🟦🟦🟨🏠🏘🏺🏬🏫🏡📚🌱🌱🫛🌳🌳🟩🌳🟨🏝️🏝️🟦🟦🟦🟦🟦
+🟦🟦🟦🟦🟦🟦🟨🏡🏠🏥🏡🏘🌷🌲🟩🌱🌱🟩🟩🟩🌳🌳🌴🟨🏝️🟦🟦🟦🟦🟦
+🟦🟦🟦🟦🟦🟦🟨🎋🏡🌾🌾🍠🍠🍠🌲🟩🟩🪵🌲🌳🟩🏚🌴🟨🟦🟦🦀🟦🟦🟦
+🟦🟦🟦🟦🟦🟦🟨🎋🟩🌾🌾🍠🍠🍠🟩🗻🦇🌲🌲🌲🟩🌳🟨🟦🟦🟦🟦🟦🟦🟦
+🟦🟦🟦🟦🟦🏝️🟨🎋🟩🌾🌾🌾🟩🟩🗻🗻🗻🗻🌲🌲🟩🌳🟨🟦🟦🟦🟦🟦🟦🟦
+🟦🟦🟦🟦🟦🟨🌴🌲🌳🟩🟩🟩🌲🗻🗻🗻🏯🗻🌳🌲🌲🟩🌳🟨🟦🟦🟦🐟🟦🟦
+🟦🟦🟦🟦🟨🌲🌲🌲🟩🎋🎋🎋🟩🌲⛏️🗻🗻🌲🎋🎋🎋🟩🌳🟨🟦⛩️🟦🟦🟦🟦
+🟦🟦🟦🟦🟨🌲🌲🌲🟩🎋🌲🌲🌲🟩🟩🏡🌲🎋🎋🟩🟩🌳🌳🟨🟦🟨🟦🟦🟦🟦
+🟦🌊🟦🟦🟦🟨🌲🌲🌲🟩🌲🌳🌲🌳🌳🟩🌲🌲🟩🌲🌲🌲🌴🟨🟦🟨🟦🟦🟦🟦
+🟦🟦🟦🟦🟦🟦🟨🟨🟩🌲🌲🌲🛖🌿🌳🌳🟩🌳🟩🌲🌲🌲🏡🟨🟦🟨🟦🟦🟦🟦
+🟦🟦🐟🟦🟦🟦🟨🏡🌲🟩🌲🌲🌳🌳🌲🌲🌳🟩🌲🌱🌱🌳🌳🟨🟨🟨🟦🟦🟦🟦
+🟦🟦🟦🟦🟦🏝️🟨🌲🌲🌲🟩🟩🌳🌳🌲🌳🌲🟩🫛🌱🌱🌳🌳🌳🟨🟦🟦🟦🟦🟦
+🟦🟦🟦🟦🟦🏝️🟨🌲🌲🟩🌲🌳🟩🟩🎋🎋🟩🌾🌾🌱🌱🌾🌾🌲🟨🟦🟦🟦🟦🟦
+🟦🟦🟦🟦🟦🟦🟨🟩🟩🌱🌱🌱🌲🎋🟩🟩⛲️🌾🌾🌳🏠🌾🌾🟨🟨🟦🟦🟦🌊🟦
+🟦🟦🟦🟦🦪🟦🟨🌲🌲🌱🌱🌱🌾🌾🌾🌳🟩🌾🌾🏠🏦🏘🏺🌴🏝️🟦🟦🟦🟦🟦
+🟦🟦🟦🟦🟦🟦🟦🟨🌲🌱🌱🌱🌾🌾🌾🌳🟩🌾🌾🏘🏫🏠🏠🏡🏝️🟦🟦🟦🟦🟦
+🟦🟦🟦🟦🌿🟦🟦🟨🏝️🌳🏠🫛🌾🌾🌾🟩🌳🟩🏠🏺🏬🟨🟨⚓️🟦🟦🟦🟦🟦🟦
+🟦🟦🟦🌿🌿🟦🟦🟨🏡🏘🏦🏺🏡🟩🟩🌳🌳🌳🏡🏘🏠🟨🟦🟦🟦⛵️🟦🟦🟦🟦
+🟦🟦🟦🌿🌿🟦🟦🟨🏘🏠🏫🏬🎋🎋🍠🍠🌳🪵🌳🏡🟨🟦🟦🟦🟦🟦🟦🟦🟦🟦
+🟦🟦🟦🟦🟦🟦🟦🟦⚓️🏠🏠🏘🏡🪵🍠🍠🌳🌳🌳🟨🟨🟦🟦🟦🟦🟦🟦🟦🟦🟦
+🟦🟦🟦🟦🟦🟦⛵️🟦🟦🟨🟨🟨🏠🌳🟨🟨🌳🌴🟨🟨🟦🟦🟦🟦🟦🟦🟦🐟🟦🟦
+🟦🟦🟦🐟🟦🟦🟦🟦🟦🟦🟦🟨🟨🟨🟦🟦🟨🟨🟨🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦
+🟦🟦🟦🟦🟦🟦🟦🟦🟦🌊🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🌊🟦🟦🟦🟦🟦🟦
 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦
-```
 
 | Nome          | Emoji | Nome         | Emoji | Nome             | Emoji |
 | ------------- | ----- | ------------ | ----- | ---------------- | ----- |
@@ -64,30 +63,30 @@
 | Botteghe      | 🏺🏬  | Armeria      | ⚔️    | Castello         | 🏰    |
 | Bambù         | 🎋    | Patate dolci | 🍠    | Legna            | 🪵    |
 | Tè            | 🌱    | Riso         | 🌾    | Granchi          | 🦀    |
-| Fagioli Azuki | 🫘    | Alghe        | 🌿    | Perle            | 🦪    |
+| Fagioli Azuki | 🫛    | Alghe        | 🌿    | Perle            | 🦪    |
 
 
 ---
 
 ### 🏩 Le Tre Città Principali
 
-#### **Kanemura** (金村) – _Il Villaggio dell’Oro_
+#### **Kanemura** (金村) – Il Villaggio dell’Oro
 
 A nord, tra moli affollati e tetti piastrellati, sorge Kanemura, la più grande delle tre città, e il cuore commerciale di Shimanami. Qui si decidono i prezzi, si stipulano contratti, si stringono mani con il sorriso e si pugnalano con gli occhi. È una città ambiziosa, viva, instancabile. Le campane del porto suonano prima dell’alba, e le decisioni prese in un tè del mattino possono rovesciare fortune intere. Qui sbarcano le navi provenienti da Cina e Giappone. Occasionalmente, si può incontrare perfino imbarcazioni dalla lontana Olanda.  
 
-Leader: **Hoshino Genzaemon** – un diplomatico ambizioso che cerca di ottenere il controllo delle terre sotto Shirakumo fabbricando diritti ereditari fasulli.
+Leader: **Hoshino Gen** – un diplomatico ambizioso che cerca di ottenere il controllo delle terre sotto Shirakumo fabbricando diritti ereditari fasulli.
 
-#### **Takamura** (高村) – _Il Villaggio Elevato_
+#### **Takamura** (高村) – Il Villaggio Elevato
 
-A sud-est, tra le colline argillose e i boschi ordinati, si trova Takamura. Le sue botteghe scolpiscono il silenzio nel fuoco, trasformando l’argilla in ceramiche che raccontano storie, e il rispetto in un mestiere. Qui nulla è improvvisato. Le gilde regolano l’arte, l’onore, e la successione come una danza antica, eseguita con precisione e deferenza. Ma sotto l’ordine, si agita il desiderio di cambiare.
+A sud-est, tra fitti boschi e campi rigogliosi, si trova Takamura. A un'ora e mezza di cammino da Kanemura, le sue botteghe scolpiscono il silenzio nel fuoco, trasformando l’argilla locale in ceramiche che raccontano storie, e il rispetto in un mestiere. Qui nulla è improvvisato. Le gilde regolano l’arte, l’onore, e la successione come una danza antica, eseguita con precisione e deferenza. Ma sotto l’ordine, si agita il desiderio di cambiare.
 
 Leader: **Takatsu Rin** – maestra ceramista che cerca segretamente di carpire i pigmenti unici usati nel villaggio di Hakusui violando il codice delle gilde.
 
-#### **Umihana** (海花) – _I Fiori del Mare_
+#### **Umihana** (海花) – I Fiori del Mare
 
 A sud-ovest, aperta verso il mare del Giappone, sorge Umihana. Qui il sale punge l’aria e il canto dei pescatori si mescola a quello dei bambini. È la più umile delle tre città, e forse la più vera. Celebra le stagioni con canti e lanterne, e ancora oggi, dopo la Grande Tempesta, cerca di risorgere con dignità, un remo alla volta.
 
-Leader: **Nakahara Sōgen** – capo flotta anziano che nasconde una perla nera rubata anni prima e cerca di venderla in segreto a Kanemura.
+Leader: **Nakahara Sōgen** – capo flotta anziano che nasconde una perla nera rubata anni prima, ha cercato di venderla in segreto a Kanemura.
 
 
 ---
@@ -227,27 +226,35 @@ La forma di governo di Shimanami può essere descritta come una **oligarchia feu
 
 #### **Daimyō (大名)**, il signore feudale ⚔️
 
-[Barbero] Sull'isola di Shimanami, il daimyō rappresenta l'autorità suprema, un ruolo che combina potere militare, legislativo e giudiziario. Attualmente, questa posizione è detenuta da Aokabe Munetaka, un uomo anziano ma ancora ambizioso. Il daimyō risiede a Kanemura e presiede il Consiglio dell'Isola, nominando ufficiali diretti come hatamoto, bugyō e comandanti locali. Il suo potere si estende su tutto l'arcipelago, ma è bilanciato da una rete di consiglieri e funzionari che assicurano l'equilibrio tra le varie forze politiche e sociali dell'isola.
+[Barbero] Sull'isola di Shimanami, il daimyō rappresenta **l'autorità suprema**, un ruolo che combina potere militare, legislativo e giudiziario. Il daimyō risiede a Kanemura e presiede il Consiglio dell'Isola, nominando ufficiali diretti come hatamoto, bugyō e comandanti locali. Il suo potere si estende su tutto l'arcipelago, ma è bilanciato da una rete di consiglieri e funzionari che assicurano l'equilibrio tra le varie forze politiche e sociali dell'isola.
 
-#### Il Consiglio dell'Isola – La Voce delle Comunità
+Attualmente, questa posizione è ricoperta da **Aokabe Munetaka**, un uomo anziano ma ancora ambizioso. 
 
-Il Consiglio dell'Isola, o Shimahyōjō, è l'organo consultivo e decisionale che affianca il daimyō nella gestione dell'isola. Composto da rappresentanti delle tre principali città (Kanemura, Umihana, Takamura), un monaco anziano, un zai-shu (capo mercantile influente) e due consiglieri militari, il consiglio si riunisce ogni tre stagioni o in caso di crisi. Le discussioni spaziano dalle tasse alle infrastrutture, dalla giustizia pubblica alla gestione delle rotte commerciali, riflettendo la complessità e la diversità della società isolana.
+#### Consiglio dell'Isola – La Voce delle Comunità 📣
 
-#### I Magistrati Locali – I Custodi della Legge
+Il Consiglio dell'Isola, o Shimahyōjō, è **l'organo consultivo e decisionale** che affianca il daimyō nella gestione dell'isola. Composto da rappresentanti delle tre principali città (Kanemura, Umihana, Takamura), un monaco anziano, un zai-shu (capo mercantile influente) e due consiglieri militari, il consiglio si riunisce ogni tre stagioni o in caso di crisi. Le discussioni spaziano dalle tasse alle infrastrutture, dalla giustizia pubblica alla gestione delle rotte commerciali, riflettendo la complessità e la diversità della società isolana.
 
-I bugyō, o magistrati locali, sono nominati dal daimyō o dal consiglio e operano nelle principali città dell'isola. Ogni città dispone di un Bugyō della Giustizia, del Commercio e delle Imposte. Questi funzionari gestiscono la legge locale, i contratti pubblici e fungono da giudici nei conflitti, assicurando che l'ordine e la giustizia siano mantenuti nelle comunità.
+#### Kazoku (華族), i nobili locali 👩‍👩‍👧
 
-#### Samurai (侍) 🗡
+Sull’isola di Shimanami, i kazoku sono i **nobili locali**: famiglie antiche, spesso discendenti da samurai, governatori o mecenati del passato, che hanno mantenuto il proprio prestigio attraverso i secoli. Non comandano eserciti né amministrano feudi, ma detengono ancora **autorità morale, influenza economica e accesso alle reti di potere**. Vivono in residenze sobrie ma eleganti, curano i riti familiari e partecipano con discrezione alle decisioni che contano, spesso dietro le quinte del Consiglio dell’Isola o delle corporazioni mercantili.
 
-[Barbero] Nel caos delle guerre feudali che sconvolgevano il Giappone alla fine del XV e all’inizio del XVI secolo, tra un villaggio in fiamme e un castello assediato, il **samurai** non era solo un guerriero armato di katana e corazza laccata: era un uomo incastonato in una rete complessa di doveri, gerarchie e simboli, un servitore e insieme un esecutore della volontà del proprio signore, spesso più politico che combattente, più amministratore che spadaccino. Figlio di una tradizione che mescolava l’etica confuciana al culto dell’onore, e talvolta perfino il distacco mistico del buddhismo zen, il samurai evolveva a seconda dei tempi: poteva essere un contadino arruolato per la stagione delle battaglie o un nobile erudito che citava poesie mentre si preparava al suicidio rituale; poteva vivere nel fasto di una residenza urbana o passare mesi sotto tenda, con il riso contato e la spada sempre a portata di mano. La sua esistenza era un equilibrio precario tra fedeltà e ambizione, tra obbedienza e orgoglio, tra la necessità di vincere e quella di morire con grazia, in un paese dove la guerra sembrava non finire mai e dove ogni colpo di spada poteva decidere non solo il destino di un campo di battaglia, ma anche di un intero clan.
+Alcuni cercano di mantenere viva la tradizione, altri tentano di **reinventarsi** come collezionisti, mecenati o persino alleati del commercio marittimo. Le rivalità tra famiglie nobili delle tre città sono silenziose ma reali, e il loro prestigio può essere **negoziato come una merce rara**. In un mondo che cambia, i kazoku resistono, consapevoli che a volte un nome – ben protetto – vale più di cento lame.
 
-#### Le Corporazioni e gli Zai-shu – Il Potere Economico
+#### Magistrati Locali – I Custodi della Legge ⚖️
 
-[Barbero] Le corporazioni e gli Zai-shu, o capi mercantili, detengono un'influenza economica significativa sull'isola. Gestiscono rotte navali, saline, botteghe di lusso e altre attività commerciali. Sebbene non abbiano potere legale formale, la loro capacità di influenzare l'economia li rende attori chiave nella politica isolana. I più potenti siedono nel Consiglio dell'Isola, contribuendo alle decisioni che plasmano il futuro dell'arcipelago.
+I bugyō, o **magistrati locali**, sono nominati dal daimyō o dal consiglio e operano nelle principali città dell'isola. Ogni città dispone di un Bugyō della Giustizia, del Commercio e delle Imposte. Questi funzionari gestiscono la legge locale, i contratti pubblici e fungono da giudici nei conflitti, assicurando che l'ordine e la giustizia siano mantenuti nelle comunità.
 
-#### I Consigli Cittadini – La Saggezza degli Anziani
+#### Samurai - I Guerrieri Onorevoli (侍) 🗡
 
-[Barbero] Le assemblee cittadine, o Machitoshiyori, sono composte da anziani, capifamiglia, artigiani e mercanti. Questi consigli hanno autorità morale e potere esecutivo sugli affari quotidiani, come la distribuzione delle terre comuni, l'approvazione di licenze, l'organizzazione dei festival e la manutenzione delle strade. Riferiscono ai magistrati e possono inviare delegati al Consiglio dell'Isola, garantendo che le esigenze locali siano rappresentate a livello superiore.
+[Barbero] Nel caos delle guerre feudali che sconvolgevano il Giappone alla fine del XV e all’inizio del XVI secolo, tra un villaggio in fiamme e un castello assediato, il **samurai** non era solo un guerriero armato di katana e corazza laccata: era un uomo incastonato in una rete complessa di doveri, gerarchie e simboli, un servitore e insieme un esecutore della volontà del proprio signore, spesso più politico che combattente, più amministratore che spadaccino. Figlio di una tradizione che mescolava l’etica confuciana al culto dell’onore, e talvolta perfino il distacco mistico del buddhismo zen, il samurai evolveva a seconda dei tempi: poteva essere un contadino arruolato per la stagione delle battaglie o un nobile erudito che citava poesie; poteva vivere nel fasto di una residenza urbana o passare mesi sotto tenda, con il riso contato e la spada sempre a portata di mano. La sua esistenza era un equilibrio precario tra fedeltà e ambizione, tra obbedienza e orgoglio, tra la necessità di vincere e quella di morire con grazia, in un paese dove la guerra sembrava non finire mai e dove ogni colpo di spada poteva decidere non solo il destino di un campo di battaglia, ma anche di un intero clan.
+
+#### Corporazioni e gli Zai-shu – Il Potere Economico
+
+[Barbero] Le corporazioni e gli Zai-shu, o **capi mercantili**, detengono un'influenza economica significativa sull'isola. Gestiscono rotte navali, saline, botteghe di lusso e altre attività commerciali. Sebbene non abbiano potere legale formale, la loro capacità di influenzare l'economia li rende attori chiave nella politica isolana. I più potenti siedono nel Consiglio dell'Isola, contribuendo alle decisioni che plasmano il futuro dell'arcipelago.
+
+#### Machitoshiyori (町年寄) – La Saggezza degli Anziani
+
+[Barbero] Le **assemblee cittadine**, o Machitoshiyori, sono composte da anziani, capifamiglia, artigiani e mercanti. Questi consigli hanno autorità morale e potere esecutivo sugli affari quotidiani, come la distribuzione delle terre comuni, l'approvazione di licenze, l'organizzazione dei festival e la manutenzione delle strade. Riferiscono ai magistrati e possono inviare delegati al Consiglio dell'Isola, garantendo che le esigenze locali siano rappresentate a livello superiore.
 
 #### Tōryō (頭領 / 当主), capofamiglia della casa commerciale 💸
 
@@ -313,6 +320,13 @@ L’ecosistema di Shimanami è ricco e variegato, riflesso della sua posizione i
     
 - **Perle naturali** – pescate con cura vicino a Umihana
     
+
+
+---
+
+## 🗓 Il Calendario
+
+Nel Giappone dei primi del Cinquecento, il tempo era misurato secondo un **calendario lunisolare** di origine cinese, noto come _kyūreki_ (旧暦, "vecchio calendario"). Questo sistema combinava i **cicli lunari**, che determinavano i mesi, con correzioni periodiche per mantenere l’anno allineato con le **stagioni solari**. Ogni mese iniziava con la **luna nuova**, e durava generalmente 29 o 30 giorni. Per compensare la discrepanza tra l'anno lunare e quello solare, veniva inserito un **mese intercalare** ogni due o tre anni. L’anno non iniziava a gennaio, ma solitamente intorno a **inizio primavera**, durante il periodo chiamato _Risshun_ (立春), che segnava simbolicamente il rinnovarsi della vita. Le date ufficiali erano legate al regno dell’imperatore e a **era-nomi (nengō)**, come _Eishō_ o _Tenbun_, e i contadini e artigiani spesso si affidavano ai **monaci o ai funzionari del villaggio** per conoscere le fasi lunari, i giorni propizi, e i cambi di stagione.
 
 
 ---
