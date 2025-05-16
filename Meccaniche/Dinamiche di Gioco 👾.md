@@ -6,8 +6,9 @@
 
 > L'obiettivo principale del gioco è accumulare più *ricchezza* possibile sull'isola di Shimanami.
 
-* La "ricchezza" può includere denaro, proprietà, risorse e qualsiasi altra cosa che il giocatore consideri di valore.
+* La "ricchezza" di un giocatore e definita come la somma del denaro dello stesso, più il valore di tutti i suoi possedimenti (proprietà, risorse e qualsiasi altra cosa di valore che il giocatore possiede).
 * Dopo un periodo di tempo prestabilito (es., "dieci anni" di gioco), il giocatore con il maggior successo sarà dichiarato *vincitore del gioco*.
+* Influenza, reputazione, alleanze, aiuteranno il giocatore a raggiungere i propri obiettivi, ma non contano al punteggio finale.
 * Il DM e i giocatori possono definire *obiettivi secondari* o *trame personali* per aggiungere profondità alla storia.
 
 
@@ -29,6 +30,8 @@
 * I giocatori descrivono le azioni dei loro personaggi, le decisioni che prendono e le informazioni che cercano di ottenere.
 * Il DM risponde descrivendo le conseguenze delle azioni dei giocatori, fornendo informazioni sul mondo di gioco e interpretando gli NPC.
 * La comunicazione deve essere chiara e concisa per evitare fraintendimenti.
+* All'opportuno, le prove di un giocatore verranno risolte con il sistema *Not the End*
+* I giocatori ricevono anche informazioni sui macro-eventi del mondo attraverso **canali pubblici** (Discord/GitHub)
 
 
 ---
