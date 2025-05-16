@@ -5,7 +5,7 @@
 
 [Barbero] Allora, cominciamo col dire che siamo nel Giappone del primo Cinquecento. Non quello dei samurai in armatura lucente dei film, ma un arcipelago frammentato, dove il potere centrale dello shōgun è ormai un’ombra lontana e le terre vengono amministrate, o contese, da clan locali, gilde artigiane, e famiglie nobiliari ormai radicate. È il principio di quella che diventerà l’epoca degli stati in guerra, ma non ancora: il caos è latente, e in molte isole, come **Shimanami**, l’equilibrio è mantenuto da un delicato intreccio di consuetudini, reputazione e interessi materiali.
 
-[Barbero] Shimanami non è un dominio militare. È un’isola indipendente, remota, fuori dalle grandi rotte, ma perfettamente viva. Le sue tre città principali — Kanemura, Takamura e Umihana — sono connesse da strade battute, commerci marittimi e alleanze silenziose. Ogni città ha una vocazione diversa, e una personalità tutta sua, ma tutte partecipano allo stesso gioco sottile: accumulare ricchezza, influenza, e onore.
+[Barbero] Shimanami non è un dominio militare. È un’isola indipendente, remota, fuori dalle grandi rotte, ma perfettamente viva, ecco... Le sue tre città principali — Kanemura, Takamura e Umihana — sono connesse da strade battute, commerci marittimi e alleanze silenziose. Ogni città ha una vocazione diversa, e una personalità tutta sua, ma tutte partecipano allo stesso gioco sottile: accumulare ricchezza, influenza, e onore.
 
 [Barbero] La società sull’isola è stratificata, ma non immobile. I **nobili locali** — i **kazoku** — conservano il potere formale, ma sono costantemente sotto pressione da parte delle **gilde artigiane**, dei **mercanti emergenti**, e perfino dei **capiflotta pescherecci**, che controllano risorse fondamentali. I **contadini** mantengono il tessuto alimentare dell’isola, mentre gli **artigiani**, specie a Takamura, detengono il sapere tecnico e l’estetica raffinata. Ci sono anche **ex-samurai**, decaduti e riconvertiti in funzionari o maestri di cerimonia. E poi, ovviamente, ci sono i **giovani intraprendenti** — come voi.
 
@@ -30,7 +30,7 @@
 🟦🟦🟦🟦🟦🟦🟦⛵️🟦🟦🟦🟦🟨🟨🟨🟨🟨🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦
 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟨🟨🏠🏡🌴🌳🟨🟨🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🌊🟦
 🟦🟦🟦🟦🟦🟦🟦🟦⚓️🟨🏝️🏘🏺🏠🏡🌳🌴🌳🟨🟨🟨🟨🟦🟦🟦🟦🟦🟦🟦🟦
-🟦🟦🟦🟦🟦🟦🟦🟨🏠🏘🏘🏦🏘🏰⚔️🌱🌱🫛🌳🌳🟩🟨🏝️🏝️🟦🟦🟦🟦🟦🟦
+🟦🟦🟦🟦🟦🟦🟦🟨🏠🏘🏘🏦🏘🏰⚔️🌱🌱&#8203;🫛&#8203;🌳🌳🟩🟨🏝️🏝️🟦🟦🟦🟦🟦🟦
 🟦🟦🌊🟦🟦🟦🟦🟨🏠🏘🏺🏬🏫🏡📚🌱🌱🫛🌳🌳🟩🌳🟨🏝️🏝️🟦🟦🟦🟦🟦
 🟦🟦🟦🟦🟦🟦🟨🏡🏠🏥🏡🏘🌷🌲🟩🌱🌱🟩🟩🟩🌳🌳🌴🟨🏝️🟦🟦🟦🟦🟦
 🟦🟦🟦🟦🟦🟦🟨🎋🏡🌾🌾🍠🍠🍠🌲🟩🟩🪵🌲🌳🟩🏚🌴🟨🟦🟦🦀🟦🟦🟦
@@ -126,7 +126,7 @@ Siete dei giovani intraprendenti, e vostro obiettivo è quello di accumulare pi�
 | Barca media⛵️           | 20-50 🟡     | 1 barca          |
 | Katane cerimoniali 🗡   | 10–30 🟡     | 1 pezzo          |
 | Barca piccola 🛶        | 5–20 🟡      | 1 barca          |
-| Terreno coltivabile 🟩  | 3-6 🟡       | 1 Kawa           |
+| Terreno coltivabile 🟩  | 1-3 🟡       | 1 Kawa           |
 | Gioielli in perle 💠    | 1–10 🟡      | 1 gioiello       |
 | Reti da pesca 🕸️       | 20-30 ⚪️     | 1 rete           |
 | Ceramiche 🏺            | 5–30 ⚪️      | 1 pezzo          |
@@ -140,10 +140,10 @@ Siete dei giovani intraprendenti, e vostro obiettivo è quello di accumulare pi�
 | Pesce 🐟                | 1-2 ⚪️          |
 | Fagioli Azuki 🫘        | 120-150 🟠      |
 | Patate dolci 🍠         | 60-80 🟠        |
-| Riso 🌾                 | 30-60 🟠        |
-| Legname 🪵              | 10-20 🟠        |
-| Alghe 🌿                | 4-10 🟠         |
-| Bambù 🎋                | 3-6 🟠          |
+| Riso 🌾                 | 30-50 🟠        |
+| Legname 🪵              | 10-16 🟠        |
+| Alghe 🌿                | 5-9 🟠          |
+| Bambù 🎋                | 3-5 🟠          |
 
 #### 📏 Unità di Misura e Monete di Shimanami
 
