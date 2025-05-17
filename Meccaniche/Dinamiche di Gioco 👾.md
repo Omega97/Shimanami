@@ -6,8 +6,8 @@
 
 > L'obiettivo principale del gioco è accumulare più *ricchezza* possibile sull'isola di Shimanami.
 
-* La "ricchezza" di un giocatore e definita come la somma del denaro dello stesso, più il valore di tutti i suoi possedimenti (proprietà, risorse e qualsiasi altra cosa di valore che il giocatore possiede).
-* Dopo un periodo di tempo prestabilito (es., "dieci anni" di gioco), il giocatore con il maggior successo sarà dichiarato *vincitore del gioco*.
+* La **"ricchezza"** di un giocatore e definita come la somma del denaro dello stesso, più il valore di tutti i suoi possedimenti (proprietà, risorse e qualsiasi altra cosa di valore che il giocatore possiede).
+* Dopo un periodo di tempo prestabilito (es., "dieci anni" di gioco), il giocatore con il maggior successo sarà dichiarato **vincitore** del gioco.
 * Influenza, reputazione, alleanze, aiuteranno il giocatore a raggiungere i propri obiettivi, ma non contano al punteggio finale.
 * Il DM e i giocatori possono definire *obiettivi secondari* o *trame personali* per aggiungere profondità alla storia.
 
@@ -19,7 +19,9 @@
 > I giocatori interagiscono con il DM individualmente, comunicando le proprie azioni, intenzioni e richieste di informazioni tramite messaggi (testo, voce, o di persona).
 
 * Il DM dà un'idea di quali scelte può fare ciascun giocatore, e quest'ultimo comunica l'azione che ha deciso di effettuare.
-* **Non sono previste sessioni di gioco con tutti i giocatori contemporaneamente**, se non per le "Scene" (vedi sotto).
+* **Non sono previste sessioni di gioco con tutti i giocatori contemporaneamente**.
+* Lo stile di gioco nei DMs (messaggi) è più orientato verso un'**Avventura Testuale**.
+* Lo stile di gioco in chiamata/presenza farà leva su **"Not the End"**. 
 * A rendere intrigante il tutto è il fatto che **i giocatori non conoscono l'identità dei personaggi degli altri giocatori** a meno che non decidano di rivelarsi. Cercare di smascherarli, cogliendoli in comportamenti peculiari, è parte del divertimento.
 
 
