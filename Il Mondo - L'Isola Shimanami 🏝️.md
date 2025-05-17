@@ -99,6 +99,15 @@ Al centro dell’isola sorge Shirakumo-yama, la Montagna delle Nuvole Bianche. L
 
 ---
 
+### ⚔️ L'Epoca degli Stati in Guerra
+
+Il periodo Sengoku fu un'epoca di grande instabilità in Giappone, iniziata quando l'autorità centrale dello Shōgun crollò. Questo vuoto di potere portò all'ascesa di potenti signori locali, i Daimyo, che si combatterono incessantemente per espandere i propri domini.
+
+Nonostante la guerra quasi costante, l'epoca vide anche importanti cambiamenti sociali (con una maggiore mobilità basata sul merito), crescita economica e l'introduzione di nuove tecnologie come le armi da fuoco. Fu un periodo caotico ma dinamico, che alla fine fu pacificato e unificato sotto il dominio di figure come Oda Nobunaga, Toyotomi Hideyoshi e Tokugawa Ieyasu.
+
+
+---
+
 ### 🌾 Un’Economia che Respira
 
 L’isola vive di ciò che può coltivare, pescare, forgiare o commerciare. Il **pesce conservato**, il **riso**, le **perle** e le **ceramiche** sono le sue ricchezze, mentre le **spezie**, i **legumi stranieri** e i **metalli preziosi** arrivano dai mercanti d’oltremare. Tutto si scambia nei mercati cittadini, tra grida e inchini, in **Dō (銅)**, **Gin (銀)** e **Kin (金)** — rispettivamente monete di rame, argento e oro.
@@ -164,18 +173,18 @@ Siete dei giovani intraprendenti, e vostro obiettivo è quello di accumulare pi�
 
 ### 💴 Stipendi/Guadagni Mensili Medi per Professione
 
-| Professione           | Guadagno Mensile (in Kin) | Note                                              |
-| --------------------- | ------------------------- | ------------------------------------------------- |
-| Samurai               | 10–25 🟡                  | Dipende dal rango, spesso con vitto e alloggio    |
-| Funzionario Locale    | 6–12 🟡                   | Amministratori, esattori, notai                   |
-| Mercenario            | 5–20 🟡                   | Rischioso, ma ben pagato in tempi turbolenti      |
-| Commerciante          | 5–15 🟡                   | Include venditori ambulanti e gestori di botteghe |
-| Scriba / Scrivano     | 4–10 🟡                   | I più richiesti lavorano per mercanti o il daimyō |
-| Artigiano             | 3–8 🟡                    | Più se specializzato (es. ceramista, fabbro)      |
-| Marinaio / Navigatore | 2–6 🟡                    | Navigazione tra le città o rotte costiere         |
-| Monaco o Custode      | 1–4 🟡                    | Di solito mantentuto con offerte o donazioni      |
-| Contadino             | 1–3 🟡                    | Dipende dalla qualità della terra e del raccolto  |
-| Pescatore             | 1–3 🟡                    | Guadagno variabile, influenzato dalla stagione    |
+| Professione           | Guadagno Mensile (in Kin) | Note                                              | Pagati da:              |
+| --------------------- | ------------------------- | ------------------------------------------------- | ----------------------- |
+| Samurai               | 10–25 🟡                  | Dipende dal rango, spesso con vitto e alloggio    | Daimyō                  |
+| Funzionario Locale    | 6–12 🟡                   | Amministratori, esattori, notai                   | Daimyō, Consiglio       |
+| Mercenario            | 5–20 🟡                   | Rischioso, ma ben pagato in tempi turbolenti      | Ricchi mercanti, Nobili |
+| Commerciante          | 5–15 🟡                   | Include venditori ambulanti e gestori di botteghe | -                       |
+| Scriba / Scrivano     | 4–10 🟡                   | I più richiesti lavorano per mercanti o il Daimyō | Privati, Stato          |
+| Artigiano             | 3–5 🟡                    | Più se specializzato (es. ceramista, fabbro)      | -                       |
+| Marinaio / Navigatore | 2–4 🟡                    | Navigazione tra le città o rotte costiere         | Privati                 |
+| Monaco o Custode      | 1–4 🟡                    | Di solito mantentuto con offerte o donazioni      | Donazioni               |
+| Contadino             | 1–3 🟡                    | Dipende dalla qualità della terra e del raccolto  | -                       |
+| Pescatore             | 1–3 🟡                    | Guadagno variabile, influenzato dalla stagione    | -                       |
 
 🔹*Nota: contadini e pescatori privati guadagnano poco, ma buona parte della loro dieta è coperta dal raccolto/pescato.*
 
@@ -202,19 +211,21 @@ Il costo del cibo quotidiano varia a seconda dello stile di vita. Un pasto sempl
 
 #### 💴 Tasse Mensili 
 
-| Tipo di Bene / Attività          | Tassa Mensile | Note                                                          |
-| -------------------------------- | ------------- | ------------------------------------------------------------- |
-| Villa 🏘                         | 100-150 ⚪️    | Giardino, cortile, servitù                                    |
-| **Bottega artigianale**          | 100 ⚪️        | Include licenza, spese pubbliche e prelievi locali            |
-| **Magazzino commerciale**        | 100 ⚪️        | Vale anche per depositi o strutture di stoccaggio             |
-| Casa cittadina 🏠                | 50-100 ⚪️     | Include servizi e posizione                                   |
-| **Carovana o trasporto privato** | 50–60 ⚪️      | In base alla lunghezza della tratta e uso delle strade locali |
-| **Barca da pesca personale**     | 50⚪️          | Tassa di licenza e accesso al porto                           |
-| Casa semplice 🏡                 | 30-50⚪️       | Per famiglia contadina                                        |
-| Bancarella                       | 25⚪️          | Include licenza di commercio                                  |
-| **1 Kawa di terreno**            | 20-30 ⚪️      | Tassa agricola di base                                        |
-| **Esenzione religiosa**          | 0             | Solo per chi serve un tempio o è sotto protezione clericale   |
-| Samurai al servizio              | 0             | Esentasse, ma obblighi militari e di presenza                 |
+| Tipo di Bene / Attività               | Tassa Mensile | Note                                                          |
+| ------------------------------------- | ------------- | ------------------------------------------------------------- |
+| Villa 🏘                              | 100-150 ⚪️    | Giardino, cortile, servitù                                    |
+| **Bottega artigianale**               | 100 ⚪️        | Include licenza, spese pubbliche e prelievi locali            |
+| **Magazzino commerciale**             | 100 ⚪️        | Vale anche per depositi o strutture di stoccaggio             |
+| Casa cittadina 🏠                     | 50-100 ⚪️     | Include servizi e posizione                                   |
+| **Carovana o trasporto privato**      | 50–60 ⚪️      | In base alla lunghezza della tratta e uso delle strade locali |
+| **Barca da pesca personale**          | 50 ⚪️         | Tassa di licenza e accesso al porto                           |
+| Casa semplice 🏡                      | 30-50 ⚪️      | Per famiglia contadina                                        |
+| Bancarella                            | 25 ⚪️         | Include licenza di commercio                                  |
+| **1 Kawa di terreno edificabile**     | 50 🟠         |                                                               |
+| **1 Kawa di terreno agricolo**        | 10 🟠         | Tassa agricola di base                                        |
+| **1 Kawa di terreno non-edificabile** | 1 🟠          |                                                               |
+| **Esenzione religiosa**               | 0             | Solo per chi serve un tempio o è sotto protezione clericale   |
+| Samurai al servizio                   | 0             | Esentasse, ma obblighi militari e di presenza                 |
 
 
 ---
