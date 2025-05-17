@@ -22,24 +22,30 @@
 | Barca media⛵️           | 20-50 🟡     | 1 barca          |
 | Katane cerimoniali 🗡   | 10–30 🟡     | 1 pezzo          |
 | Barca piccola 🛶        | 5–20 🟡      | 1 barca          |
-| Cavallo 🐎              | 3 🟡         | 1 unità          |
+| Carretto 🛒             | 2-3 🟡       | 1 unità          |
+| Cavallo 🐎              | 2-3 🟡       | 1 unità          |
+| Perla 🦪                | 1-10 🟡      | 1 unità          |
 | Terreno coltivabile 🟩  | 1-3 🟡       | 1 Kawa           |
 | Gioielli in perle 💠    | 1–10 🟡      | 1 gioiello       |
 | Reti da pesca 🕸️       | 20-30 ⚪️     | 1 rete           |
+| Birra                   | 20 ⚪️        | 1 pinta          |
 | Ceramiche 🏺            | 5–30 ⚪️      | 1 pezzo          |
-| Bottiglia 🫙            | 5 ⚪️         | 1 pezzo          |
+| Sake                    | 5 ⚪️         | 1 bicchiere      |
+| Bottiglia 🫙            | 4 ⚪️         | 1 pezzo          |
 
 | Risorsa                 | Prezzo (al Ryō) |
 | ----------------------- | --------------- |
 | Spezie 🌶️              | 20–100 ⚪️       |
 | Foglie di Tè lavorate🍵 | 10-25 ⚪️        |
+| Cocco 🥥                | 10-15 ⚪️        |
 | Sale marino 🧂          | 3 ⚪️            |
 | Foglie di Tè fresche🌱  | 2-3 ⚪️          |
 | Pesce 🐟                | 1-2 ⚪️          |
 | Fagioli Azuki 🫛        | 120-150 🟠      |
 | Patate dolci 🍠         | 60-80 🟠        |
 | Riso 🌾                 | 30-50 🟠        |
-| Legname 🪵              | 10-16 🟠        |
+| Legname 🪵              | 30 🟠           |
+| Alghe essiccate🌿       | 20-30 🟠        |
 | Alghe 🌿                | 5-9 🟠          |
 | Bambù 🎋                | 3-5 🟠          |
 
@@ -108,6 +114,7 @@ Il costo del cibo quotidiano varia a seconda dello stile di vita. Un pasto sempl
 | Casa cittadina 🏠                     | 50-100 ⚪️     | Include servizi e posizione                                   |
 | **Carovana o trasporto privato**      | 50–60 ⚪️      | In base alla lunghezza della tratta e uso delle strade locali |
 | **Barca da pesca personale**          | 50 ⚪️         | Tassa di licenza e accesso al porto                           |
+| Permesso per abbattere gli alberi     | 40 ⚪️         | Per 100 kawa circa, solitamente applicata approssimativamente |
 | Casa semplice 🏡                      | 30-50 ⚪️      | Per famiglia contadina                                        |
 | Bancarella                            | 25 ⚪️         | Include licenza di commercio                                  |
 | **1 Kawa di terreno edificabile**     | 50 🟠         |                                                               |
