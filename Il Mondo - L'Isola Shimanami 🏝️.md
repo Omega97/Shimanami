@@ -188,7 +188,7 @@ Il costo del cibo quotidiano varia a seconda dello stile di vita. Un pasto sempl
 
 | Stile alimentare            | Costo giornaliero | Costo mensile (stima) |
 | --------------------------- | ----------------- | --------------------- |
-| Dieta variata o urbana      | 10-12 ⚪️          | ~3 🟡                 |
+| Dieta variata o urbana      | 9-12 ⚪️           | ~3 🟡                 |
 | Dieta popolare (essenziale) | 6-8 ⚪️            | ~2 🟡                 |
 
 #### 🏠 Costo dell’Affitto
@@ -260,6 +260,14 @@ I bugyō, o **magistrati locali**, sono nominati dal daimyō o dal consiglio e o
 #### Tōryō (頭領 / 当主), capofamiglia della casa commerciale 💸
 
 Il **Tōryō** è il capofamiglia di una casa commerciale, figura centrale della vita economica urbana nel Giappone tardo-medievale. Più di un semplice mercante, governa l’impresa familiare con autorità, parsimonia e visione strategica. È mediatore tra potere, fede e affari, custode di segreti commerciali e artefice di alleanze. Incarna un equilibrio tra tradizione e apertura al nuovo, in un mondo dove il commercio è prestigio, arte e sopravvivenza.
+
+
+---
+
+### 🎣 La Gilda dei Pescatori
+
+Nel cuore pulsante di Umihana, il villaggio le cui fortune sono legate al mare, l'attività ittica è saldamente ancorata alla "Gilda dei Pescatori". Questa consolidata associazione, formata da circa venti famiglie residenti, rappresenta un modello di cooperazione essenziale per la sopravvivenza e la prosperità della comunità costiera. Mettendo in comune le imbarcazioni più grandi e coordinando gli equipaggi per le spedizioni in mare aperto, la Gilda massimizza l'efficienza della pesca e mitiga i rischi individuali. Il pescato viene gestito collettivamente, una parte conservata in un magazzino comune per essere poi venduta in blocco ai mercanti di Kanemura. Questo commercio centralizzato, negoziato dall'esperto leader Hiroshi, garantisce condizioni migliori rispetto alle trattative individuali. 
+Oltre al suo ruolo economico cruciale, la Gilda agisce come una vitale rete di supporto sociale: un fondo comune fornisce assistenza ai membri colpiti da malattie o danni alle attrezzature, cementando i legami comunitari e assicurando che nessuna famiglia sia lasciata sola di fronte alle avversità del mare e della vita sull'isola. La Gilda dei Pescatori è, in essenza, la spina dorsale di Umihana, un esempio di come la solidarietà e l'organizzazione collettiva siano fondamentali per resistere e prosperare nel duro ma generoso ambiente marino di Shimanami.
 
 
 ---
