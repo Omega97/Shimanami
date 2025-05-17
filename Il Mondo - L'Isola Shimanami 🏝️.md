@@ -165,6 +165,7 @@ Il **Tōryō** è il capofamiglia di una casa commerciale, figura centrale della
 ### 🎣 La Gilda dei Pescatori
 
 Nel cuore pulsante di Umihana, il villaggio le cui fortune sono legate al mare, l'attività ittica è saldamente ancorata alla "Gilda dei Pescatori". Questa consolidata associazione, formata da circa venti famiglie residenti, rappresenta un modello di cooperazione essenziale per la sopravvivenza e la prosperità della comunità costiera. Mettendo in comune le imbarcazioni più grandi e coordinando gli equipaggi per le spedizioni in mare aperto, la Gilda massimizza l'efficienza della pesca e mitiga i rischi individuali. Il pescato viene gestito collettivamente, una parte conservata in un magazzino comune per essere poi venduta in blocco ai mercanti di Kanemura. Questo commercio centralizzato, negoziato dall'esperto leader Hiroshi, garantisce condizioni migliori rispetto alle trattative individuali. 
+
 Oltre al suo ruolo economico cruciale, la Gilda agisce come una vitale rete di supporto sociale: un fondo comune fornisce assistenza ai membri colpiti da malattie o danni alle attrezzature, cementando i legami comunitari e assicurando che nessuna famiglia sia lasciata sola di fronte alle avversità del mare e della vita sull'isola. La Gilda dei Pescatori è, in essenza, la spina dorsale di Umihana, un esempio di come la solidarietà e l'organizzazione collettiva siano fondamentali per resistere e prosperare nel duro ma generoso ambiente marino di Shimanami.
 
 
@@ -179,9 +180,9 @@ Per comprendere la prudenza — a volte ai limiti della paranoia — con cui gli
 
 ### 🐚 Religione - Gli Spiriti del Silenzio
 
-Sebbene l’isola non conosca magie, i suoi abitanti camminano con rispetto. **Kami del mare, del legno, del fuoco e della giovinezza** abitano templi, altari e sogni. I loro nomi vengono sussurrati nei matsuri stagionali, quando tutto si ferma e il popolo danza, prega o giura. Alcuni dicono che chi mente davanti a una maschera del kami… vede le onde oscurarsi.
+Sebbene Shimanami non conosca la magia, la spiritualità permea la vita quotidiana dei suoi abitanti. Gli Spiriti del Silenzio, i **Kami**, dimorano nei templi, sugli altari, nel paesaggio naturale e persino nei sogni. Questi Kami governano aspetti fondamentali del mondo, come il mare, il legno, il fuoco e la giovinezza, e i loro nomi vengono sussurrati e onorati durante i matsuri stagionali. La menzogna di fronte a una maschera sacra porta con sé il timore della punizione divina, un promemoria costante del rispetto dovuto a queste entità.
 
-I templi e i monasteri dell'isola, pur non essendo parte formale del governo, svolgono un ruolo cruciale nella conservazione del sapere, degli artefatti e delle tradizioni. I monaci anziani mediano conflitti, raccolgono offerte e influenzano l'opinione pubblica, fungendo da guida spirituale e morale per la popolazione. La loro presenza assicura che l'equilibrio tra le forze politiche e sociali sia mantenuto, preservando l'armonia dell'isola.
+I templi dell'isola e i monaci che li abitano svolgono un ruolo vitale, preservando il sapere antico e fungendo da guide spirituali e morali. Affiancando i Kami generici, ogni città venera specifici protettori: Kanemura onora **Fukutoku Daimyōjin (福徳大明神)**, Kami del commercio e della ricchezza; Takamura si affida a **Kagutsuchi-no-Kami (迦具土神)**, Kami del fuoco cruciale per l'artigianato; mentre Umihana invoca la protezione di **Ebisu (えびす / 恵比須)**, patrono della pesca, e di **Inari (稲荷大神)**, Kami del raccolto. Questi spiriti patroni sono parte integrante dell'identità e delle fortune di ciascuna comunità, legando la prosperità terrena al favore del mondo spirituale.
 
 
 ---
@@ -227,6 +228,15 @@ L’ecosistema di Shimanami è ricco e variegato, riflesso della sua posizione i
     
 - **Perle naturali** – pescate con cura vicino a Umihana
     
+
+
+---
+
+### 🏞️ Le Vene d'Acqua del Monte Shirakumo
+
+La vita sull'isola di Shimanami è indissolubilmente legata all'acqua dolce che sgorga dal suo cuore montuoso: il Monte Shirakumo (白雲山). Questa imponente vetta centrale non è solo un punto di riferimento geografico, ma la fonte vitale che nutre l'intera isola. Le piogge e le nevi che si accumulano sulla montagna si filtrano attraverso il suo terreno roccioso, alimentando un vasto sistema di sorgenti sotterranee. Queste sorgenti danno vita a ruscelli e torrenti cristallini che scendono lungo i fianchi del monte, raccogliendosi gradualmente per formare i fiumi principali dell'isola. È la purezza di queste acque che ha dato il nome a Hakusui (白翠), il villaggio ai piedi del monte, celebrato per le sue fonti limpide. Questi fiumi e i loro affluenti forniscono l'acqua essenziale per irrigare i campi coltivati, sostengono l'agricoltura e garantiscono l'approvvigionamento idrico per tutte le città e i villaggi di Shimanami.
+
+Tuttavia, la generosità delle acque di Shirakumo-yama non è costante, ma pulsa al ritmo delle stagioni dell'isola. Il volume d'acqua che sgorga dalle sorgenti e scorre nei fiumi varia significativamente durante l'anno. Le piogge primaverili portano a un aumento marcato del flusso, cruciale per la preparazione e l'allagamento delle risaie. L'estate può vedere una diminuzione del flusso durante i periodi più secchi, mentre le piogge autunnali rivitalizzano nuovamente i corsi d'acqua. Questa dipendenza dalla stagionalità rende gli abitanti, in particolare i contadini, acutamente consapevoli dei cicli naturali e delle previsioni del tempo, poiché l'abbondanza o la scarsità d'acqua può determinare il successo del raccolto e influenzare ogni aspetto della vita sull'isola.
 
 
 ---
