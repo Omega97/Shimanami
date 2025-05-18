@@ -14,37 +14,38 @@
 | Argento (Gin, 銀) ⚪️ | 100 🟠      |
 | Rame (Dō, 銅) 🟠     |             |
 
-| Proprietà/Bene          | Prezzo Medio | Unita di Scambio |
-| ----------------------- | ------------ | ---------------- |
-| Magazzino / Bottegha 🏬 | 300-600 🟡   | 1 proprietà      |
-| Casa media 🏠           | 200-400 🟡   | 1 casa           |
-| Casa piccola 🏡         | 100-200 🟡   | 1 casa           |
-| Barca media⛵️           | 20-50 🟡     | 1 barca          |
-| Katane cerimoniali 🗡   | 10–30 🟡     | 1 pezzo          |
-| Barca piccola 🛶        | 5–20 🟡      | 1 barca          |
-| Carretto 🛒             | 2-3 🟡       | 1 unità          |
-| Cavallo 🐎              | 2-3 🟡       | 1 unità          |
-| Perla 🦪                | 1-10 🟡      | 1 unità          |
-| Terreno coltivabile 🟩  | 1-3 🟡       | 1 Kawa           |
-| Gioielli in perle 💠    | 1–10 🟡      | 1 gioiello       |
-| Reti da pesca 🕸️       | 20-30 ⚪️     | 1 rete           |
-| Birra                   | 20 ⚪️        | 1 pinta          |
-| Ceramiche 🏺            | 5–30 ⚪️      | 1 pezzo          |
-| Sake                    | 5 ⚪️         | 1 bicchiere      |
-| Bottiglia 🫙            | 4 ⚪️         | 1 pezzo          |
+| Proprietà/Bene             | Prezzo Medio | Unita di Scambio |
+| -------------------------- | ------------ | ---------------- |
+| Magazzino / Bottegha 🏬    | 300-600 🟡   | 1 proprietà      |
+| Casa media 🏠              | 200-400 🟡   | 1 casa           |
+| Casa piccola 🏡            | 100-200 🟡   | 1 casa           |
+| Barca media⛵️              | 20-50 🟡     | 1 barca          |
+| Katane cerimoniali 🗡      | 10–30 🟡     | 1 pezzo          |
+| Barca piccola 🛶           | 5–20 🟡      | 1 barca          |
+| Carretto 🛒                | 2-3 🟡       | 1 unità          |
+| Cavallo 🐎                 | 2-3 🟡       | 1 unità          |
+| Perla 🦪                   | 1-10 🟡      | 1 unità          |
+| Terreno coltivabile 🟩     | 1-3 🟡       | 1 Kawa           |
+| Gioielli in perle 💠       | 1–10 🟡      | 1 gioiello       |
+| Reti da pesca 🕸️          | 20-30 ⚪️     | 1 rete           |
+| Sake                       | 5-20 ⚪️      | 1 bottiglia      |
+| Terreno non-edificabile 🟩 | 5–100 ⚪️     | 1 Kawa           |
+| Ceramiche 🏺               | 5–30 ⚪️      | 1 pezzo          |
+| Bottiglia 🫙               | 2 ⚪️         | 1 pezzo          |
 
 | Risorsa                 | Prezzo (al Ryō) |
 | ----------------------- | --------------- |
+| Sale marino 🧂          | 40⚪️            |
 | Spezie 🌶️              | 20–100 ⚪️       |
 | Foglie di Tè lavorate🍵 | 10-25 ⚪️        |
 | Cocco 🥥                | 10-15 ⚪️        |
-| Sale marino 🧂          | 3 ⚪️            |
+| Riso 🌾                 | 9-12 ⚪️         |
 | Foglie di Tè fresche🌱  | 2-3 ⚪️          |
 | Pesce 🐟                | 1-2 ⚪️          |
+| Riso (per coltivare) 🌾 | 1 ⚪️            |
 | Fagioli Azuki 🫛        | 120-150 🟠      |
 | Patate dolci 🍠         | 60-80 🟠        |
-| Riso 🌾                 | 30-50 🟠        |
-| Legname 🪵              | 30 🟠           |
+| Legname 🪵              | 25 🟠           |
 | Alghe essiccate🌿       | 20-30 🟠        |
 | Alghe 🌿                | 5-9 🟠          |
 | Bambù 🎋                | 3-5 🟠          |
@@ -56,7 +57,7 @@
 | **Kin**     | 🟡/金            | Moneta d’Oro     | Valuta                | Giapponese                          |
 | **Gin**     | ⚪️/銀            | Moneta d’Argento | Valuta                | Giapponese                          |
 | **Dō**      | 🟠/銅            | Moneta di Rame   | Valuta                | Origine cinese                      |
-| **Monme**   | 匁               | 3.4 grammi       | Peso                  | Antica unità giapponese             |
+| **Monme**   | 匁               | 3.75 grammi      | Peso                  | Antica unità giapponese             |
 | **Ryō**     | 両               | 100 monme        | Peso / Valore storico | Usato anche per metalli preziosi    |
 | **Hana**    | ハナ / 幅菜         | 1.9 metri        | Lunghezza             | “Larghezza di campo”                |
 | **Kawa**    | カワ / 加輪         | Hana²            | Superficie (piccola)  | Per misurare orti, tessuti, interni |
