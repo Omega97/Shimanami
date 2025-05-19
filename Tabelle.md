@@ -34,7 +34,7 @@
 | Magazzino / Bottegha 🏬    | 300+ 🟡      | 1 proprietà      |
 | Casa media 🏠              | 200-400 🟡   | 1 proprietà      |
 | Casa piccola 🏡            | 100-200 🟡   | 1 proprietà      |
-| Terreno coltivabile 🟩     | 3+ 🟡        | 1 Kawa           |
+| Terreno edificabile 🟩     | 3+ 🟡        | 1 Kawa           |
 | Terreno coltivabile 🟩     | 1-3 🟡       | 1 Kawa           |
 | Terreno non-edificabile 🟩 | 5–100 ⚪️     | 1 Kawa           |
 
@@ -73,7 +73,7 @@
 
 ---
 
-### Produttività
+### Produttività 💪
 
 |                  | **sup.** | **primavera** | **estate** | **autunno** | **produzione** | **Produzione** |
 | ---------------- | -------- | ------------- | ---------- | ----------- | -------------- | -------------- |
