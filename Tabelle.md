@@ -30,32 +30,30 @@
 
 | Immobile                   | Prezzo Medio | Unita di Scambio |
 | -------------------------- | ------------ | ---------------- |
-| Magazzino / Bottegha 🏬    | 300-600 🟡   | 1 proprietà      |
+| Villa 🏘                   | 400+ 🟡      | 1 proprietà      |
+| Magazzino / Bottegha 🏬    | 300+ 🟡      | 1 proprietà      |
 | Casa media 🏠              | 200-400 🟡   | 1 proprietà      |
 | Casa piccola 🏡            | 100-200 🟡   | 1 proprietà      |
+| Terreno coltivabile 🟩     | 3+ 🟡        | 1 Kawa           |
 | Terreno coltivabile 🟩     | 1-3 🟡       | 1 Kawa           |
 | Terreno non-edificabile 🟩 | 5–100 ⚪️     | 1 Kawa           |
 
 | Risorsa                 | Prezzo (al Ryō) |
 | ----------------------- | --------------- |
 | Spezie 🌶️              | 20–100 ⚪️       |
+| Fagioli Azuki 🫛        | 12-15 ⚪️        |
 | Foglie di Tè lavorate🍵 | 10-25 ⚪️        |
 | Cocco 🥥                | 10-15 ⚪️        |
 | Riso 🌾                 | 9-12 ⚪️         |
 | Pesce 🐟                | 5-15 ⚪️         |
-| Fagioli Azuki 🫛        | 120-150 🟠      |
-| Patate dolci 🍠         | 60-80 🟠        |
-| Foglie di Tè fresche🌱  | 2-3 ⚪️          |
+| Foglie di Tè fresche🌱  | 4-5 ⚪️          |
+| Patate dolci 🍠         | 3-5 ⚪️          |
 | Sale marino 🧂          | 2⚪️             |
 | Riso (per coltivare) 🌾 | 1 ⚪️            |
-| Legname 🪵              | 25 🟠           |
 | Alghe essiccate🌿       | 25-35 🟠        |
+| Legname 🪵              | 25 🟠           |
 | Alghe 🌿                | 5-9 🟠          |
 | Bambù 🎋                | 3-5 🟠          |
-
-| Produttività | Quantità |
-| ------------ | -------- |
-|              |          |
 
 
 #### 📏 Unità di Misura e Monete di Shimanami
@@ -71,6 +69,23 @@
 | **Kawa**    | カワ / 加輪         | Hana²            | Superficie (piccola)  | Per misurare orti, tessuti, interni |
 | **Isaki**   | イサキ / 居崎        | 190 metri        | Distanza              | Distanza fra villaggi, sentieri     |
 | **Sakuchi** | 作地 / サクチ        | Isaki²           | Superficie (grande)   | Unità agricola, tributi e proprietà |
+
+
+---
+
+### Produttività
+
+|                  | **sup.** | **primavera** | **estate** | **autunno** | **produzione** | **Produzione** |
+| ---------------- | -------- | ------------- | ---------- | ----------- | -------------- | -------------- |
+|                  | [Kawa]   | [mesi]        | [mesi]     | [mesi]      | [Ryoo/Kawa]    | [Ryoo/anno]    |
+| **patate**       | 500      | 3             | 3          |             | 2.5            | 1250           |
+| **riso**         | 500      | 3             | 3          |             | 5              | 2500           |
+| **fagioli**      | 200      | 3             |            |             | 1.5            | 300            |
+| **foglie di tè** | 200      | 3             | 3          |             | 1              | 200            |
+| **alghe**        | 200      | 3             | 3          |             | 10             | 2000           |
+| **bambù**        | 100      | 3             |            | 3           | 300            | 30000          |
+| **legna**        | 100      | 3             | 3          | 3           | 150            | 15000          |
+
 
 
 ---
