@@ -14,41 +14,49 @@
 | Argento (Gin, 銀) ⚪️ | 100 🟠      |
 | Rame (Dō, 銅) 🟠     |             |
 
-| Proprietà/Bene             | Prezzo Medio | Unita di Scambio |
+| Proprietà/Bene          | Prezzo Medio | Unita di Scambio |
+| ----------------------- | ------------ | ---------------- |
+| Barca media⛵️           | 20-50 🟡     | 1 barca          |
+| Katane cerimoniali 🗡   | 10–30 🟡     | 1 pezzo          |
+| Barca piccola 🛶        | 5–20 🟡      | 1 barca          |
+| Carretto 🛒             | 2-3 🟡       | 1 unità          |
+| Cavallo 🐎              | 2-3 🟡       | 1 unità          |
+| Perla 🦪                | 1-10 🟡      | 1 unità          |
+| Gioielli in perle 💠    | 1–10 🟡      | 1 gioiello       |
+| Reti da pesca 🕸️       | 20-30 ⚪️     | 1 rete           |
+| Sake                    | 5-20 ⚪️      | 1 bottiglia      |
+| Ceramiche 🏺            | 5–30 ⚪️      | 1 pezzo          |
+| Bottiglia 🫙            | 2 ⚪️         | 1 pezzo          |
+
+| Immobile                   | Prezzo Medio | Unita di Scambio |
 | -------------------------- | ------------ | ---------------- |
 | Magazzino / Bottegha 🏬    | 300-600 🟡   | 1 proprietà      |
-| Casa media 🏠              | 200-400 🟡   | 1 casa           |
-| Casa piccola 🏡            | 100-200 🟡   | 1 casa           |
-| Barca media⛵️              | 20-50 🟡     | 1 barca          |
-| Katane cerimoniali 🗡      | 10–30 🟡     | 1 pezzo          |
-| Barca piccola 🛶           | 5–20 🟡      | 1 barca          |
-| Carretto 🛒                | 2-3 🟡       | 1 unità          |
-| Cavallo 🐎                 | 2-3 🟡       | 1 unità          |
-| Perla 🦪                   | 1-10 🟡      | 1 unità          |
+| Casa media 🏠              | 200-400 🟡   | 1 proprietà      |
+| Casa piccola 🏡            | 100-200 🟡   | 1 proprietà      |
 | Terreno coltivabile 🟩     | 1-3 🟡       | 1 Kawa           |
-| Gioielli in perle 💠       | 1–10 🟡      | 1 gioiello       |
-| Reti da pesca 🕸️          | 20-30 ⚪️     | 1 rete           |
-| Sake                       | 5-20 ⚪️      | 1 bottiglia      |
 | Terreno non-edificabile 🟩 | 5–100 ⚪️     | 1 Kawa           |
-| Ceramiche 🏺               | 5–30 ⚪️      | 1 pezzo          |
-| Bottiglia 🫙               | 2 ⚪️         | 1 pezzo          |
 
 | Risorsa                 | Prezzo (al Ryō) |
 | ----------------------- | --------------- |
-| Sale marino 🧂          | 40⚪️            |
 | Spezie 🌶️              | 20–100 ⚪️       |
 | Foglie di Tè lavorate🍵 | 10-25 ⚪️        |
 | Cocco 🥥                | 10-15 ⚪️        |
 | Riso 🌾                 | 9-12 ⚪️         |
-| Foglie di Tè fresche🌱  | 2-3 ⚪️          |
-| Pesce 🐟                | 1-2 ⚪️          |
-| Riso (per coltivare) 🌾 | 1 ⚪️            |
+| Pesce 🐟                | 5-15 ⚪️         |
 | Fagioli Azuki 🫛        | 120-150 🟠      |
 | Patate dolci 🍠         | 60-80 🟠        |
+| Foglie di Tè fresche🌱  | 2-3 ⚪️          |
+| Sale marino 🧂          | 2⚪️             |
+| Riso (per coltivare) 🌾 | 1 ⚪️            |
 | Legname 🪵              | 25 🟠           |
-| Alghe essiccate🌿       | 20-30 🟠        |
+| Alghe essiccate🌿       | 25-35 🟠        |
 | Alghe 🌿                | 5-9 🟠          |
 | Bambù 🎋                | 3-5 🟠          |
+
+| Produttività | Quantità |
+| ------------ | -------- |
+|              |          |
+
 
 #### 📏 Unità di Misura e Monete di Shimanami
 
