@@ -14,19 +14,19 @@
 | Argento (Gin, 銀) ⚪️ | 100 🟠      |
 | Rame (Dō, 銅) 🟠     |             |
 
-| Proprietà/Bene          | Prezzo Medio | Unita di Scambio |
-| ----------------------- | ------------ | ---------------- |
-| Barca media⛵️           | 20-50 🟡     | 1 barca          |
-| Katane cerimoniali 🗡   | 10–30 🟡     | 1 pezzo          |
-| Barca piccola 🛶        | 5–20 🟡      | 1 barca          |
-| Carretto 🛒             | 2-3 🟡       | 1 unità          |
-| Cavallo 🐎              | 2-3 🟡       | 1 unità          |
-| Perla 🦪                | 1-10 🟡      | 1 unità          |
-| Gioielli in perle 💠    | 1–10 🟡      | 1 gioiello       |
-| Reti da pesca 🕸️       | 20-30 ⚪️     | 1 rete           |
-| Sake                    | 5-20 ⚪️      | 1 bottiglia      |
-| Ceramiche 🏺            | 5–30 ⚪️      | 1 pezzo          |
-| Bottiglia 🫙            | 2 ⚪️         | 1 pezzo          |
+| Proprietà/Bene        | Prezzo Medio | Unita di Scambio |
+| --------------------- | ------------ | ---------------- |
+| Barca media⛵️         | 20-50 🟡     | 1 barca          |
+| Katane cerimoniali 🗡 | 10–30 🟡     | 1 pezzo          |
+| Barca piccola 🛶      | 5–20 🟡      | 1 barca          |
+| Carretto 🛒           | 2-3 🟡       | 1 unità          |
+| Cavallo 🐎            | 2-3 🟡       | 1 unità          |
+| Perla 🦪              | 1-10 🟡      | 1 unità          |
+| Gioielli in perle 💠  | 1-10 🟡      | 1 gioiello       |
+| Reti da pesca 🕸️     | 20-30 ⚪️     | 1 rete           |
+| Sake                  | 5-20 ⚪️      | 1 bottiglia      |
+| Ceramiche 🏺          | 5–30 ⚪️      | 1 pezzo          |
+| Bottiglia 🫙          | 2 ⚪️         | 1 pezzo          |
 
 | Immobile                   | Prezzo Medio | Unita di Scambio |
 | -------------------------- | ------------ | ---------------- |
@@ -46,9 +46,9 @@
 | Cocco 🥥                | 10-15 ⚪️        |
 | Riso 🌾                 | 9-12 ⚪️         |
 | Pesce 🐟                | 5-15 ⚪️         |
-| Foglie di Tè fresche🌱  | 4-5 ⚪️          |
 | Patate dolci 🍠         | 3-5 ⚪️          |
 | Sale marino 🧂          | 2⚪️             |
+| Foglie di Tè fresche🌱  | 1-2 ⚪️          |
 | Riso (per coltivare) 🌾 | 1 ⚪️            |
 | Alghe essiccate🌿       | 25-35 🟠        |
 | Legname 🪵              | 25 🟠           |
@@ -130,19 +130,20 @@ Il costo del cibo quotidiano varia a seconda dello stile di vita. Un pasto sempl
 
 #### 💴 Tasse Mensili 
 
-| Tipo di Bene / Attività               | Tassa Mensile | Note                                                          |
-| ------------------------------------- | ------------- | ------------------------------------------------------------- |
-| Villa 🏘                              | 100-150 ⚪️    | Giardino, cortile, servitù                                    |
-| **Bottega artigianale**               | 100 ⚪️        | Include licenza, spese pubbliche e prelievi locali            |
-| **Magazzino commerciale**             | 100 ⚪️        | Vale anche per depositi o strutture di stoccaggio             |
-| Casa cittadina 🏠                     | 50-100 ⚪️     | Include servizi e posizione                                   |
-| **Carovana o trasporto privato**      | 50–60 ⚪️      | In base alla lunghezza della tratta e uso delle strade locali |
-| **Barca da pesca personale**          | 50 ⚪️         | Tassa di licenza e accesso al porto                           |
-| Permesso per abbattere gli alberi     | 40 ⚪️         | Per 100 kawa circa, solitamente applicata approssimativamente |
-| Casa semplice 🏡                      | 30-50 ⚪️      | Per famiglia contadina                                        |
-| Bancarella                            | 25 ⚪️         | Include licenza di commercio                                  |
-| **1 Kawa di terreno edificabile**     | 50 🟠         |                                                               |
-| **1 Kawa di terreno agricolo**        | 10 🟠         | Tassa agricola di base                                        |
-| **1 Kawa di terreno non-edificabile** | 1 🟠          |                                                               |
-| **Esenzione religiosa**               | 0             | Solo per chi serve un tempio o è sotto protezione clericale   |
-| Samurai al servizio                   | 0             | Esentasse, ma obblighi militari e di presenza                 |
+| Tipo di Bene / Attività               | Tassa Mensile | Note                                                                     |
+| ------------------------------------- | ------------- | ------------------------------------------------------------------------ |
+| Villa 🏘                              | 100-150 ⚪️    | Giardino, cortile, servitù                                               |
+| **Bottega artigianale**               | 100 ⚪️        | Include licenza, spese pubbliche e prelievi locali                       |
+| **Magazzino commerciale**             | 100 ⚪️        | Vale anche per depositi o strutture di stoccaggio                        |
+| Casa cittadina 🏠                     | 50-100 ⚪️     | Include servizi e posizione                                              |
+| **Carovana o trasporto privato**      | 50–60 ⚪️      | In base alla lunghezza della tratta e uso delle strade locali            |
+| **Barca da pesca personale**          | 50 ⚪️         | Tassa di licenza e accesso al porto                                      |
+| Permesso per abbattere gli alberi     | 40 ⚪️         | Per 100 kawa circa, solitamente applicata approssimativamente            |
+| Casa semplice 🏡                      | 30-50 ⚪️      | Per famiglia contadina                                                   |
+| Bancarella                            | 25 ⚪️         | Include licenza di commercio                                             |
+| Affitto terreno coltivabile 🟩        | 4 ⚪️          | Prestare il terreno ai contadini per tutto il periodo della coltivazione |
+| **1 Kawa di terreno edificabile**     | 50 🟠         |                                                                          |
+| **1 Kawa di terreno agricolo**        | 10 🟠         | Tassa agricola di base                                                   |
+| **1 Kawa di terreno non-edificabile** | 1 🟠          |                                                                          |
+| **Esenzione religiosa**               | 0             | Solo per chi serve un tempio o è sotto protezione clericale              |
+| Samurai al servizio                   | 0             | Esentasse, ma obblighi militari e di presenza                            |
