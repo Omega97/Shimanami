@@ -44,16 +44,16 @@
 | Fagioli Azuki 🫛        | 12-15 ⚪️        |
 | Foglie di Tè lavorate🍵 | 10-25 ⚪️        |
 | Cocco 🥥                | 10-15 ⚪️        |
-| Riso 🌾                 | 9-12 ⚪️         |
+| Riso 🌾                 | 8-12 ⚪️         |
 | Pesce 🐟                | 5-15 ⚪️         |
 | Patate dolci 🍠         | 3-5 ⚪️          |
 | Sale marino 🧂          | 2⚪️             |
 | Foglie di Tè fresche🌱  | 1-2 ⚪️          |
 | Riso (per coltivare) 🌾 | 1 ⚪️            |
 | Alghe essiccate🌿       | 25-35 🟠        |
-| Legname 🪵              | 25 🟠           |
 | Alghe 🌿                | 5-9 🟠          |
-| Bambù 🎋                | 3-5 🟠          |
+| Legname 🪵              | 3 🟠            |
+| Bambù 🎋                | 2 🟠            |
 
 
 #### 📏 Unità di Misura e Monete di Shimanami
@@ -136,7 +136,7 @@ Il costo del cibo quotidiano varia a seconda dello stile di vita. Un pasto sempl
 | **Bottega artigianale**               | 100 ⚪️        | Include licenza, spese pubbliche e prelievi locali                       |
 | **Magazzino commerciale**             | 100 ⚪️        | Vale anche per depositi o strutture di stoccaggio                        |
 | Casa cittadina 🏠                     | 50-100 ⚪️     | Include servizi e posizione                                              |
-| **Carovana o trasporto privato**      | 50–60 ⚪️      | In base alla lunghezza della tratta e uso delle strade locali            |
+| **Permesso di trasporto merci**       | 50–60 ⚪️      | In base alla lunghezza della tratta e uso delle strade locali            |
 | **Barca da pesca personale**          | 50 ⚪️         | Tassa di licenza e accesso al porto                                      |
 | Permesso per abbattere gli alberi     | 40 ⚪️         | Per 100 kawa circa, solitamente applicata approssimativamente            |
 | Casa semplice 🏡                      | 30-50 ⚪️      | Per famiglia contadina                                                   |
