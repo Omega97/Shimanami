@@ -36,6 +36,27 @@
 * I giocatori ricevono anche informazioni sui macro-eventi del mondo attraverso **canali pubblici** (Discord/GitHub)
 
 
+### Le Svolte
+
+Ogni tanto, i giocatori possono scegliere di ricevere una delle seguenti **Svolte**:
+
+| Svolta          | Descrizione                                                   | Rischio |
+| --------------- | ------------------------------------------------------------- | ------- |
+| ℹ️ Informazione | Una rivelazione utile, nascosta o dimenticata                 | ⭐       |
+| 📦 Opportunità  | Si presenta un’occasione vantaggiosa o rischiosa              | ⭐⭐      |
+| 🔎 Scoperta     | Trovi un luogo, oggetto o segreto celato                      | ⭐⭐      |
+| 🎉 Evento       | Qualcosa accade, cambia l’equilibrio delle cose               | ⭐⭐⭐     |
+| 🎯 Missione     | Segui le indicazioni in cambio di una ricompensa              | ⭐⭐⭐     |
+| 🫂 Incontro     | Entra in scena un nuovo personaggio significativo             | ⭐⭐⭐     |
+| 🕵️ Intrigo     | Sospetti, inganni, o segreti, che ti coinvolgono direttamente | ⭐⭐⭐⭐    |
+
+| Svolta Pubblica | Descrizione                                                                                                                        |
+| --------------- | ---------------------------------------------------------------------------------------------------------------------------------- |
+| ℹ️Informazione  | Eventi meteorologici, voci di mercato, nuove rotte commerciali, movimenti politici… Queste informazioni sono di interesse generale |
+| 📦Opportunità   | "Chi prima arriva, meglio alloggia" - perfetta per portare i giocatori assieme.<br>                                                |
+| 🎉Evento        | Un festival, un incendio, un naufragio… Questi eventi coinvolgono l’intera isola, e invitano tutti a reagire                       |
+
+
 ---
 
 ### ⏳ Gestione del Tempo nella Campagna
@@ -89,3 +110,12 @@ Per fornire un'**esperienza asincrona fluida**, e mantenere l’**illusione del 
 * Ci sono vari luoghi misteriosi da esplorare sulla mappa
 * L'isola nasconde artefatti unici
 * Le azioni di un giocatore possono avere conseguenze sugli altri
+
+
+---
+
+## La fine di un eroe
+
+* Quando un personaggio muore, il giocatore può scegliere di unirsi di nuovo alla partita, 
+* il nuovo personaggio parte da un punto narrativo interessante
+* egli avrà una ricchezza di circa tre quarti di quello più povero
