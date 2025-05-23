@@ -32,8 +32,8 @@
 | -------------------------- | ------------ | ---------------- |
 | Villa 🏘                   | 400+ 🟡      | 1 proprietà      |
 | Magazzino / Bottegha 🏬    | 300+ 🟡      | 1 proprietà      |
-| Casa media 🏠              | 200-400 🟡   | 1 proprietà      |
-| Casa piccola 🏡            | 100-200 🟡   | 1 proprietà      |
+| Casa media 🏠              | 250-400 🟡   | 1 proprietà      |
+| Casa piccola 🏡            | 150-250 🟡   | 1 proprietà      |
 | Terreno edificabile 🟩     | 3+ 🟡        | 1 Kawa           |
 | Terreno coltivabile 🟩     | 1-3 🟡       | 1 Kawa           |
 | Terreno non-edificabile 🟩 | 5–100 ⚪️     | 1 Kawa           |
@@ -121,29 +121,30 @@ Il costo del cibo quotidiano varia a seconda dello stile di vita. Un pasto sempl
 
 #### 🏠 Costo dell’Affitto
 
-| Tipo di alloggio                    | Prezzo mensile consigliato |
-| ----------------------------------- | -------------------------- |
-| Residenza di alto livello (Hakusui) | 3–4 🟡                     |
-| Casa dignitosa con spazio personale | 2 🟡                       |
-| Casa modesta in quartiere popolare  | 1 🟡                       |
-| Stanza in locanda o dormitorio      | 50 ⚪️                      |
+| Tipo di alloggio                    | Prezzo mensile indicativo |
+| ----------------------------------- | ------------------------- |
+| Residenza di alto livello (Hakusui) | 3–4 🟡                    |
+| Casa dignitosa con spazio personale | ~2 🟡                     |
+| Casa modesta in quartiere popolare  | ~1 🟡                     |
+| Stanza in locanda o dormitorio      | ~50 ⚪️                    |
+| **1 Kawa terreno coltivabile 🟩**   | 1-4 ⚪️                    |
 
 #### 💴 Tasse Mensili 
 
-| Tipo di Bene / Attività               | Tassa Mensile | Note                                                                     |
-| ------------------------------------- | ------------- | ------------------------------------------------------------------------ |
-| Villa 🏘                              | 100-150 ⚪️    | Giardino, cortile, servitù                                               |
-| **Bottega artigianale**               | 100 ⚪️        | Include licenza, spese pubbliche e prelievi locali                       |
-| **Magazzino commerciale**             | 100 ⚪️        | Vale anche per depositi o strutture di stoccaggio                        |
-| Casa cittadina 🏠                     | 50-100 ⚪️     | Include servizi e posizione                                              |
-| **Permesso di trasporto merci**       | 50–60 ⚪️      | In base alla lunghezza della tratta e uso delle strade locali            |
-| **Barca da pesca personale**          | 50 ⚪️         | Tassa di licenza e accesso al porto                                      |
-| Permesso per abbattere gli alberi     | 40 ⚪️         | Per 100 kawa circa, solitamente applicata approssimativamente            |
-| Casa semplice 🏡                      | 30-50 ⚪️      | Per famiglia contadina                                                   |
-| Bancarella                            | 25 ⚪️         | Include licenza di commercio                                             |
-| Affitto terreno coltivabile 🟩        | 4 ⚪️          | Prestare il terreno ai contadini per tutto il periodo della coltivazione |
-| **1 Kawa di terreno edificabile**     | 50 🟠         |                                                                          |
-| **1 Kawa di terreno agricolo**        | 10 🟠         | Tassa agricola di base                                                   |
-| **1 Kawa di terreno non-edificabile** | 1 🟠          |                                                                          |
-| **Esenzione religiosa**               | 0             | Solo per chi serve un tempio o è sotto protezione clericale              |
-| Samurai al servizio                   | 0             | Esentasse, ma obblighi militari e di presenza                            |
+| Tipo di Bene / Attività               | Tassa Mensile | Note                                                          |
+| ------------------------------------- | ------------- | ------------------------------------------------------------- |
+| Villa 🏘                              | 100-150 ⚪️    | Giardino, cortile, servitù                                    |
+| **Bottega artigianale**               | 100 ⚪️        | Include licenza, spese pubbliche e prelievi locali            |
+| **Magazzino commerciale**             | 100 ⚪️        | Vale anche per depositi o strutture di stoccaggio             |
+| Casa cittadina 🏠                     | 50-100 ⚪️     | Include servizi e posizione                                   |
+| **Permesso di trasporto merci**       | 50–60 ⚪️      | In base alla lunghezza della tratta e uso delle strade locali |
+| Permesso per abbattere gli alberi     | 40 ⚪️         | Per 100 kawa circa, solitamente applicata approssimativamente |
+| Casa semplice 🏡                      | 30-50 ⚪️      | Per famiglia contadina                                        |
+| Bancarella                            | 25 ⚪️         | Include licenza di commercio                                  |
+| **Barca da pesca personale**          | 20 ⚪️         | Tassa di licenza e accesso al porto                           |
+| **Deposito/piccolo magazzino**        | 100 ⚪️        | Vale anche per depositi o strutture di stoccaggio             |
+| **1 Kawa di terreno edificabile**     | 50 🟠         |                                                               |
+| **1 Kawa di terreno agricolo**        | 10 🟠         | Tassa agricola di base                                        |
+| **1 Kawa di terreno non-edificabile** | 1 🟠          |                                                               |
+| **Esenzione religiosa**               | 0             | Solo per chi serve un tempio o è sotto protezione clericale   |
+| Samurai al servizio                   | 0             | Esentasse, ma obblighi militari e di presenza                 |
