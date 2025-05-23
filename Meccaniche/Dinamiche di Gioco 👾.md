@@ -38,7 +38,7 @@
 
 ### Le Svolte
 
-Ogni tanto, i giocatori possono scegliere di ricevere una delle seguenti **Svolte**:
+Una volta a settimana ciascun giocatore può scegliere di ricevere una delle seguenti **Svolte**, mentre due volte a settimana sarà il DM a scegliere al suo posto:
 
 | Svolta          | Descrizione                                                   | Rischio |
 | --------------- | ------------------------------------------------------------- | ------- |
