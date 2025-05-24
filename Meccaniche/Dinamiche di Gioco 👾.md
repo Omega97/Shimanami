@@ -38,7 +38,10 @@
 
 ### Le Svolte
 
-Una volta a settimana ciascun giocatore può scegliere di ricevere una delle seguenti **Svolte**, mentre due volte a settimana sarà il DM a scegliere al suo posto:
+La **Svolta** è il principale meccanismo con cui la narrazione si evolve; 
+* Una svolta a settimana a scelta (tra quelle indicate)
+* Fino a due svolte a settimana scelte dal DM
+* Una svolta pubblica a settimana, sempre a scelta del DM
 
 | Svolta          | Descrizione                                                   | Rischio |
 | --------------- | ------------------------------------------------------------- | ------- |
