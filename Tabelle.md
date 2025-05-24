@@ -45,7 +45,7 @@
 | Foglie di Tè lavorate🍵 | 10-25 ⚪️        |
 | Cocco 🥥                | 10-15 ⚪️        |
 | Riso 🌾                 | 8-12 ⚪️         |
-| Pesce 🐟                | 5-15 ⚪️         |
+| Pesce 🐟                | 4-12 ⚪️         |
 | Patate dolci 🍠         | 3-5 ⚪️          |
 | Sale marino 🧂          | 2⚪️             |
 | Foglie di Tè fresche🌱  | 1-2 ⚪️          |
@@ -58,17 +58,18 @@
 
 #### 📏 Unità di Misura e Monete di Shimanami
 
-| Nome        | Simbolo / Kanji | Equivalenza      | Tipo                  | Origine / Note                      |
-| ----------- | --------------- | ---------------- | --------------------- | ----------------------------------- |
-| **Kin**     | 🟡/金            | Moneta d’Oro     | Valuta                | Giapponese                          |
-| **Gin**     | ⚪️/銀            | Moneta d’Argento | Valuta                | Giapponese                          |
-| **Dō**      | 🟠/銅            | Moneta di Rame   | Valuta                | Origine cinese                      |
-| **Monme**   | 匁               | 3.75 grammi      | Peso                  | Antica unità giapponese             |
-| **Ryō**     | 両               | 100 monme        | Peso / Valore storico | Usato anche per metalli preziosi    |
-| **Hana**    | ハナ / 幅菜         | 1.9 metri        | Lunghezza             | “Larghezza di campo”                |
-| **Kawa**    | カワ / 加輪         | Hana²            | Superficie (piccola)  | Per misurare orti, tessuti, interni |
-| **Isaki**   | イサキ / 居崎        | 190 metri        | Distanza              | Distanza fra villaggi, sentieri     |
-| **Sakuchi** | 作地 / サクチ        | Isaki²           | Superficie (grande)   | Unità agricola, tributi e proprietà |
+| Nome        | Simbolo / Kanji | Equivalenza      | Tipo                  | Origine / Note                             |
+| ----------- | --------------- | ---------------- | --------------------- | ------------------------------------------ |
+| **Kin**     | 🟡/金            | Moneta d’Oro     | Valuta                | Giapponese                                 |
+| **Gin**     | ⚪️/銀            | Moneta d’Argento | Valuta                | Giapponese                                 |
+| **Dō**      | 🟠/銅            | Moneta di Rame   | Valuta                | Origine cinese                             |
+| **Monme**   | 匁               | 3.75 grammi      | Peso                  | Antica unità giapponese                    |
+| **Ryō**     | 両               | 100 monme        | Peso / Valore storico | Usato anche per metalli preziosi           |
+| **Koku**    | 石               | 400 Ryō          | Peso                  | 1 Koku di riso sfama un adulto per un anno |
+| **Hana**    | ハナ / 幅菜         | 1.9 metri        | Lunghezza             | “Larghezza di campo”                       |
+| **Kawa**    | カワ / 加輪         | Hana²            | Superficie (piccola)  | Per misurare orti, tessuti, interni        |
+| **Isaki**   | イサキ / 居崎        | 100 Hana         | Distanza              | Distanza fra villaggi, sentieri            |
+| **Sakuchi** | 作地 / サクチ        | Isaki²           | Superficie (grande)   | Unità agricola, tributi e proprietà        |
 
 
 ---
@@ -99,13 +100,12 @@
 | Mercenario            | 5–20 🟡                   | Rischioso, ma ben pagato in tempi turbolenti      | Ricchi mercanti, Nobili |
 | Commerciante          | 5–15 🟡                   | Include venditori ambulanti e gestori di botteghe | -                       |
 | Scriba / Scrivano     | 4–10 🟡                   | I più richiesti lavorano per mercanti o il Daimyō | Privati, Stato          |
-| Artigiano             | 3–5 🟡                    | Più se specializzato (es. ceramista, fabbro)      | -                       |
-| Marinaio / Navigatore | 2–4 🟡                    | Navigazione tra le città o rotte costiere         | Privati                 |
+| Artigiano             | 4–6 🟡                    | Più se specializzato (es. ceramista, fabbro)      | -                       |
+| Marinaio / Navigatore | 4–5 🟡                    | Navigazione tra le città o rotte costiere         | Privati                 |
+| Contadino             | 3–4 🟡                    | Dipende dalla qualità della terra e del raccolto  | -                       |
+| Pescatore             | 3–4 🟡                    | Guadagno variabile, influenzato dalla stagione    | -                       |
 | Monaco o Custode      | 1–4 🟡                    | Di solito mantentuto con offerte o donazioni      | Donazioni               |
-| Contadino             | 1–3 🟡                    | Dipende dalla qualità della terra e del raccolto  | -                       |
-| Pescatore             | 1–3 🟡                    | Guadagno variabile, influenzato dalla stagione    | -                       |
 
-🔹*Nota: contadini e pescatori privati guadagnano poco, ma buona parte della loro dieta è coperta dal raccolto/pescato.*
 
 
 ---
