@@ -52,7 +52,7 @@
 | Riso (per coltivare) 🌾 | 1 ⚪️            |
 | Alghe essiccate🌿       | 25-35 🟠        |
 | Alghe 🌿                | 5-9 🟠          |
-| Legname 🪵              | 3 🟠            |
+| Legname 🪵              | 2 🟠            |
 | Bambù 🎋                | 2 🟠            |
 
 
@@ -96,15 +96,16 @@
 | Professione           | Guadagno Mensile (in Kin) | Note                                              | Pagati da:              |
 | --------------------- | ------------------------- | ------------------------------------------------- | ----------------------- |
 | Samurai               | 10–25 🟡                  | Dipende dal rango, spesso con vitto e alloggio    | Daimyō                  |
-| Funzionario Locale    | 6–12 🟡                   | Amministratori, esattori, notai                   | Daimyō, Consiglio       |
-| Mercenario            | 5–20 🟡                   | Rischioso, ma ben pagato in tempi turbolenti      | Ricchi mercanti, Nobili |
-| Commerciante          | 5–15 🟡                   | Include venditori ambulanti e gestori di botteghe | -                       |
-| Scriba / Scrivano     | 4–10 🟡                   | I più richiesti lavorano per mercanti o il Daimyō | Privati, Stato          |
-| Artigiano             | 4–6 🟡                    | Più se specializzato (es. ceramista, fabbro)      | -                       |
-| Marinaio / Navigatore | 4–5 🟡                    | Navigazione tra le città o rotte costiere         | Privati                 |
-| Contadino             | 3–4 🟡                    | Dipende dalla qualità della terra e del raccolto  | -                       |
-| Pescatore             | 3–4 🟡                    | Guadagno variabile, influenzato dalla stagione    | -                       |
-| Monaco o Custode      | 1–4 🟡                    | Di solito mantentuto con offerte o donazioni      | Donazioni               |
+| Mercenario            | 8–20 🟡                   | Rischioso, ma ben pagato in tempi turbolenti      | Ricchi mercanti, Nobili |
+| Funzionario Locale    | 8–12 🟡                   | Amministratori, esattori, notai                   | Daimyō, Consiglio       |
+| Commerciante          | 7–15 🟡                   | Include venditori ambulanti e gestori di botteghe | -                       |
+| Scriba / Scrivano     | 8–10 🟡                   | I più richiesti lavorano per mercanti o il Daimyō | Privati, Stato          |
+| Taglialegna           | 6–8 🟡                    | Un albero al giorno                               |                         |
+| Artigiano             | 4–7 🟡                    | Più se specializzato (es. ceramista, fabbro)      | -                       |
+| Marinaio / Navigatore | 5–6 🟡                    | Navigazione tra le città o rotte costiere         | Privati                 |
+| Contadino             | 4–5 🟡                    | Dipende dalla qualità della terra e del raccolto  | -                       |
+| Pescatore             | 4–5 🟡                    | Guadagno variabile, influenzato dalla stagione    | -                       |
+| Monaco o Custode      | 1–5 🟡                    | Di solito mantentuto con offerte o donazioni      | Donazioni               |
 
 
 
@@ -116,8 +117,8 @@ Il costo del cibo quotidiano varia a seconda dello stile di vita. Un pasto sempl
 
 | Stile alimentare            | Costo giornaliero | Costo mensile (stima) |
 | --------------------------- | ----------------- | --------------------- |
-| Dieta variata o urbana      | 9-12 ⚪️           | ~3 🟡                 |
-| Dieta popolare (essenziale) | 6-8 ⚪️            | ~2 🟡                 |
+| Dieta variata o urbana      | 10-12 ⚪️          | ~3 🟡                 |
+| Dieta popolare (essenziale) | 7-9 ⚪️            | ~2.5 🟡               |
 
 #### 🏠 Costo dell’Affitto
 
