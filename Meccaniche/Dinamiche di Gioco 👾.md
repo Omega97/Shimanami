@@ -36,12 +36,14 @@
 * I giocatori ricevono anche informazioni sui macro-eventi del mondo attraverso **canali pubblici** (Discord/GitHub)
 
 
-### Le Svolte
+---
 
-La **Svolta** è il principale meccanismo con cui la narrazione si evolve; 
-* Una svolta a settimana a scelta (tra quelle indicate)
-* Fino a due svolte a settimana scelte dal DM
-* Una svolta pubblica a settimana, sempre a scelta del DM
+## Le Svolte
+
+La **Svolta** è il principale meccanismo con cui la narrazione si evolve. Ogni settimana vengono scelte: 
+* Un Svolta personale, il tipo è a scelta del giocatore.
+* Fino a due Svolte personali a scelta del DM.
+* Una Svolta Pubblica, sempre a scelta del DM, che coinvolge tutti (o quasi) i giocatori.
 
 | Svolta          | Descrizione                                                   | Rischio |
 | --------------- | ------------------------------------------------------------- | ------- |
