@@ -30,11 +30,12 @@
 
 | Immobile                   | Prezzo Medio | Unita di Scambio |
 | -------------------------- | ------------ | ---------------- |
-| Villa 🏘                   | 400+ 🟡      | 1 proprietà      |
-| Magazzino / Bottegha 🏬    | 300+ 🟡      | 1 proprietà      |
+| Villa 🏘                   | 400-1000 🟡  | 1 proprietà      |
+| Magazzino📦                | 250-400 🟡   | 1 proprietà      |
 | Casa media 🏠              | 250-400 🟡   | 1 proprietà      |
 | Casa piccola 🏡            | 150-250 🟡   | 1 proprietà      |
-| Terreno edificabile 🟩     | 3+ 🟡        | 1 Kawa           |
+| Bottegha 🏬                | 30-300 🟡    | 1 proprietà      |
+| Terreno edificabile 🟩     | 3-30 🟡      | 1 Kawa           |
 | Terreno coltivabile 🟩     | 1-3 🟡       | 1 Kawa           |
 | Terreno non-edificabile 🟩 | 5–100 ⚪️     | 1 Kawa           |
 
