@@ -136,7 +136,7 @@ La forma di governo di Shimanami può essere descritta come una **oligarchia feu
 
 #### **Daimyō (大名)**, il signore feudale ⚔️
 
-[Barbero] Sull'isola di Shimanami, il daimyō rappresenta **l'autorità suprema**, un ruolo che combina potere militare, legislativo e giudiziario. Il daimyō risiede a Kanemura e presiede il Consiglio dell'Isola, nominando ufficiali diretti come hatamoto, bugyō e comandanti locali. Il suo potere si estende su tutto l'arcipelago, ma è bilanciato da una rete di consiglieri e funzionari che assicurano l'equilibrio tra le varie forze politiche e sociali dell'isola.
+[Barbero] Sull'isola di Shimanami, il Daimyō rappresenta **l'autorità suprema**, un ruolo che combina potere militare, legislativo e giudiziario. Il daimyō risiede a Kanemura e presiede il Consiglio dell'Isola, nominando ufficiali diretti come hatamoto, bugyō e comandanti locali. Il suo potere si estende su tutto l'arcipelago, ma è bilanciato da una rete di consiglieri e funzionari che assicurano l'equilibrio tra le varie forze politiche e sociali dell'isola.
 
 Attualmente, questa posizione è ricoperta da **Aokabe Munetaka**, un uomo anziano ma ancora ambizioso. 
 
@@ -152,7 +152,7 @@ Alcuni cercano di mantenere viva la tradizione, altri tentano di **reinventarsi*
 
 #### Bugyō (奉行) – Magistrati Locali, Custodi della Legge ⚖️
 
-I Bugyō, o **magistrati locali**, sono nominati dal Daimyō o dal consiglio e operano nelle principali città dell'isola. Avevano ampi poteri amministrativi, giudiziari ed esecutivi. Ogni città dispone di un Bugyō della Giustizia, del Commercio e delle Imposte. Questi funzionari gestiscono legge locale, contratti pubblici e fungono da giudici nei conflitti, assicurando che l'ordine e la giustizia siano mantenuti nelle comunità. Assieme ai samurai, essi sono la figura ufficiale che impone la legge.
+I Bugyō, o **magistrati locali**, sono nominati dal Daimyō o dal Consiglio e operano nelle principali città dell'isola. Avevano ampi poteri amministrativi, giudiziari ed esecutivi. Ogni città dispone di un Bugyō della Giustizia, del Commercio e delle Imposte. Questi funzionari gestiscono legge locale, contratti pubblici e fungono da giudici nei conflitti, assicurando che l'ordine e la giustizia siano mantenuti nelle comunità. Assieme ai samurai, essi sono la figura ufficiale che impone la legge.
 
 #### Samurai (侍) - I Guerrieri Onorevoli 🗡
 
@@ -184,7 +184,7 @@ Oltre al suo ruolo economico cruciale, la Gilda agisce come una vitale rete di s
 
 ### ⚓ I Pirati e le Incursioni sulla Terraferma
 
-Per comprendere la prudenza — a volte ai limiti della paranoia — con cui gli isolani di Shimanami trattano i viaggiatori provenienti da lontano, bisogna guardare al mare e alla memoria. Nei decenni passati, bande di **wako (倭寇)**, pirati giapponesi e coreani spesso alleati con trafficanti cinesi, hanno solcato le acque dell’arcipelago e non di rado hanno sbarcato uomini armati sulla terraferma, devastando villaggi costieri e saccheggiando monasteri. Non erano semplici briganti: erano reti organizzate, legate a famiglie decadute, a ex-ronin, e a mercanti divenuti troppo ambiziosi. Queste incursioni hanno lasciato cicatrici profonde non solo nei raccolti bruciati o nei porti devastati, ma nell’animo collettivo. Da allora, ogni vela all’orizzonte è scrutata con sospetto, ogni bandiera sconosciuta fa trattenere il fiato. Anche oggi, sebbene più rari, si sussurra che alcuni clan del sud abbiano ancora legami con le rotte dei pirati. E sull’isola, il mare è amico solo finché resta calmo.
+Per comprendere la prudenza — a volte ai limiti della paranoia — con cui gli isolani di Shimanami trattano i viaggiatori provenienti da lontano, bisogna guardare al mare e alla memoria. Nei decenni passati, bande di **wako (倭寇)**, pirati giapponesi e coreani spesso alleati con trafficanti cinesi, hanno solcato le acque dell’arcipelago e non di rado hanno sbarcato uomini armati sulla terraferma, devastando villaggi costieri e saccheggiando monasteri. Non erano semplici briganti: erano reti organizzate, legate a famiglie decadute, a ex-Ronin, e a mercanti divenuti troppo ambiziosi. Queste incursioni hanno lasciato cicatrici profonde non solo nei raccolti bruciati o nei porti devastati, ma nell’animo collettivo. Da allora, ogni vela all’orizzonte è scrutata con sospetto, ogni bandiera sconosciuta fa trattenere il fiato. Anche oggi, sebbene più rari, si sussurra che alcuni clan del sud abbiano ancora legami con le rotte dei pirati. E sull’isola, il mare è amico solo finché resta calmo.
 
 
 ---
