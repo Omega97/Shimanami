@@ -22,7 +22,7 @@ Come punto di riferimento, 1 Koku = 400 Ryoo di riso (40🟡) nutrono un medio u
 | Barca media⛵️                | 20-50 🟡     | 1 barca          |
 | Katane cerimoniali 🗡        | 10–30 🟡     | 1 pezzo          |
 | Barca piccola 🛶             | 5–20 🟡      | 1 barca          |
-| Carro per trasporto merci 🚚 | 7 🟡         | 1 unità          |
+| Carro per trasporto merci 🚚 | 6 🟡         | 1 unità          |
 | Carretto 🛒                  | 2 🟡         | 1 unità          |
 | Cavallo 🐎                   | 3 🟡         | 1 unità          |
 | Gioielli in perle 💠         | 2-40 🟡      | 1 gioiello       |
@@ -35,9 +35,9 @@ Come punto di riferimento, 1 Koku = 400 Ryoo di riso (40🟡) nutrono un medio u
 | Immobile                   | Prezzo Medio | Unita di Scambio |
 | -------------------------- | ------------ | ---------------- |
 | Villa 🏘                   | 400-1000 🟡  | 1 proprietà      |
-| Magazzino📦                | 250-400 🟡   | 1 proprietà      |
 | Casa media 🏠              | 250-400 🟡   | 1 proprietà      |
 | Casa piccola 🏡            | 150-250 🟡   | 1 proprietà      |
+| Magazzino📦                | 50 🟡        | 1 proprietà      |
 | Bottegha 🏬                | 30-300 🟡    | 1 proprietà      |
 | Terreno edificabile 🟩     | 3-30 🟡      | 1 Kawa           |
 | Terreno coltivabile 🟩     | 1-3 🟡       | 1 Kawa           |
