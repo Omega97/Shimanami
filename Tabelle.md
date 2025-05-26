@@ -6,27 +6,31 @@
 
 ### 📊 Prezzi di Mercato Indicativi
 
+Come punto di riferimento, 1 Koku = 400 Ryoo di riso (40🟡) nutrono un medio uomo per un anno.
+
 (Vedi sotto per unità di misura)
 
-| Moneta              | Conversione |
-| ------------------- | ----------- |
-| Oro (Kin, 金) 🟡     | 100 ⚪️      |
-| Argento (Gin, 銀) ⚪️ | 100 🟠      |
-| Rame (Dō, 銅) 🟠     |             |
+| Moneta                   | Conversione |
+| ------------------------ | ----------- |
+| Lingotto (Nengai, 延塊) 🟨 | 100 🟡      |
+| Oro (Kin, 金) 🟡          | 100 ⚪️      |
+| Argento (Gin, 銀) ⚪️      | 100 🟠      |
+| Rame (Dō, 銅) 🟠          | -           |
 
-| Proprietà/Bene        | Prezzo Medio | Unita di Scambio |
-| --------------------- | ------------ | ---------------- |
-| Barca media⛵️         | 20-50 🟡     | 1 barca          |
-| Katane cerimoniali 🗡 | 10–30 🟡     | 1 pezzo          |
-| Barca piccola 🛶      | 5–20 🟡      | 1 barca          |
-| Carretto 🛒           | 2-3 🟡       | 1 unità          |
-| Cavallo 🐎            | 2-3 🟡       | 1 unità          |
-| Perla 🦪              | 1-10 🟡      | 1 unità          |
-| Gioielli in perle 💠  | 1-10 🟡      | 1 gioiello       |
-| Reti da pesca 🕸️     | 20-30 ⚪️     | 1 rete           |
-| Sake                  | 5-20 ⚪️      | 1 bottiglia      |
-| Ceramiche 🏺          | 5–30 ⚪️      | 1 pezzo          |
-| Bottiglia 🫙          | 2 ⚪️         | 1 pezzo          |
+| Proprietà/Bene               | Prezzo Medio | Unita di Scambio |
+| ---------------------------- | ------------ | ---------------- |
+| Barca media⛵️                | 20-50 🟡     | 1 barca          |
+| Katane cerimoniali 🗡        | 10–30 🟡     | 1 pezzo          |
+| Barca piccola 🛶             | 5–20 🟡      | 1 barca          |
+| Carro per trasporto merci 🚚 | 7 🟡         | 1 unità          |
+| Carretto 🛒                  | 2 🟡         | 1 unità          |
+| Cavallo 🐎                   | 3 🟡         | 1 unità          |
+| Gioielli in perle 💠         | 2-40 🟡      | 1 gioiello       |
+| Perla 🦪                     | 1-10 🟡      | 1 unità          |
+| Reti da pesca 🕸️            | 20-30 ⚪️     | 1 rete           |
+| Sake 🥃                      | 5-20 ⚪️      | 1 bottiglia      |
+| Ceramiche 🏺                 | 5–30 ⚪️      | 1 pezzo          |
+| Bottiglia 🫙                 | 2 ⚪️         | 1 pezzo          |
 
 | Immobile                   | Prezzo Medio | Unita di Scambio |
 | -------------------------- | ------------ | ---------------- |
@@ -107,7 +111,6 @@
 | Contadino             | 4–5 🟡                    | Dipende dalla qualità della terra e del raccolto  | -                       |
 | Pescatore             | 4–5 🟡                    | Guadagno variabile, influenzato dalla stagione    | -                       |
 | Monaco o Custode      | 1–5 🟡                    | Di solito mantentuto con offerte o donazioni      | Donazioni               |
-
 
 
 ---
