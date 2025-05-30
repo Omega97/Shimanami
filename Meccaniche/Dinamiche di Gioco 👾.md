@@ -95,6 +95,45 @@ Per fornire un'**esperienza asincrona fluida**, e mantenere l’**illusione del 
 
 ---
 
+## 📜 **Sistema di Permessi Mercantili – “Shōmon no Hō” (証問の法)**
+
+### 🏛 Contesto e Motivazione In-World
+
+Nell'isola di Shimanami, dove la ricchezza è potere ma l'equilibrio è sacro, l'espansione mercantile non è libera né illimitata. Dopo le "Crisi dei Granai Vuoti" e la "Rivolta dei Pescatori" di alcuni decenni fa, il **Consiglio dell’Isola** ha emanato la **Legge dei Permessi Commerciali** (_Shōmon no Hō_, “Legge del Timbro”), che regola severamente l’estensione delle attività logistiche per evitare squilibri economici, sfruttamento della forza lavoro e disordini nelle strade e nei porti. Sotto questa legge, ogni carro da trasporto merci, ogni impiegato, e ogni magazzino commerciale richiede un **permesso ufficiale**, concesso dalle **autorità cittadine** sotto supervisione dei _Bugyō_ del Commercio.
+
+#### 📜 Gli Slot Produttivi
+
+Ciascun giocatore può sbloccare i seguenti slot indicati di seguito. I primi slot sono concessi molto facilmente, mentre quelli successivi non così tanto. 
+
+| Attività                            | Tipo di slot    | Autorità di sblocco                  |
+| ----------------------------------- | --------------- | ------------------------------------ |
+| Impiegati 👤                        | Personale       | Bugyō Locale                         |
+| Mezzadria (100 Kawa) 🟩             | Produzione      | Machitoshiyori Locale  / Cosiglio    |
+| Concessione forestale (100 Kawa) 🌲 | Produzione      | Bugyō delle Risorse / Gilda          |
+| Rotta commerciale via mare 🐫       | Logistica       | Bugyō del Porto / Gilda Mercati      |
+| Rotta commerciale via terra ⛴       | Logistica       | Gilda dei Pescatori  / Gilda Mercati |
+| Bancarella 💸                       | Vendita         | Tempio Locale / Gilda Mercati        |
+| Barca da pesca 🐟                   | Produzione      | Gilda dei Pescatori / Porto          |
+| Magazzino 🏠                        | Stoccaggio      | Bugyō del Commercio / Cosiglio       |
+| Negozio/Locale 🛒                   | Vendita stabile | Gilda Mercantile / Cosiglio          |
+| Bottega artigianale 🏺              | Produzione      | Gilda degli Artigiani / Cosiglio     |
+| Residenza urbana 🏠                 | Residenza       | Kazoku e Bugyō / Cosiglio            |
+
+Per dare un graduale senso di progresso al gioco, il giocatore dovrà persuadere le autorità a concedergli di espandere la propria attività, talvolta superando una prova (o ricorrendo alla buona vecchia corruzione!).
+
+| Metodo di sblocco        | Applicabile a...                      | Esempio                                     |
+| ------------------------ | ------------------------------------- | ------------------------------------------- |
+| Reputazione ✨            | Tutte le attività                     | Fama in 2+ città                            |
+| Missione logistica 🎯    | Carri, rotte, magazzini               | Aiuta a costruire una strada                |
+| Diplomazia 🤝            | Rotte, concessioni, negozi            | Alleanze, favori reciproci                  |
+| Religione / rituale 🕊   | Pesca, boschi, gilde artigiane        | Offerta a un Kami, partecipazione a Matsuri |
+| Evento cittadino 🎉      | Bancarelle, negozi, botteghe          | Sponsorizza un festival                     |
+| Sostegno politico 🗳     | Edifici urbani                        | Appoggio da un Kazoku o Consiglio           |
+| Mazzetta / corruzione 💸 | Qualsiasi slot, a rischio reputazione | Pagamento nascosto a un Bugyō               |
+
+
+---
+
 ##   Roleplay e "Not the End"
 
 > Se i personaggi dei giocatori si incontrano, le loro identità vengono reciprocamente rivelate, e potranno ruolare le "Scene" di persona, utilizzando il sistema *Not the End*.
@@ -121,6 +160,8 @@ Per fornire un'**esperienza asincrona fluida**, e mantenere l’**illusione del 
 
 ## La fine di un eroe
 
-* Quando un personaggio muore, il giocatore può scegliere di unirsi di nuovo alla partita, 
-* il nuovo personaggio parte da un punto narrativo interessante
-* egli avrà una ricchezza di circa tre quarti di quello più povero
+Le seguenti regole fanno sì che un giocatore non sia mai escluso permanentemente dal gioco.
+* Quando un personaggio muore, il giocatore può scegliere di unirsi di nuovo alla partita 
+* Il nuovo personaggio parte da un punto narrativo interessante
+* Egli avrà una ricchezza di circa tre quarti del giocatore più povero
+* Una simile regola si può applicare ad un giocatore che si unisce alla partita più tardi 

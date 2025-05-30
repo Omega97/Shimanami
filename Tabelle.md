@@ -60,6 +60,8 @@ Come punto di riferimento, 1 Koku = 400 Ryoo di riso (40🟡) nutrono un medio u
 | Legname 🪵              | 2 🟠            |
 | Bambù 🎋                | 2 🟠            |
 
+🔹*Nota: la legna viene venduta direttamente alla Gilda del Costruttori, e non necessita di una bancarella*
+
 
 #### 📏 Unità di Misura e Monete di Shimanami
 
@@ -93,7 +95,6 @@ Come punto di riferimento, 1 Koku = 400 Ryoo di riso (40🟡) nutrono un medio u
 | **legna**        | 100      | 3             | 3          | 3           | 150            | 15000          |
 
 
-
 ---
 
 ### 💴 Stipendi/Guadagni Mensili Medi per Professione
@@ -121,7 +122,7 @@ Il costo del cibo quotidiano varia a seconda dello stile di vita. Un pasto sempl
 
 | Stile alimentare            | Costo giornaliero | Costo mensile (stima) |
 | --------------------------- | ----------------- | --------------------- |
-| Dieta variata o urbana      | 10-12 ⚪️          | ~3 🟡                 |
+| Dieta variata o urbana      | 10-12 ⚪️          | ~3.3 🟡               |
 | Dieta popolare (essenziale) | 7-9 ⚪️            | ~2.5 🟡               |
 
 #### 🏠 Costo dell’Affitto
@@ -132,7 +133,7 @@ Il costo del cibo quotidiano varia a seconda dello stile di vita. Un pasto sempl
 | Casa dignitosa con spazio personale | ~2 🟡                     |
 | Casa modesta in quartiere popolare  | ~1 🟡                     |
 | Stanza in locanda o dormitorio      | ~50 ⚪️                    |
-| **1 Kawa terreno coltivabile 🟩**   | 1-4 ⚪️                    |
+| 1 Kawa terreno coltivabile 🟩       | 1-4 ⚪️                    |
 
 #### 💴 Tasse Mensili 
 
@@ -145,7 +146,7 @@ Il costo del cibo quotidiano varia a seconda dello stile di vita. Un pasto sempl
 | **Permesso di trasporto merci**       | 50–60 ⚪️      | In base alla lunghezza della tratta e uso delle strade locali |
 | Permesso per abbattere gli alberi     | 40 ⚪️         | Per 100 kawa circa, solitamente applicata approssimativamente |
 | Casa semplice 🏡                      | 30-50 ⚪️      | Per famiglia contadina                                        |
-| Bancarella                            | 25 ⚪️         | Include licenza di commercio                                  |
+| Bancarella 🧺                         | 25 ⚪️         | Include licenza di commercio                                  |
 | **Barca da pesca personale**          | 20 ⚪️         | Tassa di licenza e accesso al porto                           |
 | **Deposito/piccolo magazzino**        | 100 ⚪️        | Vale anche per depositi o strutture di stoccaggio             |
 | **1 Kawa di terreno edificabile**     | 50 🟠         |                                                               |
@@ -153,3 +154,5 @@ Il costo del cibo quotidiano varia a seconda dello stile di vita. Un pasto sempl
 | **1 Kawa di terreno non-edificabile** | 1 🟠          |                                                               |
 | **Esenzione religiosa**               | 0             | Solo per chi serve un tempio o è sotto protezione clericale   |
 | Samurai al servizio                   | 0             | Esentasse, ma obblighi militari e di presenza                 |
+ 
+🔹*Nota: il permesso per abbattere alberi è necessario solo per terreni altrui* 

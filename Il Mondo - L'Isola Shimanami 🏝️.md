@@ -7,7 +7,7 @@
 
 [Barbero] Shimanami non è un dominio militare. È un’isola indipendente, remota, fuori dalle grandi rotte, ma perfettamente viva, ecco… Le sue tre città principali — Kanemura, Takamura e Umihana — sono connesse da strade battute, commerci marittimi e alleanze silenziose. Ogni città ha una vocazione diversa, e una personalità tutta sua, ma tutte partecipano allo stesso gioco sottile: accumulare ricchezza, influenza, e onore.
 
-[Barbero] La società sull’isola è stratificata, ma non immobile. I **nobili locali** — i **kazoku** — conservano il potere formale, ma sono costantemente sotto pressione da parte delle **gilde artigiane**, dei **mercanti emergenti**, e perfino dei **capiflotta pescherecci**, che controllano risorse fondamentali. I **contadini** mantengono il tessuto alimentare dell’isola, mentre gli **artigiani**, specie a Takamura, detengono il sapere tecnico e l’estetica raffinata. Ci sono anche **ex-samurai**, decaduti e riconvertiti in funzionari o maestri di cerimonia. E poi, ovviamente, ci sono i **giovani intraprendenti** — come voi.
+[Barbero] La società sull’isola è stratificata, ma non immobile. I **nobili locali** — i Kazoku** — conservano il potere formale, ma sono costantemente sotto pressione da parte delle **gilde artigiane**, dei **mercanti emergenti**, e perfino dei **capiflotta pescherecci**, che controllano risorse fondamentali. I **contadini** mantengono il tessuto alimentare dell’isola, mentre gli **artigiani**, specie a Takamura, detengono il sapere tecnico e l’estetica raffinata. Ci sono anche **ex-samurai**, decaduti e riconvertiti in funzionari o maestri di cerimonia. E poi, ovviamente, ci sono i **giovani intraprendenti** — come voi.
 
 [Barbero] Sull’isola di Shimanami, **il rispetto, l’onore e la reputazione personale** sono alla base della vita quotidiana. La popolazione — contadini, artigiani, mercanti, persino samurai decaduti — agisce secondo un codice non scritto, in cui un gesto gentile, un’inchino ben dosato o una parola mantenuta contano più di qualsiasi legge. Il crimine, in questo contesto, non è soltanto una colpa legale: è una macchia sociale, un disonore che può escludere una persona dalla comunità come fosse un malato contagioso. L’equilibrio dell’isola si regge su questo sistema silenzioso di fiducia reciproca, in cui l’armonia è più importante del guadagno, e un uomo che tradisce viene dimenticato prima ancora che condannato.
 
@@ -122,7 +122,7 @@ Siete dei giovani intraprendenti, e vostro obiettivo è quello di accumulare pi�
 
 Aldilà delle fatiche quotidiane legate alla pesca, all'agricoltura e al commercio, l'anima di Shimanami trova espressione nelle diverse forme d'arte che fioriscono sull'isola. Nonostante non vi siano grandi corti a stimolare mecenatismo su vasta scala come nel continente, la creatività persiste, alimentata dalla spiritualità legata al Monte Shirakumo e dalle tradizioni locali. Gli artisti non lavorano solo per devozione o piacere personale, ma trovano committenti tra i mercanti più ricchi e i nobili che apprezzano il valore estetico e spirituale di queste opere.
 
-La **musica** è un elemento vitale, in particolare durante i **matsuri** stagionali. Tamburi potenti (_taiko_) scandiscono il ritmo delle processioni e delle danze, flauti (_shakuhachi_ o _fue_) intonano melodie evocative legate alla natura o alle leggende, e strumenti a corde come lo _shamisen_ o il _koto_ accompagnano canti e narrazioni. Ogni villaggio ha le sue tradizioni musicali, tramandate di generazione in generazione, essenziali per connettersi con i Kami e celebrare i cicli della vita e del raccolto.
+La **musica** è un elemento vitale, in particolare durante i **Matsuri** stagionali. Tamburi potenti (_taiko_) scandiscono il ritmo delle processioni e delle danze, flauti (_shakuhachi_ o _fue_) intonano melodie evocative legate alla natura o alle leggende, e strumenti a corde come lo _shamisen_ o il _koto_ accompagnano canti e narrazioni. Ogni villaggio ha le sue tradizioni musicali, tramandate di generazione in generazione, essenziali per connettersi con i Kami e celebrare i cicli della vita e del raccolto.
 
 Anche altre forme d'arte trovano spazio: gli artigiani di Takamura non creano solo ceramiche funzionali, ma anche pezzi d'arte, vasi e ciotole che raccontano storie o riflettono la bellezza imperfetta del _wabi-sabi_. L'**intaglio del legno**, sia per decorazioni architettoniche nei templi e nelle case dei ricchi, sia per la creazione di maschere usate nelle rappresentazioni rituali, è un'altra abilità preziosa. Infine, la **poesia** e la **narrazione** orale sono diffuse, con storie di eroi, spiriti e l'antica saggezza conservata dai monaci, talvolta messe per iscritto da scribi o studiosi, forse conservate gelosamente nei templi delle tre città.
 
@@ -137,7 +137,7 @@ La forma di governo di Shimanami può essere descritta come una **oligarchia feu
 
 #### **Daimyō (大名)**, il signore feudale ⚔️
 
-[Barbero] Sull'isola di Shimanami, il Daimyō rappresenta **l'autorità suprema**, un ruolo che combina potere militare, legislativo e giudiziario. Il daimyō risiede a Kanemura e presiede il Consiglio dell'Isola, nominando ufficiali diretti come hatamoto, bugyō e comandanti locali. Il suo potere si estende su tutto l'arcipelago, ma è bilanciato da una rete di consiglieri e funzionari che assicurano l'equilibrio tra le varie forze politiche e sociali dell'isola.
+[Barbero] Sull'isola di Shimanami, il Daimyō rappresenta **l'autorità suprema**, un ruolo che combina potere militare, legislativo e giudiziario. Il daimyō risiede a Kanemura e presiede il Consiglio dell'Isola, nominando ufficiali diretti come hatamoto, Bugyō e comandanti locali. Il suo potere si estende su tutto l'arcipelago, ma è bilanciato da una rete di consiglieri e funzionari che assicurano l'equilibrio tra le varie forze politiche e sociali dell'isola.
 
 Attualmente, questa posizione è ricoperta da **Aokabe Munetaka**, un uomo anziano ma ancora ambizioso. 
 
@@ -174,27 +174,67 @@ Il **Tōryō** è il capofamiglia di una casa commerciale, figura centrale della
 
 ---
 
-### 🎣 La Gilda dei Pescatori
+## Le Gilde di Shimanami
+
+> *Sull’isola dove i venti intrecciano sale, fuoco e seta, le gilde di Shimanami tessono silenziose il destino del popolo, come nodi invisibili nella trama del mare...*
+
+
+#### 🎣 La Gilda dei Pescatori
 
 Nel cuore pulsante di Umihana, il villaggio le cui fortune sono legate al mare, l'attività ittica è saldamente ancorata alla "Gilda dei Pescatori". Questa consolidata associazione, formata da circa venti famiglie residenti, rappresenta un modello di cooperazione essenziale per la sopravvivenza e la prosperità della comunità costiera. Mettendo in comune le imbarcazioni più grandi e coordinando gli equipaggi per le spedizioni in mare aperto, la Gilda massimizza l'efficienza della pesca e mitiga i rischi individuali. Il pescato viene gestito collettivamente, una parte conservata in un magazzino comune per essere poi venduta in blocco ai mercanti di Kanemura. Questo commercio centralizzato, negoziato dall'esperto leader Hiroshi, garantisce condizioni migliori rispetto alle trattative individuali. 
 
 Oltre al suo ruolo economico cruciale, la Gilda agisce come una vitale rete di supporto sociale: un fondo comune fornisce assistenza ai membri colpiti da malattie o danni alle attrezzature, cementando i legami comunitari e assicurando che nessuna famiglia sia lasciata sola di fronte alle avversità del mare e della vita sull'isola. La Gilda dei Pescatori è, in essenza, la spina dorsale di Umihana, un esempio di come la solidarietà e l'organizzazione collettiva siano fondamentali per resistere e prosperare nel duro ma generoso ambiente marino di Shimanami.
 
 
+#### 🏺 **La Gilda degli Artigiani – _Haji no Kura_ (土師座)**
+
+Nel cuore di Takamura, dove le colline offrono argilla rossa e la brezza dell’isola asciuga le fornaci all’aria aperta, si erge la Gilda degli Artigiani, conosciuta come _Haji no Kura_. Nata da una tradizione che risale ai primi insediamenti dell’isola, questa gilda riunisce ceramisti, scultori, carpentieri e fabbricanti di oggetti rituali e di uso quotidiano. Ogni membro è più che un semplice artigiano: è custode di un sapere antico, trasmesso attraverso il gesto e il fuoco.
+
+L’attività della Gilda è regolata da rigide stagioni di produzione e da codici simbolici che si rifanno agli _spiriti della forma_ – entità silenziose che si dice abitino gli oggetti ben forgiati. Le fornaci comuni, dette _Haigama_, vengono accese solo durante i periodi rituali, e ogni cottura è accompagnata da canti e offerte.
+
+Oltre alla produzione artistica, la Gilda esercita un forte controllo sui prezzi e sulla qualità delle opere vendute nei mercati di Shimanami. I membri anziani, i _Moribito_, possono vietare l’esportazione di oggetti sacri, o invocare il diritto di rifiuto su commissioni ritenute indegne.
+
+Tra i suoi benefici: accesso a pigmenti e materiali selezionati, protezione legale in caso di controversie, diritto a esporre durante i festival stagionali e, per i più abili, l’onore di ricevere incarichi dai templi e dai nobili.
+
+_Haji no Kura_ non è solo un’associazione di mestieri: è una confraternita spirituale che plasma l’anima dell’isola, una scultura collettiva forgiata da mani, memoria e fuoco.
+
+
+#### 🏮 **La Gilda dei Mercanti – _Shōren_ (商連)
+
+Nel crocevia fra le città di Kanemura e gli snodi portuali di Umihana e Takamura, si muove silenziosa ma influente la _Shōren_, la Gilda dei Mercanti. Nata da un patto tra tre antiche casate di commercianti, la Gilda oggi coordina un intricato reticolo di botteghe, trasportatori, negozi ambulanti e rappresentanze itineranti.
+
+La _Shōren_ è la più importante associazione economica. I suoi membri stabiliscono i prezzi delle merci essenziali, emettono _licenze di scambio_, e finanziano spedizioni commerciali collettive che uniscono le isole del Mare Interno. Il Consiglio dei Cinque Sigilli, composto dai capi mercanti più influenti, si riunisce settimanalmente nella Sala della Bilancia per discutere rotte, monopoli e alleanze temporanee.
+
+A livello locale, la Gilda è anche un sistema di supporto e vigilanza. Un fondo d’emergenza tutela i membri da rovesci di fortuna, mentre ogni bottega affiliata gode di **protezione contrattuale**, accesso privilegiato ai mercati settimanali, e informazioni sulle tasse, i dazi, e le preferenze dei nobili.
+
+I giovani apprendisti sono spesso formati presso case mercantili maggiori, per poi ottenere – dopo prove e viaggi – il diritto di aprire una propria attività sotto il sigillo della Gilda. I membri più fortunati possono anche gestire **reti di sottovenditori** (_shōka-ren_) e aspirare a sedere nel consiglio stesso.
+
+La _Shōren_ è il cuore invisibile che pompa ricchezza nell’isola: muta, flessibile, determinata, e capace di trasformare anche una semplice foglia di tè in una fortuna.
+
+
 ---
 
 ### ⚓ I Pirati e le Incursioni sulla Terraferma
 
-Per comprendere la prudenza — a volte ai limiti della paranoia — con cui gli isolani di Shimanami trattano i viaggiatori provenienti da lontano, bisogna guardare al mare e alla memoria. Nei decenni passati, bande di **wako (倭寇)**, pirati giapponesi e coreani spesso alleati con trafficanti cinesi, hanno solcato le acque dell’arcipelago e non di rado hanno sbarcato uomini armati sulla terraferma, devastando villaggi costieri e saccheggiando monasteri. Non erano semplici briganti: erano reti organizzate, legate a famiglie decadute, a ex-Ronin, e a mercanti divenuti troppo ambiziosi. Queste incursioni hanno lasciato cicatrici profonde non solo nei raccolti bruciati o nei porti devastati, ma nell’animo collettivo. Da allora, ogni vela all’orizzonte è scrutata con sospetto, ogni bandiera sconosciuta fa trattenere il fiato. Anche oggi, sebbene più rari, si sussurra che alcuni clan del sud abbiano ancora legami con le rotte dei pirati. E sull’isola, il mare è amico solo finché resta calmo.
+Per comprendere la prudenza — a volte ai limiti della paranoia — con cui gli isolani di Shimanami trattano i viaggiatori provenienti da lontano, bisogna guardare al mare e alla memoria. Nei decenni passati, bande di **Wako (倭寇)**, pirati giapponesi e coreani spesso alleati con trafficanti cinesi, hanno solcato le acque dell’arcipelago e non di rado hanno sbarcato uomini armati sulla terraferma, devastando villaggi costieri e saccheggiando monasteri. Non erano semplici briganti: erano reti organizzate, legate a famiglie decadute, a ex-Ronin, e a mercanti divenuti troppo ambiziosi. Queste incursioni hanno lasciato cicatrici profonde non solo nei raccolti bruciati o nei porti devastati, ma nell’animo collettivo. Da allora, ogni vela all’orizzonte è scrutata con sospetto, ogni bandiera sconosciuta fa trattenere il fiato. Anche oggi, sebbene più rari, si sussurra che alcuni clan del sud abbiano ancora legami con le rotte dei pirati. E sull’isola, il mare è amico solo finché resta calmo.
 
 
 ---
 
 ### 🐚 Religione - Gli Spiriti del Silenzio
 
-Sebbene Shimanami non conosca la magia, la spiritualità permea la vita quotidiana dei suoi abitanti. Gli Spiriti del Silenzio, i **Kami**, dimorano nei templi, sugli altari, nel paesaggio naturale e persino nei sogni. Questi Kami governano aspetti fondamentali del mondo, come il mare, il legno, il fuoco e la giovinezza, e i loro nomi vengono sussurrati e onorati durante i matsuri stagionali. La menzogna di fronte a una maschera sacra porta con sé il timore della punizione divina, un promemoria costante del rispetto dovuto a queste entità.
+Sebbene Shimanami non conosca la magia, la spiritualità permea la vita quotidiana dei suoi abitanti. Gli Spiriti del Silenzio, i **Kami**, dimorano nei templi, sugli altari, nel paesaggio naturale e persino nei sogni. Questi Kami governano aspetti fondamentali del mondo, come il mare, il legno, il fuoco e la giovinezza, e i loro nomi vengono sussurrati e onorati durante i *Matsuri* stagionali. La menzogna di fronte a una maschera sacra porta con sé il timore della punizione divina, un promemoria costante del rispetto dovuto a queste entità.
 
 I templi dell'isola e i monaci che li abitano svolgono un ruolo vitale, preservando il sapere antico e fungendo da guide spirituali e morali. Affiancando i Kami generici, ogni città venera specifici protettori: Kanemura onora **Fukutoku Daimyōjin (福徳大明神)**, Kami del commercio e della ricchezza; Takamura si affida a **Kagutsuchi-no-Kami (迦具土神)**, Kami del fuoco cruciale per l'artigianato; mentre Umihana invoca la protezione di **Ebisu (えびす / 恵比須)**, patrono della pesca, e di **Inari (稲荷大神)**, Kami del raccolto. Questi spiriti patroni sono parte integrante dell'identità e delle fortune di ciascuna comunità, legando la prosperità terrena al favore del mondo spirituale.
+
+
+---
+
+## 🎎 Matsuri – I Festival dell’Equilibrio
+
+> _“Quando le lanterne si accendono e i tamburi vibrano, anche gli Spiriti ascoltano.”_
+
+Sull’isola di Shimanami, i **matsuri** (祭り) non sono semplici feste stagionali: sono **riti collettivi**, ponti tra la vita quotidiana e il mondo invisibile dei Kami. Ogni città, villaggio e frazione celebra i propri matsuri secondo antiche tradizioni locali, ma tutti condividono un obiettivo comune: **rinnovare l’armonia** tra la comunità, la natura, e gli spiriti protettori.
 
 
 ---
@@ -203,8 +243,11 @@ I templi dell'isola e i monaci che li abitano svolgono un ruolo vitale, preserva
 
 L’ecosistema di Shimanami è ricco e variegato, riflesso della sua posizione isolana, delle sue foreste sacre e del mare che la circonda.
 
+
 #### 🐾 Fauna Terrestre
 
+- **Salmone Masu** (サクラマス)** – nasce nei fiumi, vive in mare, e risale per deporre le uova in primavere (da cui il nome Sakura-Masu)
+    
 - **Cervi sika (ニホンジカ)** – sacri, presenti nei boschi attorno a Shirakumo-yama
     
 - **Cinghiali (イノシシ)** – temuti nei campi, simbolo di forza grezza
