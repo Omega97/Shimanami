@@ -6,7 +6,7 @@
 
 ### 📊 Prezzi di Mercato Indicativi
 
-Come punto di riferimento, 1 Koku = 400 Ryoo di riso (40🟡) nutrono un medio uomo per un anno.
+Come punto di riferimento, 1 Koku = 400 Ryoo di riso (40🟡) nutrono un uomo medio per un anno.
 
 (Vedi sotto per unità di misura)
 
@@ -23,8 +23,8 @@ Come punto di riferimento, 1 Koku = 400 Ryoo di riso (40🟡) nutrono un medio u
 | Katane cerimoniali 🗡        | 10–30 🟡     | 1 pezzo          |
 | Barca piccola 🛶             | 5–20 🟡      | 1 barca          |
 | Carro per trasporto merci 🚚 | 6 🟡         | 1 unità          |
-| Carretto 🛒                  | 2 🟡         | 1 unità          |
 | Cavallo 🐎                   | 3 🟡         | 1 unità          |
+| Carretto 🛒                  | 2 🟡         | 1 unità          |
 | Gioielli in perle 💠         | 2-40 🟡      | 1 gioiello       |
 | Perla 🦪                     | 1-10 🟡      | 1 unità          |
 | Reti da pesca 🕸️            | 20-30 ⚪️     | 1 rete           |
@@ -37,8 +37,9 @@ Come punto di riferimento, 1 Koku = 400 Ryoo di riso (40🟡) nutrono un medio u
 | Villa 🏘                   | 400-1000 🟡  | 1 proprietà      |
 | Casa media 🏠              | 250-400 🟡   | 1 proprietà      |
 | Casa piccola 🏡            | 150-250 🟡   | 1 proprietà      |
-| Magazzino📦                | 50 🟡        | 1 proprietà      |
-| Bottegha 🏬                | 30-300 🟡    | 1 proprietà      |
+| Magazzino Grande📦         | 120 🟡       | 1 proprietà      |
+| Magazzino Piccolo📦        | 50 🟡        | 1 proprietà      |
+| Bottegha 🏬                | 40-300 🟡    | 1 proprietà      |
 | Terreno edificabile 🟩     | 3-30 🟡      | 1 Kawa           |
 | Terreno coltivabile 🟩     | 1-3 🟡       | 1 Kawa           |
 | Terreno non-edificabile 🟩 | 5–100 ⚪️     | 1 Kawa           |
@@ -142,8 +143,9 @@ Il costo del cibo quotidiano varia a seconda dello stile di vita. Un pasto sempl
 | Villa 🏘                              | 100-150 ⚪️    | Giardino, cortile, servitù                                    |
 | **Bottega artigianale**               | 100 ⚪️        | Include licenza, spese pubbliche e prelievi locali            |
 | **Magazzino commerciale**             | 100 ⚪️        | Vale anche per depositi o strutture di stoccaggio             |
+| Rotta Commerciale via terra 🐫        | 100 ⚪️        |                                                               |
+| Rotta Commerciale via mare ⛴          | 100 ⚪️        |                                                               |
 | Casa cittadina 🏠                     | 50-100 ⚪️     | Include servizi e posizione                                   |
-| **Permesso di trasporto merci**       | 50–60 ⚪️      | In base alla lunghezza della tratta e uso delle strade locali |
 | Permesso per abbattere gli alberi     | 40 ⚪️         | Per 100 kawa circa, solitamente applicata approssimativamente |
 | Casa semplice 🏡                      | 30-50 ⚪️      | Per famiglia contadina                                        |
 | Bancarella 🧺                         | 25 ⚪️         | Include licenza di commercio                                  |
