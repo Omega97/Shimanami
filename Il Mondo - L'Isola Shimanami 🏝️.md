@@ -11,7 +11,7 @@
 
 [Barbero] Sull’isola di Shimanami, **il rispetto, l’onore e la reputazione personale** sono alla base della vita quotidiana. La popolazione — contadini, artigiani, mercanti, persino samurai decaduti — agisce secondo un codice non scritto, in cui un gesto gentile, un’inchino ben dosato o una parola mantenuta contano più di qualsiasi legge. Il crimine, in questo contesto, non è soltanto una colpa legale: è una macchia sociale, un disonore che può escludere una persona dalla comunità come fosse un malato contagioso. L’equilibrio dell’isola si regge su questo sistema silenzioso di fiducia reciproca, in cui l’armonia è più importante del guadagno, e un uomo che tradisce viene dimenticato prima ancora che condannato.
 
-[Barbero] Eppure, tra le pieghe di questa società ordinata, si muovono ombre discrete. Piccoli gruppi legati al mondo **criminale** — mai apertamente dichiarati, ma ben riconoscibili da chi sa osservare — hanno cominciato a operare ai margini. Si occupano di riscossione debiti, offrono “protezione”, si infiltrano nel commercio e negli eventi pubblici. Non osano sfidare apertamente l’autorità del daimyō o la moralità collettiva, ma tessono legami, distribuiscono favori e coltivano un potere sottile. Sono tollerati, finché non esagerano. Perché a Shimanami, l’onore è più prezioso del denaro, e molto più difficile da comprare.
+[Barbero] Eppure, tra le pieghe di questa società ordinata, si muovono ombre discrete. Piccoli gruppi legati al mondo **criminale** — mai apertamente dichiarati, ma ben riconoscibili da chi sa osservare — hanno cominciato a operare ai margini. Si occupano di riscossione debiti, offrono “protezione”, si infiltrano nel commercio e negli eventi pubblici. Non osano sfidare apertamente l’autorità del Daimyō o la moralità collettiva, ma tessono legami, distribuiscono favori e coltivano un potere sottile. Sono tollerati, finché non esagerano. Perché a Shimanami, l’onore è più prezioso del denaro, e molto più difficile da comprare.
 
 [Barbero] Ed è in questo mondo — ordinato in apparenza, ma pieno di fratture pronte ad aprirsi — che inizia la vostra storia.
 
@@ -199,7 +199,7 @@ Tra i suoi benefici: accesso a pigmenti e materiali selezionati, protezione lega
 _Haji no Kura_ non è solo un’associazione di mestieri: è una confraternita spirituale che plasma l’anima dell’isola, una scultura collettiva forgiata da mani, memoria e fuoco.
 
 
-#### 🏮 **La Gilda dei Mercanti – _Shōren_ (商連)
+#### 🏮 La Gilda dei Mercanti – _Shōren_ (商連)
 
 Nel crocevia fra le città di Kanemura e gli snodi portuali di Umihana e Takamura, si muove silenziosa ma influente la _Shōren_, la Gilda dei Mercanti. Nata da un patto tra tre antiche casate di commercianti, la Gilda oggi coordina un intricato reticolo di botteghe, trasportatori, negozi ambulanti e rappresentanze itineranti.
 
@@ -210,6 +210,16 @@ A livello locale, la Gilda è anche un sistema di supporto e vigilanza. Un fondo
 I giovani apprendisti sono spesso formati presso case mercantili maggiori, per poi ottenere – dopo prove e viaggi – il diritto di aprire una propria attività sotto il sigillo della Gilda. I membri più fortunati possono anche gestire **reti di sottovenditori** (_shōka-ren_) e aspirare a sedere nel consiglio stesso.
 
 La _Shōren_ è il cuore invisibile che pompa ricchezza nell’isola: muta, flessibile, determinata, e capace di trasformare anche una semplice foglia di tè in una fortuna.
+
+#### 🪚 La Gilda del Costruttori - _Kensetsu-shū_ (建設衆)
+
+La Gilda dei Costruttori rappresenta la spina dorsale architettonica di Shimanami. Con radici profonde a Takamura, la città delle arti e delle gilde, la sua storia è incisa in ogni struttura dell'isola, dai ponti che uniscono le terre ai templi sacri del Monte Shirakumo, fino alle case di mercanti e pescatori, ognuna delle quali testimonia la maestria di generazioni di artigiani che hanno plasmato il paesaggio.
+
+L'organizzazione della _Kensetsu-shū_ è rigorosa, basata su una gerarchia che vede in cima i Maestri Costruttori. L'accesso alla Gilda è selettivo, richiedendo anni di dedizione e l'acquisizione di tecniche secolari. Il Gran Maestro attuale, Katsuro Ishida, è una figura di grande rispetto, la cui competenza è tale da essere consultato dal Consiglio dell'Isola e persino dal Daimyō per le questioni urbanistiche più importanti, sottolineando la centralità della Gilda nella pianificazione e nello sviluppo di Shimanami.
+
+La _Kensetsu-shū_ eccelle in un'ampia gamma di discipline costruttive. Sono maestri nell'architettura tradizionale in legno, esperti nell'ingegneria civile per ponti e strade, abili nella lavorazione della pietra per fondazioni e mura, e competenti nelle opere idrauliche essenziali per la gestione delle risorse idriche. In particolare, la loro abilità nel restauro è cruciale per preservare gli antichi templi e i monumenti storici, dimostrando una capacità unica di onorare il passato mentre costruiscono per il futuro.
+
+Oltre alla loro indiscussa perizia, la _Kensetsu-shū_ detiene un notevole potere economico e politico. I loro servizi, indispensabili e costosi, e la loro approvazione sono fondamentali per qualsiasi progetto di costruzione di rilievo, rendendoli attori chiave nelle dinamiche di potere dell'isola. La Gilda gode di una reputazione di integrità e maestria, sebbene, come ogni organizzazione influente, non sia immune da intrighi e pettegolezzi, specialmente quando si tratta di progetti di grande portata che coinvolgono ingenti somme di denaro o interessi politici.
 
 
 ---
