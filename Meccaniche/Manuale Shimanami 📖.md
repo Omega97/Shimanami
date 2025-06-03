@@ -124,8 +124,8 @@ Ciascun giocatore può sbloccare i seguenti slot indicati di seguito. Il primo s
 | Bottega artigianale 🏺              | Produzione      | Gilda degli Artigiani / Cosiglio     |
 | Concessione forestale (100 Kawa) 🌲 | Produzione      | Bugyō delle Risorse / Gilda          |
 | Mezzadria (100 Kawa) 🟩             | Produzione      | Consiglio / Machitoshiyori Locale    |
-| Rotta commerciale via mare 🐫       | Logistica       | Gilda Mercati / Bugyō Locale         |
-| Rotta commerciale via terra ⛴       | Logistica       | Gilda dei Pescatori  / Gilda Mercati |
+| Rotta commerciale via terra 🐫      | Logistica       | Gilda Mercati / Bugyō Locale         |
+| Rotta commerciale via mare ⛴        | Logistica       | Gilda dei Pescatori  / Gilda Mercati |
 | Bancarella 💸                       | Vendita         | Gilda Mercati / Tempio Locale        |
 | Negozio/Locale 🛒                   | Vendita stabile | Gilda Mercantile / Cosiglio          |
 | Magazzino 🏠                        | Stoccaggio      | Bugyō del Commercio / Cosiglio       |
