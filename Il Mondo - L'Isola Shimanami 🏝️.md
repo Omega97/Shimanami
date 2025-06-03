@@ -3,7 +3,7 @@
 
 > *L'isola è ricca di misteri, zone da esplorare, e persone da incontrare...*
 
-[Barbero] Allora, cominciamo col dire che siamo nel Giappone del primo Cinquecento. Non quello dei samurai in armatura lucente dei film, ma un arcipelago frammentato, dove il potere centrale dello shōgun è ormai un’ombra lontana e le terre vengono amministrate, o contese, da clan locali, gilde artigiane, e famiglie nobiliari ormai radicate. È il principio di quella che diventerà l’epoca degli stati in guerra, ma non ancora: il caos è latente, e in molte isole, come **Shimanami**, l’equilibrio è mantenuto da un delicato intreccio di consuetudini, reputazione e interessi materiali.
+[Barbero] Allora, cominciamo col dire che siamo nel Giappone del primo Cinquecento. Non quello dei samurai in armatura lucente dei film, ma un arcipelago frammentato, dove il potere centrale dello Shōgun è ormai un’ombra lontana e le terre vengono amministrate, o contese, da clan locali, gilde artigiane, e famiglie nobiliari ormai radicate. È il principio di quella che diventerà l’epoca degli stati in guerra, ma non ancora: il caos è latente, e in molte isole, come **Shimanami**, l’equilibrio è mantenuto da un delicato intreccio di consuetudini, reputazione e interessi materiali.
 
 [Barbero] Shimanami non è un dominio militare. È un’isola indipendente, remota, fuori dalle grandi rotte, ma perfettamente viva, ecco… Le sue tre città principali — Kanemura, Takamura e Umihana — sono connesse da strade battute, commerci marittimi e alleanze silenziose. Ogni città ha una vocazione diversa, e una personalità tutta sua, ma tutte partecipano allo stesso gioco sottile: accumulare ricchezza, influenza, e onore.
 
@@ -33,10 +33,10 @@
 🟦🟦🟦🟦🟦🟦🟦🟨🛍️🏘🏘🏦🏘🏰⚔️🌱🌱🫛🌳🌳🟩🟨🏝️🏝️🟦🟦🟦🟦🟦🟦
 🟦🟦🌊🟦🟦🟦🟦🟨🏠🏘🏺🏬🏫🏡📚🌱🌱🫛🌳🌳🟩🌳🟨🏝️🏝️🟦🟦🟦🟦🟦
 🟦🟦🟦🟦🟦🟦🟨🏡🏠🏥🏡🏘🌷🌲🟩🌱🌱🟩🟩🟩🌳🌳🌴🟨🏝️🟦🟦🟦🟦🟦
-🟦🟦🟦🟦🟦🟦🟨🎋🏡🌾🌾🍠🍠🍠🌲🟩🟩🪵🌲🌳🟩🏚🌴🟨🟦🟦🦀🟦🟦🟦
-🟦🟦🟦🟦🟦🟦🟨🎋🟩🌾🌾🍠🍠🍠🟩🗻🦇🗻🌲🌲🟩🌳🟨🟦🟦🟦🟦🟦🟦🟦
+🟦🟦🟦🟦🟦🟦🟨🎋🏡🌾🌾🍠🍠🍠🌲🟩🟩🌉🪵🌳🟩🏚🌴🟨🟦🦀🟦🟦🟦🟦
+🟦🟦🟦🟦🟦🟦🟨🎋🟩🌾🌾🍠🍠🍠🟩🗻🗻🦇🗻🌲🟩🌳🟨🟦🟦🟦🟦🟦🟦🟦
 🟦🟦🟦🟦🟦🏝️🟨🎋🟩🌾🌾🌾🟩🟩🗻🗻🗻🗻🗻🌲🟩🌳🟨🟦🟦🟦🟦🟦🟦🟦
-🟦🟦🟦🟦🟦🟨🌴🌲🌳🟩🟩🟩🌲🗻🗻🗻🏯🗻🗻🌲🌲🟩🌳🟨🟦🟦🟦🐟🟦🟦
+🟦🟦🟦🟦🟦🟨🌴🌲🌳🟩🟩🟩🌲🗻🗻🗻🏯🗻🗻🗻🌲🟩🌳🟨🟦🟦🟦🐟🟦🟦
 🟦🟦🟦🟦🟨🌲🌲🌲🟩🎋🎋🎋🟩🌲⛏️🗻🗻🗻🎋🎋🎋🟩🌳🟨🟦⛩️🟦🟦🟦🟦
 🟦🟦🟦🟦🟨🌲🌲🌲🟩🎋🌲🌲🌲🟩🟩🏡🌲🎋🎋🟩🟩🌳🌳🟨🟦🟨🟦🟦🟦🟦
 🟦🌊🟦🟦🟦🟨🌲🌲🌲🟩🌲🌳🌲🌳🌳🟩🌲🌲🟩🌲🌲🌲🌴🟨🟦🟨🟦🟦🟦🟦
@@ -245,6 +245,13 @@ I templi dell'isola e i monaci che li abitano svolgono un ruolo vitale, preserva
 > _“Quando le lanterne si accendono e i tamburi vibrano, anche gli Spiriti ascoltano.”_
 
 Sull’isola di Shimanami, i **matsuri** (祭り) non sono semplici feste stagionali: sono **riti collettivi**, ponti tra la vita quotidiana e il mondo invisibile dei Kami. Ogni città, villaggio e frazione celebra i propri matsuri secondo antiche tradizioni locali, ma tutti condividono un obiettivo comune: **rinnovare l’armonia** tra la comunità, la natura, e gli spiriti protettori.
+
+
+## 🍁 **Akimatsuri** - Il Festival del Raccolto
+
+L’**Akimatsuri** è il momento che segna l'inizio dell’autunno a Shimanami. Ogni anno, in un luogo diverso dell’isola, contadini, artigiani, mercanti, nobili e monaci si riuniscono per celebrare l’abbondanza della terra con cibo, musica e rituali. I mercati esplodono di colori e profumi, i tamburi taiko risuonano tra i vicoli, e le famiglie si ritrovano tra risate, lanterne e offerte agli spiriti. È un raro momento in cui l’intera isola si ferma per condividere gioia, gratitudine e speranza.
+
+Ma sotto la superficie festosa, si intrecciano accordi segreti, sguardi diffidenti e promesse silenziose. Il festival è anche un terreno fertile per alleanze, intrighi e opportunità: chi vuole farsi un nome o cambiare il proprio destino, sa che qui può farlo — se gioca bene le sue carte.
 
 
 ---
