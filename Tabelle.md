@@ -84,11 +84,13 @@ Come punto di riferimento, 1 Koku = 400 Ryoo di riso (40🟡) nutrono un uomo me
 
 ### Produttività 💪
 
+Produttività stimata per un contadino.
+
 |                  | **sup.** | **primavera** | **estate** | **autunno** | **produzione** | **Produzione** |
 | ---------------- | -------- | ------------- | ---------- | ----------- | -------------- | -------------- |
 |                  | [Kawa]   | [mesi]        | [mesi]     | [mesi]      | [Ryoo/Kawa]    | [Ryoo/anno]    |
-| **patate**       | 500      | 3             | 3          |             | 2.5            | 1250           |
-| **riso**         | 500      | 3             | 3          |             | 5              | 2500           |
+| **patate**       | 250      | 3             | 3          |             | 2              | 500            |
+| **riso**         | 250      | 3             | 3          |             | 2.5            | 625            |
 | **fagioli**      | 200      | 3             |            |             | 1.5            | 300            |
 | **foglie di tè** | 200      | 3             | 3          |             | 1              | 200            |
 | **alghe**        | 200      | 3             | 3          |             | 10             | 2000           |
@@ -152,7 +154,7 @@ Il costo del cibo quotidiano varia a seconda dello stile di vita. Un pasto sempl
 | **Barca da pesca personale**          | 20 ⚪️         | Tassa di licenza e accesso al porto                           |
 | **Deposito/piccolo magazzino**        | 100 ⚪️        | Vale anche per depositi o strutture di stoccaggio             |
 | **1 Kawa di terreno edificabile**     | 50 🟠         |                                                               |
-| **1 Kawa di terreno agricolo**        | 10 🟠         | Tassa agricola di base                                        |
+| **1 Kawa di terreno agricolo**        | 25 🟠         | Tassa agricola di base                                        |
 | **1 Kawa di terreno non-edificabile** | 1 🟠          |                                                               |
 | **Esenzione religiosa**               | 0             | Solo per chi serve un tempio o è sotto protezione clericale   |
 | Samurai al servizio                   | 0             | Esentasse, ma obblighi militari e di presenza                 |
