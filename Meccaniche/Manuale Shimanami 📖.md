@@ -111,7 +111,9 @@ Per fornire un'**esperienza asincrona fluida**, e mantenere l’**illusione del 
 
 ### 🏛 Contesto e Motivazione In-World
 
-Nell'isola di Shimanami, dove la ricchezza è potere ma l'equilibrio è sacro, l'espansione mercantile non è libera né illimitata. Dopo le "Crisi dei Granai Vuoti" e la "Rivolta dei Pescatori" di alcuni decenni fa, il **Consiglio dell’Isola** ha emanato la **Legge dei Permessi Commerciali** (_Shōmon no Hō_, “Legge del Timbro”), che regola severamente l’estensione delle attività logistiche per evitare squilibri economici, sfruttamento della forza lavoro e disordini nelle strade e nei porti. Sotto questa legge, ogni carro da trasporto merci, ogni impiegato, e ogni magazzino commerciale richiede un **permesso ufficiale**, concesso dalle **autorità cittadine** sotto supervisione dei _Bugyō_ del Commercio.
+Nell'isola di Shimanami, dove la ricchezza è potere ma l'equilibrio è sacro, l'espansione mercantile non è libera né illimitata. Dopo le "Crisi dei Granai Vuoti" e la "Rivolta dei Pescatori" di alcuni decenni fa, il **Consiglio dell’Isola** ha emanato la **Legge dei Permessi Commerciali** (_Shōmon no Hō_, “Legge del Timbro”), che regola severamente l’estensione delle attività logistiche per evitare squilibri economici, sfruttamento della forza lavoro e disordini nelle strade e nei porti. Sotto questa legge, ogni carro da trasporto merci, ogni impiegato, e ogni magazzino commerciale, richiedono un **permesso ufficiale**, concesso dalle **autorità cittadine** sotto supervisione dei _Bugyō_ e dei *Consigli*.
+
+I permessi mercantili di Shimanami non sono soltanto timbri o formalità burocratiche: sono **leve di potere, mappe d’ambizione e strumenti di controllo sociale**. La **Shōmon no Hō** non vieta il commercio — lo _misura_, e soprattutto, lo _canalizza_. Nessuna attività economica, dalla pesca alla logistica, dall’artigianato alla vendita, può espandersi senza un **permesso ufficiale**. Espandere un’attività non è questione di denaro, ma di **capacità diplomatica**: un mercante dovrà guadagnarsi permessi attraverso **fama**, **alleanze**, **rituali religiosi**, **missioni civili**. Sponsorizzare un festival per ottenere una bancarella, ricostruire un ponte per aprire una rotta, versare offerte in un tempio per pescare in nuove acque: ogni gesto conta. Questo sistema non regola soltanto il commercio, **regola chi è in grado di diventare qualcuno**.
 
 #### 📜 Gli Slot Produttivi
 
@@ -121,15 +123,15 @@ Ciascun giocatore può sbloccare i seguenti slot indicati di seguito. Il primo s
 | ----------------------------------- | --------------- | ------------------------------------ |
 | Impiegati 👤                        | Personale       | Bugyō Locale                         |
 | Barca da pesca 🐟                   | Produzione      | Gilda dei Pescatori / Porto          |
-| Bottega artigianale 🏺              | Produzione      | Gilda degli Artigiani / Cosiglio     |
+| Bottega artigianale 🏺              | Produzione      | Gilda degli Artigiani / Consiglio    |
 | Concessione forestale (100 Kawa) 🌲 | Produzione      | Bugyō delle Risorse / Gilda          |
 | Mezzadria (100 Kawa) 🟩             | Produzione      | Consiglio / Machitoshiyori Locale    |
 | Rotta commerciale via terra 🐫      | Logistica       | Gilda Mercati / Bugyō Locale         |
 | Rotta commerciale via mare ⛴        | Logistica       | Gilda dei Pescatori  / Gilda Mercati |
 | Bancarella 💸                       | Vendita         | Gilda Mercati / Tempio Locale        |
-| Negozio/Locale 🛒                   | Vendita stabile | Gilda Mercantile / Cosiglio          |
-| Magazzino 🏠                        | Stoccaggio      | Bugyō del Commercio / Cosiglio       |
-| Residenza urbana 🏠                 | Residenza       | Kazoku e Bugyō / Cosiglio            |
+| Negozio/Locale 🛒                   | Vendita stabile | Gilda Mercantile / Consiglio         |
+| Magazzino 🏠                        | Stoccaggio      | Bugyō del Commercio / Consiglio      |
+| Residenza urbana 🏠                 | Residenza       | Consiglio / Kazoku                   |
 
 Per dare un graduale senso di progresso al gioco, il giocatore dovrà persuadere le autorità a concedergli di espandere la propria attività, talvolta superando una prova (o ricorrendo alla buona vecchia corruzione!).
 
