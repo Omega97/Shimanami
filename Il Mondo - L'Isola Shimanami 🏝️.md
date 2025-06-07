@@ -22,7 +22,7 @@
 
 ```
 ⬆️Kanemura: 3300 abitanti
-↘️Takamura: 2100 abitanti
+↘️Takamura: 2200 abitanti
 ↙️Umihana: 1900 abitanti
 
 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦
@@ -31,8 +31,8 @@
 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟨🟨🏠🏡🌴🌳🟨🟨🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🌊🟦
 🟦🟦🟦🟦🟦🟦🟦🟦⚓️🟨🏝️🏘🏠🏠🏡🌳🌴🌳🟨🟨🟨🟨🟦🟦🟦🟦🟦🟦🟦🟦
 🟦🟦🟦🟦🟦🟦🟦🟨🛍️🏘🏘🏦🛕🏰⚔️🌱🌱🫛🌳🌳🟩🟨🏝️🏝️🟦🟦🟦🟦🟦🟦
-🟦🟦🌊🟦🟦🟦🟦🟨🏠🏘🏺🏬🏫🏡📚🌱🌱🫛🌳🌳🟩🌳🟨🏝️🏝️🟦🟦🟦🟦🟦
-🟦🟦🟦🟦🟦🟦🟨🏡🏠🏥🏡🏘🌷🌲🟩🌱🌱🟩🟩🟩🌳🌳🌴🟨🏝️🟦🟦🟦🟦🟦
+🟦🟦🌊🟦🟦🟦🟦🟨🏠🏘🏺🏬🏫🏡📚🌱🌱🫛🌳🌳🟩🌳🏝️🏝️🏝️🟦🟦🟦🟦🟦
+🟦🟦🟦🟦🟦🟦🟨🏡🏠🏥🏡🏘🌷🌲🟩🌱🌱🟩🟩🟩🌳🌳🌴🟨🟨🟦🟦🟦🟦🟦
 🟦🟦🟦🟦🟦🟦🟨🎋🏡🌾🌾🍠🍠🍠🌲🟩🟩🌉🪵🌳🟩🏚🌴🟨🟦🦀🟦🟦🟦🟦
 🟦🟦🟦🟦🟦🟦🟨🎋🟩🌾🌾🍠🍠🍠🟩🗻🗻🦇🗻🌲🟩🌳🟨🟦🟦🟦🟦🟦🟦🟦
 🟦🟦🟦🟦🟦🏝️🟨🎋🟩🌾🌾🌾🟩🟩🗻🗻🗻🗻🗻🌲🟩🌳🟨🟦🟦🟦🟦🟦🟦🟦
@@ -144,7 +144,7 @@ Attualmente, questa posizione è ricoperta da **Aokabe Munetaka**, un uomo anzia
 
 #### Consiglio dell'Isola – La Voce delle Comunità 📣
 
-Il Consiglio dell'Isola, o Shimahyōjō, è **l'organo consultivo e decisionale** che affianca il daimyō nella gestione dell'isola. Composto da rappresentanti delle tre principali città (Kanemura, Umihana, Takamura), un monaco anziano, un zai-shu (capo mercantile influente) e due consiglieri militari, il consiglio si riunisce ogni tre stagioni o in caso di crisi. Le discussioni spaziano dalle tasse alle infrastrutture, dalla giustizia pubblica alla gestione delle rotte commerciali, riflettendo la complessità e la diversità della società isolana.
+Il Consiglio dell'Isola, o Shimahyōjō, è **l'organo consultivo e decisionale** che affianca il Daimyō nella gestione dell'isola. Composto da rappresentanti delle tre principali città (Kanemura, Umihana, Takamura), un monaco anziano, un Zai-shu (capo mercantile influente) e due consiglieri militari, il consiglio si riunisce ogni tre stagioni o in caso di crisi. Le discussioni spaziano dalle tasse alle infrastrutture, dalla giustizia pubblica alla gestione delle rotte commerciali, riflettendo la complessità e la diversità della società isolana.
 
 #### Kazoku (華族), i nobili locali 👩‍👩‍👧
 
@@ -154,7 +154,7 @@ Alcuni cercano di mantenere viva la tradizione, altri tentano di **reinventarsi*
 
 #### Bugyō (奉行) – Magistrati Locali, Custodi della Legge ⚖️
 
-I Bugyō, o **magistrati locali**, sono nominati dal Daimyō o dal Consiglio e operano nelle principali città dell'isola. Avevano ampi poteri amministrativi, giudiziari ed esecutivi. Ogni città dispone di un Bugyō della Giustizia, del Commercio e delle Imposte. Questi funzionari gestiscono legge locale, contratti pubblici e fungono da giudici nei conflitti, assicurando che l'ordine e la giustizia siano mantenuti nelle comunità. Assieme ai samurai, essi sono la figura ufficiale che impone la legge.
+I Bugyō, o **magistrati locali**, sono nominati dal Daimyō o dal Consiglio e operano nelle principali città dell'isola. Avevano ampi poteri amministrativi, giudiziari ed esecutivi. Ogni città dispone di un Bugyō della *Giustizia*, del *Commercio*, delle *Risorse* e delle *Imposte*. Questi funzionari gestiscono legge locale, contratti pubblici e fungono da giudici nei conflitti, assicurando che l'ordine e la giustizia siano mantenuti nelle comunità. Assieme ai samurai, essi sono la figura ufficiale che impone la legge.
 
 #### Samurai (侍) - I Guerrieri Onorevoli 🗡
 
@@ -221,6 +221,24 @@ L'organizzazione della _Kensetsu-shū_ è rigorosa, basata su una gerarchia che 
 La _Kensetsu-shū_ eccelle in un'ampia gamma di discipline costruttive. Sono maestri nell'architettura tradizionale in legno, esperti nell'ingegneria civile per ponti e strade, abili nella lavorazione della pietra per fondazioni e mura, e competenti nelle opere idrauliche essenziali per la gestione delle risorse idriche. In particolare, la loro abilità nel restauro è cruciale per preservare gli antichi templi e i monumenti storici, dimostrando una capacità unica di onorare il passato mentre costruiscono per il futuro.
 
 Oltre alla loro indiscussa perizia, la _Kensetsu-shū_ detiene un notevole potere economico e politico. I loro servizi, indispensabili e costosi, e la loro approvazione sono fondamentali per qualsiasi progetto di costruzione di rilievo, rendendoli attori chiave nelle dinamiche di potere dell'isola. La Gilda gode di una reputazione di integrità e maestria, sebbene, come ogni organizzazione influente, non sia immune da intrighi e pettegolezzi, specialmente quando si tratta di progetti di grande portata che coinvolgono ingenti somme di denaro o interessi politici.
+
+
+---
+
+### Tabella della Gerarchica 
+
+| **Organo / Figura**                          | **Ruolo / Descrizione**                                                                                                                                      |
+| -------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| 🏯 **Daimyō di Shimanami** (Aokabe Munetaka) | Signore feudale supremo, presiede formalmente il Consiglio dell’Isola                                                                                        |
+| 🏛 **Consiglio dell’Isola (Shimahyōjō)**     | Organo legislativo e strategico dell’isola, dove convergono poteri nobili, civili e mercantili                                                               |
+| 🧑‍⚖️ **Bugyō (Magistrati)**                 | Amministratori settoriali: **commercio, giustizia, risorse e tasse**                                                                                         |
+| 👘 **Kazoku (Nobiltà)**                      | Famiglie aristocratiche con influenza territoriale e politica                                                                                                |
+| 💼 **Zai-shu (Capi mercantili)**             | Elite economica; rappresentano le grandi casate commerciali nei giochi di potere                                                                             |
+| 🏬 **Tōryō (Capifamiglia commerciali)**      | Gestiscono le singole case mercantili; legano economia e politica cittadina                                                                                  |
+| 🛡 **Samurai**                               | Esecutori della legge e della volontà dei Bugyō e del Daimyō                                                                                                 |
+| 🧿 **Gilde**                                 | Corporazioni economiche regolatrici di lavoro, produzione e commercio; Gilda dei **Pescatori**, degli **Artigiani**, dei **Mercanti**, e dei **Costruttori** |
+| 🛐 **Templi e Monasteri**                    | Autorità spirituali locali, influenti nei rituali, nelle celebrazioni e nella legittimazione                                                                 |
+| 🏘 **Machitoshiyori (Assemblee cittadine)**  | Consigli locali di notabili e anziani, con funzione consultiva e organizzativa                                                                               |
 
 
 ---
