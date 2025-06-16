@@ -11,7 +11,6 @@
 * Influenza, reputazione, alleanze, aiuteranno il giocatore a raggiungere i propri obiettivi, ma non contano al punteggio finale.
 * Il DM e i giocatori possono definire *obiettivi secondari* o *trame personali* per aggiungere profondità alla storia.
 
-
 ---
 
 ##   Modalità di Gioco Asincrona
@@ -24,7 +23,6 @@
 * Lo stile di gioco in chiamata/presenza farà leva su **"Not the End"**. 
 * A rendere intrigante il tutto è il fatto che **i giocatori non conoscono l'identità dei personaggi degli altri giocatori** a meno che non decidano di rivelarsi. Cercare di smascherarli, cogliendoli in comportamenti peculiari, è parte del divertimento.
 
-
 ---
 
 ##   Interazione Giocatore-DM
@@ -34,7 +32,6 @@
 * La comunicazione deve essere chiara e concisa per evitare fraintendimenti.
 * All'opportuno, le prove di un giocatore verranno risolte con il sistema *Not the End*
 * I giocatori ricevono anche informazioni sui macro-eventi del mondo attraverso **canali pubblici** (Discord/GitHub)
-
 
 ---
 
@@ -61,18 +58,7 @@ La **Svolta** è il principale meccanismo con cui la narrazione si evolve. Ogni 
 | 📦Opportunità   | "Chi prima arriva, meglio alloggia" - perfetta per portare i giocatori assieme.<br>                                                |
 | 🎉Evento        | Un festival, un incendio, un naufragio… Questi eventi coinvolgono l’intera isola, e invitano tutti a reagire                       |
 
-#### Tabella delle Attività
-
-| Giorno | Attività                                              |
-| ------ | ----------------------------------------------------- |
-| Lun    | Svolta pubblica (opzionale)                           |
-| Mar    | -                                                     |
-| Mer    | -                                                     |
-| Gio    | -                                                     |
-| Ven    | -                                                     |
-| Sab    | Svolta personale del DM + Svolta pubblica (opzionale) |
-| Dom    | Update dei business + Time-skip                       |
-
+La **Trama** è un insieme coerente di Svolte personali create dal DM, che si sviluppano nel corso di una settimana di gioco, intrecciando tra loro le vite dei personaggi e conducendo progressivamente verso una Svolta Pubblica che ne rappresenta la sintesi, l’apice o la rivelazione finale. Questo strumento aiuta il DM a generare le svolte in un modo più fluido e coeso.
 
 ---
 
@@ -91,7 +77,6 @@ Per fornire un'**esperienza asincrona fluida**, e mantenere l’**illusione del 
 
 🔹 *Il ritmo può essere adattato per esigenze narrative.*  
 🔹 *L'obiettivo è una progressione storica in circa 10 mesi reali per coprire 10 anni in-game.*
-
 
 ---
 
