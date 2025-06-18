@@ -6,8 +6,8 @@
 
 > L'obiettivo principale del gioco è accumulare più *ricchezza* possibile sull'isola di Shimanami.
 
-* La **"ricchezza"** di un giocatore e definita come la somma del denaro dello stesso, più il valore di tutti i suoi possedimenti (proprietà, risorse e qualsiasi altra cosa di valore che il giocatore possiede).
-* Dopo un periodo di tempo prestabilito (es., "dieci anni" di gioco), il giocatore con il maggior successo sarà dichiarato **vincitore** del gioco.
+* La **ricchezza** di un giocatore e definita come la somma del denaro dello stesso, più il valore di tutti i suoi possedimenti (proprietà, risorse e qualsiasi altra cosa di valore che il giocatore possiede).
+* Dopo un periodo di tempo prestabilito (es., "sette anni" in-game), il giocatore con la maggiore **ricchezza** sarà dichiarato **vincitore** del gioco.
 * Influenza, reputazione, alleanze, aiuteranno il giocatore a raggiungere i propri obiettivi, ma non contano al punteggio finale.
 * Il DM e i giocatori possono definire *obiettivi secondari* o *trame personali* per aggiungere profondità alla storia.
 
@@ -20,8 +20,10 @@
 * Il DM dà un'idea di quali scelte può fare ciascun giocatore, e quest'ultimo comunica l'azione che ha deciso di effettuare.
 * **Non sono previste sessioni di gioco con tutti i giocatori contemporaneamente**.
 * Lo stile di gioco nei DMs (messaggi) è più orientato verso un'**Avventura Testuale**.
-* Lo stile di gioco in chiamata/presenza farà leva su **"Not the End"**. 
+* Lo stile di gioco in chiamata/presenza farà leva su **Not the End**. 
 * A rendere intrigante il tutto è il fatto che **i giocatori non conoscono l'identità dei personaggi degli altri giocatori** a meno che non decidano di rivelarsi. Cercare di smascherarli, cogliendoli in comportamenti peculiari, è parte del divertimento.
+
+🔹 *vedi [[Not the End - Regole ⚪]]*
 
 ---
 
@@ -42,15 +44,15 @@ La **Svolta** è il principale meccanismo con cui la narrazione si evolve. Ogni 
 * Fino a due Svolte personali a scelta del DM.
 * Una Svolta Pubblica, sempre a scelta del DM, che coinvolge tutti (o quasi) i giocatori.
 
-| Svolta (personale) | Descrizione                                                   | Rischio |
-| ------------------ | ------------------------------------------------------------- | ------- |
-| ℹ️ Informazione    | Una rivelazione utile, nascosta o dimenticata                 | ⭐       |
-| 📦 Opportunità     | Si presenta un’occasione vantaggiosa o rischiosa              | ⭐⭐      |
-| 🔎 Scoperta        | Trovi un luogo, oggetto o segreto celato                      | ⭐⭐      |
-| 🎉 Evento          | Qualcosa accade, cambia l’equilibrio delle cose               | ⭐⭐⭐     |
-| 🎯 Missione        | Segui le indicazioni in cambio di una ricompensa              | ⭐⭐⭐     |
-| 🫂 Incontro        | Entra in scena un nuovo personaggio significativo             | ⭐⭐⭐     |
-| 🕵️ Intrigo        | Sospetti, inganni, o segreti, che ti coinvolgono direttamente | ⭐⭐⭐⭐    |
+| Svolta (personale) | Descrizione                                                   |
+| ------------------ | ------------------------------------------------------------- |
+| ℹ️ Informazione    | Una rivelazione utile, nascosta o dimenticata                 |
+| 📦 Opportunità     | Si presenta un’occasione vantaggiosa                          |
+| 🔎 Scoperta        | Trovi un luogo, oggetto o segreto celato                      |
+| 🎉 Evento          | Qualcosa accade, cambia l’equilibrio delle cose               |
+| 🎯 Missione        | Segui le indicazioni in cambio di una ricompensa              |
+| 🫂 Incontro        | Entra in scena un nuovo personaggio significativo             |
+| 🕵️ Intrigo        | Sospetti, inganni, o segreti, che ti coinvolgono direttamente |
 
 | Svolta Pubblica | Descrizione                                                                                                                        |
 | --------------- | ---------------------------------------------------------------------------------------------------------------------------------- |
@@ -82,12 +84,12 @@ Per fornire un'**esperienza asincrona fluida**, e mantenere l’**illusione del 
 
 ##   Evoluzione dello Stato del Gioco (DM)
 
-* Il DM: 
-	* tiene traccia delle azioni di tutti i giocatori, delle loro relazioni con gli NPC e delle modifiche allo stato del mondo di gioco.
-	* aggiorna il mondo di gioco in risposta alle azioni dei giocatori, introducendo nuovi eventi, cambiamenti politici, economici o sociali, e conseguenze a lungo termine.
-	* gestisce gli NPC, interpretandoli in modo coerente con le loro motivazioni e relazioni.
-	* fornisce aggiornamenti regolari sulla situazione generale dell'isola, anche se non riguardano direttamente le azioni di un singolo giocatore.
-	* fornisce un resoconto stagionale dopo i time-skips
+Il DM: 
+* tiene traccia delle azioni di tutti i giocatori, delle loro relazioni con gli NPC e delle modifiche allo stato del mondo di gioco.
+* aggiorna il mondo di gioco in risposta alle azioni dei giocatori, introducendo nuovi eventi, cambiamenti politici, economici o sociali, e conseguenze a lungo termine.
+* gestisce gli NPC, interpretandoli in modo coerente con le loro motivazioni e relazioni.
+* fornisce aggiornamenti regolari sulla situazione generale dell'isola, anche se non riguardano direttamente le azioni di un singolo giocatore.
+* fornisce un resoconto stagionale dopo i time-skips
 
 
 ---
