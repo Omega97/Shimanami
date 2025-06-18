@@ -348,3 +348,6 @@ Nel Giappone dei primi del Cinquecento, il tempo era misurato secondo un **calen
 Il tempo scorre. L’equilibrio trema.
 
 Ciascuno di voi comincia con la stessa ricchezza, *50*🟡, in una città a sua scelta. Ma ciò che costruirete — botteghe, flotte, alleanze, tradimenti, memorie — plasmerà il futuro dell’isola. Dopo dieci anni, uno solo sarà riconosciuto come il **custode del vero potere**: colui o colei che avrà dominato l’economia di Shimanami... ma a quale prezzo?
+
+
+🔹 *per info sulle monete e sui prezzi, vedi [[Tabelle]]
