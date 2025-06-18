@@ -4,6 +4,21 @@ Campagna gestionale asincrona ambientata su un'isole nel Giappone nei primi del 
 
 ---
 
+### Meccaniche
+
+[[Manuale Shimanami 📖]]
+[[Not the End - Regole ⚪]]
+[[_template_NPC]]
+[[Calendario]]
+
+### Il Mondo
+
+[[Il Mondo - L'Isola Shimanami 🏝️]]
+[[Tabelle]]
+
+
+---
+
 ## Piccole Note
 
 🔹I file sono scritti in Markdown. Per la migliore esperienza di lettura consiglio di usare Obsidian, ma qualsiasi editor di testo è tecnicamente in grado di leggere i files. 
