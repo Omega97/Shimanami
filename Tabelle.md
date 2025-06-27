@@ -104,8 +104,8 @@ Produttività stimata per un contadino.
 
 | Professione           | Guadagno Mensile (in Kin) | Note                                              | Pagati da:              |
 | --------------------- | ------------------------- | ------------------------------------------------- | ----------------------- |
-| Samurai               | 10–25 🟡                  | Dipende dal rango, spesso con vitto e alloggio    | Daimyō                  |
-| Mercenario            | 8–20 🟡                   | Rischioso, ma ben pagato in tempi turbolenti      | Ricchi mercanti, Nobili |
+| Samurai               | 10–20 🟡                  | Dipende dal rango, spesso con vitto e alloggio    | Daimyō                  |
+| Mercenario            | 8–18 🟡                   | Rischioso, ma ben pagato in tempi turbolenti      | Ricchi mercanti, Nobili |
 | Funzionario Locale    | 8–12 🟡                   | Amministratori, esattori, notai                   | Daimyō, Consiglio       |
 | Commerciante          | 7–15 🟡                   | Include venditori ambulanti e gestori di botteghe | -                       |
 | Scriba / Scrivano     | 8–10 🟡                   | I più richiesti lavorano per mercanti o il Daimyō | Privati, Stato          |
