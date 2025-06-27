@@ -1,21 +1,22 @@
-# Shimanami
-Campagna gestionale asincrona ambientata su un'isole nel Giappone nei primi del '500
 
+# Shimanami
+
+
+Campagna gestionale asincrona ambientata su un'isole nel Giappone nei primi del '500
 
 ---
 
 ### Meccaniche
 
-[[Manuale Shimanami 📖]]
-[[Not the End - Regole ⚪]]
-[[_template_NPC]]
-[[Calendario]]
+| [[Manuale Shimanami 📖]] | [[Not the End - Regole ⚪]] | [[_template_NPC]] | [[Calendario 📅]] |
+| ------------------------ | -------------------------- | ----------------- | -------------- |
+
+---
 
 ### Il Mondo
 
-[[Il Mondo - L'Isola Shimanami 🏝️]]
-[[Tabelle]]
-
+| [[Il Mondo - L'Isola Shimanami 🏝️]] | [[Tabelle]] |
+| ------------------------------------ | ----------- |
 
 ---
 
