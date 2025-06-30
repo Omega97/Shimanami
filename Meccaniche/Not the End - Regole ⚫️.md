@@ -31,10 +31,11 @@ Affronti una **PROVA** quando ciò che stai tentando di fare potrebbe avere cons
 
 ### COSA MI ANNEBBIA LA MENTE?
 
-- **ADRENALINA**:  Nella prossima **PROVA** estrai almeno 4 🟡.
-- **CONFUSIONE** Nella prossima **PROVA** aggiungi al **POOL** 🟡 invece di ⚪.
+- **ADRENALINA**: Nella prossima **PROVA** estrai almeno 4 🟡.
+- **CONFUSIONE**: Nella prossima **PROVA** aggiungi al **POOL** 🟡 invece di ⚪.
 
 🔹*Nota: per decidere il colore dei 🟡 di CONFUSIONE puoi estrarli uno alla volta da un sacchetto con 1 ⚪ e 1 ⚫.*
+🔹*Nota: Il DM si riserva il diritto di non permettere queste conseguenze se non sono appropriate per la scena.
 
 ---
 

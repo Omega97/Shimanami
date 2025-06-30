@@ -23,7 +23,7 @@
 * Lo stile di gioco in chiamata/presenza farà leva su **Not the End**. 
 * A rendere intrigante il tutto è il fatto che **i giocatori non conoscono l'identità dei personaggi degli altri giocatori** a meno che non decidano di rivelarsi. Cercare di smascherarli, cogliendoli in comportamenti peculiari, è parte del divertimento.
 
-🔹 *vedi [[Not the End - Regole ⚪]]*
+🔹 *vedi [[Not the End - Regole ⚫️]]*
 
 ---
 

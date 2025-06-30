@@ -23,7 +23,7 @@ Come punto di riferimento, 1 Koku = 400 Ryoo di riso (40🟡) nutrono un uomo me
 | Katane cerimoniali 🗡        | 10–30 🟡     | 1 pezzo          |
 | Barca piccola 🛶             | 5–20 🟡      | 1 barca          |
 | Carro per trasporto merci 🚚 | 6 🟡         | 1 unità          |
-| Cavallo 🐎                   | 3 🟡         | 1 unità          |
+| Cavallo 🐎                   | 3-4 🟡       | 1 unità          |
 | Carretto 🛒                  | 2 🟡         | 1 unità          |
 | Gioielli in perle 💠         | 2-40 🟡      | 1 gioiello       |
 | Perla 🦪                     | 1-10 🟡      | 1 unità          |
