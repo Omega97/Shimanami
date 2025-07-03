@@ -54,11 +54,8 @@ La **Svolta** è il principale meccanismo con cui la narrazione si evolve. Ogni 
 | 🫂 Incontro        | Entra in scena un nuovo personaggio significativo             |
 | 🕵️ Intrigo        | Sospetti, inganni, o segreti, che ti coinvolgono direttamente |
 
-| Svolta Pubblica | Descrizione                                                                                                                        |
-| --------------- | ---------------------------------------------------------------------------------------------------------------------------------- |
-| ℹ️Informazione  | Eventi meteorologici, voci di mercato, nuove rotte commerciali, movimenti politici… Queste informazioni sono di interesse generale |
-| 📦Opportunità   | "Chi prima arriva, meglio alloggia" - perfetta per portare i giocatori assieme.<br>                                                |
-| 🎉Evento        | Un festival, un incendio, un naufragio… Questi eventi coinvolgono l’intera isola, e invitano tutti a reagire                       |
+| 🎉Evento Pubblico | Un festival, un incendio, un naufragio… Questi eventi coinvolgono l’intera isola, e invitano tutti a reagire |
+| ----------------- | ------------------------------------------------------------------------------------------------------------ |
 
 La **Trama** è un insieme coerente di Svolte personali create dal DM, che si sviluppano nel corso di una settimana di gioco, intrecciando tra loro le vite dei personaggi e conducendo progressivamente verso una Svolta Pubblica che ne rappresenta la sintesi, l’apice o la rivelazione finale. Questo strumento aiuta il DM a generare le svolte in un modo più fluido e coeso.
 
@@ -66,19 +63,13 @@ La **Trama** è un insieme coerente di Svolte personali create dal DM, che si sv
 
 ### ⏳ Gestione del Tempo nella Campagna
 
-Per fornire un'**esperienza asincrona fluida**, e mantenere l’**illusione del tempo reale** (giorno per giorno) ma con un **progresso drammatico e tangibile su scala storica**
-	* Ogni **giorno IRL** passa in genere **3-4 giorni nel gioco**. Questo ritmo può essere adattato a seconda delle esigenze della storia.
-	* Ogni fine settimana c'è un **time-skip** (fase di bilancio); ogni **settimana IRL** passa **una stagione** in gioco (3 mesi).
-	* In questo modo, ogni **mese IRL** passa **un anno in gioco**
 
-| Tempo Reale (IRL) | Tempo di Gioco      | Descrizione                                     |
-| ----------------- | ------------------- | ----------------------------------------------- |
-| 1 giorno IRL      | ~3–4 giorni         | Ritmo giornaliero flessibile                    |
-| 1 settimana IRL   | 1 stagione (3 mesi) | Ogni fine settimana c'è un time-skip e bilancio |
-| 1 mese IRL        | 1 anno              | Il tempo avanza rapidamente su scala storica    |
+Un **Evento Pubblico** segna l'inizio di ogni **Stagione**. 
 
-🔹 *Il ritmo può essere adattato per esigenze narrative.*  
-🔹 *L'obiettivo è una progressione storica in circa 10 mesi reali per coprire 10 anni in-game.*
+Durante questa, il tempo in-game scorre più lentamente, in modo che i giocatori svolgano le loro **Svolte** circa nello stesso periodo. Durante ciascuna stagione, ciascun giocatore ha diritto a scegliere un tipo di Svolta, e ne riceverà alcune altre a discrezione del DM. 
+
+Alla fine della Stagione c'è un time-skip, durante il quale i giocatori non agiscono. Con questa meccanica, durante una Stagione passano 3 mesi in-game, il che dà ai giocatori un senso di progressione più veloce ai giocatori.
+
 
 ---
 
