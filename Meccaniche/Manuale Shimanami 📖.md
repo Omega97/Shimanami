@@ -20,10 +20,10 @@
 * Il DM dà un'idea di quali scelte può fare ciascun giocatore, e quest'ultimo comunica l'azione che ha deciso di effettuare.
 * **Non sono previste sessioni di gioco con tutti i giocatori contemporaneamente**.
 * Lo stile di gioco nei DMs (messaggi) è più orientato verso un'**Avventura Testuale**.
-* Lo stile di gioco in chiamata/presenza farà leva su **Not the End**. 
+* Lo stile di gioco in chiamata/presenza farà leva su **New Beginning**. 
 * A rendere intrigante il tutto è il fatto che **i giocatori non conoscono l'identità dei personaggi degli altri giocatori** a meno che non decidano di rivelarsi. Cercare di smascherarli, cogliendoli in comportamenti peculiari, è parte del divertimento.
 
-🔹 *vedi [[Not the End - Regole ⚫️]]*
+🔹 *vedi [[New Beginning - Regole ⚪]]
 
 ---
 
@@ -32,7 +32,7 @@
 * I giocatori descrivono le azioni dei loro personaggi, le decisioni che prendono e le informazioni che cercano di ottenere.
 * Il DM risponde descrivendo le conseguenze delle azioni dei giocatori, fornendo informazioni sul mondo di gioco e interpretando gli NPC.
 * La comunicazione deve essere chiara e concisa per evitare fraintendimenti.
-* All'opportuno, le prove di un giocatore verranno risolte con il sistema *Not the End*
+* All'opportuno, le prove di un giocatore verranno risolte con il sistema *New Beginning*
 * I giocatori ricevono anche informazioni sui macro-eventi del mondo attraverso **canali pubblici** (Discord/GitHub)
 
 ---
@@ -51,6 +51,7 @@ La **Svolta** è il principale meccanismo con cui la narrazione si evolve. Ogni 
 | 🔎 Scoperta        | Trovi un luogo, oggetto o segreto celato                      |
 | 🎉 Evento          | Qualcosa accade, cambia l’equilibrio delle cose               |
 | 🎯 Missione        | Segui le indicazioni in cambio di una ricompensa              |
+| ❓ Imprevisto       | Un evento inatteso, fuori dal tuo controllo                   |
 | 🫂 Incontro        | Entra in scena un nuovo personaggio significativo             |
 | 🕵️ Intrigo        | Sospetti, inganni, o segreti, che ti coinvolgono direttamente |
 
@@ -126,14 +127,14 @@ Per dare un graduale senso di progresso al gioco, il giocatore dovrà persuadere
 
 ---
 
-##   Roleplay e "Not the End"
+##   Roleplay e "New Beginning"
 
-> Se i personaggi dei giocatori si incontrano, le loro identità vengono reciprocamente rivelate, e potranno ruolare le "Scene" di persona, utilizzando il sistema *Not the End*.
+> Se i personaggi dei giocatori si incontrano, le loro identità vengono reciprocamente rivelate, e potranno ruolare le "Scene" di persona, utilizzando il sistema *New Beginning*.
 
 * Una "Scena" è una breve one-shot, giocata in tempo reale, che si concentra sull'interazione diretta tra i personaggi dei giocatori.
 * Le Scene dovrebbero essere significative e avere conseguenze per il gioco principale (es., una negoziazione commerciale, un confronto, un'alleanza).
 * Il DM agisce come facilitatore durante le Scene, ma i giocatori hanno un maggiore controllo sulla narrazione e sui risultati delle loro azioni.
-* Le regole di Not the End vengono utilizzate per risolvere i conflitti e determinare il successo o il fallimento delle azioni dei personaggi durante le Scene.
+* Le regole di *New Beginning* vengono utilizzate per risolvere i conflitti e determinare il successo o il fallimento delle azioni dei personaggi durante le Scene.
 * Dopo la Scena, i giocatori tornano alla modalità di gioco asincrona e le conseguenze della Scena vengono integrate nella storia principale.
 
 
