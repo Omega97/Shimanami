@@ -7,7 +7,7 @@
 
 [Barbero] Shimanami non è un dominio militare. È un’isola indipendente, remota, fuori dalle grandi rotte, ma perfettamente viva, ecco… Le sue tre città principali — Kanemura, Takamura e Umihana — sono connesse da strade battute, commerci marittimi e alleanze silenziose. Ogni città ha una vocazione diversa, e una personalità tutta sua, ma tutte partecipano allo stesso gioco sottile: accumulare ricchezza, influenza, e onore.
 
-[Barbero] La società sull’isola è stratificata, ma non immobile. I **nobili locali** — i Kazoku** — conservano il potere formale, ma sono costantemente sotto pressione da parte delle **gilde artigiane**, dei **mercanti emergenti**, e perfino dei **capiflotta pescherecci**, che controllano risorse fondamentali. I **contadini** mantengono il tessuto alimentare dell’isola, mentre gli **artigiani**, specie a Takamura, detengono il sapere tecnico e l’estetica raffinata. Ci sono anche **ex-samurai**, decaduti e riconvertiti in funzionari o maestri di cerimonia. E poi, ovviamente, ci sono i **giovani intraprendenti** — come voi.
+[Barbero] La società sull’isola è stratificata, ma non immobile. I **nobili locali** — i kazoku** — conservano il potere formale, ma sono costantemente sotto pressione da parte delle **gilde artigiane**, dei **mercanti emergenti**, e perfino dei **capiflotta pescherecci**, che controllano risorse fondamentali. I **contadini** mantengono il tessuto alimentare dell’isola, mentre gli **artigiani**, specie a Takamura, detengono il sapere tecnico e l’estetica raffinata. Ci sono anche **ex-samurai**, decaduti e riconvertiti in funzionari o maestri di cerimonia. E poi, ovviamente, ci sono i **giovani intraprendenti** — come voi.
 
 [Barbero] Sull’isola di Shimanami, **il rispetto, l’onore e la reputazione personale** sono alla base della vita quotidiana. La popolazione — contadini, artigiani, mercanti, persino samurai decaduti — agisce secondo un codice non scritto, in cui un gesto gentile, un’inchino ben dosato o una parola mantenuta contano più di qualsiasi legge. Il crimine, in questo contesto, non è soltanto una colpa legale: è una macchia sociale, un disonore che può escludere una persona dalla comunità come fosse un malato contagioso. L’equilibrio dell’isola si regge su questo sistema silenzioso di fiducia reciproca, in cui l’armonia è più importante del guadagno, e un uomo che tradisce viene dimenticato prima ancora che condannato.
 
@@ -39,7 +39,7 @@
 🟦🟦🟦🟦🟦🟨🌴🌲🌳🟩🟩🟩🌲🗻🗻🗻🏯🗻🗻🗻🌲🟩🌳🟨🟦🟦🟦🐟🟦🟦
 🟦🟦🟦🟦🟨🌲🌲🌲🟩🎋🎋🎋🟩🌲⛏️🗻🗻🗻🎋🎋🎋🟩🌳🟨🟦⛩️🟦🟦🟦🟦
 🟦🟦🟦🟦🟨🌲🌲🌲🟩🎋🌲🌲🌲🟩🟩🏡🌲🎋🎋🟩🟩🌳🌳🟨🟦🟨🟦🟦🟦🟦
-🟦🌊🟦🟦🟦🟨🌲🌲🌲🟩🌲🌳🌲🌳🌳🟩🌲🌲🟩🌲🌲🌲🌴🟨🟦🟨🟦🟦🟦🟦
+🟦🌊🟦🟦🟦🟨🌲🌲🌲🟩🌲🌳🌲🌳🥭🟩🌲🌲🟩🌲🌲🌲🌴🟨🟦🟨🟦🟦🟦🟦
 🟦🟦🟦🟦🟦🟦🟨🟨🟩🌲🌲🌲🛖🌿🌳🌳🟩🌳🟩🌲🌲🌲🏡🟨🟦🟨🟦🟦🟦🟦
 🟦🟦🐟🟦🟦🟦🟨🏡🌲🟩🌲🌲🌳🌳🌲🌲🌳🟩🌲🌱🌱🌳🌳🟨🟨🟨🟦🟦🟦🟦
 🟦🟦🟦🟦🟦🏝️🟨🌲🌲🌲🟩🟩🌳🌳🌲🌳🌲🟩🫛🌱🌱🌳🌳🌳🟨🟦🟦🟦🟦🟦
@@ -47,11 +47,11 @@
 🟦🟦🟦🟦🟦🟦🟨🟩🟩🌱🌱🌱🌲🎋🟩🟩⛲️🌾🌾🌷🏠🏘🌾🟨🟨🟦🟦🟦🌊🟦
 🟦🟦🟦🟦🦪🟦🪨🌲🌲🌱🌱🌱🌾🌾🌾🌳🟩🌾🌾🏠🏦🛕🏺🌴🏝️🟦🟦🟦🟦🟦
 🟦🟦🟦🟦🟦🟦🟦🪨🌲🌱🌱🌱🌾🌾🌾🌳🟩🌾🌾🏘🏫🏠🛍️🏡🏝️🟦🟦🟦🟦🟦
-🟦🟦🟦🟦🌿🟦🟦🪨🌲🌳🏠🛕🫛🌾🌾🟩🌳🟩🏠🏺🏬🏠🏠⚓️🟦🟦🟦🟦🟦🟦
+🟦🟦🟦🟦🌿🟦🟦🪨🌲🏠🍋🛕🫛🌾🌾🟩🌳🟩🏠🏺🏬🏠🏠⚓️🟦🟦🟦🟦🟦🟦
 🟦🟦🟦🟦🌿🌿🟦🟦🏡🏡🏘🏦🏺🏡🟩🟩🌳🌳🌳🏡🏘🏠🏠🟦🟦🟦⛵️🟦🟦🟦
 🟦🟦🟦🟦🌿🌿🟦🟦🏡🏘🏠🏫🏬🎋🎋🍠🍠🌳🪵🌳🏡🟨🟦🟦🟦🟦🟦🟦🟦🟦
 🟦🟦🟦🟦🟦🟦🟦🟦⚓️🛍️🏠🏘🏡🪵🍠🍠🌳🌳🌳🟨🟨🟦🟦🟦🟦🟦🟦🟦🟦🟦
-🟦🟦🟦🟦🟦🟦⛵️🟦🟦🟨🟨🟨🏠🌳🟨🟨🌳🌴🟨🟨🟦🟦🟦🟦🟦🟦🟦🐟🟦🟦
+🟦🟦🟦🟦🟦🟦⛵️🟦🟦🟨🟨🟨🏠🌴🟨🟨🌳🌴🟨🟨🟦🟦🟦🟦🟦🟦🟦🐟🟦🟦
 🟦🟦🟦🐟🟦🟦🟦🟦🟦🟦🟦🟨🟨🟨🟦🟦🟨🟨🟨🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦
 🟦🟦🟦🟦🟦🟦🟦🟦🟦🌊🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🌊🟦🟦🟦🟦🟦🟦
 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦
