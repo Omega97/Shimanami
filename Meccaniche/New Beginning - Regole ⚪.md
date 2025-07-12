@@ -65,7 +65,7 @@ Prima di affrontare una **PROVA**, il **NARRATORE** può scegliere di **applicar
 | Nome               | Flavor                                                                    | Descrizione                                                          |
 | ------------------ | ------------------------------------------------------------------------- | -------------------------------------------------------------------- |
 | **OTTIMISMO**      | *E' la prima volta che ci provi, ma andrà tutto bene...*                  | Estrai un sono **TOKEN**, e se fallisci (⚫), puoi estrarne un altro. |
-| **ADRENALINA**     | *In questa prova fisica entra in gioco il tuo istinto lotta-o-fuggi!*<br> | Estrai **TOKEN** pari ai ⚫ (il massimo).                             |
+| **ADRENALINA**     | *In questa prova fisica entra in gioco il tuo istinto lotta-o-fuggi!*<br> | Estrai tutti i **TOKEN** tranne uno.                                 |
 | **CONCENTRAZIONE** | *Sei focalizzato su un obiettivo che mette alla prova la tua mente.*      | Se scegli di estrarre un solo **TOKEN**, il ⚪ conta come 2.          |
 | **CONFUSIONE**     | *In un momento concitato, non hai il tempo di pensare...*                 | Il primo ⚫ che peschi conta come 2.                                  |
 | **FORTUNA**        | *Senti che nulla può andare storto.*                                      | I ⚫ che estrai dopo il primo, non contano.                           |
