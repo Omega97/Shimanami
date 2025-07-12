@@ -9,21 +9,30 @@
     
 3. Un sacchetto per estrarre i **TOKEN**.
     
-4. Schede personaggio (partendo da 1 **ARCHETIPO**, 3 su 6 **QUALITA'**, e 3 su 12 **ABILITA'**).
+4. Schede personaggio con 7 **TRATTI** iniziali: 
+     
+	- 1 **ARCHETIPO**,
+	    
+	- 3 **QUALITA'** su 6 disponibili, 
+	    
+	- 3 **ABILITA'** su 12 disponibili.
     
 
 ---
 
 ## AFFRONTARE UNA PROVA 🎯
 
+Una **PROVA** è necessaria quando il tuo personaggio tenta di fare qualcosa che potrebbe avere conseguenze negative.
 
-Affronti una **PROVA** quando ciò che stai tentando di fare potrebbe avere conseguenze negative.
-
-1. Descrivi ciò che fai.
+1. Descrivi ciò che vuoi fare.
     
-2. Aggiungi ⚫ pari alla **DIFFICOLTÀ** che ti comunicherà il **NARRATORE** e ⚪ pari al numero di **TRATTI** che decidi di mettere in gioco.[^1]
+2. Aggiungi i **TOKEN**:
+     
+    - ⚫ pari alla **DIFFICOLTÀ** decisa dal il **NARRATORE**, 
+        
+    - ⚪ pari al numero di **TRATTI** che decidi di mettere in gioco.[^1]
     
-3. **ESTRAI** tanti **TOKEN** quanti vuoi. Devi pescarli tutti assieme e alla cieca.
+3. **ESTRAI** alla cieca un numero di **TOKEN** a tua scelta, tutti insieme.
     
 4. Usa ⚪ e ⚫ che hai **ESTRATTO** per farti raccontare dal **NARRATORE** l’esito della **PROVA**.
     
@@ -46,12 +55,17 @@ Affronti una **PROVA** quando ciò che stai tentando di fare potrebbe avere cons
 
 
 * Se hai avuto **SUCCESSO**, spendi:[^4]
+    
     - il primo ⚪ per aver superato la **PROVA**.
+        
     * 1 ⚪ per migliorare l’esito della **PROVA**.
+        
 	* 1 ⚪ e collocalo su un **TRATTO** messo in gioco durante la **PROVA**, per usarlo in un secondo momento[^5].
 	  
 * Spendi i ⚫, scegliendo tra: 
+    
 	* 1 ⚫ per farti infliggere una **SVENTURA** dal **NARRATORE**. L'impatto è diretto sull'**EROE**[^6]. 
+	    
 	* 1 ⚫ per far raccontare una **COMPLICAZIONE** al **NARRATORE**. Un esito imprevisto della **SCENA**, l'impatto è sulla **SCENA** nel suo complesso[^7].
     
 
@@ -62,14 +76,14 @@ Affronti una **PROVA** quando ciò che stai tentando di fare potrebbe avere cons
 
 Prima di affrontare una **PROVA**, il **NARRATORE** può scegliere di **applicare** uno dei seguenti **STATUS**. Puoi fare suggerimenti, ma sarà il **NARRATORE** a decidere se e cosa applicare.
 
-| Nome               | Flavor                                                                    | Descrizione                                                          |
-| ------------------ | ------------------------------------------------------------------------- | -------------------------------------------------------------------- |
-| **OTTIMISMO**      | *E' la prima volta che ci provi, ma andrà tutto bene...*                  | Estrai un sono **TOKEN**, e se fallisci (⚫), puoi estrarne un altro. |
-| **ADRENALINA**     | *In questa prova fisica entra in gioco il tuo istinto lotta-o-fuggi!*<br> | Estrai tutti i **TOKEN** tranne uno.                                 |
-| **CONCENTRAZIONE** | *Sei focalizzato su un obiettivo che mette alla prova la tua mente.*      | Se scegli di estrarre un solo **TOKEN**, il ⚪ conta come 2.          |
-| **CONFUSIONE**     | *In un momento concitato, non hai il tempo di pensare...*                 | Il primo ⚫ che peschi conta come 2.                                  |
-| **FORTUNA**        | *Senti che nulla può andare storto.*                                      | I ⚫ che estrai dopo il primo, non contano.                           |
-| **PAURA**          | *Sei spaventato, le tue decisioni sono offuscate...*                      | I ⚪ che estrai dopo il primo, non contano.                           |
+| Nome               | Descrizione                                                          | Flavor                                                                    |
+| ------------------ | -------------------------------------------------------------------- | ------------------------------------------------------------------------- |
+| **OTTIMISMO**      | Estrai un sono **TOKEN**, e se **FALLISCI**, puoi estrarne un altro. | *E' la prima volta che ci provi, ma andrà tutto bene...*                  |
+| **ADRENALINA**     | Estrai tutti i **TOKEN** tranne uno.                                 | *In questa prova fisica entra in gioco il tuo istinto lotta-o-fuggi!*<br> |
+| **CONCENTRAZIONE** | Se scegli di estrarre un solo **TOKEN**, il ⚪ conta come 2.          | *Sei focalizzato su un obiettivo che mette alla prova la tua mente.*      |
+| **CONFUSIONE**     | Un ⚫ che peschi conta come 2.                                        | *In un momento concitato, non hai il tempo di pensare...*                 |
+| **FORTUNA**        | I ⚫ che estrai dopo il primo, non contano.                           | *Senti che nulla può andare storto.*                                      |
+| **PAURA**          | I ⚪ che estrai dopo il primo, non contano.                           | *Sei spaventato, le tue decisioni sono offuscate.*                        |
 
 ---
 
@@ -79,25 +93,34 @@ Prima di affrontare una **PROVA**, il **NARRATORE** può scegliere di **applicar
 Affronti una **PROVA CRUCIALE** quando la consideri determinante per lo sviluppo dell'**EROE**. 
 
 1. Dichiara la **PROVA CRUCIALE** in qualsiasi momento prima di **ESTRARRE**.
+     
 2. Affronta la **PROVA** normalmente.
+     
 3. Scegli una di queste tre opzioni in base all’esito della **PROVA**.
+     
 	- Guadagni un nuovo **TRATTO**, o ne cambi uno che hai già.
-	- Impari una **LEZIONE**.
-	- Vieni segnato da una **CICATRICE**.
+	    
+	- Impari una **LEZIONE**: una nuova competenza acquisita grazie a un'esperienza cruciale; ti permette di spendere un ⚪ per ottenere effetti narrativi utili in contesti specifici[^8].
+	    
+	- Vieni segnato da una **CICATRICE**: il segno lasciato da un evento traumatico significativo; ti permette di spendere un ⚫ per annullare o anticipare certi rischi legati alla tua esperienza passata[^9].
+	  
 
 ---
 
 [^1]: Le conseguenze negative date dai ⚫ devono essere bilanciate a seconda di come il NARRATORE ritiene opportuno. Se le PROVE non sono frequenti, allora potrebbe essere meglio non infierire sui fallimenti, e viceversa.
 
-[^2]: Esempi: Fallisci se da 3⚪ e 2⚫ peschi: 1⚫/ 2⚫ / 2⚫ 1⚪ / ...
+[^2]: Esempi FALLIMENTO: Fallisci se da (⚪⚪⚪⚫⚫) peschi: (⚫), (⚫⚫), (⚪⚫⚫), (⚪⚪⚫⚫) ...
 
 [^3]: In questo caso, il successo è "proporzionale" al numero di ⚪ ESTRATTI rispetto al numero di TOKEN ESTRATTI.
 
 [^4]: Il successo non è mai garantito; se scegli di ESTRARRE tanti TOKEN quanti sono i ⚫ o meno, rischi di ESTRARRE solo ⚫. Viceversa, se ne ESTRAI di più, rischi comunque di ESTRARLI tutti, e fallire lo stesso la PROVA.
 
-[^5]: Non c'è un limite di ⚪ che puoi collocare in ciascuna prova. I ⚪ collocati sul tratto, però, vanno tutti consumati la prossima volta che lo usi in una prova.
+[^5]: Non c'è un limite di ⚪ che puoi collocare su un tratto, però i ⚪ collocati vanno tutti consumati la prossima volta che usi quel tratto in una prova.
 
-[^6]: Esempio: *"Stavi pescando, ma ad un certo punto al tuo amo abbocca un pesce talmente grosso che spezza la tua canna da pesca, e ti fa cadere in acqua."*
+[^6]: Esempio SVENTURA: *"Stavi pescando, ma ad un certo punto al tuo amo abbocca un pesce talmente grosso che spezza la tua canna da pesca, e ti fa cadere in acqua."*
 
-[^7]: Esempio: *"Stavi pescando sulla tua barchetta con gli amici. Ad un tratto un grosso temporale vi sorprende. E' una corsa contro il tempo per mettersi in salvo."*
+[^7]: Esempio COMPLICAZIONE: *"Stavi pescando sulla tua barchetta con gli amici. Ad un tratto un grosso temporale vi sorprende. E' una corsa contro il tempo per mettersi in salvo."*
  
+[^8]: Esempio LEZIONE: Puoi spendere 1 ⚪ per far sì che un compagno eviti una SVENTURA o una COMPLICAZIONE.
+
+[^9]: Esempio CICATICE: Puoi spendere 1 ⚫ per COLLOCARLO su un tratto usato in questa prova.
