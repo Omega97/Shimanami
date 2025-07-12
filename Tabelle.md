@@ -6,7 +6,7 @@
 
 ### 📊 Prezzi di Mercato Indicativi
 
-Come punto di riferimento, 1 Koku = 400 Ryoo di riso (40🟡) nutrono un uomo medio per un anno.
+Come punto di riferimento, 1 Koku = 400 Ryō di riso (40🟡) nutrono un uomo medio per un anno.
 
 (Vedi sotto per unità di misura)
 
@@ -24,8 +24,8 @@ Come punto di riferimento, 1 Koku = 400 Ryoo di riso (40🟡) nutrono un uomo me
 | Barca piccola 🛶             | 5–20 🟡      | 1 barca          |
 | Carro per trasporto merci 🚚 | 6 🟡         | 1 unità          |
 | Cavallo 🐎                   | 3-4 🟡       | 1 unità          |
-| Carretto 🛒                  | 2 🟡         | 1 unità          |
 | Gioielli in perle 💠         | 2-40 🟡      | 1 gioiello       |
+| Carretto 🛒                  | 2 🟡         | 1 unità          |
 | Perla 🦪                     | 1-10 🟡      | 1 unità          |
 | Reti da pesca 🕸️            | 20-30 ⚪️     | 1 rete           |
 | Sake 🥃                      | 5-20 ⚪️      | 1 bottiglia      |
@@ -50,14 +50,15 @@ Come punto di riferimento, 1 Koku = 400 Ryoo di riso (40🟡) nutrono un uomo me
 | Fagioli Azuki 🫛        | 12-15 ⚪️        |
 | Foglie di Tè lavorate🍵 | 10-25 ⚪️        |
 | Cocco 🥥                | 10-15 ⚪️        |
+| Mango 🥭                | 9-14 ⚪️         |
 | Riso 🌾                 | 8-12 ⚪️         |
 | Pesce 🐟                | 4-12 ⚪️         |
 | Patate dolci 🍠         | 3-5 ⚪️          |
 | Sale marino 🧂          | 2⚪️             |
 | Foglie di Tè fresche🌱  | 1-2 ⚪️          |
 | Riso (per coltivare) 🌾 | 1 ⚪️            |
-| Alghe essiccate🌿       | 25-35 🟠        |
-| Alghe 🌿                | 5-9 🟠          |
+| Alghe essiccate 🌿      | 25-35 🟠        |
+| Alghe *Nori* 🌿         | 5-9 🟠          |
 | Legname 🪵              | 2 🟠            |
 | Bambù 🎋                | 2 🟠            |
 
@@ -79,25 +80,6 @@ Come punto di riferimento, 1 Koku = 400 Ryoo di riso (40🟡) nutrono un uomo me
 | **Isaki**   | イサキ / 居崎        | 100 Hana         | Distanza              | Distanza fra villaggi, sentieri            |
 | **Sakuchi** | 作地 / サクチ        | Isaki²           | Superficie (grande)   | Unità agricola, tributi e proprietà        |
 
-
----
-
-### Produttività 💪
-
-Produttività stimata per un contadino.
-
-|                  | **sup.** | **primavera** | **estate** | **autunno** | **produzione** | **Produzione** |
-| ---------------- | -------- | ------------- | ---------- | ----------- | -------------- | -------------- |
-|                  | [Kawa]   | [mesi]        | [mesi]     | [mesi]      | [Ryoo/Kawa]    | [Ryoo/anno]    |
-| **patate**       | 250      | 3             | 3          |             | 2              | 500            |
-| **riso**         | 250      | 3             | 3          |             | 2.5            | 625            |
-| **fagioli**      | 200      | 3             |            |             | 1.5            | 300            |
-| **foglie di tè** | 200      | 3             | 3          |             | 1              | 200            |
-| **alghe**        | 200      | 3             | 3          |             | 10             | 2000           |
-| **bambù**        | 100      | 3             |            | 3           | 300            | 30000          |
-| **legna**        | 100      | 3             | 3          | 3           | 150            | 15000          |
-
-
 ---
 
 ### 💴 Stipendi/Guadagni Mensili Medi per Professione
@@ -115,7 +97,6 @@ Produttività stimata per un contadino.
 | Contadino             | 4–5 🟡                    | Dipende dalla qualità della terra e del raccolto  | -                       |
 | Pescatore             | 4–5 🟡                    | Guadagno variabile, influenzato dalla stagione    | -                       |
 | Monaco o Custode      | 1–5 🟡                    | Di solito mantentuto con offerte o donazioni      | Donazioni               |
-
 
 ---
 
