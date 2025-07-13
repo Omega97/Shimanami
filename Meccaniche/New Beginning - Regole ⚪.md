@@ -1,10 +1,14 @@
 
-# NEW BEGINNING
+# New Beginning
 
+
+_New Beginning_ è un semplice sistema di gioco, leggero ed elegante, per giochi di ruolo narrativi; niente tabelle, niente calcoli, solo la tua storia e il coraggio di rischiare – letteralmente. Ispirato a _Not the End_, il sistema ruota attorno a un unico dilemma: **quanti token osi estrarre dal sacchetto?**
+
+Con soli due colori – ⚪ bianchi e ⚫ neri – ogni estrazione decide il destino dei personaggi: crescita, rovina o trasformazione. Non esistono vittorie o sconfitte definitive; c’è soltanto l’esito delle tue azioni, accettato e condiviso da tutti al tavolo. Questo rende le **emozioni e le relazioni** il vero motore della storia.
 
 ---
 
-## MATERIALI 🎒
+## Materiali 🎒
 
 
 1. **TOKEN**: 4 bianchi (⚪) e 4 neri (⚫).
@@ -22,7 +26,7 @@
 
 ---
 
-## AFFRONTARE UNA PROVA 🎯
+## Affrontare una Prova 🎯
 
 
 > Una **PROVA** è necessaria quando il tuo personaggio tenta di fare qualcosa che potrebbe avere conseguenze negative.
@@ -37,12 +41,12 @@
     
 3. **ESTRAI** alla cieca un numero di **TOKEN** a **tua scelta**, tutti insieme.
     
-4. Usa ⚪ e ⚫ che hai **ESTRATTO** per farti raccontare dal **NARRATORE** l’esito della **PROVA**.
+4. Usa i **TOKEN** che hai **ESTRATTO** per farti raccontare l’esito della **PROVA** dal **NARRATORE**[^1].
     
 
 ---
 
-## SUCCESSO E FALLIMENTO 🎭
+## Successo e Fallimento 🎭
 
 
 - Se hai **ESTRATTO** solo ⚪, hai **SUCCESSO TOTALE** ⭐️.
@@ -65,16 +69,16 @@
 
 ---
 
-## SPENDERE I TOKEN ⚪⚫
+## Spendere i Token ⚪⚫
 
 
-* Se hai avuto **SUCCESSO**, spendi:[^1]
+* Se hai avuto **SUCCESSO**, spendi:[^2]
     
     - il primo ⚪ per aver superato la **PROVA**.
         
     * 1 ⚪ per **MIGLIORARE LA SCENA**.
         
-	* 1 ⚪ e **COLLOCARLO** su un **TRATTO** messo in gioco durante la **PROVA**, per usarlo in un secondo momento[^2].
+	* 1 ⚪ e **COLLOCARLO** su un **TRATTO** messo in gioco durante la **PROVA**, per usarlo in un secondo momento[^3].
 	  
 * Spendi i ⚫, scegliendo tra: 
     
@@ -93,7 +97,7 @@
 
 ---
 
-## STATUS TEMATICI ⚗️
+## Status Tematici ⚗️
 
 
 > Prima di affrontare una **PROVA**, il **NARRATORE** può scegliere di **applicare** uno dei seguenti **STATUS**. Puoi fare suggerimenti, ma sarà il **NARRATORE** a decidere se e cosa applicare.
@@ -109,7 +113,7 @@
 
 ---
 
-## PROVA CRUCIALE 🏆
+## Prova Cruciale 🏆
 
 
 > Affronti una **PROVA CRUCIALE** quando la consideri determinante per lo sviluppo dell'**EROE**. 
@@ -144,6 +148,8 @@ Questi sono solo degli esempi di **LEZIONE** e **CICATRICE**. L'idea è che sian
 
 Le conseguenze negative date dai ⚫ devono essere bilanciate in modo che scegliere il numero di TOKEN da ESTRARRE sia un po' un *dilemma* per i giocatori.
 
-[^1]: Il successo non è mai garantito; se scegli di ESTRARRE tanti TOKEN quanti sono i ⚫ o meno, rischi di ESTRARRE solo ⚫. Viceversa, se ne ESTRAI di più, rischi comunque di ESTRARLI tutti, e fallire lo stesso la PROVA.
+[^1]: In certi tipi di campagne potrebbe essere interessante lasciare ai giocatori di decidere le SVENTURE e le COMPLICAZIONI, entro i limiti posti dal NARRATORE.
 
-[^2]: Non c'è un limite di TOKEN che puoi COLLOCARE su un TRATTO, però i TOKEN COLLOCATI vanno tutti consumati la prossima volta che usi quel TRATTO in una PROVA.
+[^2]: Il successo non è mai garantito; se scegli di ESTRARRE tanti TOKEN quanti sono i ⚫ o meno, rischi di ESTRARRE solo ⚫. Viceversa, se ne ESTRAI di più, rischi comunque di ESTRARLI tutti, e fallire lo stesso la PROVA.
+
+[^3]: Non c'è un limite di TOKEN che puoi COLLOCARE su un TRATTO, però i TOKEN COLLOCATI vanno tutti consumati la prossima volta che usi quel TRATTO in una PROVA.
