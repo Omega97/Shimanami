@@ -45,21 +45,23 @@
 ## SUCCESSO E FALLIMENTO 🎭
 
 
-- Se hai **ESTRATTO** solo ⚪, hai **SUCCESSO TOTALE** ✅✅.
+- Se hai **ESTRATTO** solo ⚪, hai **SUCCESSO TOTALE** ⭐️.
     
-- Altrimenti, se hai **ESTRATTO** il **massimo numero possibile** di ⚫, hai **FALLITO** la **PROVA** ❌.
+- Altrimenti, se hai **ESTRATTO** solo ⚫, hai avuto un **FALLIMENTO TOTALE**  ❌.
     
-- In ogni altro caso, hai **SUCCESSO PARZIALE** (proporzionale ai ⚪ ESTRATTI) ✅.
+- Altrimenti, se hai **ESTRATTO** **tutti i ⚫ del sacchetto**, hai avuto un **FALLIMENTO PARZIALE** ❓.
+    
+- In ogni altro caso, hai **SUCCESSO PARZIALE** (proporzionale ai ⚪ **ESTRATTI**) ✅.
     
 
 #### Esempi
 
-| TOKEN nel sacchetto | TOKEN ESTRATTI | Esito                   |
-| ------------------- | -------------- | ----------------------- |
-| ⚪⚪⚪⚫                | ⚪⚪             | **SUCCESSO TOTALE** ✅✅  |
-| ⚪⚫⚫                 | ⚪⚫             | **SUCCESSO PARZIALE** ✅ |
-| ⚪⚪⚫                 | ⚪⚫             | **FALLIMENTO** ❌        |
-| ⚪⚫⚫                 | ⚫              | **FALLIMENTO** ❌        |
+| TOKEN nel sacchetto | TOKEN ESTRATTI | Esito                     |
+| ------------------- | -------------- | ------------------------- |
+| ⚪⚪⚪⚫                | ⚪⚪             | **SUCCESSO TOTALE** ⭐️    |
+| ⚪⚫⚫                 | ⚪⚫             | **SUCCESSO PARZIALE** ✅   |
+| ⚪⚪⚫                 | ⚪⚫             | **FALLIMENTO PARZIALE** ❓ |
+| ⚪⚪⚫⚫                | ⚫              | **FALLIMENTO TOTALE** ❌   |
 
 ---
 
@@ -124,6 +126,16 @@
 	    
 	- Vieni segnato da una **CICATRICE**: il segno lasciato da un evento traumatico significativo; ti permette di spendere un ⚫ per annullare o anticipare certi rischi legati alla tua esperienza passata.
 	  
+
+
+#### Esempi
+
+Questi sono solo degli esempi di **LEZIONE** e **CICATRICE**. L'idea è che siano applicabili solamente in prove inerenti alla relativa **PROVA CRUCIALE**.
+
+| Nome                         | Effetto                                                                                         | Flavuor                                                      |
+| ---------------------------- | ----------------------------------------------------------------------------------------------- | ------------------------------------------------------------ |
+| **LEZIONE**:<br>Perseveranza | Se **FALLISCI COMPLETAMENTE**, puoi scegliere di estrarre altri 2 **TOKEN**                     | "Hai imparato a non arrenderti mai davanti a un fallimento." |
+| **CICATRICE**:<br>Saggezza   | Se **FALLISCI** una **PROVA**, puoi spendere 1⚫️ per **COLLOCARLO** su un tratto che hai usato. | "Hai ottenuto saggezza, e una nuova prospettiva sulla vita." |
 
 ---
 
