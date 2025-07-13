@@ -67,7 +67,7 @@
 | Bambù         | 🎋    | Patate dolci | 🍠    | Legna            | 🪵    |
 | Tè            | 🌱    | Riso         | 🌾    | Granchi          | 🦀    |
 | Fagioli Azuki | 🫛    | Alghe        | 🌿    | Perle            | 🦪    |
-
+| Limone Yuzu   | 🍋    | Mango        | 🥭    | Capanna          | 🛖    |
 
 ---
 
@@ -91,13 +91,11 @@ A sud-ovest, aperta verso il mare del Giappone, sorge Umihana. Qui il sale punge
 
 Leader: **Nakahara Sōgen** – capo flotta anziano che nasconde una perla nera rubata anni prima, ha cercato di venderla in segreto a Kanemura.
 
-
 ---
 
 ### ⛰ La montagna Shirakumo (白雲山) – “La Montagna delle Nuvole Bianche”
 
 Al centro dell’isola sorge Shirakumo-yama, la Montagna delle Nuvole Bianche. Legata da sempre ai riti e ai giuramenti più solenni, su di essa si può scorgere un misterioso tempio abbandonato. Ai suoi piedi si trova **Hakusui (白翠)**, un piccolissimo ma raffinato villaggio, abitato da studiosi, artisti e monaci in pensione. Le sue case curate e i giardini armoniosi ne fanno un luogo quasi irreale.
-
 
 ---
 
@@ -107,7 +105,6 @@ Il periodo Sengoku fu un'epoca di grande instabilità in Giappone, iniziata quan
 
 Nonostante la guerra quasi costante, l'epoca vide anche importanti cambiamenti sociali (con una maggiore mobilità basata sul merito), crescita economica e l'introduzione di nuove tecnologie come le armi da fuoco. Fu un periodo caotico ma dinamico, che alla fine fu pacificato e unificato sotto il dominio di figure come Oda Nobunaga, Toyotomi Hideyoshi e Tokugawa Ieyasu.
 
-
 ---
 
 ### 🌾 Un’Economia che Respira
@@ -115,7 +112,6 @@ Nonostante la guerra quasi costante, l'epoca vide anche importanti cambiamenti s
 L’isola vive di ciò che può coltivare, pescare, forgiare o commerciare. Il **pesce conservato**, il **riso**, le **perle** e le **ceramiche** sono le sue ricchezze, mentre le **spezie**, i **legumi stranieri** e i **metalli preziosi** arrivano dai mercanti d’oltremare. Tutto si scambia nei mercati cittadini, tra grida e inchini, in **Dō (銅)**, **Gin (銀)** e **Kin (金)** — rispettivamente monete di rame, argento e oro.
 
 Siete dei giovani intraprendenti, e vostro obiettivo è quello di accumulare più ricchezze possibili. Chi controlla le rotte, i magazzini o i raccolti… controlla l’equilibrio stesso dell’isola.
-
 
 ---
 
@@ -126,7 +122,6 @@ Aldilà delle fatiche quotidiane legate alla pesca, all'agricoltura e al commerc
 La **musica** è un elemento vitale, in particolare durante i **Matsuri** stagionali. Tamburi potenti (_taiko_) scandiscono il ritmo delle processioni e delle danze, flauti (_shakuhachi_ o _fue_) intonano melodie evocative legate alla natura o alle leggende, e strumenti a corde come lo _shamisen_ o il _koto_ accompagnano canti e narrazioni. Ogni villaggio ha le sue tradizioni musicali, tramandate di generazione in generazione, essenziali per connettersi con i Kami e celebrare i cicli della vita e del raccolto.
 
 Anche altre forme d'arte trovano spazio: gli artigiani di Takamura non creano solo ceramiche funzionali, ma anche pezzi d'arte, vasi e ciotole che raccontano storie o riflettono la bellezza imperfetta del _wabi-sabi_. L'**intaglio del legno**, sia per decorazioni architettoniche nei templi e nelle case dei ricchi, sia per la creazione di maschere usate nelle rappresentazioni rituali, è un'altra abilità preziosa. Infine, la **poesia** e la **narrazione** orale sono diffuse, con storie di eroi, spiriti e l'antica saggezza conservata dai monaci, talvolta messe per iscritto da scribi o studiosi, forse conservate gelosamente nei templi delle tre città.
-
 
 ---
 
@@ -175,7 +170,6 @@ Più mercante che magistrato, il Bugyō del *Commercio di Kanemura* regola con d
 #### Tōryō (頭領 / 当主), capofamiglia della casa commerciale 💸
 
 Il **Tōryō** è il capofamiglia di una casa commerciale, figura centrale della vita economica urbana nel Giappone tardo-medievale. Più di un semplice mercante, governa l’impresa familiare con autorità, parsimonia e visione strategica. È mediatore tra potere, fede e affari, custode di segreti commerciali e artefice di alleanze. Incarna un equilibrio tra tradizione e apertura al nuovo, in un mondo dove il commercio è prestigio, arte e sopravvivenza.
-
 
 ---
 
@@ -226,7 +220,6 @@ La _Kensetsu-shū_ eccelle in un'ampia gamma di discipline costruttive. Sono mae
 
 Oltre alla loro indiscussa perizia, la _Kensetsu-shū_ detiene un notevole potere economico e politico. I loro servizi, indispensabili e costosi, e la loro approvazione sono fondamentali per qualsiasi progetto di costruzione di rilievo, rendendoli attori chiave nelle dinamiche di potere dell'isola. La Gilda gode di una reputazione di integrità e maestria, sebbene, come ogni organizzazione influente, non sia immune da intrighi e pettegolezzi, specialmente quando si tratta di progetti di grande portata che coinvolgono ingenti somme di denaro o interessi politici.
 
-
 ---
 
 ### Tabella della Gerarchica 
@@ -244,13 +237,11 @@ Oltre alla loro indiscussa perizia, la _Kensetsu-shū_ detiene un notevole poter
 | 🛐 **Templi e Monasteri**                    | Autorità spirituali locali, influenti nei rituali, nelle celebrazioni e nella legittimazione                                                                 |
 | 🏘 **Machitoshiyori (Assemblee cittadine)**  | Consigli locali di notabili e anziani, con funzione consultiva e organizzativa                                                                               |
 
-
 ---
 
 ### ⚓ I Pirati e le Incursioni sulla Terraferma
 
 Per comprendere la prudenza — a volte ai limiti della paranoia — con cui gli isolani di Shimanami trattano i viaggiatori provenienti da lontano, bisogna guardare al mare e alla memoria. Nei decenni passati, bande di **Wako (倭寇)**, pirati giapponesi e coreani spesso alleati con trafficanti cinesi, hanno solcato le acque dell’arcipelago e non di rado hanno sbarcato uomini armati sulla terraferma, devastando villaggi costieri e saccheggiando monasteri. Non erano semplici briganti: erano reti organizzate, legate a famiglie decadute, a ex-Ronin, e a mercanti divenuti troppo ambiziosi. Queste incursioni hanno lasciato cicatrici profonde non solo nei raccolti bruciati o nei porti devastati, ma nell’animo collettivo. Da allora, ogni vela all’orizzonte è scrutata con sospetto, ogni bandiera sconosciuta fa trattenere il fiato. Anche oggi, sebbene più rari, si sussurra che alcuni clan del sud abbiano ancora legami con le rotte dei pirati. E sull’isola, il mare è amico solo finché resta calmo.
-
 
 ---
 
@@ -259,7 +250,6 @@ Per comprendere la prudenza — a volte ai limiti della paranoia — con cui gli
 Sebbene Shimanami non conosca la magia, la spiritualità permea la vita quotidiana dei suoi abitanti. Gli Spiriti del Silenzio, i **Kami**, dimorano nei templi, sugli altari, nel paesaggio naturale e persino nei sogni. Questi Kami governano aspetti fondamentali del mondo, come il mare, il legno, il fuoco e la giovinezza, e i loro nomi vengono sussurrati e onorati durante i *Matsuri* stagionali. La menzogna di fronte a una maschera sacra porta con sé il timore della punizione divina, un promemoria costante del rispetto dovuto a queste entità.
 
 I templi dell'isola e i monaci che li abitano svolgono un ruolo vitale, preservando il sapere antico e fungendo da guide spirituali e morali. Affiancando i Kami generici, ogni città venera specifici protettori: Kanemura onora **Fukutoku Daimyōjin (福徳大明神)**, Kami del commercio e della ricchezza; Takamura si affida a **Kagutsuchi-no-Kami (迦具土神)**, Kami del fuoco cruciale per l'artigianato; mentre Umihana invoca la protezione di **Ebisu (えびす / 恵比須)**, patrono della pesca, e di **Inari (稲荷大神)**, Kami del raccolto. Questi spiriti patroni sono parte integrante dell'identità e delle fortune di ciascuna comunità, legando la prosperità terrena al favore del mondo spirituale.
-
 
 ---
 
@@ -275,7 +265,6 @@ Sull’isola di Shimanami, i **matsuri** (祭り) non sono semplici feste stagio
 L’**Akimatsuri** è il momento che segna l'inizio dell’autunno a Shimanami. Ogni anno, in un luogo diverso dell’isola, contadini, artigiani, mercanti, nobili e monaci si riuniscono per celebrare l’abbondanza della terra con cibo, musica e rituali. I mercati esplodono di colori e profumi, i tamburi taiko risuonano tra i vicoli, e le famiglie si ritrovano tra risate, lanterne e offerte agli spiriti. È un raro momento in cui l’intera isola si ferma per condividere gioia, gratitudine e speranza.
 
 Ma sotto la superficie festosa, si intrecciano accordi segreti, sguardi diffidenti e promesse silenziose. Il festival è anche un terreno fertile per alleanze, intrighi e opportunità: chi vuole farsi un nome o cambiare il proprio destino, sa che qui può farlo — se gioca bene le sue carte.
-
 
 ---
 
@@ -324,7 +313,6 @@ L’ecosistema di Shimanami è ricco e variegato, riflesso della sua posizione i
 - **Perle naturali** – pescate con cura vicino a Umihana
     
 
-
 ---
 
 ### 🏞️ Le Vene d'Acqua del Monte Shirakumo
@@ -333,13 +321,11 @@ La vita sull'isola di Shimanami è indissolubilmente legata all'acqua dolce che 
 
 Tuttavia, la generosità delle acque di Shirakumo-yama non è costante, ma pulsa al ritmo delle stagioni dell'isola. Il volume d'acqua che sgorga dalle sorgenti e scorre nei fiumi varia significativamente durante l'anno. Le piogge primaverili portano a un aumento marcato del flusso, cruciale per la preparazione e l'allagamento delle risaie. L'estate può vedere una diminuzione del flusso durante i periodi più secchi, mentre le piogge autunnali rivitalizzano nuovamente i corsi d'acqua. Questa dipendenza dalla stagionalità rende gli abitanti, in particolare i contadini, acutamente consapevoli dei cicli naturali e delle previsioni del tempo, poiché l'abbondanza o la scarsità d'acqua può determinare il successo del raccolto e influenzare ogni aspetto della vita sull'isola.
 
-
 ---
 
 ## 🗓 Il Calendario
 
 Nel Giappone dei primi del Cinquecento, il tempo era misurato secondo un **calendario lunisolare** di origine cinese, noto come _kyūreki_ (旧暦, "vecchio calendario"). Questo sistema combinava i **cicli lunari**, che determinavano i mesi, con correzioni periodiche per mantenere l’anno allineato con le **stagioni solari**. Ogni mese iniziava con la **luna nuova**, e durava generalmente 29 o 30 giorni. Per compensare la discrepanza tra l'anno lunare e quello solare, veniva inserito un **mese intercalare** ogni due o tre anni. L’anno non iniziava a gennaio, ma solitamente intorno a **inizio primavera**, durante il periodo chiamato _Risshun_ (立春), che segnava simbolicamente il rinnovarsi della vita. Le date ufficiali erano legate al regno dell’imperatore e a **era-nomi (nengō)**, come _Eishō_ o _Tenbun_, e i contadini e artigiani spesso si affidavano ai **monaci o ai funzionari del villaggio** per conoscere le fasi lunari, i giorni propizi, e i cambi di stagione.
-
 
 ---
 
