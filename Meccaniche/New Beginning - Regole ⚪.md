@@ -29,7 +29,7 @@
 
 1. Descrivi ciò che vuoi fare.
     
-2. Aggiungi i **TOKEN**:
+2. Aggiungi i **TOKEN** nel sacchetto:
      
     - ⚫ pari alla **DIFFICOLTÀ** decisa dal il **NARRATORE**, 
         
@@ -83,7 +83,7 @@
 
 #### Esempi
 
-|                     | Esempio                                                                                                                                                  |
+| Meccanica           | Esempio                                                                                                                                                  |
 | ------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | MIGLIORARE LA SCENA | *"La tua freccia non solo colpisce il centro del bersaglio, ma spacca in due la freccia che hai scoccato prima. Il pubblico è in delirio!"*              |
 | SVENTURA            | *"Stavi pescando, ma ad un certo punto al tuo amo abbocca un pesce talmente grosso che spezza la tua canna da pesca, e ti fa cadere in acqua."*          |
@@ -130,8 +130,8 @@
 ## Note
 
 
-Le conseguenze negative date dai ⚫ devono essere bilanciate in modo che scegliere il numero di TOKEN da ESTRARRE sia un *dilemma* per i giocatori.
+Le conseguenze negative date dai ⚫ devono essere bilanciate in modo che scegliere il numero di TOKEN da ESTRARRE sia un po' un *dilemma* per i giocatori.
 
 [^1]: Il successo non è mai garantito; se scegli di ESTRARRE tanti TOKEN quanti sono i ⚫ o meno, rischi di ESTRARRE solo ⚫. Viceversa, se ne ESTRAI di più, rischi comunque di ESTRARLI tutti, e fallire lo stesso la PROVA.
 
-[^2]: Non c'è un limite di ⚪ che puoi COLLOCARE su un TRATTO, però i ⚪ COLLOCATI vanno tutti consumati la prossima volta che usi quel TRATTO in una PROVA.
+[^2]: Non c'è un limite di TOKEN che puoi COLLOCARE su un TRATTO, però i TOKEN COLLOCATI vanno tutti consumati la prossima volta che usi quel TRATTO in una PROVA.
