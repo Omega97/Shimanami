@@ -102,14 +102,17 @@ Con soli due colori – ⚪ bianchi e ⚫ neri – ogni estrazione decide il
 
 > Prima di affrontare una **PROVA**, il **NARRATORE** può scegliere di **applicare** uno dei seguenti **STATUS**. Puoi fare suggerimenti, ma sarà il **NARRATORE** a decidere se e cosa applicare.
 
-| Nome               | Descrizione                                                                  | Flavor                                                                    |
-| ------------------ | ---------------------------------------------------------------------------- | ------------------------------------------------------------------------- |
-| **OTTIMISMO**      | **ESTRAI** un sono **TOKEN**, e se **FALLISCI**, puoi **ESTRARRE** un altro. | *È la prima volta che ci provi, ma andrà tutto bene...*                   |
-| **ADRENALINA**     | **ESTRAI** tutti i **TOKEN** tranne uno.                                     | *In questa prova fisica entra in gioco il tuo istinto lotta-o-fuggi!*<br> |
-| **CONCENTRAZIONE** | Se scegli di **ESTRARRE** un solo **TOKEN**, il ⚪ conta come 2.              | *Sei focalizzato su un obiettivo che mette alla prova la tua mente.*      |
-| **CONFUSIONE**     | Un ⚫ che **ESTRAI** conta come 2.                                            | *In un momento concitato, non hai il tempo di pensare...*                 |
-| **FORTUNA**        | I ⚫ che **ESTRAI** dopo il primo, non contano.                               | *Senti che nulla può andare storto.*                                      |
-| **PAURA**          | I ⚪ che **ESTRAI** dopo il primo, non contano.                               | *Sei spaventato, le tue decisioni sono offuscate.*                        |
+| Status Positivi 😃 | Effetto                                                                     | Flavour                                                              |
+| ------------------ | --------------------------------------------------------------------------- | -------------------------------------------------------------------- |
+| **OTTIMISMO**      | Se **ESTRAI** un sono **TOKEN** e **FALLISCI**, puoi **ESTRARNE** un altro. | *È la prima volta che ci provi, ma andrà tutto bene...*              |
+| **CONCENTRAZIONE** | Se scegli di **ESTRARRE** un solo **TOKEN**, i ⚪ contano come 2.            | *Sei focalizzato su un obiettivo che mette alla prova la tua mente.* |
+| **FORTUNA**        | I ⚫ che **ESTRAI** dopo il primo, non contano.                              | *Senti che nulla può andare storto.*                                 |
+
+| Status Negativi 😨 | Effetto                                        | Flavour                                                                   |
+| ------------------ | ---------------------------------------------- | ------------------------------------------------------------------------- |
+| **ADRENALINA**     | **ESTRAI** tutti i **TOKEN** tranne uno.       | *In questa prova fisica entra in gioco il tuo istinto lotta-o-fuggi!*<br> |
+| **CONFUSIONE**     | Un ⚫ che **ESTRAI** conterà come 2.            | *In un momento concitato, non hai il tempo di pensare...*                 |
+| **PAURA**          | I ⚪ che **ESTRAI** dopo il primo, non contano. | *Sei spaventato, le tue decisioni sono offuscate.*                        |
 
 ---
 
