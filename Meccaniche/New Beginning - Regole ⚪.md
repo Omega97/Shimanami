@@ -29,7 +29,7 @@ Con soli due colori – ⚪ bianchi e ⚫ neri – ogni estrazione decide il
 ## Affrontare una Prova 🎯
 
 
-> Una **PROVA** è necessaria quando il tuo personaggio tenta di fare qualcosa che potrebbe avere conseguenze negative.
+> *Affronti una prova quando il tuo personaggio tenta un’azione significativa, il cui esito potrebbe comportare rischi, complicazioni o svolte inaspettate.*
 
 1. Descrivi ciò che vuoi fare.
     
@@ -48,6 +48,8 @@ Con soli due colori – ⚪ bianchi e ⚫ neri – ogni estrazione decide il
 
 ## Successo e Fallimento 🎭
 
+
+> *I token che hai estratto determinano il grado di successo o fallimento delle azioni del tuo personaggio. Starà poi al narratore ad interpretare come continua la scena in base al contesto.*
 
 - Se hai **ESTRATTO** solo ⚪, hai **SUCCESSO TOTALE** ⭐️.
     
@@ -71,6 +73,8 @@ Con soli due colori – ⚪ bianchi e ⚫ neri – ogni estrazione decide il
 
 ## Spendere i Token ⚪⚫
 
+
+> *Una volta estratti i token, il modo in cui decidi di spenderli contribuisce a definire come si sviluppa l’esito della prova e arricchisce la narrazione condivisa.*
 
 * Se hai avuto **SUCCESSO**, spendi:[^2]
     
@@ -97,16 +101,25 @@ Con soli due colori – ⚪ bianchi e ⚫ neri – ogni estrazione decide il
 
 ---
 
+# Altre regole
+
+
+> _Fin qui abbiamo esaminato le regole fondamentali del sistema. Le sezioni successive introducono elementi aggiuntivi per rendere l’esperienza di gioco più ricca e coinvolgente._
+
+---
+
 ## Status Tematici ⚗️
 
 
-> Prima di affrontare una **PROVA**, il **NARRATORE** può scegliere di **applicare** uno dei seguenti **STATUS**. Puoi fare suggerimenti, ma sarà il **NARRATORE** a decidere se e cosa applicare.
+> _Per modulare la difficoltà delle prove, il narratore può applicare uno status tematico al personaggio prima che vengano estratti i token._
 
-| Status Positivi 😃 | Effetto                                                                     | Flavour                                                              |
-| ------------------ | --------------------------------------------------------------------------- | -------------------------------------------------------------------- |
-| **OTTIMISMO**      | Se **ESTRAI** un sono **TOKEN** e **FALLISCI**, puoi **ESTRARNE** un altro. | *È la prima volta che ci provi, ma andrà tutto bene...*              |
-| **CONCENTRAZIONE** | Se scegli di **ESTRARRE** un solo **TOKEN**, i ⚪ contano come 2.            | *Sei focalizzato su un obiettivo che mette alla prova la tua mente.* |
-| **FORTUNA**        | I ⚫ che **ESTRAI** dopo il primo, non contano.                              | *Senti che nulla può andare storto.*                                 |
+Prima di affrontare una **PROVA**, il **NARRATORE** può scegliere di **applicare** uno dei seguenti **STATUS**. Puoi fare suggerimenti, ma sarà il **NARRATORE** a decidere se e cosa applicare.
+
+| Status Positivi 😃 | Effetto                                                                   | Flavour                                                              |
+| ------------------ | ------------------------------------------------------------------------- | -------------------------------------------------------------------- |
+| **OTTIMISMO**      | Se **ESTRAI** un sono **TOKEN** e **FALLISCI**, puoi **ESTRARRE** ancora. | *È la prima volta che ci provi, ma andrà tutto bene...*              |
+| **CONCENTRAZIONE** | Se scegli di **ESTRARRE** un solo **TOKEN**, i ⚪ contano come 2.          | *Sei focalizzato su un obiettivo che mette alla prova la tua mente.* |
+| **FORTUNA**        | I ⚫ che **ESTRAI** dopo il primo, non contano.                            | *Senti che nulla può andare storto.*                                 |
 
 | Status Negativi 😨 | Effetto                                        | Flavour                                                                   |
 | ------------------ | ---------------------------------------------- | ------------------------------------------------------------------------- |
@@ -119,7 +132,9 @@ Con soli due colori – ⚪ bianchi e ⚫ neri – ogni estrazione decide il
 ## Prova Cruciale 🏆
 
 
-> Affronti una **PROVA CRUCIALE** quando la consideri determinante per lo sviluppo dell'**EROE**. 
+> *In questo sistema, le caratteristiche del personaggio restano generalmente statiche lungo il corso della campagna. In questo capitolo vedremo come arricchire il personaggio con abilità speciali e nuovi tratti. La prova cruciale è un evento speciale che causa una crescita interiore del personaggio.*
+
+Affronti una **PROVA CRUCIALE** quando la consideri determinante per lo sviluppo dell'**EROE**. 
 
 1. Dichiara la **PROVA CRUCIALE** in qualsiasi momento prima di **ESTRARRE**.
      
@@ -146,10 +161,19 @@ Questi sono solo degli esempi di **LEZIONE** e **CICATRICE**. L'idea è che sian
 
 ---
 
+## Dare una Mano
+
+
+> *Le meccaniche che abbiamo visto fino a questo punto coinvolgono in genere un giocatore per volta. La regola seguente permette ai personaggi di cooperare, per superare le prove con maggiore probabilità.* 
+
+Se stai affrontando una **PROVA**, un PNG o un altro PG con un **TRATTO** utile possono scegliere di **DARE UNA MANO** aggiungendo 1⚪ ai **TOKEN** nel sacchetto. Il personaggio che decide di aiutare, però, rischia di subire parte delle conseguenze negative della prova.
+
+---
+
 ## Note
 
 
-Le conseguenze negative date dai ⚫ devono essere bilanciate in modo che scegliere il numero di TOKEN da ESTRARRE sia un po' un *dilemma* per i giocatori.
+Le conseguenze negative date dai ⚫ devono essere bilanciate in modo che scegliere il numero di token da estrarre sia un po' un *dilemma* per i giocatori. Ad ogni modo, queste regole costringono il giocatore a bilanciare la probabilità dei quattro tipi diversi di esito, rendendo la decisione ancora più interessante.
 
 [^1]: In certi tipi di campagne potrebbe essere interessante lasciare ai giocatori di decidere le SVENTURE e le COMPLICAZIONI, entro i limiti posti dal NARRATORE.
 
