@@ -8,9 +8,8 @@ Campagna gestionale asincrona ambientata su un'isole nel Giappone nei primi del 
 
 ### Meccaniche
 
-| [[Manuale Shimanami 📖]] | [[Not the End - Regole ⚫️]] | [[New Beginning - Regole ⚪]] |
-| ------------------------ | --------------------------- | ---------------------------- |
-| [[_template_NPC]]        | [[Calendario 📅]]           |                              |
+| [[Manuale Shimanami 📖]] | [[New Beginning - Regole ⚪]] |
+| ------------------------ | ---------------------------- |
 
 ---
 
