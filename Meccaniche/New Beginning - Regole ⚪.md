@@ -60,15 +60,6 @@ Con soli due colori – ⚪ bianchi e ⚫ neri – ogni estrazione decide il
 - In ogni altro caso, hai **SUCCESSO PARZIALE** (proporzionale ai ⚪ **ESTRATTI**) ✅.
     
 
-#### Esempi
-
-| TOKEN nel sacchetto | TOKEN ESTRATTI | Esito                     |
-| ------------------- | -------------- | ------------------------- |
-| ⚪⚪⚪⚫                | ⚪⚪             | **SUCCESSO TOTALE** ⭐️    |
-| ⚪⚫⚫                 | ⚪⚫             | **SUCCESSO PARZIALE** ✅   |
-| ⚪⚪⚫                 | ⚪⚫             | **FALLIMENTO PARZIALE** ❓ |
-| ⚪⚪⚫⚫                | ⚫              | **FALLIMENTO TOTALE** ❌   |
-
 ---
 
 ## Spendere i Token ⚪⚫
@@ -91,14 +82,7 @@ Con soli due colori – ⚪ bianchi e ⚫ neri – ogni estrazione decide il
 	* 1 ⚫ per far raccontare una **COMPLICAZIONE** al **NARRATORE**. Un esito imprevisto della **SCENA**, l'impatto è sulla **SCENA** nel suo complesso.
     
 
-#### Esempi
-
-| Meccanica           | Esempio                                                                                                                                                  |
-| ------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| MIGLIORARE LA SCENA | *"La tua freccia non solo colpisce il centro del bersaglio, ma spacca in due la freccia che hai scoccato prima. Il pubblico è in delirio!"*              |
-| SVENTURA            | *"Stavi pescando, ma ad un certo punto al tuo amo abbocca un pesce talmente grosso che spezza la tua canna da pesca, e ti fa cadere in acqua."*          |
-| COMPLICAZIONE       | *"Stavi pescando sulla tua barchetta con gli amici. Ad un tratto, un grosso temporale vi sorprende. È una corsa contro il tempo per mettersi in salvo."* |
-
+---
 ---
 
 # Altre regole
@@ -149,8 +133,41 @@ Affronti una **PROVA CRUCIALE** quando la consideri determinante per lo sviluppo
 	- Vieni segnato da una **CICATRICE**: il segno lasciato da un evento traumatico significativo; ti permette di spendere un ⚫ per annullare o anticipare certi rischi legati alla tua esperienza passata.
 	  
 
+---
 
-#### Esempi
+## Dare una Mano
+
+
+> _Finora le regole si sono focalizzate su prove individuali. La seguente meccanica consente invece ai personaggi di collaborare, unendo le forze per affrontare insieme una prova._
+
+Se stai affrontando una **PROVA**, un PNG o un altro PG con un **TRATTO** utile possono scegliere di **DARE UNA MANO** aggiungendo 1⚪ ai **TOKEN** nel sacchetto. Il personaggio che decide di aiutare, però, rischia di subire parte delle conseguenze negative della prova.
+
+---
+---
+
+# Esempi
+
+
+#### Esempi di Successo e Fallimento
+
+| TOKEN nel sacchetto | TOKEN ESTRATTI | Esito                     |
+| ------------------- | -------------- | ------------------------- |
+| ⚪⚪⚪⚫                | ⚪⚪             | **SUCCESSO TOTALE** ⭐️    |
+| ⚪⚫⚫                 | ⚪⚫             | **SUCCESSO PARZIALE** ✅   |
+| ⚪⚪⚫                 | ⚪⚫             | **FALLIMENTO PARZIALE** ❓ |
+| ⚪⚪⚫⚫                | ⚫              | **FALLIMENTO TOTALE** ❌   |
+
+
+#### Esempi su come Spendere i Token
+
+| Meccanica           | Esempio                                                                                                                                                  |
+| ------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| MIGLIORARE LA SCENA | *"La tua freccia non solo colpisce il centro del bersaglio, ma spacca in due la freccia che hai scoccato prima. Il pubblico è in delirio!"*              |
+| SVENTURA            | *"Stavi pescando, ma ad un certo punto al tuo amo abbocca un pesce talmente grosso che spezza la tua canna da pesca, e ti fa cadere in acqua."*          |
+| COMPLICAZIONE       | *"Stavi pescando sulla tua barchetta con gli amici. Ad un tratto, un grosso temporale vi sorprende. È una corsa contro il tempo per mettersi in salvo."* |
+
+
+#### Esempi di Lezione e Cicatrice
 
 Questi sono solo degli esempi di **LEZIONE** e **CICATRICE**. L'idea è che siano applicabili solamente in prove inerenti alla relativa **PROVA CRUCIALE**.
 
@@ -160,17 +177,7 @@ Questi sono solo degli esempi di **LEZIONE** e **CICATRICE**. L'idea è che sian
 | **CICATRICE**:<br>Saggezza   | Se **FALLISCI** una **PROVA**, puoi spendere 1⚫️ per **COLLOCARLO** su un tratto che hai usato. | "Hai ottenuto saggezza, e una nuova prospettiva sulla vita." |
 
 ---
-
-## Dare una Mano
-
-
-> *Le meccaniche che abbiamo visto fino a questo punto coinvolgono in genere un giocatore per volta. La regola seguente permette ai personaggi di cooperare, per superare le prove con maggiore probabilità.* 
-
-Se stai affrontando una **PROVA**, un PNG o un altro PG con un **TRATTO** utile possono scegliere di **DARE UNA MANO** aggiungendo 1⚪ ai **TOKEN** nel sacchetto. Il personaggio che decide di aiutare, però, rischia di subire parte delle conseguenze negative della prova.
-
----
-
-## Note
+# Note
 
 
 Le conseguenze negative date dai ⚫ devono essere bilanciate in modo che scegliere il numero di token da estrarre sia un po' un *dilemma* per i giocatori. Ad ogni modo, queste regole costringono il giocatore a bilanciare la probabilità dei quattro tipi diversi di esito, rendendo la decisione ancora più interessante.
