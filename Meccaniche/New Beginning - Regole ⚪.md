@@ -105,11 +105,11 @@ Prima di affrontare una **PROVA**, il **NARRATORE** può scegliere di **applicar
 | **CONCENTRAZIONE** | Se scegli di **ESTRARRE** un solo **TOKEN**, i ⚪ contano come 2.          | *Sei focalizzato su un obiettivo che mette alla prova la tua mente.* |
 | **FORTUNA**        | I ⚫ che **ESTRAI** dopo il primo, non contano.                            | *Senti che nulla può andare storto.*                                 |
 
-| Status Negativi 😨 | Effetto                                        | Flavour                                                                   |
-| ------------------ | ---------------------------------------------- | ------------------------------------------------------------------------- |
-| **ADRENALINA**     | **ESTRAI** tutti i **TOKEN** tranne uno.       | *In questa prova fisica entra in gioco il tuo istinto lotta-o-fuggi!*<br> |
-| **CONFUSIONE**     | Un ⚫ che **ESTRAI** conterà come 2.            | *In un momento concitato, non hai il tempo di pensare...*                 |
-| **PAURA**          | I ⚪ che **ESTRAI** dopo il primo, non contano. | *Sei spaventato, le tue decisioni sono offuscate.*                        |
+| Status Negativi 😨 | Effetto                                  | Flavour                                                                   |
+| ------------------ | ---------------------------------------- | ------------------------------------------------------------------------- |
+| **ADRENALINA**     | **ESTRAI** tutti i **TOKEN** tranne uno. | *In questa prova fisica entra in gioco il tuo istinto lotta-o-fuggi!*<br> |
+| **CONFUSIONE**     | Un ⚫ che **ESTRAI** conterà come 2.      | *In un momento concitato, non hai il tempo di pensare...*                 |
+| **PAURA**          | Devi spendere 2⚪ per superare la prova.  | *Sei spaventato, le tue decisioni sono offuscate.*                        |
 
 ---
 
