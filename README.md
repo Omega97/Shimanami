@@ -2,7 +2,7 @@
 # Shimanami
 
 
-Campagna gestionale asincrona ambientata su un'isole nel Giappone nei primi del '500
+Campagna RPG gestionale asincrona, ambientata su un'isola del Giappone nei primi del '500. Per gestire le prove che i peronaggi devono superare, usiamo il nuovo sistema *New Beginning*.
 
 ---
 
