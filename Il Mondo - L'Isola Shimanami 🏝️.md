@@ -180,9 +180,9 @@ Il **Tōryō** è il capofamiglia di una casa commerciale, figura centrale della
 
 #### 🎣 La Gilda dei Pescatori
 
-Nel cuore pulsante di Umihana, il villaggio le cui fortune sono legate al mare, l'attività ittica è saldamente ancorata alla "Gilda dei Pescatori". Questa consolidata associazione, formata da circa venti famiglie residenti, rappresenta un modello di cooperazione essenziale per la sopravvivenza e la prosperità della comunità costiera. Mettendo in comune le imbarcazioni più grandi e coordinando gli equipaggi per le spedizioni in mare aperto, la Gilda massimizza l'efficienza della pesca e mitiga i rischi individuali. Il pescato viene gestito collettivamente, una parte conservata in un magazzino comune per essere poi venduta in blocco ai mercanti di Kanemura. Questo commercio centralizzato, negoziato dall'esperto leader Hiroshi, garantisce condizioni migliori rispetto alle trattative individuali. 
+Nel cuore pulsante di *Umihana*, il villaggio le cui fortune sono legate al mare, l'attività ittica è saldamente ancorata alla "Gilda dei Pescatori". Questa consolidata associazione, formata da circa venti famiglie residenti, rappresenta un modello di cooperazione essenziale per la sopravvivenza e la prosperità della comunità costiera. Mettendo in comune le imbarcazioni più grandi e coordinando gli equipaggi per le spedizioni in mare aperto, la Gilda massimizza l'efficienza della pesca e mitiga i rischi individuali. Il pescato viene gestito collettivamente, una parte conservata in un magazzino comune per essere poi venduta in blocco ai mercanti di Kanemura. Questo commercio centralizzato, negoziato dall'esperto leader Hiroshi, garantisce condizioni migliori rispetto alle trattative individuali. 
 
-Oltre al suo ruolo economico cruciale, la Gilda agisce come una vitale rete di supporto sociale: un fondo comune fornisce assistenza ai membri colpiti da malattie o danni alle attrezzature, cementando i legami comunitari e assicurando che nessuna famiglia sia lasciata sola di fronte alle avversità del mare e della vita sull'isola. La Gilda dei Pescatori è, in essenza, la spina dorsale di Umihana, un esempio di come la solidarietà e l'organizzazione collettiva siano fondamentali per resistere e prosperare nel duro ma generoso ambiente marino di Shimanami.
+Oltre al suo ruolo economico cruciale, la Gilda agisce come una vitale rete di supporto sociale: un fondo comune fornisce assistenza ai membri colpiti da malattie o danni alle attrezzature, cementando i legami comunitari e assicurando che nessuna famiglia sia lasciata sola di fronte alle avversità del mare e della vita sull'isola. La Gilda dei Pescatori è, in essenza, la spina dorsale di *Umihana*, un esempio di come la solidarietà e l'organizzazione collettiva siano fondamentali per resistere e prosperare nel duro ma generoso ambiente marino di Shimanami.
 
 
 #### 🏺 **La Gilda degli Artigiani – _Haji no Kura_ (土師座)**
@@ -200,7 +200,7 @@ _Haji no Kura_ non è solo un’associazione di mestieri: è una confraternita s
 
 #### 🏮 La Gilda dei Mercanti – _Shōren_ (商連)
 
-Nel crocevia fra le città di Kanemura e gli snodi portuali di Umihana e Takamura, si muove silenziosa ma influente la _Shōren_, la Gilda dei Mercanti. Nata da un patto tra tre antiche casate di commercianti, la Gilda oggi coordina un intricato reticolo di botteghe, trasportatori, negozi ambulanti e rappresentanze itineranti.
+Nel crocevia fra le città di Kanemura e gli snodi portuali di *Umihana* e *Takamura*, si muove silenziosa ma influente la _Shōren_, la Gilda dei Mercanti. Nata da un patto tra tre antiche casate di commercianti, la Gilda oggi coordina un intricato reticolo di botteghe, trasportatori, negozi ambulanti e rappresentanze itineranti.
 
 La _Shōren_ è la più importante associazione economica. I suoi membri stabiliscono i prezzi delle merci essenziali, emettono _licenze di scambio_, e finanziano spedizioni commerciali collettive che uniscono le isole del Mare Interno. Il Consiglio dei Cinque Sigilli, composto dai capi mercanti più influenti, si riunisce settimanalmente nella Sala della Bilancia per discutere rotte, monopoli e alleanze temporanee.
 
@@ -220,9 +220,29 @@ La _Kensetsu-shū_ eccelle in un'ampia gamma di discipline costruttive. Sono mae
 
 Oltre alla loro indiscussa perizia, la _Kensetsu-shū_ detiene un notevole potere economico e politico. I loro servizi, indispensabili e costosi, e la loro approvazione sono fondamentali per qualsiasi progetto di costruzione di rilievo, rendendoli attori chiave nelle dinamiche di potere dell'isola. La Gilda gode di una reputazione di integrità e maestria, sebbene, come ogni organizzazione influente, non sia immune da intrighi e pettegolezzi, specialmente quando si tratta di progetti di grande portata che coinvolgono ingenti somme di denaro o interessi politici.
 
+
+#### 🫖 **Gilda dei Maestri del Gusto – _Shokugei Ren_ (食芸連)**
+
+> _“Nel profumo del brodo si cela la memoria. Nell’equilibrio dei sapori, la verità.”_
+
+Nel dedalo dei vicoli di **Kanemura**, dietro tende di lino ricamato e silenzi rispettosi, si trova il cuore della **Shokugei Ren** (食芸連) – la Gilda dei Maestri del Gusto.  
+Nata secoli fa per codificare le pratiche cerimoniali legate al **cibo, al tè e all’offerta sacra**, oggi la gilda raccoglie i più raffinati cuochi, pastai, esperti di fermentazione, cerimonieri del tè, locandieri d’élite e speziali d’eccezione.
+
+Qui, **la cucina è arte e linguaggio**: ogni piatto è una dichiarazione di intenti, ogni portata una poesia da svelare. La gilda conserva **ricettari segreti**, protocolli cerimoniali e ingredienti esclusivi. Non si limita a cucinare: **decide chi è degno di essere servito**.
+
+Il rango all’interno della gilda non si ottiene con il denaro, ma con la **raffinatezza del palato e la coerenza dell’anima**. Alcuni dei suoi membri sono **più influenti dei nobili**, e i Bugyō stessi si inchinano… davanti a un tè servito come si deve.
+
+| 🏷️ **Gilda**                                                | 🎖️ **Vantaggi Meccanici e Narrativi**                                                                                                                                                                                                                                                                                         |
+| ------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| 🏺 **Gilda degli Artigiani** _Haji no Kura_ (土師座)            | - Accesso a **materiali rari e pigmenti rituali**- Diritto di esporre nei **festival stagionali**- **Protezione legale** nelle dispute su opere o brevetti- Possibilità di ricevere **incarichi nobiliari o religiosi**- Appartenenza a una **confraternita spirituale** che può offrire cure, rifugio o conoscenze esoteriche |
+| 🎣 **Gilda dei Pescatori**                                   | - Partecipazione ai **proventi collettivi del pescato**- Uso di **barche comuni** e strumenti professionali- **Protezione finanziaria** tramite fondo mutualistico- Possibilità di influenzare i **prezzi del mercato ittico**- **Prestigio locale** ad Umihana e accesso a rotte marittime                                    |
+| 🏮 **Gilda dei Mercanti** _Shōren_ (商連)                      | - **Licenza ufficiale di commercio** su tutta l’isola- Accesso privilegiato ai **mercati e fiere**- Possibilità di **finanziamenti e prestiti interni**- Informazioni esclusive su **rotte, tasse, e preferenze nobiliari**- Opportunità di salire nella gerarchia fino al **Consiglio dei Cinque Sigilli**                    |
+| 🪚 **Gilda dei Costruttori** _Kensetsu-shū_ (建設衆)            | - **Contratti edilizi prestigiosi**, anche da parte del Daimyō- Accesso alle **mappe e ai piani edilizi** delle città- Supporto logistico per **riparazioni e costruzioni rapide**- **Formazione professionale rigida e avanzata**- Opportunità di intervenire in **decisioni politiche urbanistiche**                         |
+| 🫖 **Gilda dei Maestri del Gusto**  <br>_Shokugei Ren_ (食芸連) | - **Licenza cerimoniale** per banchetti e rituali ufficiali  <br>- Accesso a **ingredienti rari e importati**  <br>- **Favori politici tramite ospitalità e cucina**  <br>- Potere di **modellare eventi e alleanze con i pasti**  <br>- Riconoscimento presso templi e spiriti per **offerte sacre**                          |
+
 ---
 
-### Tabella della Gerarchica 
+## Tabella della Gerarchica dell'Isola
 
 | **Organo / Figura**                          | **Ruolo / Descrizione**                                                                                                                                      |
 | -------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------ |
@@ -239,17 +259,17 @@ Oltre alla loro indiscussa perizia, la _Kensetsu-shū_ detiene un notevole poter
 
 ---
 
-### ⚓ I Pirati e le Incursioni sulla Terraferma
+## ⚓ I Pirati e le Incursioni sulla Terraferma
 
 Per comprendere la prudenza — a volte ai limiti della paranoia — con cui gli isolani di Shimanami trattano i viaggiatori provenienti da lontano, bisogna guardare al mare e alla memoria. Nei decenni passati, bande di **Wako (倭寇)**, pirati giapponesi e coreani spesso alleati con trafficanti cinesi, hanno solcato le acque dell’arcipelago e non di rado hanno sbarcato uomini armati sulla terraferma, devastando villaggi costieri e saccheggiando monasteri. Non erano semplici briganti: erano reti organizzate, legate a famiglie decadute, a ex-Ronin, e a mercanti divenuti troppo ambiziosi. Queste incursioni hanno lasciato cicatrici profonde non solo nei raccolti bruciati o nei porti devastati, ma nell’animo collettivo. Da allora, ogni vela all’orizzonte è scrutata con sospetto, ogni bandiera sconosciuta fa trattenere il fiato. Anche oggi, sebbene più rari, si sussurra che alcuni clan del sud abbiano ancora legami con le rotte dei pirati. E sull’isola, il mare è amico solo finché resta calmo.
 
 ---
 
-### 🐚 Religione - Gli Spiriti del Silenzio
+## 🐚 Religione - Gli Spiriti del Silenzio
 
 Sebbene Shimanami non conosca la magia, la spiritualità permea la vita quotidiana dei suoi abitanti. Gli Spiriti del Silenzio, i **Kami**, dimorano nei templi, sugli altari, nel paesaggio naturale e persino nei sogni. Questi Kami governano aspetti fondamentali del mondo, come il mare, il legno, il fuoco e la giovinezza, e i loro nomi vengono sussurrati e onorati durante i *Matsuri* stagionali. La menzogna di fronte a una maschera sacra porta con sé il timore della punizione divina, un promemoria costante del rispetto dovuto a queste entità.
 
-I templi dell'isola e i monaci che li abitano svolgono un ruolo vitale, preservando il sapere antico e fungendo da guide spirituali e morali. Affiancando i Kami generici, ogni città venera specifici protettori: Kanemura onora **Fukutoku Daimyōjin (福徳大明神)**, Kami del commercio e della ricchezza; Takamura si affida a **Kagutsuchi-no-Kami (迦具土神)**, Kami del fuoco cruciale per l'artigianato; mentre Umihana invoca la protezione di **Ebisu (えびす / 恵比須)**, patrono della pesca, e di **Inari (稲荷大神)**, Kami del raccolto. Questi spiriti patroni sono parte integrante dell'identità e delle fortune di ciascuna comunità, legando la prosperità terrena al favore del mondo spirituale.
+I templi dell'isola e i monaci che li abitano svolgono un ruolo vitale, preservando il sapere antico e fungendo da guide spirituali e morali. Affiancando i Kami generici, ogni città venera specifici protettori: Kanemura onora **Fukutoku Daimyōjin (福徳大明神)**, Kami del commercio e della ricchezza; Takamura si affida a **Kagutsuchi-no-Kami (迦具土神)**, Kami del fuoco cruciale per l'artigianato; mentre *Umihana* invoca la protezione di **Ebisu (えびす / 恵比須)**, patrono della pesca, e di **Inari (稲荷大神)**, Kami del raccolto. Questi spiriti patroni sono parte integrante dell'identità e delle fortune di ciascuna comunità, legando la prosperità terrena al favore del mondo spirituale.
 
 ---
 
