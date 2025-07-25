@@ -19,16 +19,17 @@ Come punto di riferimento, 1 Koku = 400 Ryō di riso (40🟡) nutrono un uomo me
 
 | Proprietà/Bene               | Prezzo Medio | Unita di Scambio |
 | ---------------------------- | ------------ | ---------------- |
-| Barca media ⛵️               | 20-50 🟡     | 1 barca          |
+| Barca grande (6 eq.) 🛥      | 50 🟡        |                  |
+| Barca media (3 eq.) ⛵️       | 30 🟡        | 1 barca          |
 | Katane cerimoniali 🗡        | 10–30 🟡     | 1 pezzo          |
-| Barca piccola 🛶             | 5–20 🟡      | 1 barca          |
+| Barca piccola (1 eq.) 🛶     | 10 🟡        | 1 barca          |
 | Carro per trasporto merci 🚚 | 6 🟡         | 1 unità          |
 | Cavallo 🐎                   | 3-4 🟡       | 1 unità          |
 | Gioielli in perle 💠         | 2-40 🟡      | 1 gioiello       |
 | Carretto 🛒                  | 2 🟡         | 1 unità          |
 | Perla 🦪                     | 1-10 🟡      | 1 unità          |
-| Reti da pesca 🕸️            | 20-30 ⚪️     | 1 rete           |
-| Sake 🥃                      | 5-20 ⚪️      | 1 bottiglia      |
+| Reti da pesca 🕸️            | 20 ⚪️        | 1 rete           |
+| Sake 🥃                      | 10 ⚪️        | 1 bottiglia      |
 | Ceramiche 🏺                 | 5–30 ⚪️      | 1 pezzo          |
 | Bottiglia 🫙                 | 2 ⚪️         | 1 pezzo          |
 
@@ -47,18 +48,18 @@ Come punto di riferimento, 1 Koku = 400 Ryō di riso (40🟡) nutrono un uomo me
 | Risorsa                 | Prezzo (al Ryō) |
 | ----------------------- | --------------- |
 | Spezie 🌶️              | 20–100 ⚪️       |
-| Fagioli Azuki 🫛        | 12-15 ⚪️        |
-| Foglie di Tè lavorate🍵 | 10-25 ⚪️        |
-| Cocco 🥥                | 10-15 ⚪️        |
-| Mango 🥭                | 9-14 ⚪️         |
-| Riso 🌾                 | 8-12 ⚪️         |
-| Pesce 🐟                | 4-12 ⚪️         |
-| Patate dolci 🍠         | 3-5 ⚪️          |
+| Foglie di Tè lavorate🍵 | 15 ⚪️           |
+| Fagioli Azuki 🫛        | 14 ⚪️           |
+| Cocco 🥥                | 13 ⚪️           |
+| Mango 🥭                | 12 ⚪️           |
+| Pesce 🐟                | 11 ⚪️           |
+| Riso 🌾                 | 10 ⚪️           |
+| Patate dolci 🍠         | 4 ⚪️            |
 | Sale marino 🧂          | 2⚪️             |
-| Foglie di Tè fresche🌱  | 1-2 ⚪️          |
-| Riso (per coltivare) 🌾 | 1 ⚪️            |
-| Alghe essiccate 🌿      | 25-35 🟠        |
-| Alghe *Nori* 🌿         | 5-9 🟠          |
+| Foglie di Tè fresche🌱  | 150 🟠          |
+| Riso (per coltivare) 🌾 | 100 🟠          |
+| Alghe essiccate 🌿      | 30 🟠           |
+| Alghe *Nori* 🌿         | 7 🟠            |
 | Legname 🪵              | 2 🟠            |
 | Bambù 🎋                | 2 🟠            |
 
@@ -84,19 +85,19 @@ Come punto di riferimento, 1 Koku = 400 Ryō di riso (40🟡) nutrono un uomo me
 
 ### 💴 Stipendi/Guadagni Mensili Medi per Professione
 
-| Professione           | Guadagno Mensile (in Kin) | Note                                              | Pagati da:              |
-| --------------------- | ------------------------- | ------------------------------------------------- | ----------------------- |
-| Samurai               | 10–20 🟡                  | Dipende dal rango, spesso con vitto e alloggio    | Daimyō                  |
-| Mercenario            | 8–18 🟡                   | Rischioso, ma ben pagato in tempi turbolenti      | Ricchi mercanti, Nobili |
-| Funzionario Locale    | 8–12 🟡                   | Amministratori, esattori, notai                   | Daimyō, Consiglio       |
-| Commerciante          | 7–15 🟡                   | Include venditori ambulanti e gestori di botteghe | -                       |
-| Scriba / Scrivano     | 8–10 🟡                   | I più richiesti lavorano per mercanti o il Daimyō | Privati, Stato          |
-| Taglialegna           | 6–8 🟡                    | Un albero al giorno                               |                         |
-| Artigiano             | 4–7 🟡                    | Più se specializzato (es. ceramista, fabbro)      | -                       |
-| Marinaio / Navigatore | 5–6 🟡                    | Navigazione tra le città o rotte costiere         | Privati                 |
-| Contadino             | 4–5 🟡                    | Dipende dalla qualità della terra e del raccolto  | -                       |
-| Pescatore             | 4–5 🟡                    | Guadagno variabile, influenzato dalla stagione    | -                       |
-| Monaco o Custode      | 1–5 🟡                    | Di solito mantentuto con offerte o donazioni      | Donazioni               |
+| Professione           | Guadagno Mensile (in Kin) | Note                                                               | Pagati da:              |
+| --------------------- | ------------------------- | ------------------------------------------------------------------ | ----------------------- |
+| Samurai               | 15 🟡                     | Dipende dal rango, spesso con vitto e alloggio                     | Daimyō                  |
+| Mercenario            | 13 🟡                     | Rischioso, ma ben pagato in tempi turbolenti                       | Ricchi mercanti, Nobili |
+| Funzionario Locale    | 10 🟡                     | Amministratori, esattori, notai                                    | Daimyō, Consiglio       |
+| Commerciante          | 7–14 🟡                   | Include venditori ambulanti e gestori di botteghe                  | -                       |
+| Scriba / Scrivano     | 9 🟡                      | I più richiesti lavorano per mercanti o il Daimyō                  | Privati, Stato          |
+| Taglialegna           | 7 🟡                      | Un albero al giorno                                                |                         |
+| Artigiano             | 6 🟡                      | Più se specializzato (es. ceramista, fabbro)                       | -                       |
+| Marinaio / Navigatore | 5 🟡                      | Navigazione tra le città o rotte costiere                          | Privati                 |
+| Pescatore             | 4-6 🟡                    | Guadagno variabile, influenzato dalla stagione e dall'imbarcazione | -                       |
+| Contadino             | 4 🟡                      | Dipende dalla qualità della terra e del raccolto                   | -                       |
+| Monaco o Custode      | 2 🟡                      | Di solito mantentuto con offerte o donazioni                       | Donazioni               |
 
 ---
 
@@ -106,39 +107,39 @@ Il costo del cibo quotidiano varia a seconda dello stile di vita. Un pasto sempl
 
 | Stile alimentare            | Costo giornaliero | Costo mensile (stima) |
 | --------------------------- | ----------------- | --------------------- |
-| Dieta variata o urbana      | 10-12 ⚪️          | ~3.3 🟡               |
-| Dieta popolare (essenziale) | 7-9 ⚪️            | ~2.5 🟡               |
+| Dieta variata o urbana      | ~11 ⚪️            | ~330 ⚪️               |
+| Dieta popolare (essenziale) | ~8 ⚪️             | ~250 ⚪️               |
 
 #### 🏠 Costo dell’Affitto
 
-| Tipo di alloggio                    | Prezzo mensile indicativo |
-| ----------------------------------- | ------------------------- |
-| Residenza di alto livello (Hakusui) | 3–4 🟡                    |
-| Casa dignitosa con spazio personale | ~2 🟡                     |
-| Casa modesta in quartiere popolare  | ~1 🟡                     |
-| Stanza in locanda o dormitorio      | ~50 ⚪️                    |
-| 1 Kawa terreno coltivabile 🟩       | 1-4 ⚪️                    |
-| Barca media ⛵️                      | ~50 ⚪️                    |
-| Barca piccola 🛶                    | ~20 ⚪️                    |
+| Tipo di alloggio                    | Prezzo mensile |
+| ----------------------------------- | -------------- |
+| Residenza di alto livello (Hakusui) | 4 🟡           |
+| Casa dignitosa con spazio personale | 2 🟡           |
+| Casa modesta in quartiere popolare  | ~1 🟡          |
+| Stanza in locanda o dormitorio      | ~50 ⚪️         |
+| Barca media ⛵️                      | 50 ⚪️          |
+| Barca piccola 🛶                    | 20 ⚪️          |
+| 1 Kawa terreno coltivabile 🟩       | 2 ⚪️           |
 
 #### 💴 Tasse Mensili 
 
 | Tipo di Bene / Attività               | Tassa Mensile | Note                                                          |
 | ------------------------------------- | ------------- | ------------------------------------------------------------- |
-| Villa 🏘                              | 100-150 ⚪️    | Giardino, cortile, servitù                                    |
+| Villa 🏘                              | 150 ⚪️        | Giardino, cortile, servitù                                    |
 | **Bottega artigianale**               | 100 ⚪️        | Include licenza, spese pubbliche e prelievi locali            |
 | **Magazzino commerciale**             | 100 ⚪️        | Vale anche per depositi o strutture di stoccaggio             |
 | Rotta Commerciale via terra 🐫        | 100 ⚪️        |                                                               |
 | Rotta Commerciale via mare ⛴          | 100 ⚪️        |                                                               |
-| Casa cittadina 🏠                     | 50-100 ⚪️     | Include servizi e posizione                                   |
+| Casa cittadina 🏠                     | 100 ⚪️        | Include servizi e posizione                                   |
 | Permesso per abbattere gli alberi     | 40 ⚪️         | Per 100 kawa circa, solitamente applicata approssimativamente |
-| Casa semplice 🏡                      | 30-50 ⚪️      | Per famiglia contadina                                        |
+| Casa semplice 🏡                      | 30 ⚪️         | Per famiglia contadina                                        |
 | Bancarella 🧺                         | 25 ⚪️         | Include licenza di commercio                                  |
 | **Barca da pesca personale**          | 20 ⚪️         | Tassa di licenza e accesso al porto                           |
 | **Deposito/piccolo magazzino**        | 100 ⚪️        | Vale anche per depositi o strutture di stoccaggio             |
 | **1 Kawa di terreno edificabile**     | 50-100 🟠     |                                                               |
 | **1 Kawa di terreno agricolo**        | 25 🟠         | Tassa agricola di base                                        |
-| **1 Kawa di terreno non-edificabile** | 1-2 🟠        |                                                               |
+| **1 Kawa di terreno non-edificabile** | ~2 🟠         |                                                               |
 | **Esenzione religiosa**               | 0             | Solo per chi serve un tempio o è sotto protezione clericale   |
 | Samurai al servizio                   | 0             | Esentasse, ma obblighi militari e di presenza                 |
  
