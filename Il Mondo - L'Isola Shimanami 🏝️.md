@@ -83,7 +83,7 @@ Leader: **Hoshino Gen** – un diplomatico ambizioso che cerca di ottenere il co
 
 A sud-est, tra fitti boschi e campi rigogliosi, si trova Takamura. A un'ora e mezza di cammino da Kanemura, le sue botteghe scolpiscono il silenzio nel fuoco, trasformando l’argilla locale in ceramiche che raccontano storie, e il rispetto in un mestiere. Qui nulla è improvvisato. Le gilde regolano l’arte, l’onore, e la successione come una danza antica, eseguita con precisione e deferenza. Ma sotto l’ordine, si agita il desiderio di cambiare.
 
-Leader: **Takatsu Rin** – maestra ceramista che cerca segretamente di carpire i pigmenti unici usati nel villaggio di Hakusui violando il codice delle gilde.
+Leader: **Takatsu Azuki** – maestra ceramista che cerca segretamente di carpire i pigmenti unici usati nel villaggio di Hakusui violando il codice delle gilde.
 
 #### **Umihana** (海花) – I Fiori del Mare
 
