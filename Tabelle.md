@@ -19,7 +19,7 @@ Come punto di riferimento, 1 Koku = 400 Ryō di riso (40🟡) nutrono un uomo me
 
 | Proprietà/Bene               | Prezzo Medio | Unita di Scambio |
 | ---------------------------- | ------------ | ---------------- |
-| Barca grande (6 eq.) 🛥      | 50 🟡        |                  |
+| Barca grande (6 eq.) 🛥      | 60 🟡        |                  |
 | Barca media (3 eq.) ⛵️       | 30 🟡        | 1 barca          |
 | Katane cerimoniali 🗡        | 10–30 🟡     | 1 pezzo          |
 | Barca piccola (1 eq.) 🛶     | 10 🟡        | 1 barca          |
