@@ -92,6 +92,7 @@ Come punto di riferimento, 1 Koku = 400 Ryō di riso (40🟡) nutrono un uomo me
 | Funzionario Locale    | 10 🟡                     | Amministratori, esattori, notai                                    | Daimyō, Consiglio       |
 | Commerciante          | 7–14 🟡                   | Include venditori ambulanti e gestori di botteghe                  | -                       |
 | Scriba / Scrivano     | 9 🟡                      | I più richiesti lavorano per mercanti o il Daimyō                  | Privati, Stato          |
+| Guardia               | 8-9 🟡                    |                                                                    |                         |
 | Taglialegna           | 7 🟡                      | Un albero al giorno                                                |                         |
 | Artigiano             | 6 🟡                      | Più se specializzato (es. ceramista, fabbro)                       | -                       |
 | Marinaio / Navigatore | 5 🟡                      | Navigazione tra le città o rotte costiere                          | Privati                 |
