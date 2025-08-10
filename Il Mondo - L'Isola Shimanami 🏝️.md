@@ -210,7 +210,7 @@ I giovani apprendisti sono spesso formati presso case mercantili maggiori, per p
 
 La _Shōren_ è il cuore invisibile che pompa ricchezza nell’isola: muta, flessibile, determinata, e capace di trasformare anche una semplice foglia di tè in una fortuna.
 
-#### 🪚 La Gilda del Costruttori - _Kensetsu-shū_ (建設衆)
+#### 🪚 La Gilda dei Costruttori - _Kensetsu-shū_ (建設衆)
 
 La Gilda dei Costruttori rappresenta la spina dorsale architettonica di Shimanami. Con radici profonde a Takamura, la città delle arti e delle gilde, la sua storia è incisa in ogni struttura dell'isola, dai ponti che uniscono le terre ai templi sacri del Monte Shirakumo, fino alle case di mercanti e pescatori, ognuna delle quali testimonia la maestria di generazioni di artigiani che hanno plasmato il paesaggio.
 
