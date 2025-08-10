@@ -19,18 +19,19 @@ Come punto di riferimento, 1 Koku = 400 Ryō di riso (40🟡) nutrono un uomo me
 
 | Proprietà/Bene               | Prezzo Medio | Unita di Scambio |
 | ---------------------------- | ------------ | ---------------- |
-| Barca grande (6 eq.) 🛥      | 60 🟡        |                  |
+| Barca grande (6 eq.) 🛥      | 60 🟡        | 1 barca          |
 | Barca media (3 eq.) ⛵️       | 30 🟡        | 1 barca          |
-| Katane cerimoniali 🗡        | 10–30 🟡     | 1 pezzo          |
+| Katane cerimoniali 🗡        | 10-30 🟡     | 1 pezzo          |
 | Barca piccola (1 eq.) 🛶     | 10 🟡        | 1 barca          |
 | Carro per trasporto merci 🚚 | 6 🟡         | 1 unità          |
 | Cavallo 🐎                   | 3-4 🟡       | 1 unità          |
 | Gioielli in perle 💠         | 2-40 🟡      | 1 gioiello       |
 | Carretto 🛒                  | 2 🟡         | 1 unità          |
 | Perla 🦪                     | 1-10 🟡      | 1 unità          |
+| Kimono 👘                    | 50-200⚪️     | 1 pezzo          |
 | Reti da pesca 🕸️            | 20 ⚪️        | 1 rete           |
 | Sake 🥃                      | 10 ⚪️        | 1 bottiglia      |
-| Ceramiche 🏺                 | 5–30 ⚪️      | 1 pezzo          |
+| Ceramiche 🏺                 | 5-30 ⚪️      | 1 pezzo          |
 | Bottiglia 🫙                 | 2 ⚪️         | 1 pezzo          |
 
 | Immobile                   | Prezzo Medio | Unita di Scambio |
@@ -47,6 +48,7 @@ Come punto di riferimento, 1 Koku = 400 Ryō di riso (40🟡) nutrono un uomo me
 
 | Risorsa                 | Prezzo (al Ryō) |
 | ----------------------- | --------------- |
+| Olio di balena          | 150 ⚪️          |
 | Spezie 🌶️              | 20–100 ⚪️       |
 | Foglie di Tè lavorate🍵 | 15 ⚪️           |
 | Fagioli Azuki 🫛        | 14 ⚪️           |
