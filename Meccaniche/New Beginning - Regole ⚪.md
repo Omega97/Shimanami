@@ -68,7 +68,7 @@ Con soli due colori – ⚪ bianchi e ⚫ neri – ogni estrazione decide il
         
     * 1 ⚪ per **MIGLIORARE LA SCENA**.
         
-	* 1 ⚪ e **COLLOCARLO** su un **TRATTO** messo in gioco durante la **PROVA**, per usarlo in un secondo momento[^3].
+	* 1 ⚪ e **COLLOCARLO** su un **TRATTO** messo in gioco durante la **PROVA**, per usarlo in un secondo momento.
 	  
 * Spendi i ⚫, scegliendo tra: 
     
@@ -175,5 +175,3 @@ Le conseguenze negative date dai ⚫ devono essere bilanciate in modo che scegli
 [^1]: In certi tipi di campagne potrebbe essere interessante lasciare ai giocatori di decidere le SVENTURE e le COMPLICAZIONI, entro i limiti posti dal NARRATORE.
 
 [^2]: Il successo non è mai garantito; se scegli di ESTRARRE tanti TOKEN quanti sono i ⚫ o meno, rischi di ESTRARRE solo ⚫. Viceversa, se ne ESTRAI di più, rischi comunque di ESTRARLI tutti, e fallire lo stesso la PROVA.
-
-[^3]: Non c'è un limite di TOKEN che puoi COLLOCARE su un TRATTO, però i TOKEN COLLOCATI vanno tutti consumati la prossima volta che usi quel TRATTO in una PROVA.
