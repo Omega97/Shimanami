@@ -28,7 +28,9 @@ Come punto di riferimento, 1 Koku = 400 Ryō di riso (40🟡) nutrono un uomo me
 | Gioielli in perle 💠         | 2-40 🟡      | 1 gioiello       |
 | Carretto 🛒                  | 2 🟡         | 1 unità          |
 | Perla 🦪                     | 1-10 🟡      | 1 unità          |
+| Armatura da samurai          | 1-3 🟡       | 1 completo       |
 | Kimono 👘                    | 50-200⚪️     | 1 pezzo          |
+| Vestiti                      | 25 ⚪️        | 1 completo       |
 | Reti da pesca 🕸️            | 20 ⚪️        | 1 rete           |
 | Sake 🥃                      | 10 ⚪️        | 1 bottiglia      |
 | Ceramiche 🏺                 | 5-30 ⚪️      | 1 pezzo          |
@@ -48,7 +50,7 @@ Come punto di riferimento, 1 Koku = 400 Ryō di riso (40🟡) nutrono un uomo me
 
 | Risorsa                 | Prezzo (al Ryō) |
 | ----------------------- | --------------- |
-| Olio di balena          | 150 ⚪️          |
+| Olio di balena          | 1.5 🟡          |
 | Spezie 🌶️              | 20–100 ⚪️       |
 | Foglie di Tè lavorate🍵 | 15 ⚪️           |
 | Fagioli Azuki 🫛        | 14 ⚪️           |
@@ -57,9 +59,9 @@ Come punto di riferimento, 1 Koku = 400 Ryō di riso (40🟡) nutrono un uomo me
 | Pesce 🐟                | 11 ⚪️           |
 | Riso 🌾                 | 10 ⚪️           |
 | Patate dolci 🍠         | 4 ⚪️            |
-| Sale marino 🧂          | 2⚪️             |
-| Foglie di Tè fresche🌱  | 150 🟠          |
-| Riso (per coltivare) 🌾 | 100 🟠          |
+| Sale marino 🧂          | 2 ⚪️            |
+| Foglie di Tè fresche🌱  | 1.5 ⚪️          |
+| Riso (per coltivare) 🌾 | 1 ⚪️            |
 | Alghe essiccate 🌿      | 30 🟠           |
 | Alghe *Nori* 🌿         | 7 🟠            |
 | Legname 🪵              | 2 🟠            |
@@ -110,8 +112,8 @@ Il costo del cibo quotidiano varia a seconda dello stile di vita. Un pasto sempl
 
 | Stile alimentare            | Costo giornaliero | Costo mensile (stima) |
 | --------------------------- | ----------------- | --------------------- |
-| Dieta variata o urbana      | ~11 ⚪️            | ~330 ⚪️               |
-| Dieta popolare (essenziale) | ~8 ⚪️             | ~250 ⚪️               |
+| Dieta variata o urbana      | ~11 ⚪️            | ~3.3 🟡               |
+| Dieta popolare (essenziale) | ~8 ⚪️             | ~2.5 🟡               |
 
 #### 🏠 Costo dell’Affitto
 
@@ -129,17 +131,17 @@ Il costo del cibo quotidiano varia a seconda dello stile di vita. Un pasto sempl
 
 | Tipo di Bene / Attività               | Tassa Mensile | Note                                                          |
 | ------------------------------------- | ------------- | ------------------------------------------------------------- |
-| Villa 🏘                              | 150 ⚪️        | Giardino, cortile, servitù                                    |
-| **Bottega artigianale**               | 100 ⚪️        | Include licenza, spese pubbliche e prelievi locali            |
-| **Magazzino commerciale**             | 100 ⚪️        | Vale anche per depositi o strutture di stoccaggio             |
-| Rotta Commerciale via terra 🐫        | 100 ⚪️        |                                                               |
-| Rotta Commerciale via mare ⛴          | 100 ⚪️        |                                                               |
-| Casa cittadina 🏠                     | 100 ⚪️        | Include servizi e posizione                                   |
+| Villa 🏘                              | 1.5 🟡        | Giardino, cortile, servitù                                    |
+| **Bottega artigianale**               | 1 🟡          | Include licenza, spese pubbliche e prelievi locali            |
+| **Magazzino commerciale**             | 1 🟡          | Vale anche per depositi o strutture di stoccaggio             |
+| Rotta Commerciale via terra 🐫        | 1 🟡          |                                                               |
+| Rotta Commerciale via mare ⛴          | 1 🟡          |                                                               |
+| Casa cittadina 🏠                     | 1 🟡          | Include servizi e posizione                                   |
+| **Deposito/piccolo magazzino**        | 1 🟡          | Vale anche per depositi o strutture di stoccaggio             |
 | Permesso per abbattere gli alberi     | 40 ⚪️         | Per 100 kawa circa, solitamente applicata approssimativamente |
 | Casa semplice 🏡                      | 30 ⚪️         | Per famiglia contadina                                        |
 | Bancarella 🧺                         | 25 ⚪️         | Include licenza di commercio                                  |
 | **Barca da pesca personale**          | 20 ⚪️         | Tassa di licenza e accesso al porto                           |
-| **Deposito/piccolo magazzino**        | 100 ⚪️        | Vale anche per depositi o strutture di stoccaggio             |
 | **1 Kawa di terreno edificabile**     | 50-100 🟠     |                                                               |
 | **1 Kawa di terreno agricolo**        | 25 🟠         | Tassa agricola di base                                        |
 | **1 Kawa di terreno non-edificabile** | ~2 🟠         |                                                               |
