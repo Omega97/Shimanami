@@ -44,16 +44,16 @@ La **Svolta** è il principale meccanismo con cui la narrazione si evolve. Ogni 
 * Fino a due Svolte personali a scelta del DM.
 * Una Svolta Pubblica, sempre a scelta del DM, che coinvolge tutti (o quasi) i giocatori.
 
-| Svolta (personale) | Descrizione                                                   |
-| ------------------ | ------------------------------------------------------------- |
-| ℹ️ Informazione    | Una rivelazione utile, nascosta o dimenticata                 |
-| 📦 Opportunità     | Si presenta un’occasione vantaggiosa                          |
-| 🔎 Scoperta        | Trovi un luogo, oggetto o segreto celato                      |
-| 🎉 Evento          | Qualcosa accade, cambia l’equilibrio delle cose               |
-| 🎯 Missione        | Segui le indicazioni in cambio di una ricompensa              |
-| ❓ Imprevisto       | Un evento inatteso, fuori dal tuo controllo                   |
-| 🫂 Incontro        | Entra in scena un nuovo personaggio significativo             |
-| 🕵️ Intrigo        | Sospetti, inganni, o segreti, che ti coinvolgono direttamente |
+| Svolta (personale)  | Descrizione                                                   |
+| ------------------- | ------------------------------------------------------------- |
+| ℹ️ **Informazione** | Una rivelazione utile, nascosta o dimenticata                 |
+| 📦 **Opportunità**  | Si presenta un’occasione vantaggiosa                          |
+| 🔎 **Scoperta**     | Trovi un luogo, oggetto o segreto celato                      |
+| 🎉 **Evento**       | Qualcosa accade, cambia l’equilibrio delle cose               |
+| 🎯 **Missione**     | Segui le indicazioni in cambio di una ricompensa              |
+| ❓ **Imprevisto**    | Un evento inatteso, fuori dal tuo controllo                   |
+| 🫂 **Incontro**     | Entra in scena un nuovo personaggio significativo             |
+| 🕵️ **Intrigo**     | Sospetti, inganni, o segreti, che ti coinvolgono direttamente |
 
 | 🎉Evento Pubblico | Un festival, un incendio, un naufragio… Questi eventi coinvolgono l’intera isola, e invitano tutti a reagire |
 | ----------------- | ------------------------------------------------------------------------------------------------------------ |
@@ -98,19 +98,19 @@ I permessi mercantili di Shimanami non sono soltanto timbri o formalità burocra
 
 Ciascun giocatore può sbloccare i seguenti slot indicati di seguito. Il primo slot di ciascun tipo è solitamente libero. Quelli subito successivi al primo sono concessi facilmente, mentre per scalare ulteriormente il business è necessario darsi da fare. 
 
-| Attività                            | Tipo di slot    | Autorità di sblocco                  |
-| ----------------------------------- | --------------- | ------------------------------------ |
-| Impiegati 👤                        | Personale       | Bugyō Locale                         |
-| Barca da pesca 🐟                   | Produzione      | Gilda dei Pescatori / Porto          |
-| Bottega artigianale 🏺              | Produzione      | Gilda degli Artigiani / Consiglio    |
-| Concessione forestale (100 Kawa) 🌲 | Produzione      | Bugyō delle Risorse / Gilda          |
-| Mezzadria (100 Kawa) 🟩             | Produzione      | Consiglio / Machitoshiyori Locale    |
-| Rotta commerciale via terra 🐫      | Logistica       | Gilda Mercati / Bugyō Locale         |
-| Rotta commerciale via mare ⛴        | Logistica       | Gilda dei Pescatori  / Gilda Mercati |
-| Bancarella 💸                       | Vendita         | Gilda Mercati / Tempio Locale        |
-| Negozio/Locale 🛒                   | Vendita stabile | Gilda Mercantile / Consiglio         |
-| Magazzino 🏠                        | Stoccaggio      | Bugyō del Commercio / Consiglio      |
-| Residenza urbana 🏠                 | Residenza       | Consiglio / Kazoku                   |
+| Attività                               | Tipo di slot    | Autorità di sblocco                  |
+| -------------------------------------- | --------------- | ------------------------------------ |
+| Impiegati 👤                           | Personale       | Bugyō Locale                         |
+| Barca da pesca 🐟                      | Produzione      | Gilda dei Pescatori / Porto          |
+| Bottega artigianale 🏺                 | Produzione      | Gilda degli Artigiani / Consiglio    |
+| Concessione forestale (100 Kawa) 🌲    | Produzione      | Bugyō delle Risorse / Gilda          |
+| Mezzadria (100 Kawa) 🟩                | Produzione      | Consiglio / Machitoshiyori Locale    |
+| Rotta commerciale via terra 🐫         | Logistica       | Gilda Mercati / Bugyō Locale         |
+| Rotta commerciale via mare ⛴           | Logistica       | Gilda dei Pescatori  / Gilda Mercati |
+| Bancarella 💸                          | Vendita         | Gilda Mercati / Tempio Locale        |
+| Negozio/Locale 🛒                      | Vendita stabile | Gilda Mercantile / Consiglio         |
+| Magazzino 🏠                           | Stoccaggio      | Bugyō del Commercio / Consiglio      |
+| Residenza urbana 🏠 (eccetto la prima) | Residenza       | Consiglio / Kazoku                   |
 
 Per dare un graduale senso di progresso al gioco, il giocatore dovrà persuadere le autorità a concedergli di espandere la propria attività, talvolta superando una prova (o ricorrendo alla buona vecchia corruzione!).
 
