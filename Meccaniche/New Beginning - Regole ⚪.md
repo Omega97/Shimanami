@@ -9,7 +9,7 @@ Con soli due colori – ⚪ bianchi e ⚫ neri – ogni estrazione decide il
 
 ## Materiali 🎒
 
-1. **TOKEN**: 4 bianchi (⚪) e 4 neri (⚫).
+1. **TOKEN**: 6 bianchi (⚪) e 6 neri (⚫).
     
 2. Un sacchetto per **ESTRARRE** i **TOKEN**.
     
@@ -68,9 +68,9 @@ Con soli due colori – ⚪ bianchi e ⚫ neri – ogni estrazione decide il
         
     * 1 ⚪ per **MIGLIORARE LA SCENA**.
         
-	* 1 ⚪ e **COLLOCARLO** su un **TRATTO** messo in gioco durante la **PROVA**, per usarlo in un secondo momento.
+	* 1 ⚪ e **COLLOCARLO** su un **TRATTO** messo in gioco durante la **PROVA**, per usarlo in un secondo momento.[^3]
 	  
-* Spendi i ⚫, scegliendo tra: 
+* Il **NARRATORE** spene i ⚫, scegliendo tra: 
     
 	* 1 ⚫ per farti infliggere una **SVENTURA** dal **NARRATORE**. L'impatto è diretto sull'**EROE**. 
 	    
@@ -118,7 +118,9 @@ Affronti una **PROVA CRUCIALE** quando la consideri determinante per lo sviluppo
      
 3. Scegli **una di queste tre** opzioni in base all’esito della **PROVA**.
      
-	- Guadagni un nuovo **TRATTO**, o ne cambi uno che hai già.
+	- Guadagni un nuovo **TRATTO**.
+	    
+	- Migliori un **TRATTO** che hai già. Il tratto ti da ⚪ pari al **LIVELLO** del tratto.
 	    
 	- Impari una **LEZIONE**: una nuova competenza acquisita grazie a un'esperienza cruciale; ti permette di spendere un ⚪ per ottenere effetti narrativi utili in contesti specifici.
 	    
@@ -166,6 +168,13 @@ Questi sono solo degli esempi di **LEZIONE** e **CICATRICE**. L'idea è che sian
 | **LEZIONE**:<br>Perseveranza | Se **FALLISCI COMPLETAMENTE**, puoi scegliere di estrarre altri 2 **TOKEN**                     | "Hai imparato a non arrenderti mai davanti a un fallimento." |
 | **CICATRICE**:<br>Saggezza   | Se **FALLISCI** una **PROVA**, puoi spendere 1⚫️ per **COLLOCARLO** su un tratto che hai usato. | "Hai ottenuto saggezza, e una nuova prospettiva sulla vita." |
 
+#### Esempi di Migliorare un Tratto
+
+| Livello 1  | Livello 2            | Livello 3               |
+| ---------- | -------------------- | ----------------------- |
+| Scalatore  | Scalatore Abile (II) | Scalatore Esperto (III) |
+| Persuasivo | Persuasivo (II)      | Persuasivo (III)        |
+
 ---
 
 # Note
@@ -175,3 +184,5 @@ Le conseguenze negative date dai ⚫ devono essere bilanciate in modo che scegli
 [^1]: In certi tipi di campagne potrebbe essere interessante lasciare ai giocatori di decidere le SVENTURE e le COMPLICAZIONI, entro i limiti posti dal NARRATORE.
 
 [^2]: Il successo non è mai garantito; se scegli di ESTRARRE tanti TOKEN quanti sono i ⚫ o meno, rischi di ESTRARRE solo ⚫. Viceversa, se ne ESTRAI di più, rischi comunque di ESTRARLI tutti, e fallire lo stesso la PROVA.
+
+[^3]: In ciascuna prova puoi usare al più uno dei token collocati sui tuoi tratti.
