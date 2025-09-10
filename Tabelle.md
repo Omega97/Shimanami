@@ -94,10 +94,12 @@ Come punto di riferimento, 1 Koku = 400 Ryō di riso (40🟡) nutrono un uomo me
 | Samurai               | 15 🟡                     | Dipende dal rango, spesso con vitto e alloggio                     | Daimyō                  |
 | Mercenario            | 13 🟡                     | Rischioso, ma ben pagato in tempi turbolenti                       | Ricchi mercanti, Nobili |
 | Funzionario Locale    | 10 🟡                     | Amministratori, esattori, notai                                    | Daimyō, Consiglio       |
+| Capitano              | 10 🟡                     |                                                                    |                         |
 | Commerciante          | 7–14 🟡                   | Include venditori ambulanti e gestori di botteghe                  | -                       |
 | Scriba / Scrivano     | 9 🟡                      | I più richiesti lavorano per mercanti o il Daimyō                  | Privati, Stato          |
 | Guardia               | 8-9 🟡                    |                                                                    |                         |
-| Taglialegna           | 7 🟡                      | Un albero al giorno                                                |                         |
+| Medico                | 7 🟡                      |                                                                    |                         |
+| Taglialegna           | 6-7 🟡                    | Un albero al giorno                                                |                         |
 | Artigiano             | 6 🟡                      | Più se specializzato (es. ceramista, fabbro)                       | -                       |
 | Marinaio / Navigatore | 5 🟡                      | Navigazione tra le città o rotte costiere                          | Privati                 |
 | Pescatore             | 4-6 🟡                    | Guadagno variabile, influenzato dalla stagione e dall'imbarcazione | -                       |
@@ -149,3 +151,6 @@ Il costo del cibo quotidiano varia a seconda dello stile di vita. Un pasto sempl
 | Samurai al servizio                   | 0             | Esentasse, ma obblighi militari e di presenza                 |
  
 🔹*Nota: il permesso per abbattere alberi è necessario solo per terreni altrui* 
+
+
+#todo costo assicurazione
