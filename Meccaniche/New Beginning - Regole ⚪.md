@@ -19,8 +19,7 @@ Con soli due colori – ⚪ bianchi e ⚫ neri – ogni estrazione decide il
 	    
 	- 3 **QUALITÀ** su 6 disponibili, 
 	    
-	- 3 **ABILITÀ** su 12 disponibili.
-    
+	- 4 **ABILITÀ** su 12 disponibili.
 
 ---
 
@@ -34,12 +33,22 @@ Con soli due colori – ⚪ bianchi e ⚫ neri – ogni estrazione decide il
      
     - ⚫ pari alla **DIFFICOLTÀ** decisa dal il **NARRATORE**, 
         
+    - Opzionale: il **NARRATORE** decide il livello di **PERICOLO** (se si estrae altrettanti ⚫ o più, il personaggio esce di scena)
+        
     - ⚪ pari al numero di **TRATTI** che decidi di mettere in gioco.
     
 3. **ESTRAI** alla cieca un numero di **TOKEN** a **tua scelta**, tutti insieme.
     
 4. Usa i **TOKEN** che hai **ESTRATTO** per farti raccontare l’esito della **PROVA** dal **NARRATORE**[^1].
-    
+
+| DIFFICOLTÀ                                       | Numero di ⚫ |
+| ------------------------------------------------ | ----------- |
+| Molto facile (assicurati <br>che sia necessaria) | 1           |
+| Facile                                           | 2           |
+| Normale                                          | 3           |
+| Difficile                                        | 4           |
+| Molto difficile                                  | 5           |
+| Estremamente difficile                           | 6           |
 
 ---
 
@@ -54,7 +63,6 @@ Con soli due colori – ⚪ bianchi e ⚫ neri – ogni estrazione decide il
 - Altrimenti, se hai **ESTRATTO** **tutti i ⚫ del sacchetto**, hai avuto un **FALLIMENTO PARZIALE** ❓.
     
 - In ogni altro caso, hai **SUCCESSO PARZIALE** (proporzionale ai ⚪ **ESTRATTI**) ✅.
-    
 
 ---
 
@@ -64,18 +72,17 @@ Con soli due colori – ⚪ bianchi e ⚫ neri – ogni estrazione decide il
 
 * Se hai avuto **SUCCESSO**, spendi:[^2]
     
-    - il primo ⚪ per aver superato la **PROVA**.
+    - il primo ⚪ per superare la **PROVA**.
         
     * 1 ⚪ per **MIGLIORARE LA SCENA**.
         
 	* 1 ⚪ e **COLLOCARLO** su un **TRATTO** messo in gioco durante la **PROVA**, per usarlo in un secondo momento.[^3]
 	  
-* Il **NARRATORE** spene i ⚫, scegliendo tra: 
+* Spendi i ⚫, scegliendo tra: 
     
-	* 1 ⚫ per farti infliggere una **SVENTURA** dal **NARRATORE**. L'impatto è diretto sull'**EROE**. 
+	* 1 ⚫ per infliggere una **SVENTURA**. L'impatto è diretto sull'**EROE**, ed ha effetto finché non vi si pone rimedio, o gli effetti si esauriscono. 
 	    
-	* 1 ⚫ per far raccontare una **COMPLICAZIONE** al **NARRATORE**. Un esito imprevisto della **SCENA**, l'impatto è sulla **SCENA** nel suo complesso.
-    
+	* 1 ⚫ per raccontare una **COMPLICAZIONE**. Un esito imprevisto, con impatto sulla  **SCENA** nel suo complesso.
 
 ---
 ---
@@ -90,13 +97,13 @@ Con soli due colori – ⚪ bianchi e ⚫ neri – ogni estrazione decide il
 
 > _Per modulare la difficoltà delle prove, il narratore può applicare uno status tematico al personaggio prima che vengano estratti i token._
 
-Prima di affrontare una **PROVA**, il **NARRATORE** può scegliere di **applicare** uno dei seguenti **STATUS**. Puoi fare suggerimenti, ma sarà il **NARRATORE** a decidere se e cosa applicare.
+Prima di affrontare una **PROVA**, il **NARRATORE** può scegliere di **applicare** uno **STATUS**. Puoi fare suggerimenti, ma sarà il **NARRATORE** a decidere se e cosa applicare. Ecco alcuni esempi:
 
 | Status Positivi 😃 | Effetto                                                                   | Flavour                                                              |
 | ------------------ | ------------------------------------------------------------------------- | -------------------------------------------------------------------- |
+| **FIDUCIOSO**      | Estrarre tutti i ⚫ nel sacchetto non conta come **FALLIMENTO**            | *La prova è facile, e sei molto sicuro di te.*                       |
 | **OTTIMISMO**      | Se **ESTRAI** un sono **TOKEN** e **FALLISCI**, puoi **ESTRARRE** ancora. | *È la prima volta che ci provi, ma andrà tutto bene...*              |
 | **CONCENTRAZIONE** | Se scegli di **ESTRARRE** un solo **TOKEN**, i ⚪ contano come 2.          | *Sei focalizzato su un obiettivo che mette alla prova la tua mente.* |
-| **FORTUNA**        | I ⚫ che **ESTRAI** dopo il primo, non contano.                            | *Senti che nulla può andare storto.*                                 |
 
 | Status Negativi 😨 | Effetto                                  | Flavour                                                                   |
 | ------------------ | ---------------------------------------- | ------------------------------------------------------------------------- |
@@ -125,15 +132,15 @@ Affronti una **PROVA CRUCIALE** quando la consideri determinante per lo sviluppo
 	- Impari una **LEZIONE**: una nuova competenza acquisita grazie a un'esperienza cruciale; ti permette di spendere un ⚪ per ottenere effetti narrativi utili in contesti specifici.
 	    
 	- Vieni segnato da una **CICATRICE**: il segno lasciato da un evento traumatico significativo; ti permette di spendere un ⚫ per annullare o anticipare certi rischi legati alla tua esperienza passata.
-	  
+
 
 ---
 
-## Dare una Mano
+## Dare una Mano ✋
 
 > _Finora le regole si sono focalizzate su prove individuali. La seguente meccanica consente invece ai personaggi di collaborare, unendo le forze per affrontare insieme una prova._
 
-Se stai affrontando una **PROVA**, un PNG o un altro PG con un **TRATTO** utile possono scegliere di **DARE UNA MANO** aggiungendo 1⚪ ai **TOKEN** nel sacchetto. Il personaggio che decide di aiutare, però, rischia di subire parte delle conseguenze negative della prova.
+Se stai affrontando una **PROVA**, un **PERSONAGGIO SECONDARIO** o un altro **EROE** con un **TRATTO** utile possono scegliere di **DARE UNA MANO** aggiungendo 1⚪ ai **TOKEN** nel sacchetto. Il personaggio che decide di aiutare, però, rischia di subire parte delle conseguenze negative della prova.
 
 ---
 ---
@@ -152,16 +159,15 @@ Se stai affrontando una **PROVA**, un PNG o un altro PG con un **TRATTO** utile 
 
 #### Esempi su come Spendere i Token
 
-| Meccanica           | Esempio                                                                                                                                                  |
-| ------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| MIGLIORARE LA SCENA | *"La tua freccia non solo colpisce il centro del bersaglio, ma spacca in due la freccia che hai scoccato prima. Il pubblico è in delirio!"*              |
-| SVENTURA            | *"Stavi pescando, ma ad un certo punto al tuo amo abbocca un pesce talmente grosso che spezza la tua canna da pesca, e ti fa cadere in acqua."*          |
-| COMPLICAZIONE       | *"Stavi pescando sulla tua barchetta con gli amici. Ad un tratto, un grosso temporale vi sorprende. È una corsa contro il tempo per mettersi in salvo."* |
-
+| Meccanica           | Esempio                                                                                                                                                                                                                                                                                                                                                     |
+| ------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| MIGLIORARE LA SCENA | *"La tua freccia non solo colpisce il centro del bersaglio, ma spacca in due la freccia che hai scoccato prima. Il pubblico è in delirio!"*                                                                                                                                                                                                                 |
+| COMPLICAZIONE       | *"Stavi pescando sulla tua barchetta con gli amici. Ad un tratto, un grosso temporale vi sorprende. È una corsa contro il tempo per mettersi in salvo."*                                                                                                                                                                                                    |
+| SVENTURA            | *"Al torneo di tiro con l'arco, al quale assistono famigliari e amici, fai una brutta figura..."*<br><br>Hai subito "Orgoglio ferito". Le prove con l'arco ricevono +1⚫.<br>Colloca i ⚫ spesi per questa **SVENTURA** sulla scheda personaggio. Il numero di ⚫ ne indica la gravità. Devi superare una PROVA che giustifichi eliminare questa **SVENTURA**. |
 
 #### Esempi di Lezione e Cicatrice
 
-Questi sono solo degli esempi di **LEZIONE** e **CICATRICE**. L'idea è che siano applicabili solamente in prove inerenti alla relativa **PROVA CRUCIALE**.
+La **LEZIONE** e la **CICATRICE** sono simili a dei **TRATTI** con effetti applicabili in **PROVE** inerenti alla **PROVA CRUCIALE** dalla quale hanno avuto origine. Ecco alcuni esempi:
 
 | Nome                         | Effetto                                                                                         | Flavuor                                                      |
 | ---------------------------- | ----------------------------------------------------------------------------------------------- | ------------------------------------------------------------ |
@@ -170,19 +176,17 @@ Questi sono solo degli esempi di **LEZIONE** e **CICATRICE**. L'idea è che sian
 
 #### Esempi di Migliorare un Tratto
 
-| Livello 1  | Livello 2            | Livello 3               |
-| ---------- | -------------------- | ----------------------- |
-| Scalatore  | Scalatore Abile (II) | Scalatore Esperto (III) |
-| Persuasivo | Persuasivo (II)      | Persuasivo (III)        |
+Persuasivo $\rightarrow$ Persuasivo II
+Scalatore $\rightarrow$ Scalatore II $\rightarrow$ Scalatore Esperto (III) 
 
 ---
 
 # Note
 
-Le conseguenze negative date dai ⚫ devono essere bilanciate in modo che scegliere il numero di token da estrarre sia un po' un *dilemma* per i giocatori. Ad ogni modo, queste regole costringono il giocatore a bilanciare la probabilità dei quattro tipi diversi di esito, rendendo la decisione ancora più interessante.
+Le conseguenze negative date dai ⚫ devono essere bilanciate in modo che scegliere il numero di token da estrarre sia un po' un *dilemma* per i giocatori. Queste regole costringono il giocatore a bilanciare la probabilità dei quattro tipi diversi di esito, rendendo la decisione ancora più interessante.
 
 [^1]: In certi tipi di campagne potrebbe essere interessante lasciare ai giocatori di decidere le SVENTURE e le COMPLICAZIONI, entro i limiti posti dal NARRATORE.
 
 [^2]: Il successo non è mai garantito; se scegli di ESTRARRE tanti TOKEN quanti sono i ⚫ o meno, rischi di ESTRARRE solo ⚫. Viceversa, se ne ESTRAI di più, rischi comunque di ESTRARLI tutti, e fallire lo stesso la PROVA.
 
-[^3]: In ciascuna prova puoi usare al più uno dei token collocati sui tuoi tratti.
+[^3]: In ciascuna prova puoi usare al più uno dei TOKEN collocati sui tuoi tratti, e ogni tratto può ospitare al più 1 TOKEN.
