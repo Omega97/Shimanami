@@ -29,7 +29,7 @@ Con soli due colori – ⚪ bianchi e ⚫ neri – ogni estrazione decide il
 
 1. Descrivi ciò che vuoi fare.
     
-2. Aggiungi i **TOKEN** nel sacchetto:
+2. Aggiungi i **TOKEN** nel sacchetto (vuoto):
      
     - ⚫ pari alla **DIFFICOLTÀ** decisa dal il **NARRATORE**, 
         
@@ -82,7 +82,7 @@ Con soli due colori – ⚪ bianchi e ⚫ neri – ogni estrazione decide il
        
 	* 1 ⚫ per farti raccontare una **COMPLICAZIONE** dal **NARRATORE**. Un esito imprevisto, con impatto sull'**EROE** o sulla **SCENA** nel suo complesso.
 	    
-	* 1 ⚫ per farti infliggere una **SVENTURA** dal **NARRATORE**. L'impatto è diretto sull'**EROE**, ed ha effetto finché non vi si pone rimedio, o gli effetti si esauriscono. 
+	* 1 ⚫ per farti infliggere una **SVENTURA** dal **NARRATORE** (scrivila sulla scheda!). L'impatto è diretto sull'**EROE**, ed ha effetto sulle **PROVE** che affronti finché non vi si pone rimedio, o gli effetti si esauriscono. 
 
 ---
 ---
@@ -155,7 +155,7 @@ Se affronti una **PROVA**, altri **EROI** o **PERSONAGGI SECONDARI** con un **TR
 ---
 ---
 
-## Consigli per il Narratore 🎬
+# Consigli per il Narratore
 
 > _Il Narratore è il regista della storia, responsabile di bilanciare rischio, dramma e ricompensa per creare un’esperienza coinvolgente._
 
@@ -174,6 +174,7 @@ Se affronti una **PROVA**, altri **EROI** o **PERSONAGGI SECONDARI** con un **TR
 
 # Esempi
 
+
 #### Esempi di Successo e Fallimento
 
 | TOKEN nel sacchetto | TOKEN ESTRATTI | Esito                     |
@@ -191,6 +192,26 @@ Se affronti una **PROVA**, altri **EROI** o **PERSONAGGI SECONDARI** con un **TR
 | MIGLIORARE LA SCENA | *"La tua freccia non solo colpisce il centro del bersaglio, ma spacca in due la freccia che hai scoccato prima. Il pubblico è in delirio!"*                                                                                                                                                                                                                 |
 | COMPLICAZIONE       | *"Stavi pescando sulla tua barchetta con gli amici. Ad un tratto, un grosso temporale vi sorprende. È una corsa contro il tempo per mettersi in salvo."*                                                                                                                                                                                                    |
 | SVENTURA            | *"Al torneo di tiro con l'arco, al quale assistono famigliari e amici, fai una brutta figura..."*<br><br>Hai subito "Orgoglio ferito". Le prove con l'arco ricevono +1⚫.<br>Colloca i ⚫ spesi per questa **SVENTURA** sulla scheda personaggio. Il numero di ⚫ ne indica la gravità. Devi superare una PROVA che giustifichi eliminare questa **SVENTURA**. |
+
+#### Esempio di Pericolo
+
+*Stai scalando il muro del maniero in una notte di pioggia per entrare inosservato.*  
+
+Difficoltà **3⚫** (normale), usi **2⚪** per i tratti _Scalatore_ e _Agile_. Il Narratore fissa **PERICOLO = 2** (con **≥2⚫ estratti** scatta un’**USCITA DI SCENA**)
+**Sacchetto:** ⚪⚪⚫⚫⚫
+Decidi di **estrarre 3** **TOKEN**.
+**Esito:** **⚪⚫⚫ →** superi la prova ma scatta il **PERICOLO**: ti aggrappi alla grondaia, che **cedendo** ti fa precipitare nel cortile. **Uscita di scena**: sei catturato dalle guardie e finirai nella segreta (rientrerai in gioco nella scena successiva)
+
+#### Esempio di Prova di Gruppo
+
+*Tre compagni vogliono **sfondare** una porta sprangata mentre i mercenari si avvicinano.*
+
+È una **Prova di Gruppo**: uno guida, gli altri contribuiscono. 
+Difficoltà **2⚫** (_facile_). Partecipano in **3**: ciascuno mette **1⚪**; il Narratore **aumenta la Difficoltà di +1⚫ per ogni collaboratore oltre il primo** → totale **4⚫**. **Whites:** 3⚪. **Blacks:** 4⚫. Il leader estrae e poi spende i ⚪ per il gruppo.
+**Sacchetto:** ⚪⚪⚪⚫⚫⚫⚫
+Il leader decide di **estrarre 3** token.
+**Esito possibile.** **⚪⚪⚫ →** **successo parziale**: la porta cede. **COMPLICAZIONE**: le cerniere schizzano via e uno dei personaggi si **ferisce** al braccio, subendo una **Sventura** leggera; il **NARRATORE** può applicarla al gruppo o a un singolo membro.
+
 
 #### Esempi di Lezione e Cicatrice
 
