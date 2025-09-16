@@ -13,7 +13,7 @@ Con soli due colori – ⚪ bianchi e ⚫ neri – ogni estrazione decide il
     
 2. Un sacchetto per **ESTRARRE** i **TOKEN**.
     
-3. Schede personaggio con 7 **TRATTI** iniziali: 
+3. Schede personaggio con 8 **TRATTI** iniziali: 
      
 	- 1 **ARCHETIPO**,
 	    
@@ -33,9 +33,9 @@ Con soli due colori – ⚪ bianchi e ⚫ neri – ogni estrazione decide il
      
     - ⚫ pari alla **DIFFICOLTÀ** decisa dal il **NARRATORE**, 
         
-    - Opzionale: il **NARRATORE** decide il livello di **PERICOLO** (se si estrae altrettanti ⚫ o più, il personaggio esce di scena)
-        
     - ⚪ pari al numero di **TRATTI** che decidi di mettere in gioco.
+        
+    - Opzionale: il **NARRATORE** decide il livello di **PERICOLO**. Se estrai un numero di ⚫ pari o superiore a questo, il personaggio subisce una **USCITA DI SCENA** (es. perde conoscenza, viene catturato, o è temporaneamente fuori gioco)
     
 3. **ESTRAI** alla cieca un numero di **TOKEN** a **tua scelta**, tutti insieme.
     
@@ -48,7 +48,7 @@ Con soli due colori – ⚪ bianchi e ⚫ neri – ogni estrazione decide il
 | Normale                                          | 3           |
 | Difficile                                        | 4           |
 | Molto difficile                                  | 5           |
-| Estremamente difficile                           | 6           |
+| Estremamente difficile<br>(meglio di no!)        | 6           |
 
 ---
 
@@ -79,10 +79,10 @@ Con soli due colori – ⚪ bianchi e ⚫ neri – ogni estrazione decide il
 	* 1 ⚪ e **COLLOCARLO** su un **TRATTO** messo in gioco durante la **PROVA**, per usarlo in un secondo momento.[^3]
 	  
 * Spendi i ⚫, scegliendo tra: 
-    
-	* 1 ⚫ per infliggere una **SVENTURA**. L'impatto è diretto sull'**EROE**, ed ha effetto finché non vi si pone rimedio, o gli effetti si esauriscono. 
+       
+	* 1 ⚫ per farti raccontare una **COMPLICAZIONE** dal **NARRATORE**. Un esito imprevisto, con impatto sull'**EROE** o sulla **SCENA** nel suo complesso.
 	    
-	* 1 ⚫ per raccontare una **COMPLICAZIONE**. Un esito imprevisto, con impatto sulla  **SCENA** nel suo complesso.
+	* 1 ⚫ per farti infliggere una **SVENTURA** dal **NARRATORE**. L'impatto è diretto sull'**EROE**, ed ha effetto finché non vi si pone rimedio, o gli effetti si esauriscono. 
 
 ---
 ---
@@ -101,15 +101,17 @@ Prima di affrontare una **PROVA**, il **NARRATORE** può scegliere di **applicar
 
 | Status Positivi 😃 | Effetto                                                                   | Flavour                                                              |
 | ------------------ | ------------------------------------------------------------------------- | -------------------------------------------------------------------- |
-| **FIDUCIOSO**      | Estrarre tutti i ⚫ nel sacchetto non conta come **FALLIMENTO**            | *La prova è facile, e sei molto sicuro di te.*                       |
+| **FIDUCIOSO**      | Estrarre tutti i ⚫ nel sacchetto non conta come **FALLIMENTO PARZIALE**   | *La prova è facile, e sei molto sicuro di te.*                       |
 | **OTTIMISMO**      | Se **ESTRAI** un sono **TOKEN** e **FALLISCI**, puoi **ESTRARRE** ancora. | *È la prima volta che ci provi, ma andrà tutto bene...*              |
 | **CONCENTRAZIONE** | Se scegli di **ESTRARRE** un solo **TOKEN**, i ⚪ contano come 2.          | *Sei focalizzato su un obiettivo che mette alla prova la tua mente.* |
+| **ISPIRAZIONE**    | Se **MIGLIORI LA SCENA**, puoi suggerire un dettaglio al **NARRATORE**    | _Un’idea improvvisa ti guida verso il successo._                     |
 
-| Status Negativi 😨 | Effetto                                  | Flavour                                                                   |
-| ------------------ | ---------------------------------------- | ------------------------------------------------------------------------- |
-| **ADRENALINA**     | **ESTRAI** tutti i **TOKEN** tranne uno. | *In questa prova fisica entra in gioco il tuo istinto lotta-o-fuggi!*<br> |
-| **CONFUSIONE**     | Un ⚫ che **ESTRAI** conterà come 2.      | *In un momento concitato, non hai il tempo di pensare...*                 |
-| **PAURA**          | Devi spendere 2⚪ per superare la prova.  | *Sei spaventato, le tue decisioni sono offuscate.*                        |
+| Status Negativi 😨           | Effetto                                                                          | Flavour                                                                        |
+| ---------------------------- | -------------------------------------------------------------------------------- | ------------------------------------------------------------------------------ |
+| **ADRENALINA**               | **ESTRAI** tutti i **TOKEN** tranne uno.                                         | *In questa prova fisica entra in gioco il tuo istinto lotta-o-fuggi!*<br>      |
+| **CONFUSIONE**               | Un ⚫ che **ESTRAI** conterà come 2.                                              | *In un momento concitato, non hai il tempo di pensare...*                      |
+| **PAURA**                    | Devi spendere 2⚪ per superare la prova.                                          | *Sei spaventato, le tue decisioni sono offuscate.*                             |
+| **DISTRAZIONE** / **FATICA** | Non puoi usare più di 2 **TRATTI** in questa prova, anche se ne possiedi di più. | _Qualcosa ti deconcentra, rendendo difficile sfruttare tutte le tue capacità._ |
 
 ---
 
@@ -123,24 +125,49 @@ Affronti una **PROVA CRUCIALE** quando la consideri determinante per lo sviluppo
      
 2. Affronta la **PROVA** normalmente.
      
-3. Scegli **una di queste tre** opzioni in base all’esito della **PROVA**.
+3. Scegli **una di queste** opzioni in base all’esito della **PROVA**.
      
-	- Guadagni un nuovo **TRATTO**.
+	- **NUOVO TRATTO**: Aggiungi un nuovo **TRATTO** alla tua scheda, coerente con l’esperienza vissuta.
 	    
-	- Migliori un **TRATTO** che hai già. Il tratto ti da ⚪ pari al **LIVELLO** del tratto.
+	- **MIGLIORARE UN TRATTO**: Aumenta il livello di un **TRATTO** usato nella prova (es. da “Persuasivo” a “Persuasivo II”). Usare quel tratto ti darà 1⚪ extra.
 	    
-	- Impari una **LEZIONE**: una nuova competenza acquisita grazie a un'esperienza cruciale; ti permette di spendere un ⚪ per ottenere effetti narrativi utili in contesti specifici.
+	- Impari una **LEZIONE**: una nuova competenza acquisita grazie a un'esperienza cruciale; ti darà effetti vantaggiosi in contesti narrativi specifici.
 	    
-	- Vieni segnato da una **CICATRICE**: il segno lasciato da un evento traumatico significativo; ti permette di spendere un ⚫ per annullare o anticipare certi rischi legati alla tua esperienza passata.
+	- Se invece fallisci, vieni segnato da una **CICATRICE**: il segno lasciato da un evento traumatico significativo; ti ti darà effetti versatili in contesti narrativi inerenti alla prova.
 
 
 ---
 
 ## Dare una Mano ✋
 
-> _Finora le regole si sono focalizzate su prove individuali. La seguente meccanica consente invece ai personaggi di collaborare, unendo le forze per affrontare insieme una prova._
+> _I personaggi possono unire le forze per affrontare una prova, condividendo risorse e rischi per ottenere un risultato comune._
 
-Se stai affrontando una **PROVA**, un **PERSONAGGIO SECONDARIO** o un altro **EROE** con un **TRATTO** utile possono scegliere di **DARE UNA MANO** aggiungendo 1⚪ ai **TOKEN** nel sacchetto. Il personaggio che decide di aiutare, però, rischia di subire parte delle conseguenze negative della prova.
+Se affronti una **PROVA**, altri **EROI** o **PERSONAGGI SECONDARI** con un **TRATTO** rilevante possono scegliere di **COLLABORARE**. Ogni collaboratore aggiunge 1⚪ al sacchetto e descrive come contribuisce. Tuttavia, ogni collaboratore rischia di subire una **COMPLICAZIONE** o **SVENTURA** se vengono estratti ⚫. In alternativa, il gruppo può dichiarare una **PROVA DI GRUPPO**:
+
+- Un giocatore guida la prova, descrivendo l’azione collettiva.
+    
+- Ogni partecipante aggiunge 1⚪ per un tratto rilevante (ricorda che hai fino a 6⚪ a disposizione).
+    
+- Il Narratore aumenta la **DIFFICOLTÀ** di 1⚫ per ogni collaboratore **oltre il primo**.
+    
+- Il leader estrae i token e spende i ⚪; i ⚫ si applicano a tutto il gruppo o a un singolo membro, a discrezione del Narratore.
+
+---
+---
+
+## Consigli per il Narratore 🎬
+
+> _Il Narratore è il regista della storia, responsabile di bilanciare rischio, dramma e ricompensa per creare un’esperienza coinvolgente._
+
+- **Impostare la Difficoltà**: Usa la tabella della Difficoltà come guida, ma considera il tono della campagna. Una prova “Molto difficile” (5⚫) dovrebbe essere rara e riservata a momenti clou. Adatta la Difficoltà al numero di tratti usati dai giocatori per mantenere il dilemma.
+    
+- **Applicare il Pericolo**: Usa il Pericolo per aumentare la tensione, ma chiarisci l’esito dell’**USCITA DI SCENA** (es. temporanea o narrativa). Evita esiti letali a meno che non siano coerenti con la storia.
+    
+- **Status Tematici**: Applica Status per riflettere l’ambiente o lo stato mentale dell’eroe, e rendere la scelta del numero di **TOKEN** da estrarre più interessante. Usa Status personalizzati per eventi unici (es. “Fatica” in una lunga marcia).
+    
+- **Bilanciare Complicazioni e Sventure**: Le Complicazioni dovrebbero spingere la storia avanti (es. un nuovo ostacolo), mentre le Sventure devono sfidare l’eroe senza bloccarlo. Collabora con i giocatori per rendere le conseguenze significative ma non punitive.
+    
+- **Narrativa Condivisa**: Incoraggia i giocatori a suggerire dettagli per Complicazioni o Miglioramenti della Scena, ma mantieni l’ultima parola per coerenza.
 
 ---
 ---
@@ -182,8 +209,6 @@ Scalatore $\rightarrow$ Scalatore II $\rightarrow$ Scalatore Esperto (III)
 ---
 
 # Note
-
-Le conseguenze negative date dai ⚫ devono essere bilanciate in modo che scegliere il numero di token da estrarre sia un po' un *dilemma* per i giocatori. Queste regole costringono il giocatore a bilanciare la probabilità dei quattro tipi diversi di esito, rendendo la decisione ancora più interessante.
 
 [^1]: In certi tipi di campagne potrebbe essere interessante lasciare ai giocatori di decidere le SVENTURE e le COMPLICAZIONI, entro i limiti posti dal NARRATORE.
 
