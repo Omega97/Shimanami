@@ -32,7 +32,7 @@ Con soli due colori – ⚪ bianchi e ⚫ neri – ogni estrazione decide il
     
 2. Aggiungi i **TOKEN** nel sacchetto (vuoto):
      
-    - ⚫ pari alla **DIFFICOLTÀ** decisa dal il **NARRATORE**, 
+    - ⚫ pari alla **DIFFICOLTÀ** decisa dal **NARRATORE**, 
         
     - ⚪ pari al numero di **TRATTI** che decidi di mettere in gioco.
         
@@ -75,7 +75,7 @@ Con soli due colori – ⚪ bianchi e ⚫ neri – ogni estrazione decide il
 
 > *Una volta estratti i token, il modo in cui decidi di spenderli contribuisce a definire come si sviluppa l’esito della prova e arricchisce la narrazione condivisa.*
 
-* Se hai avuto **SUCCESSO**, spendi:[^2]
+* Se hai avuto **SUCCESSO**, spendi:
     
     - il primo ⚪ per superare la **PROVA**.
         
