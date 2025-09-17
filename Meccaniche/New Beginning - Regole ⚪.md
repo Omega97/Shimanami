@@ -1,6 +1,7 @@
 
 # New Beginning
 
+
 _New Beginning_ è un semplice **sistema di gioco**, leggero ed elegante, pensato per giochi di ruolo narrativi; niente tabelle, niente calcoli, solo la tua storia e il coraggio di rischiare – letteralmente. Ispirato a _Not the End_, il sistema ruota attorno a un unico dilemma: **quanti token osi estrarre dal sacchetto?**
 
 Con soli due colori – ⚪ bianchi e ⚫ neri – ogni estrazione decide il destino dei personaggi: crescita, rovina o trasformazione. Non esistono vittorie o sconfitte definitive; c’è soltanto l’esito delle tue azioni, accettato e condiviso da tutti al tavolo. Questo rende le **emozioni e le relazioni** il vero motore della storia.
@@ -39,7 +40,7 @@ Con soli due colori – ⚪ bianchi e ⚫ neri – ogni estrazione decide il
     
 3. **ESTRAI** alla cieca un numero di **TOKEN** a **tua scelta**, tutti insieme.
     
-4. Usa i **TOKEN** che hai **ESTRATTO** per farti raccontare l’esito della **PROVA** dal **NARRATORE**[^1].
+4. Usa i **TOKEN** che hai **ESTRATTO** per farti raccontare l’esito della **PROVA** dal **NARRATORE**.
 
 | DIFFICOLTÀ                                       | Numero di ⚫ |
 | ------------------------------------------------ | ----------- |
@@ -49,6 +50,10 @@ Con soli due colori – ⚪ bianchi e ⚫ neri – ogni estrazione decide il
 | Difficile                                        | 4           |
 | Molto difficile                                  | 5           |
 | Estremamente difficile<br>(meglio di no!)        | 6           |
+
+
+> **📌 NOTA BENE: La Storia è di Tutti**
+> In certi tipi di campagne, puoi sperimentare lasciando ai giocatori la libertà di _proporre_ le Complicazioni e le Sventure che vogliono subire, entro i limiti e il buon senso stabilito dal **NARRATORE**. Questo approccio aumenta l’investimento emotivo e rende le conseguenze ancora più personali e significative.
 
 ---
 
@@ -76,13 +81,20 @@ Con soli due colori – ⚪ bianchi e ⚫ neri – ogni estrazione decide il
         
     * 1 ⚪ per **MIGLIORARE LA SCENA**.
         
-	* 1 ⚪ e **COLLOCARLO** su un **TRATTO** messo in gioco durante la **PROVA**, per usarlo in un secondo momento.[^3]
+	* 1 ⚪ e **COLLOCARLO** su un **TRATTO** messo in gioco durante la **PROVA**, per usarlo in un secondo momento.
 	  
 * Spendi i ⚫, scegliendo tra: 
        
 	* 1 ⚫ per farti raccontare una **COMPLICAZIONE** dal **NARRATORE**. Un esito imprevisto, con impatto sull'**EROE** o sulla **SCENA** nel suo complesso.
 	    
 	* 1 ⚫ per farti infliggere una **SVENTURA** dal **NARRATORE** (scrivila sulla scheda!). L'impatto è diretto sull'**EROE**, ed ha effetto sulle **PROVE** che affronti finché non vi si pone rimedio, o gli effetti si esauriscono. 
+
+
+> 📌 **NOTA BENE: Il Successo Non è Garantito** 
+> Ricorda: estrarre token è sempre un azzardo. Se estrai un numero di token pari o inferiore ai ⚫ nel sacchetto, rischi di pescare _solo_ ⚫ e fallire totalmente. Ma attenzione; anche estraendone di più, potresti comunque beccare _tutti_ i ⚫ e incappare in un fallimento parziale. La scelta è tua, e il rischio è reale.
+
+> 📌 **NOTA BENE: Investire nel Futuro** 
+> Puoi spendere 1 ⚪ per collocarlo su un Tratto usato in questa prova, come "riserva" per il futuro. Ricorda: in ogni prova puoi usare _al massimo un solo_ token collocato, e ogni tratto può ospitare _al massimo un_ token. È una risorsa preziosa: usala con saggezza!
 
 ---
 ---
@@ -193,14 +205,17 @@ Se affronti una **PROVA**, altri **EROI** o **PERSONAGGI SECONDARI** con un **TR
 | COMPLICAZIONE       | *"Stavi pescando sulla tua barchetta con gli amici. Ad un tratto, un grosso temporale vi sorprende. È una corsa contro il tempo per mettersi in salvo."*                                                                                                                                                                                                    |
 | SVENTURA            | *"Al torneo di tiro con l'arco, al quale assistono famigliari e amici, fai una brutta figura..."*<br><br>Hai subito "Orgoglio ferito". Le prove con l'arco ricevono +1⚫.<br>Colloca i ⚫ spesi per questa **SVENTURA** sulla scheda personaggio. Il numero di ⚫ ne indica la gravità. Devi superare una PROVA che giustifichi eliminare questa **SVENTURA**. |
 
+
 #### Esempio di Pericolo
 
 *Stai scalando il muro del maniero in una notte di pioggia per entrare inosservato.*  
 
 Difficoltà **3⚫** (normale), usi **2⚪** per i tratti _Scalatore_ e _Agile_. Il Narratore fissa **PERICOLO = 2** (con **≥2⚫ estratti** scatta un’**USCITA DI SCENA**)
+
 **Sacchetto:** ⚪⚪⚫⚫⚫
 Decidi di **estrarre 3** **TOKEN**.
 **Esito:** **⚪⚫⚫ →** superi la prova ma scatta il **PERICOLO**: ti aggrappi alla grondaia, che **cedendo** ti fa precipitare nel cortile. **Uscita di scena**: sei catturato dalle guardie e finirai nella segreta (rientrerai in gioco nella scena successiva)
+
 
 #### Esempio di Prova di Gruppo
 
@@ -208,6 +223,7 @@ Decidi di **estrarre 3** **TOKEN**.
 
 È una **Prova di Gruppo**: uno guida, gli altri contribuiscono. 
 Difficoltà **2⚫** (_facile_). Partecipano in **3**: ciascuno mette **1⚪**; il Narratore **aumenta la Difficoltà di +1⚫ per ogni collaboratore oltre il primo** → totale **4⚫**. **Whites:** 3⚪. **Blacks:** 4⚫. Il leader estrae e poi spende i ⚪ per il gruppo.
+
 **Sacchetto:** ⚪⚪⚪⚫⚫⚫⚫
 Il leader decide di **estrarre 3** token.
 **Esito possibile.** **⚪⚪⚫ →** **successo parziale**: la porta cede. **COMPLICAZIONE**: le cerniere schizzano via e uno dei personaggi si **ferisce** al braccio, subendo una **Sventura** leggera; il **NARRATORE** può applicarla al gruppo o a un singolo membro.
@@ -217,22 +233,36 @@ Il leader decide di **estrarre 3** token.
 
 La **LEZIONE** e la **CICATRICE** sono simili a dei **TRATTI** con effetti applicabili in **PROVE** inerenti alla **PROVA CRUCIALE** dalla quale hanno avuto origine. Ecco alcuni esempi:
 
-| Nome                         | Effetto                                                                                         | Flavuor                                                      |
-| ---------------------------- | ----------------------------------------------------------------------------------------------- | ------------------------------------------------------------ |
-| **LEZIONE**:<br>Perseveranza | Se **FALLISCI COMPLETAMENTE**, puoi scegliere di estrarre altri 2 **TOKEN**                     | "Hai imparato a non arrenderti mai davanti a un fallimento." |
-| **CICATRICE**:<br>Saggezza   | Se **FALLISCI** una **PROVA**, puoi spendere 1⚫️ per **COLLOCARLO** su un tratto che hai usato. | "Hai ottenuto saggezza, e una nuova prospettiva sulla vita." |
+| Nome                         | Effetto                                                                                                                                           | Flavuor                                                        |
+| ---------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------- |
+| **LEZIONE**:<br>Perseveranza | Se **FALLISCI COMPLETAMENTE** in una **PROVA** dove ti è stato assegnato un compito da un superiore, puoi scegliere di estrarre altri 2 **TOKEN** | *"Hai imparato a non arrenderti mai davanti a un fallimento."* |
+| **CICATRICE**:<br>Saggezza   | Se **FALLISCI** una **PROVA** in cui entra in gioco la tua vasta esperienza, puoi spendere 1⚫️ per **COLLOCARLO** su un tratto che hai usato.     | *"Hai ottenuto saggezza, e una nuova prospettiva sulla vita."* |
+
 
 #### Esempi di Migliorare un Tratto
 
-Persuasivo $\rightarrow$ Persuasivo II
-Scalatore $\rightarrow$ Scalatore II $\rightarrow$ Scalatore Esperto (III) 
+| Tratto      | Livello 2            | Livello 3             | Livello 4                |
+| ----------- | -------------------- | --------------------- | ------------------------ |
+| Persuasivo  | Persuasivo II        | -                     | -                        |
+| Intuitivo   | Sesto Senso II       | -                     | -                        |
+| Furtivo     | Ombra Silenziosa II  | Fantasma Urbano III   | -                        |
+| Scalatore   | Scalatore II         | Scalatore Esperto III | -                        |
+| Forza Bruta | Muscoli d’Acciaio II | Furia Controllata III | Colosso Inarrestabile IV |
 
 ---
 
-# Note
+# **Ora Tocca a Te ✨**
 
-[^1]: In certi tipi di campagne potrebbe essere interessante lasciare ai giocatori di decidere le SVENTURE e le COMPLICAZIONI, entro i limiti posti dal NARRATORE.
+Hai letto le regole. Hai capito il cuore del gioco: il rischio, la scelta, la narrazione condivisa. Hai tra le mani uno strumento elegante, fatto di token bianchi e neri, di tratti, di cicatrici e di lezioni apprese. Tuttavia, queste pagine non sono un manuale d’istruzioni da seguire alla lettera. Sono una mappa, un invito. Un invito a creare qualcosa di vivo, di imprevedibile, di vostro.
 
-[^2]: Il successo non è mai garantito; se scegli di ESTRARRE tanti TOKEN quanti sono i ⚫ o meno, rischi di ESTRARRE solo ⚫. Viceversa, se ne ESTRAI di più, rischi comunque di ESTRARLI tutti, e fallire lo stesso la PROVA.
+**Non cercare la perfezione. Cercate l’emozione.** 
+Lasciate che le complicazioni vi sorprendano. 
+Lasciate che i successi vi esaltino. 
+Lasciate che le sventure vi formino. 
+New Beginning non è un sistema che ti dice cosa fare. È un sistema che ti chiede: _“Quanto osi rischiare?”_ Ogni ⚪ che metti nel sacchetto è una parte di te, del tuo personaggio, della tua storia. Ogni ⚫ che peschi è un’opportunità per trasformare il fallimento in dramma, la sconfitta in un nuovo inizio.
 
-[^3]: In ciascuna prova puoi usare al più uno dei TOKEN collocati sui tuoi tratti, e ogni tratto può ospitare al più 1 TOKEN.
+Il Narratore ha la sua parte, i giocatori la loro. Ma la storia? La storia nasce _tra_ di voi, nel momento in cui decidete quanti token estrarre, nel momento in cui accettate una sventura perché “sì, ha senso per il mio personaggio”, nel momento in cui qualcuno dice: “E se invece…?”
+
+Ora prendete i vostri personaggi, il sacchetto, il coraggio, e iniziate. La vostra storia non aspetta altro!
+
+> _“Non è la fine. È solo un nuovo inizio.”_
