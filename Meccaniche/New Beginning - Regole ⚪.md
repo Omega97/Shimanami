@@ -36,7 +36,7 @@ Con soli due colori – ⚪ bianchi e ⚫ neri – ogni estrazione decide il
         
     - ⚪ pari al numero di **TRATTI** che decidi di mettere in gioco.
         
-    - Opzionale: il **NARRATORE** decide il livello di **PERICOLO**. Se estrai un numero di ⚫ pari o superiore a questo, il personaggio subisce una **USCITA DI SCENA** (es. perde conoscenza, viene catturato, o è temporaneamente fuori gioco)
+    - Opzionale: il **NARRATORE** decide il livello di **PERICOLO**. Se **ESTRAI** un numero di ⚫ pari o superiore a questo, il personaggio subisce una **USCITA DI SCENA** (es. perde conoscenza, viene catturato, o è temporaneamente fuori gioco)
     
 3. **ESTRAI** alla cieca un numero di **TOKEN** a **tua scelta**, tutti insieme.
     
@@ -65,7 +65,7 @@ Con soli due colori – ⚪ bianchi e ⚫ neri – ogni estrazione decide il
     
 - Altrimenti, se hai **ESTRATTO** solo ⚫, hai avuto un **FALLIMENTO TOTALE**  ❌.
     
-- Altrimenti, se hai **ESTRATTO** **tutti i ⚫ del sacchetto**, hai avuto un **FALLIMENTO PARZIALE** ❓.
+- Altrimenti, se hai **ESTRATTO tutti i ⚫** presenti nel sacchetto, hai avuto un **FALLIMENTO PARZIALE** ❓.
     
 - In ogni altro caso, hai **SUCCESSO PARZIALE** (proporzionale ai ⚪ **ESTRATTI**) ✅.
 
@@ -111,12 +111,12 @@ Con soli due colori – ⚪ bianchi e ⚫ neri – ogni estrazione decide il
 
 Prima di affrontare una **PROVA**, il **NARRATORE** può scegliere di **applicare** uno **STATUS**. Puoi fare suggerimenti, ma sarà il **NARRATORE** a decidere se e cosa applicare. Ecco alcuni esempi:
 
-| Status Positivi 😃 | Effetto                                                                   | Flavour                                                              |
-| ------------------ | ------------------------------------------------------------------------- | -------------------------------------------------------------------- |
-| **FIDUCIOSO**      | Estrarre tutti i ⚫ nel sacchetto non conta come **FALLIMENTO PARZIALE**   | *La prova è facile, e sei molto sicuro di te.*                       |
-| **OTTIMISMO**      | Se **ESTRAI** un sono **TOKEN** e **FALLISCI**, puoi **ESTRARRE** ancora. | *È la prima volta che ci provi, ma andrà tutto bene...*              |
-| **CONCENTRAZIONE** | Se scegli di **ESTRARRE** un solo **TOKEN**, i ⚪ contano come 2.          | *Sei focalizzato su un obiettivo che mette alla prova la tua mente.* |
-| **ISPIRAZIONE**    | Se **MIGLIORI LA SCENA**, puoi suggerire un dettaglio al **NARRATORE**    | _Un’idea improvvisa ti guida verso il successo._                     |
+| Status Positivi 😃 | Effetto                                                                     | Flavour                                                              |
+| ------------------ | --------------------------------------------------------------------------- | -------------------------------------------------------------------- |
+| **FIDUCIOSO**      | **ESTRARRE** tutti i ⚫ nel sacchetto non conta come **FALLIMENTO PARZIALE** | *La prova è facile, e sei molto sicuro di te.*                       |
+| **OTTIMISMO**      | Se **ESTRAI** un sono **TOKEN** e **FALLISCI**, puoi **ESTRARRE** ancora.   | *È la prima volta che ci provi, ma andrà tutto bene...*              |
+| **CONCENTRAZIONE** | Se scegli di **ESTRARRE** un solo **TOKEN**, i ⚪ contano come 2.            | *Sei focalizzato su un obiettivo che mette alla prova la tua mente.* |
+| **ISPIRAZIONE**    | Se **MIGLIORI LA SCENA**, puoi suggerire un dettaglio al **NARRATORE**      | _Un’idea improvvisa ti guida verso il successo._                     |
 
 | Status Negativi 😨           | Effetto                                                                          | Flavour                                                                        |
 | ---------------------------- | -------------------------------------------------------------------------------- | ------------------------------------------------------------------------------ |
@@ -145,7 +145,7 @@ Affronti una **PROVA CRUCIALE** quando la consideri determinante per lo sviluppo
 	    
 	- Impari una **LEZIONE**: una nuova competenza acquisita grazie a un'esperienza cruciale; ti darà effetti vantaggiosi in contesti narrativi specifici.
 	    
-	- Se invece fallisci, vieni segnato da una **CICATRICE**: il segno lasciato da un evento traumatico significativo; ti ti darà effetti versatili in contesti narrativi inerenti alla prova.
+	- Se invece fallisci, vieni segnato da una **CICATRICE**: il segno lasciato da un evento traumatico significativo; ti darà effetti versatili in contesti narrativi inerenti alla prova.
 
 
 ---
@@ -162,7 +162,7 @@ Se affronti una **PROVA**, altri **EROI** o **PERSONAGGI SECONDARI** con un **TR
     
 - Il Narratore aumenta la **DIFFICOLTÀ** di 1⚫ per ogni collaboratore **oltre il primo**.
     
-- Il leader estrae i token e spende i ⚪; i ⚫ si applicano a tutto il gruppo o a un singolo membro, a discrezione del Narratore.
+- Il leader **ESTRAE** i token e spende i ⚪; i ⚫ si applicano a tutto il gruppo o a un singolo membro, a discrezione del Narratore.
 
 ---
 ---
@@ -175,7 +175,7 @@ Se affronti una **PROVA**, altri **EROI** o **PERSONAGGI SECONDARI** con un **TR
     
 - **Applicare il Pericolo**: Usa il Pericolo per aumentare la tensione, ma chiarisci l’esito dell’**USCITA DI SCENA** (es. temporanea o narrativa). Evita esiti letali a meno che non siano coerenti con la storia.
     
-- **Status Tematici**: Applica Status per riflettere l’ambiente o lo stato mentale dell’eroe, e rendere la scelta del numero di **TOKEN** da estrarre più interessante. Usa Status personalizzati per eventi unici (es. “Fatica” in una lunga marcia).
+- **Status Tematici**: Applica Status per riflettere l’ambiente o lo stato mentale dell’eroe, e rendere la scelta del numero di **TOKEN** da **ESTRARRE** più interessante. Usa Status personalizzati per eventi unici (es. “Fatica” in una lunga marcia).
     
 - **Bilanciare Complicazioni e Sventure**: Le Complicazioni dovrebbero spingere la storia avanti (es. un nuovo ostacolo), mentre le Sventure devono sfidare l’eroe senza bloccarlo. Collabora con i giocatori per rendere le conseguenze significative ma non punitive.
     
@@ -213,7 +213,7 @@ Se affronti una **PROVA**, altri **EROI** o **PERSONAGGI SECONDARI** con un **TR
 Difficoltà **3⚫** (normale), usi **2⚪** per i tratti _Scalatore_ e _Agile_. Il Narratore fissa **PERICOLO = 2** (con **≥2⚫ estratti** scatta un’**USCITA DI SCENA**)
 
 **Sacchetto:** ⚪⚪⚫⚫⚫
-Decidi di **estrarre 3** **TOKEN**.
+Decidi di **ESTRARRE 3** **TOKEN**.
 **Esito:** **⚪⚫⚫ →** superi la prova ma scatta il **PERICOLO**: ti aggrappi alla grondaia, che **cedendo** ti fa precipitare nel cortile. **Uscita di scena**: sei catturato dalle guardie e finirai nella segreta (rientrerai in gioco nella scena successiva)
 
 
@@ -222,10 +222,10 @@ Decidi di **estrarre 3** **TOKEN**.
 *Tre compagni vogliono **sfondare** una porta sprangata mentre i mercenari si avvicinano.*
 
 È una **Prova di Gruppo**: uno guida, gli altri contribuiscono. 
-Difficoltà **2⚫** (_facile_). Partecipano in **3**: ciascuno mette **1⚪**; il Narratore **aumenta la Difficoltà di +1⚫ per ogni collaboratore oltre il primo** → totale **4⚫**. **Whites:** 3⚪. **Blacks:** 4⚫. Il leader estrae e poi spende i ⚪ per il gruppo.
+Difficoltà **2⚫** (_facile_). Partecipano in **3**: ciascuno mette **1⚪**; il Narratore **aumenta la Difficoltà di +1⚫ per ogni collaboratore oltre il primo** → totale **4⚫**. **Whites:** 3⚪. **Blacks:** 4⚫. Il leader **ESTRAE** e poi spende i ⚪ per il gruppo.
 
 **Sacchetto:** ⚪⚪⚪⚫⚫⚫⚫
-Il leader decide di **estrarre 3** token.
+Il leader decide di **ESTRARRE 3** token.
 **Esito possibile.** **⚪⚪⚫ →** **successo parziale**: la porta cede. **COMPLICAZIONE**: le cerniere schizzano via e uno dei personaggi si **ferisce** al braccio, subendo una **Sventura** leggera; il **NARRATORE** può applicarla al gruppo o a un singolo membro.
 
 
@@ -233,10 +233,10 @@ Il leader decide di **estrarre 3** token.
 
 La **LEZIONE** e la **CICATRICE** sono simili a dei **TRATTI** con effetti applicabili in **PROVE** inerenti alla **PROVA CRUCIALE** dalla quale hanno avuto origine. Ecco alcuni esempi:
 
-| Nome                         | Effetto                                                                                                                                           | Flavuor                                                        |
-| ---------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------- |
-| **LEZIONE**:<br>Perseveranza | Se **FALLISCI COMPLETAMENTE** in una **PROVA** dove ti è stato assegnato un compito da un superiore, puoi scegliere di estrarre altri 2 **TOKEN** | *"Hai imparato a non arrenderti mai davanti a un fallimento."* |
-| **CICATRICE**:<br>Saggezza   | Se **FALLISCI** una **PROVA** in cui entra in gioco la tua vasta esperienza, puoi spendere 1⚫️ per **COLLOCARLO** su un tratto che hai usato.     | *"Hai ottenuto saggezza, e una nuova prospettiva sulla vita."* |
+| Nome                         | Effetto                                                                                                                                                     | Flavuor                                                        |
+| ---------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------- |
+| **LEZIONE**:<br>Perseveranza | Se **FALLISCI COMPLETAMENTE** in una **PROVA** dove ti è stato assegnato un compito da un superiore, puoi scegliere di **ESTRARRE** altri 1 altro **TOKEN** | *"Hai imparato a non arrenderti mai davanti a un fallimento."* |
+| **CICATRICE**:<br>Saggezza   | Se **FALLISCI** una **PROVA** in cui entra in gioco la tua vasta esperienza, puoi spendere 1⚫️ per **COLLOCARLO** su un tratto che hai usato.               | *"Hai ottenuto saggezza, e una nuova prospettiva sulla vita."* |
 
 
 #### Esempi di Migliorare un Tratto
