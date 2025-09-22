@@ -15,6 +15,7 @@ With just two colors—⚪ white and ⚫ black—each draw determines the fate o
    - 1 **ARCHETYPE**,
    - 3 **QUALITIES** out of 6 available,
    - 4 **SKILLS** out of 12 available.
+   - [Character sheet](https://github.com/Omega97/Shimanami/blob/main/Meccaniche/_template_character_sheet.pdf)
 
 ---
 

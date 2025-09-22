@@ -21,6 +21,8 @@ Con soli due colori – ⚪ bianchi e ⚫ neri – ogni estrazione decide il
 	- 3 **QUALITÀ** su 6 disponibili, 
 	    
 	- 4 **ABILITÀ** su 12 disponibili.
+	    
+	- [Scheda personaggio](https://github.com/Omega97/Shimanami/blob/main/Meccaniche/_template_character_sheet.pdf)
 
 ---
 
