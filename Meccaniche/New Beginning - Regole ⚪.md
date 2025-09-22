@@ -61,12 +61,12 @@ Con soli due colori – ⚪ bianchi e ⚫ neri – ogni estrazione decide il
 
 > *I token che hai estratto determinano il grado di successo o fallimento delle azioni del tuo personaggio. Starà poi al narratore ad interpretare come continua la scena in base al contesto.*
 
-| Cosa hai **ESTRATTO**                                  | ESITO                        | Descrizione                                                     |
-| ------------------------------------------------------ | ---------------------------- | --------------------------------------------------------------- |
-| Solo ⚪.                                                | **SUCCESSO <br>TOTALE** ✅✅   | Hai superato la prova<br>**a pieni voti**!                      |
-| Almeno 1⚪, e <br>alcuni ⚫.<br>                         | **SUCCESSO<br>PARZIALE** ✅   | Più o meno successo in base <br>a quali **TOKEN** hai estratto. |
-| Almeno 1⚪, e <br>**tutti** i ⚫ presenti nel sacchetto. | **FALLIMENTO<br>PARZIALE** ❓ | Hai fallito la prova, <br>ma ci sono dei **lati positivi**.     |
-| Solo ⚫.                                                | **FALLIMENTO<br>TOTALE**  ❌  | Hai fallito la prova <br>**completamente**.                     |
+| Cosa hai **ESTRATTO**                                      | ESITO                        | Descrizione                                                     |
+| ---------------------------------------------------------- | ---------------------------- | --------------------------------------------------------------- |
+| Solo ⚪.                                                    | **SUCCESSO <br>TOTALE** ✅✅   | Hai superato la prova<br>**a pieni voti**!                      |
+| Almeno 1⚪, e **non** tutti i ⚫ <br>presenti nel sacchetto. | **SUCCESSO<br>PARZIALE** ✅   | Più o meno successo in base <br>a quali **TOKEN** hai estratto. |
+| Almeno 1⚪, e **tutti** i ⚫ <br>presenti nel sacchetto.     | **FALLIMENTO<br>PARZIALE** ❓ | Hai fallito la prova, <br>ma ci sono dei **lati positivi**.     |
+| Solo ⚫.                                                    | **FALLIMENTO<br>TOTALE**  ❌  | Hai fallito la prova <br>**completamente**.                     |
 
 ---
 
