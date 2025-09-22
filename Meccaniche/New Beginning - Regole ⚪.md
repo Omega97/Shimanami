@@ -38,7 +38,7 @@ Con soli due colori – ⚪ bianchi e ⚫ neri – ogni estrazione decide il
         
     - Opzionale: il **NARRATORE** decide il livello di **PERICOLO**. Se **ESTRAI** un numero di ⚫ pari o superiore a questo, il personaggio subisce una **USCITA DI SCENA** (es. perde conoscenza, viene catturato, o è temporaneamente fuori gioco)
     
-3. **ESTRAI** alla cieca un numero di **TOKEN** a **tua scelta**, tutti insieme.
+3. **ESTRAI** alla cieca un numero **a tuo piacimento** di **TOKEN**, tutti insieme.
     
 4. Usa i **TOKEN** che hai **ESTRATTO** per farti raccontare l’esito della **PROVA** dal **NARRATORE**.
 
@@ -53,7 +53,7 @@ Con soli due colori – ⚪ bianchi e ⚫ neri – ogni estrazione decide il
 
 
 > **📌 NOTA BENE: La Storia è di Tutti**
-> In certi tipi di campagne, puoi sperimentare lasciando ai giocatori la libertà di _proporre_ le Complicazioni e le Sventure che vogliono subire, entro i limiti e il buon senso stabilito dal **NARRATORE**. Questo approccio aumenta l’investimento emotivo e rende le conseguenze ancora più personali e significative.
+> In certi tipi di campagna, puoi sperimentare lasciando ai giocatori la libertà di _proporre_ le **COMPLICAZIONI** e le **SVENTURE** che vogliono subire, entro i limiti e il buon senso stabilito dal **NARRATORE**. Questo approccio aumenta l’investimento emotivo e rende le conseguenze ancora più personali e significative.
 
 ---
 
@@ -61,13 +61,12 @@ Con soli due colori – ⚪ bianchi e ⚫ neri – ogni estrazione decide il
 
 > *I token che hai estratto determinano il grado di successo o fallimento delle azioni del tuo personaggio. Starà poi al narratore ad interpretare come continua la scena in base al contesto.*
 
-- Se hai **ESTRATTO** solo ⚪, hai **SUCCESSO TOTALE** ⭐️.
-    
-- Altrimenti, se hai **ESTRATTO** solo ⚫, hai avuto un **FALLIMENTO TOTALE**  ❌.
-    
-- Altrimenti, se hai **ESTRATTO tutti i ⚫** presenti nel sacchetto, hai avuto un **FALLIMENTO PARZIALE** ❓.
-    
-- In ogni altro caso, hai **SUCCESSO PARZIALE** (proporzionale ai ⚪ **ESTRATTI**) ✅.
+| Cosa hai **ESTRATTO**                                  | ESITO                        | Descrizione                                                     |
+| ------------------------------------------------------ | ---------------------------- | --------------------------------------------------------------- |
+| Solo ⚪.                                                | **SUCCESSO <br>TOTALE** ✅✅   | Hai superato la prova<br>**a pieni voti**!                      |
+| Almeno 1⚪, e <br>alcuni ⚫.<br>                         | **SUCCESSO<br>PARZIALE** ✅   | Più o meno successo in base <br>a quali **TOKEN** hai estratto. |
+| Almeno 1⚪, e <br>**tutti** i ⚫ presenti nel sacchetto. | **FALLIMENTO<br>PARZIALE** ❓ | Hai fallito la prova, <br>ma ci sono dei **lati positivi**.     |
+| Solo ⚫.                                                | **FALLIMENTO<br>TOTALE**  ❌  | Hai fallito la prova <br>**completamente**.                     |
 
 ---
 
