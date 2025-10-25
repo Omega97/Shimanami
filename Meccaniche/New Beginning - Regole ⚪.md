@@ -203,7 +203,8 @@ Se affronti una **PROVA**, altri **EROI** o **PERSONAGGI SECONDARI** con un **TR
 #### Esempio di Sventura
 
 *"Pare che il barista non abbia apprezzato il tuo commento sulla sua forma tondeggiante..."*
-- Riceverai 1⚫ extra di difficoltà per alcune prove che si svolgono nel suddetto bar.
+- Aggiungi la **SVENTURA** sulla scheda personaggio, e segnati i ⚫ che hai speso (sì, puoi averne più di uno!).
+- Riceverai altrettanti ⚫ extra di difficoltà per alcune prove che si svolgono nel suddetto bar.
 - Renditi amico il barista per eliminare questa **SVENTURA**.
 
 
