@@ -34,6 +34,7 @@ Come punto di riferimento, 1 Koku = 400 Ryō di riso (40🟡) nutrono un uomo me
 | Reti da pesca 🕸️            | 20 ⚪️        | 1 rete           |
 | Sake 🥃                      | 10 ⚪️        | 1 bottiglia      |
 | Ceramiche 🏺                 | 5-30 ⚪️      | 1 pezzo          |
+| Tè 🍵                        | 4 ⚪️         | 1 tazza (20/Ryō) |
 | Bottiglia 🫙                 | 2 ⚪️         | 1 pezzo          |
 
 | Immobile                   | Prezzo Medio | Unita di Scambio |
@@ -93,6 +94,7 @@ Come punto di riferimento, 1 Koku = 400 Ryō di riso (40🟡) nutrono un uomo me
 | --------------------- | ------------------------- | ------------------------------------------------------------------ | ----------------------- |
 | Samurai               | 15 🟡                     | Dipende dal rango, spesso con vitto e alloggio                     | Daimyō                  |
 | Mercenario            | 13 🟡                     | Rischioso, ma ben pagato in tempi turbolenti                       | Ricchi mercanti, Nobili |
+| Capitano              | 10 🟡                     |                                                                    |                         |
 | Funzionario Locale    | 10 🟡                     | Amministratori, esattori, notai                                    | Daimyō, Consiglio       |
 | Capitano              | 10 🟡                     |                                                                    |                         |
 | Commerciante          | 7–14 🟡                   | Include venditori ambulanti e gestori di botteghe                  | -                       |
