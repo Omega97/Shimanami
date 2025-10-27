@@ -190,7 +190,7 @@ Quando affronti una **Prova Cruciale**, il tuo personaggio ha l’opportunità d
 2. Annota la **Lezione** sulla tua scheda, con un nome evocativo e un effetto specifico. Puoi usarla una volta per sessione in una **PROVA**, legata al suo contesto.
 3. Se hai fallito la **PROVA**, la **Lezione** dovrebbe riflettere il peso di quel fallimento, offrendo un vantaggio ma con un’ombra di sacrificio o complessità.
 
-> **📌 NOTA BENE: Lezioni che Raccontano** Le Lezioni sono più potenti quando sono personali e legate alla storia. Collabora con il Narratore per creare effetti che arricchiscano la narrazione, non solo le meccaniche. Una Lezione nata da un fallimento potrebbe avere un costo (es. un ⚫ extra), mentre una da un successo dovrebbe esaltare il tuo eroe. Usa le Lezioni per dare profondità al tuo personaggio, non solo per vincere.
+> **📌 NOTA**: Collabora con il narratore per creare lezioni che arricchiscano la narrazione, facendo attenzione di **evitare effetti che garantiscono un successo**. Una Lezione nata da un fallimento potrebbe avere un costo (es. un ⚫ extra), mentre una da un successo dovrebbe esaltare il tuo eroe. Usa le Lezioni per dare profondità al tuo personaggio, non solo per vincere.
 
 ---
 
