@@ -23,7 +23,7 @@
 * Lo stile di gioco in chiamata/presenza farà leva su **New Beginning**. 
 * A rendere intrigante il tutto è il fatto che **i giocatori non conoscono l'identità dei personaggi degli altri giocatori** a meno che non decidano di rivelarsi. Cercare di smascherarli, cogliendoli in comportamenti peculiari, è parte del divertimento.
 
-🔹 *vedi [[New Beginning - Regole ⚪]]
+🔹 *Nota: vedi [[New Beginning - Regole ⚪]]
 
 ---
 
@@ -44,33 +44,34 @@ La **Svolta** è il principale meccanismo con cui la narrazione si evolve. Ogni 
 * Fino a due Svolte personali a scelta del DM.
 * Una Svolta Pubblica, sempre a scelta del DM, che coinvolge tutti (o quasi) i giocatori.
 
-| Svolta (personale)  | Descrizione                                                   |
-| ------------------- | ------------------------------------------------------------- |
-| ℹ️ **Informazione** | Una rivelazione utile, nascosta o dimenticata                 |
-| 📦 **Opportunità**  | Si presenta un’occasione vantaggiosa                          |
-| 🔎 **Scoperta**     | Trovi un luogo, oggetto o segreto celato                      |
-| 🎉 **Evento**       | Qualcosa accade, cambia l’equilibrio delle cose               |
-| 🎯 **Missione**     | Segui le indicazioni in cambio di una ricompensa              |
-| ❓ **Imprevisto**    | Un evento inatteso, fuori dal tuo controllo                   |
-| 🫂 **Incontro**     | Entra in scena un nuovo personaggio significativo             |
-| 🕵️ **Intrigo**     | Sospetti, inganni, o segreti, che ti coinvolgono direttamente |
+| Svolta (personale)   | Descrizione                                                   |
+| -------------------- | ------------------------------------------------------------- |
+| ℹ️ **Informazione**  | Una rivelazione utile, nascosta o dimenticata                 |
+| 📦 **Opportunità**   | Si presenta un’occasione vantaggiosa                          |
+| 🔎 **Scoperta**      | Trovi un luogo, oggetto o segreto celato                      |
+| 🎉 **Evento**        | Qualcosa accade, cambia l’equilibrio delle cose               |
+| 🎯 **Missione**      | Segui le indicazioni in cambio di una ricompensa              |
+| ❓ **Imprevisto**     | Un evento inatteso, fuori dal tuo controllo                   |
+| 🫂 **Incontro**      | Entra in scena un nuovo personaggio significativo             |
+| 🕵️ **Intrigo**      | Sospetti, inganni, o segreti, che ti coinvolgono direttamente |
+| 🌱 **Miglioramento** | Migliora una tua attività o relazione                         |
 
 | 🎉Evento Pubblico | Un festival, un incendio, un naufragio… Questi eventi coinvolgono l’intera isola, e invitano tutti a reagire |
 | ----------------- | ------------------------------------------------------------------------------------------------------------ |
 
 La **Trama** è un insieme coerente di Svolte personali create dal DM, che si sviluppano nel corso di una settimana di gioco, intrecciando tra loro le vite dei personaggi e conducendo progressivamente verso una Svolta Pubblica che ne rappresenta la sintesi, l’apice o la rivelazione finale. Questo strumento aiuta il DM a generare le svolte in un modo più fluido e coeso.
 
+🔹 *Nota su Miglioramento: Affronta la prova normalmente; I ⚪️ che spendi per migliorare la scena, e tutti i ⚫️ che spendi, contribuiranno a migliorare o peggiorare il tuo obbiettivo.
+
 ---
 
 ### ⏳ Gestione del Tempo nella Campagna
-
 
 Un **Evento Pubblico** segna l'inizio di ogni **Stagione**. 
 
 Durante questa, il tempo in-game scorre più lentamente, in modo che i giocatori svolgano le loro **Svolte** circa nello stesso periodo. Durante ciascuna stagione, ciascun giocatore ha diritto a scegliere un tipo di Svolta, e ne riceverà alcune altre a discrezione del DM. 
 
 Alla fine della Stagione c'è un time-skip, durante il quale i giocatori non agiscono. Con questa meccanica, durante una Stagione passano 3 mesi in-game, il che dà ai giocatori un senso di progressione più veloce ai giocatori.
-
 
 ---
 
@@ -82,7 +83,6 @@ Il DM:
 * gestisce gli NPC, interpretandoli in modo coerente con le loro motivazioni e relazioni.
 * fornisce aggiornamenti regolari sulla situazione generale dell'isola, anche se non riguardano direttamente le azioni di un singolo giocatore.
 * fornisce un resoconto stagionale dopo i time-skips
-
 
 ---
 
@@ -124,7 +124,6 @@ Per dare un graduale senso di progresso al gioco, il giocatore dovrà persuadere
 | Sostegno politico 🗳     | Edifici urbani                        | Appoggio da un Kazoku o Consiglio           |
 | Mazzetta / corruzione 💸 | Qualsiasi slot, a rischio reputazione | Pagamento nascosto a un Bugyō               |
 
-
 ---
 
 ##   Roleplay e "New Beginning"
@@ -137,7 +136,6 @@ Per dare un graduale senso di progresso al gioco, il giocatore dovrà persuadere
 * Le regole di *New Beginning* vengono utilizzate per risolvere i conflitti e determinare il successo o il fallimento delle azioni dei personaggi durante le Scene.
 * Dopo la Scena, i giocatori tornano alla modalità di gioco asincrona e le conseguenze della Scena vengono integrate nella storia principale.
 
-
 ---
 
 ## Rendere il gioco interessante
@@ -147,7 +145,6 @@ Per dare un graduale senso di progresso al gioco, il giocatore dovrà persuadere
 * Ci sono vari luoghi misteriosi da esplorare sulla mappa
 * L'isola nasconde artefatti unici
 * Le azioni di un giocatore possono avere conseguenze sugli altri
-
 
 ---
 
