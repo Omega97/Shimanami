@@ -1,7 +1,6 @@
 
 # New Beginning
 
-
 _New Beginning_ è un semplice **sistema di gioco**, leggero ed elegante, pensato per giochi di ruolo narrativi; niente tabelle, niente calcoli, solo la tua storia e il coraggio di rischiare – letteralmente. Ispirato a _Not the End_, il sistema ruota attorno a un unico dilemma: **quanti token osi estrarre dal sacchetto?**
 
 Con soli due colori – ⚪ bianchi e ⚫ neri – ogni estrazione decide il destino dei personaggi: crescita, rovina o trasformazione. Non esistono vittorie o sconfitte definitive; c’è soltanto l’esito delle tue azioni, accettato e condiviso da tutti al tavolo. Questo rende le **emozioni e le relazioni** il vero motore della storia.
@@ -18,11 +17,11 @@ Con soli due colori – ⚪ bianchi e ⚫ neri – ogni estrazione decide il
      
 	- 1 **ARCHETIPO**,
 	    
-	- 3 **QUALITÀ** su 6 disponibili, 
+	- 3 **QUALITÀ**, 
 	    
-	- 4 **ABILITÀ** su 12 disponibili.
+	- 4 **ABILITÀ**.
 	    
-	- [Scheda personaggio](https://github.com/Omega97/Shimanami/blob/main/Meccaniche/_template_character_sheet.pdf)
+	- [Scheda personaggio](https://github.com/Omega97/Shimanami/blob/main/Meccaniche/_template_character_sheet_NB.pdf)
 
 ---
 
@@ -36,7 +35,9 @@ Con soli due colori – ⚪ bianchi e ⚫ neri – ogni estrazione decide il
      
     - ⚫ pari alla **DIFFICOLTÀ** decisa dal **NARRATORE**, 
         
-    - ⚪ pari al numero di **TRATTI** che decidi di mettere in gioco.
+    - ⚪ pari al numero di **TRATTI** utili che decidi di mettere in gioco.
+        
+    - eventualmente, aggiungi 1⚫ per ogni **TRATTO** che influisce negativamente sulla prova.
         
     - Opzionale: il **NARRATORE** decide il livello di **PERICOLO**. Se **ESTRAI** un numero di ⚫ pari o superiore a questo, il personaggio subisce una **USCITA DI SCENA** (es. perde conoscenza, viene catturato, o è temporaneamente fuori gioco)
     
@@ -88,7 +89,7 @@ Con soli due colori – ⚪ bianchi e ⚫ neri – ogni estrazione decide il
        
 	* 1 ⚫ per farti raccontare una **COMPLICAZIONE** dal **NARRATORE**. Un esito imprevisto, con impatto sull'**EROE** o sulla **SCENA** nel suo complesso.
 	    
-	* 1 ⚫ per farti infliggere una **SVENTURA** dal **NARRATORE** (scrivila sulla scheda!). L'impatto è diretto sull'**EROE**, ed ha effetto sulle **PROVE** che affronti finché non vi si pone rimedio, o gli effetti si esauriscono. 
+	* 1 ⚫ per farti infliggere una **SVENTURA** dal **NARRATORE** (vedi [[New Beginning - Regole ⚪#Le Sventure ⚫️|Sventure]] ). L'impatto è diretto sull'**EROE**, ed ha effetto sulle **PROVE** che affronti finché non vi si pone rimedio, o gli effetti si esauriscono. 
 
 
 > 📌 **NOTA BENE: Il Successo Non è Garantito** 
@@ -96,6 +97,20 @@ Con soli due colori – ⚪ bianchi e ⚫ neri – ogni estrazione decide il
 
 > 📌 **NOTA BENE: Investire nel Futuro** 
 > Puoi spendere 1 ⚪ per collocarlo su un Tratto usato in questa prova, come "riserva" per il futuro. Ricorda: in ogni prova puoi usare _al massimo un solo_ token collocato, e ogni tratto può ospitare _al massimo un_ token. È una risorsa preziosa: usala con saggezza!
+
+---
+
+## Le Sventure ⚫️
+
+Hai deciso di spendere uno o più ⚫ estratti durante una **PROVA** per farti infliggere una **SVENTURA** dal **NARRATORE**. Segui i seguenti passaggi:
+
+1) **Annotala sulla Scheda**: Segna il numero di ⚫ spesi. (Puoi avere più **SVENTURE** attive)
+    
+2) **Personalizzala**: Collabora con il **Narratore** per darle un nome e una descrizione legati alla **PROVA**.
+    
+3) **Effetto**: La Sventura aggiunge tanti ⚫ extra quanti spesi alla sua creazione alle **PROVE** correlate al suo contesto.
+    
+4) **Risoluzione**: Elimina la **SVENTURA** con un’azione narrativa o una **PROVA** specifica. Alcune sventure svaniscono col tempo, a discrezione del **Narratore**.
 
 ---
 ---
@@ -138,15 +153,16 @@ Affronti una **PROVA CRUCIALE** quando la consideri determinante per lo sviluppo
      
 2. Affronta la **PROVA** normalmente.
      
-3. Scegli **una di queste** opzioni in base all’esito della **PROVA**.
+3. Scegli **una** delle seguenti opzioni.
      
-	- **NUOVO TRATTO**: Aggiungi un nuovo **TRATTO** alla tua scheda, coerente con l’esperienza vissuta.
+	- **NUOVO TRATTO**: Aggiungi un nuovo **TRATTO** alla tua scheda, coerente con l’esperienza vissuta. Se hai fallito la **PROVA**, il **TRATTO** dev'essere di dubbia utilità.
 	    
-	- **MIGLIORARE UN TRATTO**: Aumenta il livello di un **TRATTO** usato nella prova (es. da “Persuasivo” a “Persuasivo II”). Usare quel tratto ti darà 1⚪ extra.
+	- **MIGLIORARE UN TRATTO**: Se hai avuto successo, puoi aumentare il livello di un **TRATTO** usato nella prova (es. da “Persuasivo” a “Persuasivo II”). Usare quel tratto ti darà 1⚪ extra.
 	    
-	- Impari una **LEZIONE**: una nuova competenza acquisita grazie a un'esperienza cruciale; ti darà effetti vantaggiosi in contesti narrativi specifici.
-	    
-	- Se invece fallisci, vieni segnato da una **CICATRICE**: il segno lasciato da un evento traumatico significativo; ti darà effetti versatili in contesti narrativi inerenti alla prova.
+	- Impari una **LEZIONE**: una nuova competenza acquisita grazie a un'esperienza cruciale; ti darà effetti vantaggiosi in contesti narrativi specifici, inerenti alla prova appena affrontata. Se hai fallito la **PROVA**, cerca di fare in modo che la **LEZIONE** lo rifletta.
+	
+ 4. Se hai fallito la **PROVA**, vieni segnato da una "cicatrice", il segno lasciato da un evento traumatico significativo; **SPENDI** **ameno** 1⚫️ su una **SVENTUA**.
+
 
 > 📌 **NOTA:** 
 > Il narratore decide se una prova è cruciale o meno anche in base alla lunghezza della campagna; mirate ad un numero approssimativo di prove di questo tipo.
@@ -167,6 +183,23 @@ Se affronti una **PROVA**, altri **EROI** o **PERSONAGGI SECONDARI** con un **TR
 - Il Narratore aumenta la **DIFFICOLTÀ** di 1⚫ per ogni collaboratore **oltre il primo**.
     
 - Il leader **ESTRAE** i token e spende i ⚪; i ⚫ si applicano a tutto il gruppo o a un singolo membro, a discrezione del Narratore.
+
+---
+
+## Conflitto tra Giocatori 🏹
+
+
+OPZIONE 1: **Prova Singola** (meglio allineata con lo spirito "asincrono" della campagna)
+
+1) Solo il **primo giocatore** affronta una **PROVA**.
+2) Aggiungi ⚫ nell sacchetto pari al numero di **TRATTI** del **secondo giocatore** che sono a lui favorevoli.
+
+
+OPZIONE 2: **Prove Contrapposte** (più onesto, ma richiede scoprire se l'altro personaggio è un PC oppure no)
+
+1) Il **primo giocatore** affronta la **PROVA** normalmente.
+2) A prescindere dall'esito, anche il **secondo giocatore** entra in gioco
+3) Solo dopo aver svolto le due estrazioni, il narratore descrive la scena in base agli esiti.
 
 ---
 ---
@@ -190,6 +223,7 @@ Se affronti una **PROVA**, altri **EROI** o **PERSONAGGI SECONDARI** con un **TR
 
 # Esempi
 
+---
 
 #### Esempi di Successo e Fallimento
 
@@ -200,13 +234,21 @@ Se affronti una **PROVA**, altri **EROI** o **PERSONAGGI SECONDARI** con un **TR
 | ⚪⚪⚫                 | ⚪⚫             | **FALLIMENTO PARZIALE** ❓ |
 | ⚪⚪⚫⚫                | ⚫              | **FALLIMENTO TOTALE** ❌   |
 
-#### Esempio di Sventura
+---
 
-*"Pare che il barista non abbia apprezzato il tuo commento sulla sua forma tondeggiante..."*
-- Aggiungi la **SVENTURA** sulla scheda personaggio, e segnati i ⚫ che hai speso (sì, puoi averne più di uno!).
-- Riceverai altrettanti ⚫ extra di difficoltà per alcune prove che si svolgono nel suddetto bar.
-- Renditi amico il barista per eliminare questa **SVENTURA**.
+#### Esempi di Sventura
 
+> *"Pare che il barista non abbia apprezzato il tuo ennesimo commento sulla sua forma tondeggiante... Alimentati dalla lingua tagliente del barista, nel bar, i pettegolezzi sul tuo conto si diffondono a macchia d'olio."*
+
+**SVENTURA**: **L'Ultima Goccia** ⚫⚫: Ricevi 1⚫ extra di difficoltà ogni volta che affronti una **PROVA** nel suddetto bar.
+Renditi amico il barista per eliminare questa **SVENTURA**.
+
+> *"Hai fallito una prova cruciale, in cui ti eri posto di sconfiggere la tua nemesi in un duello. Il tuo orgoglio è ferito."*
+
+**SVENTURA**: **Orgoglio Ferito** ⚫: Ricevi 1⚫ extra di difficoltà ogni volta che affronti una **PROVA** relativa a una conoscenza in comune.
+Sconfiggi la tua nemesi in duello per eliminare questa **SVENTURA**.
+
+---
 
 #### Esempio di Pericolo
 
@@ -218,43 +260,35 @@ Difficoltà **3⚫** (normale), usi **2⚪** per i tratti _Scalatore_ e _Agile_.
 Decidi di **ESTRARRE 3** **TOKEN**.
 **Esito:** **⚪⚫⚫ →** superi la prova ma scatta il **PERICOLO**: ti aggrappi alla grondaia, che **cedendo** ti fa precipitare nel cortile. **Uscita di scena**: sei catturato dalle guardie e finirai nella segreta (rientrerai in gioco nella scena successiva)
 
+---
 
-#### Esempio di Prova di Gruppo
+#### Esempi di Lezione
 
-*Tre compagni vogliono **sfondare** una porta sprangata mentre i mercenari si avvicinano.*
+La **LEZIONE** è un effetto applicabile in una **PROVA** inerente alla **PROVA CRUCIALE** dalla quale ha avuto origine. Ecco alcuni esempi:
 
-È una **Prova di Gruppo**: uno guida, gli altri contribuiscono. 
-Difficoltà **2⚫** (_facile_). Partecipano in **3**: ciascuno mette **1⚪**; il Narratore **aumenta la Difficoltà di +1⚫ per ogni collaboratore oltre il primo** → totale **4⚫**. **Whites:** 3⚪. **Blacks:** 4⚫. Il leader **ESTRAE** e poi spende i ⚪ per il gruppo.
+| LEZIONE           | Flavuor                                                                      | Effetto                                                                                                                                             |
+| ----------------- | ---------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Dream Team        | *"Hai imparato che il vero tesoro sono gli amici... o qualcosa del genere."* | Aggiungi 1⚪️ nel sacchetto.                                                                                                                         |
+| La Superluna      | *"Durante una notte di luna piena..."*                                       | Aggiungi 2⚪️ nel sacchetto.                                                                                                                         |
+| <br>Perseveranza  | *"Hai imparato a non arrenderti mai davanti a un fallimento."*               | Se stai per fallire, puoi scegliere di estrarre ancora un TOKEN.                                                                                    |
+| "Luck in the end" | *"Quando le cose non vanno secondo i piani, c'è una lezione da imparare."*   | Se fallisci parzialmente, puoi comunque COLLOCARE 1⚪️ su un TRATTO che hai usato nella prova.                                                       |
+| Veggente          | *"Alcuni la chiama fortuna, ma tu sai che si sbagliano."*                    | Chiama il numero di ⚪️ che stai per ESTRARRE. Se indovini, i ⚪️ dopo il primo li puoi spendere 2 volte.                                             |
+| Ordine            | *"Ti piace la routine, e tenere tutto ben in ordine."*                       | BRUCIA 2 ⚪️ e 1 ⚫️ dal sacchetto.                                                                                                                   |
+| Dividi et Impera  | *"La tua ambizione è conquistare e controllare."*                            | Dopo aver estratto, puoi scegliere di scambiare i TOKEN estratti con quelli ancora nel sacchetto, ma dovrai spendere anche i ⚫️ che avevi estratto. |
 
-**Sacchetto:** ⚪⚪⚪⚫⚫⚫⚫
-Il leader decide di **ESTRARRE 3** token.
-**Esito possibile.** **⚪⚪⚫ →** **successo parziale**: la porta cede. **COMPLICAZIONE**: le cerniere schizzano via e uno dei personaggi si **ferisce** al braccio, subendo una **Sventura** leggera; il **NARRATORE** può applicarla al gruppo o a un singolo membro.
+Se la **PROVA CRUCIALE** non ha avuto l'effetto desiderato, cerca di far riflettere ciò nella nuova **LEZIONE**. Ecco alcuni esempi:
 
+| LEZIONE               | Flavuor                                                                        | Effetto                                                                                                                                     |
+| --------------------- | ------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------- |
+| <br>Coriaceo          | *"Hai ottenuto saggezza, e una nuova prospettiva sulla vita."*                 | Se **FALLISCI** una **PROVA**, puoi spendere 1⚫️ per **COLLOCARLO** su un **TRATTO** che hai usato.                                         |
+| Pensare in fretta     | *"Non c'è tempo da perdere... prendi una decisione senza pensarci due volte."* | Puoi ritentare l'estrazione, ma a meno di un successo totale, ricevi 1⚫️ in più.                                                            |
+| Perseverante          | *"Non ti dai mai per vinto... MAI."*                                           | Rimescola nel sacchetto 1⚫️ che hai estratto, poi estrai un altro TOKEN.                                                                    |
+| Esagerato             | *"Strafare non è un difetto, è il tuo marchio di fabbrica."*                   | Estrai tutti i TOKEN tranne uno. Se fallisci, puoi rimettere 1 ⚫️ nel sacchetto, ma i ⚪️ oltre il primo non contano.                        |
+| Cauto                 | *"Dopo l'ultima volta, non correrai mai più rischi inutili..."*                | BRUCIA tutti i ⚪️, e tutti i ⚫️ tranne uno.                                                                                                 |
+| Maniaco del controllo | *"Adori dare ordini, e gli altri faranno meglio a seguirli..."*                | Se hai superato la prova, spendi un ⚪️; puoi scegliere di COLLOCARE quanti più ⚪️ e ⚫️ possibili sui tratti che hai usato durante la prova. |
+| Parsimonia            | *"Ogni centesimo conta, e tu li custodisci con cura."*                         | Rimuovi un TOKEN dal sacchetto per collocarlo su un TRATTO a tua scelta.                                                                    |
 
-#### Esempi di Lezione e Cicatrice
-
-La **LEZIONE** e la **CICATRICE** sono simili a dei **TRATTI** con effetti applicabili in **PROVE** inerenti alla **PROVA CRUCIALE** dalla quale hanno avuto origine. Ecco alcuni esempi:
-
-| LEZIONE                    | Flavuor                                                                      | Effetto                                                                                                 |
-| -------------------------- | ---------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------- |
-| Dream Team                 | *"Hai imparato che il vero tesoro sono gli amici... o qualcosa del genere."* | Aggiungi 1⚪️ nel sacchetto.                                                                             |
-| La Superluna               | *"Durante una notte di luna piena..."*                                       | Aggiungi 2⚪️ nel sacchetto.                                                                             |
-| <br>Perseveranza           | *"Hai imparato a non arrenderti mai davanti a un fallimento."*               | Se stai per fallire, puoi scegliere di estrarre ancora un TOKEN.                                        |
-| Fortunato in Fin dei Conti | *"Quando le cose non vanno secondo i piani, c'è una lezione da imparare."*   | Se fallisci parzialmente, puoi comunque COLLOCARE 1⚪️ su un TRATTO che hai usato nella prova.           |
-| Veggente                   | *"Alcuni la chiama fortuna, ma tu sai che si sbagliano."*                    | Chiama il numero di ⚪️ che stai per ESTRARRE. Se indovini, i ⚪️ dopo il primo li puoi spendere 2 volte. |
-| Parsimonia                 | *"Ogni centesimo conta, e tu li custodisci con cura."*                       | Rimuovi un TOKEN dal sacchetto per collocarlo su un TRATTO a tua scelta.                                |
-| Ordine                     | *"Ti piace la routine, e tenere tutto ben in ordine."*                       | BRUCIA 2 ⚪️ e 1 ⚫️ dal sacchetto.                                                                       |
-
-| CICATRICE             | Flavuor                                                                        | Effetto                                                                                                                                             |
-| --------------------- | ------------------------------------------------------------------------------ | --------------------------------------------------------------------------------------------------------------------------------------------------- |
-| <br>Coriaceo          | *"Hai ottenuto saggezza, e una nuova prospettiva sulla vita."*                 | Se **FALLISCI** una **PROVA**, puoi spendere 1⚫️ per **COLLOCARLO** su un **TRATTO** che hai usato.                                                 |
-| Pensare in fretta     | *"Non c'è tempo da perdere... prendi una decisione senza pensarci due volte."* | Puoi ritentare l'estrazione, ma a meno di un successo totale, ricevi 1⚫️ in più.                                                                    |
-| Perseverante          | *"Non ti dai mai per vinto... MAI."*                                           | Rimescola nel sacchetto 1⚫️ che hai estratto, poi estrai un altro TOKEN.                                                                            |
-| Dividi et Impera      | *"La tua ambizione è conquistare e controllare."*                              | Dopo aver estratto, puoi scegliere di scambiare i TOKEN estratti con quelli ancora nel sacchetto, ma dovrai spendere anche i ⚫️ che avevi estratto. |
-| Esagerato             | *"Strafare non è un difetto, è il tuo marchio di fabbrica."*                   | Estrai tutti i TOKEN tranne uno. Se fallisci, puoi rimettere 1 ⚫️ nel sacchetto, ma i ⚪️ oltre il primo non contano.                                |
-| Cauto                 | *"Dopo l'ultima volta, non correrai mai più rischi inutili..."*                | BRUCIA tutti i ⚪️, e tutti i ⚫️ tranne uno.                                                                                                         |
-| Maniaco del controllo | *"Adori dare ordini, e gli altri faranno meglio a seguirli..."*                | Se hai superato la prova, spendi un ⚪️; puoi scegliere di COLLOCARE quanti più ⚪️ e ⚫️ possibili sui tratti che hai usato durante la prova.         |
-
+---
 
 #### Esempi di Migliorare un Tratto
 
@@ -268,9 +302,22 @@ La **LEZIONE** e la **CICATRICE** sono simili a dei **TRATTI** con effetti appli
 
 ---
 
+#### Esempio di Prova di Gruppo
+
+*Tre compagni vogliono **sfondare** una porta sprangata mentre i mercenari si avvicinano.*
+
+È una **Prova di Gruppo**: uno guida, gli altri contribuiscono. 
+Difficoltà **2⚫** (_facile_). Partecipano in **3**: ciascuno mette **1⚪**; il Narratore **aumenta la Difficoltà di +1⚫ per ogni collaboratore oltre il primo** → totale **4⚫**. **Whites:** 3⚪. **Blacks:** 4⚫. Il leader **ESTRAE** e poi spende i ⚪ per il gruppo.
+
+**Sacchetto:** ⚪⚪⚪⚫⚫⚫⚫
+Il leader decide di **ESTRARRE 3** token.
+**Esito possibile.** **⚪⚪⚫ →** **successo parziale**: la porta cede. **COMPLICAZIONE**: le cerniere schizzano via e uno dei personaggi si **ferisce** al braccio, subendo una **Sventura** leggera; il **NARRATORE** può applicarla al gruppo o a un singolo membro.
+
+---
+
 # **Ora Tocca a Te ✨**
 
-Hai letto le regole. Hai capito il cuore del gioco: il rischio, la scelta, la narrazione condivisa. Hai tra le mani uno strumento elegante, fatto di token bianchi e neri, di tratti, di cicatrici e di lezioni apprese. Tuttavia, queste pagine non sono un manuale d’istruzioni da seguire alla lettera. Sono una mappa, un invito. Un invito a creare qualcosa di vivo, di imprevedibile, di vostro.
+Hai letto le regole. Hai capito il cuore del gioco: il rischio, la scelta, la narrazione condivisa. Hai tra le mani uno strumento elegante, fatto di token bianchi e neri, di tratti, e di lezioni apprese. Tuttavia, queste pagine non sono un manuale d’istruzioni da seguire alla lettera. Sono una mappa, un invito. Un invito a creare qualcosa di vivo, di imprevedibile, di vostro.
 
 **Non cercare la perfezione. Cercate l’emozione.** 
 Lasciate che le complicazioni vi sorprendano. 
