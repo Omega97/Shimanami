@@ -50,19 +50,19 @@ Livello ⚪️
 
 ---
 
-## Sventure ⚫️
+## Lezioni ✍️
 
 
-- **[nome sventura]** [numero di token]⚫️: [effetto]
+- **[nome lezione]**: [effetto]
     
 - ...
 
 ---
 
-## Lezioni ✍️
+## Sventure ⚫️
 
 
-- **[nome lezione]**: [effetto]
+- **[nome sventura]** [numero di token]⚫️: [effetto]
     
 - ...
 
