@@ -6,6 +6,9 @@
 - Nuovi esempi di [[New Beginning - Regole ⚪#Esempi di Lezione e Cicatrice|Lezione]].
 - Scegliere come gestire il [[New Beginning - Regole ⚪#Conflitto tra Giocatori 🏹|Conflitto tra Giocatori]] (prova singola o prove contrapposte)
 - Capitolo sulle [[New Beginning - Regole ⚪#Le Sventure ⚫️|Sventure]].
+- Capitolo sul [[New Beginning - Regole ⚪#Pericolo ❗️|Pericolo]]
+- Capitolo sulle [[New Beginning - Regole ⚪#Lezioni ⚪️|Lezioni]]
+- 
 
 ---
 
