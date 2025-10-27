@@ -7,6 +7,9 @@ Con soli due colori – ⚪ bianchi e ⚫ neri – ogni estrazione decide il
 
 ---
 
+# Regole Base
+
+
 ## Materiali 🎒
 
 1. **TOKEN**: 6 bianchi (⚪) e 6 neri (⚫).
@@ -21,7 +24,7 @@ Con soli due colori – ⚪ bianchi e ⚫ neri – ogni estrazione decide il
 	    
 	- 4 **ABILITÀ**.
 	    
-	- [Scheda personaggio](https://github.com/Omega97/Shimanami/blob/main/Meccaniche/_template_character_sheet_NB.pdf)
+	- [Scheda personaggio](https://github.com/Omega97/Shimanami/blob/main/Meccaniche/_template_character_sheet_NB.pdf), con il nome del personaggio, descrizione, **TRATTI**, possedimenti, **LEZIONI**, e **SVENTURE**.
 
 ---
 
@@ -39,7 +42,7 @@ Con soli due colori – ⚪ bianchi e ⚫ neri – ogni estrazione decide il
         
     - eventualmente, aggiungi 1⚫ per ogni **TRATTO** che influisce negativamente sulla prova.
         
-    - Opzionale: il **NARRATORE** decide il livello di **PERICOLO**. Se **ESTRAI** un numero di ⚫ pari o superiore a questo, il personaggio subisce una **USCITA DI SCENA** (es. perde conoscenza, viene catturato, o è temporaneamente fuori gioco)
+    - Opzionale: il **NARRATORE** dichiara il livello di **PERICOLO**. Se **ESTRAI** un numero di ⚫ pari o superiore a questo, il personaggio subisce una **USCITA DI SCENA** (es. perde conoscenza, viene catturato, o è temporaneamente fuori gioco)
     
 3. **ESTRAI** alla cieca un numero **a tuo piacimento** di **TOKEN**, tutti insieme.
     
@@ -89,7 +92,7 @@ Con soli due colori – ⚪ bianchi e ⚫ neri – ogni estrazione decide il
        
 	* 1 ⚫ per farti raccontare una **COMPLICAZIONE** dal **NARRATORE**. Un esito imprevisto, con impatto sull'**EROE** o sulla **SCENA** nel suo complesso.
 	    
-	* 1 ⚫ per farti infliggere una **SVENTURA** dal **NARRATORE** (vedi [[New Beginning - Regole ⚪#Le Sventure ⚫️|Sventure]] ). L'impatto è diretto sull'**EROE**, ed ha effetto sulle **PROVE** che affronti finché non vi si pone rimedio, o gli effetti si esauriscono. 
+	* 1 ⚫ per farti infliggere una **SVENTURA** dal **NARRATORE** (vedi [[New Beginning - Regole ⚪#Sventure ⚫️|Sventure]] ). L'impatto è diretto sull'**EROE**, ed ha effetto sulle **PROVE** che affronti finché non vi si pone rimedio, o gli effetti si esauriscono. 
 
 
 > 📌 **NOTA BENE: Il Successo Non è Garantito** 
@@ -100,26 +103,8 @@ Con soli due colori – ⚪ bianchi e ⚫ neri – ogni estrazione decide il
 
 ---
 
-## Le Sventure ⚫️
+# Modificatori delle Prove
 
-Hai deciso di spendere uno o più ⚫ estratti durante una **PROVA** per farti infliggere una **SVENTURA** dal **NARRATORE**. Segui i seguenti passaggi:
-
-1) **Annotala sulla Scheda**: Segna il numero di ⚫ spesi. (Puoi avere più **SVENTURE** attive)
-    
-2) **Personalizzala**: Collabora con il **Narratore** per darle un nome e una descrizione legati alla **PROVA**.
-    
-3) **Effetto**: La Sventura aggiunge tanti ⚫ extra quanti spesi alla sua creazione alle **PROVE** correlate al suo contesto.
-    
-4) **Risoluzione**: Elimina la **SVENTURA** con un’azione narrativa o una **PROVA** specifica. Alcune sventure svaniscono col tempo, a discrezione del **Narratore**.
-
----
----
-
-# Altre regole
-
-> _Fin qui abbiamo esaminato le regole fondamentali del sistema. Le sezioni successive introducono elementi aggiuntivi per rendere l’esperienza di gioco più ricca e coinvolgente._
-
----
 
 ## Status Tematici ⚗️
 
@@ -143,6 +128,29 @@ Prima di affrontare una **PROVA**, il **NARRATORE** può scegliere di **applicar
 
 ---
 
+## Pericolo ❗️
+
+> _Ogni azione audace porta con sé un’ombra di rischio. Quando il Narratore dichiara un Pericolo, il destino del tuo eroe è appeso a un filo: un’estrazione sbagliata potrebbe condurti a un momento drammatico, un’**Uscita di Scena** che cambia il corso della storia._
+
+Quando affronti una **Prova**, il **Narratore** può stabilire un livello di **PERICOLO**, un numero di ⚫ (da 1 a 3) che rappresenta la gravità delle conseguenze in caso di esito sfortunato. Se estrai un numero di ⚫ pari o superiore al livello di Pericolo, subisci un’**USCITA DI SCENA**; un evento narrativo che ti mette temporaneamente fuori gioco.
+
+**Come funziona il Pericolo?**
+
+1. Il **NARRATORE** annuncia il livello di **Pericolo** prima dell’estrazione, basandosi sul contesto e sull’intensità della Prova (es. Pericolo 2 per una scalata sotto la pioggia, Pericolo 3 per un duello mortale).
+2. Estrai i **TOKEN** come di consueto.
+3. Se il numero di ⚫ estratti è pari o superiore al livello di **PERICOLO**, il Narratore descrive l’**USCITA DI SCENA**, collaborando con te per renderla significativa e coerente con la storia.
+
+**USCIRE DI SCENA**
+
+Un’**USCITA DI SCENA** è un momento drammatico in cui il tuo eroe viene temporaneamente messo fuori gioco durante una **PROVA**, a causa di un pericolo attivato (estraendo un numero di ⚫ pari o superiore al livello stabilito dal **NARRATORE**). Potresti perdere conoscenza, essere catturato o affrontare un ostacolo insormontabile. Non è una sconfitta definitiva: rientri nella scena successiva, spesso con una Sventura o un nuovo spunto narrativo. Collabora con il **NARRATORE** per rendere questo evento un’occasione per arricchire la tua storia, trasformando il rischio in un nuovo inizio.
+
+> **📌 NOTA BENE: Calibrare il Rischio** Il Narratore dovrebbe usare il Pericolo con parsimonia, riservandolo a momenti cruciali o situazioni ad alta tensione. Il livello di Pericolo dovrebbe riflettere la Difficoltà della Prova (es. Difficoltà Normale = Pericolo 1 o 2, Difficoltà Difficile = Pericolo 2 o 3). Evita esiti estremi a meno che non siano concordati con i giocatori per il tono della campagna. Il Pericolo non è una punizione, ma un invito a rendere la storia più intensa.
+
+---
+
+# Evoluzione del Personaggio
+
+
 ## Prova Cruciale 🏆
 
 > *In questo sistema, le caratteristiche del personaggio restano generalmente statiche lungo il corso della campagna. In questo capitolo vedremo come arricchire il personaggio con abilità speciali e nuovi tratti. La prova cruciale è un evento speciale che causa una crescita interiore del personaggio.*
@@ -155,7 +163,7 @@ Affronti una **PROVA CRUCIALE** quando la consideri determinante per lo sviluppo
      
 3. Scegli **una** delle seguenti opzioni.
      
-	- **NUOVO TRATTO**: Aggiungi un nuovo **TRATTO** alla tua scheda, coerente con l’esperienza vissuta. Se hai fallito la **PROVA**, il **TRATTO** dev'essere di dubbia utilità.
+	- **NUOVO TRATTO**: Aggiungi un nuovo **TRATTO** alla tua scheda, coerente con l’esperienza vissuta. Se hai fallito la **PROVA**, cerca di creare un **TRATTO** che rifletta l'insuccesso (es. sei diffidente/hai imparato a non fidarti degli altri).
 	    
 	- **MIGLIORARE UN TRATTO**: Se hai avuto successo, puoi aumentare il livello di un **TRATTO** usato nella prova (es. da “Persuasivo” a “Persuasivo II”). Usare quel tratto ti darà 1⚪ extra.
 	    
@@ -166,9 +174,42 @@ Affronti una **PROVA CRUCIALE** quando la consideri determinante per lo sviluppo
 
 > 📌 **NOTA:** 
 > Il narratore decide se una prova è cruciale o meno anche in base alla lunghezza della campagna; mirate ad un numero approssimativo di prove di questo tipo.
-> Puoi usare ciascuna lezione e cicatrice al più una volta per sessione.
+> Puoi usare ciascuna lezione al più una volta per sessione.
 
 ---
+
+## Lezioni ⚪️
+
+> _Ogni Prova Cruciale è un crocevia, un momento che segna il tuo eroe per sempre. Che tu trionfi o cada, ciò che apprendi ti rende diverso, più saggio, più forte… o più segnato. Una **Lezione** è il frutto di queste esperienze, un dono narrativo che arricchisce il tuo cammino._
+
+Quando affronti una **Prova Cruciale**, il tuo personaggio ha l’opportunità di imparare una **Lezione**, una competenza o un’intuizione che riflette l’esperienza vissuta. Le Lezioni non sono semplici abilità: sono frammenti della tua storia, momenti che definiscono chi sei e come affronti il mondo. Ogni Lezione è unica e si applica in contesti specifici, dando un vantaggio narrativo o meccanico.
+
+**Come funziona una Lezione?**
+
+1. Dopo una **PROVA CRUCIALE**, scegli una **Lezione** coerente con l’esito e il contesto della **PROVA**, in collaborazione con il **NARRATORE**.
+2. Annota la **Lezione** sulla tua scheda, con un nome evocativo e un effetto specifico. Puoi usarla una volta per sessione in una **PROVA**, legata al suo contesto.
+3. Se hai fallito la **PROVA**, la **Lezione** dovrebbe riflettere il peso di quel fallimento, offrendo un vantaggio ma con un’ombra di sacrificio o complessità.
+
+> **📌 NOTA BENE: Lezioni che Raccontano** Le Lezioni sono più potenti quando sono personali e legate alla storia. Collabora con il Narratore per creare effetti che arricchiscano la narrazione, non solo le meccaniche. Una Lezione nata da un fallimento potrebbe avere un costo (es. un ⚫ extra), mentre una da un successo dovrebbe esaltare il tuo eroe. Usa le Lezioni per dare profondità al tuo personaggio, non solo per vincere.
+
+---
+
+## Sventure ⚫️
+
+Hai deciso di spendere uno o più ⚫ estratti durante una **PROVA** per farti infliggere una **SVENTURA** dal **NARRATORE**. Segui i seguenti passaggi:
+
+1) **Annotala sulla Scheda**: Segna il numero di ⚫ spesi. (Puoi avere più **SVENTURE** attive)
+    
+2) **Personalizzala**: Collabora con il **NARRATORE** per darle un nome e una descrizione legati alla **PROVA**.
+    
+3) **Effetto**: La Sventura aggiunge tanti ⚫ extra quanti spesi alla sua creazione alle **PROVE** correlate al suo contesto.
+    
+4) **Risoluzione**: Elimina la **SVENTURA** con un’azione narrativa o una **PROVA** specifica. Alcune sventure svaniscono col tempo, a discrezione del **NARRATORE**. Stabilisci subito delle linee guida generali per permettere al **NARRATORE** di decidere quando risolvere la **SVENTURA**.
+
+---
+
+# Interazioni di Gruppo
+
 
 ## Dare una Mano ✋
 
@@ -188,6 +229,7 @@ Se affronti una **PROVA**, altri **EROI** o **PERSONAGGI SECONDARI** con un **TR
 
 ## Conflitto tra Giocatori 🏹
 
+#todo da decidere
 
 OPZIONE 1: **Prova Singola** (meglio allineata con lo spirito "asincrono" della campagna)
 
@@ -195,13 +237,12 @@ OPZIONE 1: **Prova Singola** (meglio allineata con lo spirito "asincrono" della 
 2) Aggiungi ⚫ nell sacchetto pari al numero di **TRATTI** del **secondo giocatore** che sono a lui favorevoli.
 
 
-OPZIONE 2: **Prove Contrapposte** (più onesto, ma richiede scoprire se l'altro personaggio è un PC oppure no)
+OPZIONE 2: **Prove Contrapposte** (più onesto, ma richiede scoprire se l'altro personaggio è un PC oppure no, e può rallentare il gioco)
 
 1) Il **primo giocatore** affronta la **PROVA** normalmente.
 2) A prescindere dall'esito, anche il **secondo giocatore** entra in gioco
-3) Solo dopo aver svolto le due estrazioni, il narratore descrive la scena in base agli esiti.
+3) Solo dopo aver svolto le due estrazioni, il narratore descrive la scena in base agli esiti, e ai livelli di successo.
 
----
 ---
 
 # Consigli per il Narratore
@@ -219,11 +260,9 @@ OPZIONE 2: **Prove Contrapposte** (più onesto, ma richiede scoprire se l'altro 
 - **Narrativa Condivisa**: Incoraggia i giocatori a suggerire dettagli per Complicazioni o Miglioramenti della Scena, ma mantieni l’ultima parola per coerenza.
 
 ---
----
 
 # Esempi
 
----
 
 #### Esempi di Successo e Fallimento
 
@@ -270,19 +309,19 @@ La **LEZIONE** è un effetto applicabile in una **PROVA** inerente alla **PROVA 
 | ----------------- | ---------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------- |
 | Dream Team        | *"Hai imparato che il vero tesoro sono gli amici... o qualcosa del genere."* | Aggiungi 1⚪️ nel sacchetto.                                                                                                                         |
 | La Superluna      | *"Durante una notte di luna piena..."*                                       | Aggiungi 2⚪️ nel sacchetto.                                                                                                                         |
-| <br>Perseveranza  | *"Hai imparato a non arrenderti mai davanti a un fallimento."*               | Se stai per fallire, puoi scegliere di estrarre ancora un TOKEN.                                                                                    |
+| Dividi et Impera  | *"La tua ambizione è conquistare e controllare."*                            | Dopo aver estratto, puoi scegliere di scambiare i TOKEN estratti con quelli ancora nel sacchetto, ma dovrai spendere anche i ⚫️ che avevi estratto. |
+| <br>Ultima chance | *"Hai imparato a non arrenderti mai davanti a un fallimento."*               | Se stai per fallire, puoi scegliere di estrarre ancora un TOKEN.                                                                                    |
 | "Luck in the end" | *"Quando le cose non vanno secondo i piani, c'è una lezione da imparare."*   | Se fallisci parzialmente, puoi comunque COLLOCARE 1⚪️ su un TRATTO che hai usato nella prova.                                                       |
 | Veggente          | *"Alcuni la chiama fortuna, ma tu sai che si sbagliano."*                    | Chiama il numero di ⚪️ che stai per ESTRARRE. Se indovini, i ⚪️ dopo il primo li puoi spendere 2 volte.                                             |
 | Ordine            | *"Ti piace la routine, e tenere tutto ben in ordine."*                       | BRUCIA 2 ⚪️ e 1 ⚫️ dal sacchetto.                                                                                                                   |
-| Dividi et Impera  | *"La tua ambizione è conquistare e controllare."*                            | Dopo aver estratto, puoi scegliere di scambiare i TOKEN estratti con quelli ancora nel sacchetto, ma dovrai spendere anche i ⚫️ che avevi estratto. |
 
 Se la **PROVA CRUCIALE** non ha avuto l'effetto desiderato, cerca di far riflettere ciò nella nuova **LEZIONE**. Ecco alcuni esempi:
 
 | LEZIONE               | Flavuor                                                                        | Effetto                                                                                                                                     |
 | --------------------- | ------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------- |
+| Perseverante          | *"Non ti dai mai per vinto... MAI."*                                           | Rimescola nel sacchetto 1⚫️ che hai estratto, poi estrai un altro TOKEN.                                                                    |
 | <br>Coriaceo          | *"Hai ottenuto saggezza, e una nuova prospettiva sulla vita."*                 | Se **FALLISCI** una **PROVA**, puoi spendere 1⚫️ per **COLLOCARLO** su un **TRATTO** che hai usato.                                         |
 | Pensare in fretta     | *"Non c'è tempo da perdere... prendi una decisione senza pensarci due volte."* | Puoi ritentare l'estrazione, ma a meno di un successo totale, ricevi 1⚫️ in più.                                                            |
-| Perseverante          | *"Non ti dai mai per vinto... MAI."*                                           | Rimescola nel sacchetto 1⚫️ che hai estratto, poi estrai un altro TOKEN.                                                                    |
 | Esagerato             | *"Strafare non è un difetto, è il tuo marchio di fabbrica."*                   | Estrai tutti i TOKEN tranne uno. Se fallisci, puoi rimettere 1 ⚫️ nel sacchetto, ma i ⚪️ oltre il primo non contano.                        |
 | Cauto                 | *"Dopo l'ultima volta, non correrai mai più rischi inutili..."*                | BRUCIA tutti i ⚪️, e tutti i ⚫️ tranne uno.                                                                                                 |
 | Maniaco del controllo | *"Adori dare ordini, e gli altri faranno meglio a seguirli..."*                | Se hai superato la prova, spendi un ⚪️; puoi scegliere di COLLOCARE quanti più ⚪️ e ⚫️ possibili sui tratti che hai usato durante la prova. |
@@ -330,3 +369,39 @@ Il Narratore ha la sua parte, i giocatori la loro. Ma la storia? La storia nasce
 Ora prendete i vostri personaggi, il sacchetto, il coraggio, e iniziate. La vostra storia non aspetta altro!
 
 > _“Non è la fine. È solo un nuovo inizio.”_
+
+---
+
+## Glossario 📜
+
+> *Un elenco di termini chiave per orientarti nel cuore di **New Beginning**. Questi concetti sono le fondamenta della tua storia: comprendile, e il tuo viaggio sarà più chiaro.*
+
+- **Archetipo**: Il nucleo dell’identità del tuo eroe, un tratto fondamentale che definisce chi è (es. “Guerriero Errante” o “Sognatore Mistico”). Aggiunge 1⚪ a una **Prova** quando è rilevante.
+
+- **Complicazione**: Un ostacolo o imprevisto narrativo causato dalla spesa di un ⚫ estratto. Spinge la storia avanti, influenzando l’eroe o la scena senza penalità durature (es. un alleato si rivela inaffidabile).
+
+- **Difficoltà**: Il livello di sfida di una **Prova**, determinato dal Narratore (da 1 a 6 ⚫). Rappresenta l’ostacolo da superare e il rischio insito nell’azione.
+
+- **Eroe**: Il personaggio controllato da un giocatore, il cui destino è plasmato dalle scelte, dai rischi e dalle estrazioni dei **Token**.
+
+- **Lezione**: Una competenza o intuizione acquisita dopo una **Prova Cruciale**, che offre un vantaggio narrativo o meccanico in una **Prova** legata al suo contesto. Usabile una volta per sessione.
+
+- **Narratore**: Il regista della storia, che stabilisce la **Difficoltà**, applica **Status Tematici** e **Pericolo**, e interpreta gli esiti delle **Prove**, collaborando con i giocatori per tessere la narrazione.
+
+- **Pericolo**: Un rischio aggiuntivo in una **Prova**, definito dal Narratore (da 1 a 3 ⚫). Se estrai un numero di ⚫ pari o superiore, scateni un’**Uscita di Scena**.
+
+- **Prova**: Un’azione significativa del tuo eroe con esito incerto, risolta estraendo **Token** dal sacchetto. Può portare a successi, fallimenti, **Complicazioni** o **Sventure**.
+
+- **Prova Cruciale**: Una **Prova** speciale che segna una svolta nello sviluppo dell’eroe, permettendo di guadagnare un nuovo **Tratto**, migliorare un **Tratto** esistente o apprendere una **Lezione**.
+
+- **Qualità**: Tratti del personaggio che descrivono caratteristiche personali o emotive (es. “Coraggioso”, “Astuto”). Aggiungono 1⚪ a una **Prova** quando rilevanti.
+
+- **Sventura**: Una penalità narrativa causata dalla spesa di uno o più ⚫, che aggiunge ⚫ extra a **Prove** future in contesti specifici. Può essere risolta con un’azione narrativa o una **Prova**.
+
+- **Status Tematico**: Un modificatore applicato dal Narratore prima di una **Prova**, che altera le regole di estrazione per riflettere lo stato mentale o l’ambiente dell’eroe (es. **Fiducioso**, **Paura**).
+
+- **Token**: I gettoni bianchi (⚪) e neri (⚫) estratti dal sacchetto per determinare l’esito di una **Prova**. I ⚪ rappresentano il potenziale dell’eroe, i ⚫ gli ostacoli.
+
+- **Tratto**: Una caratteristica del personaggio (**Archetipo**, **Qualità** o **Abilità**) che aggiunge 1⚪ al sacchetto quando usata in una **Prova**. Può essere migliorata o guadagnata tramite **Prove Cruciali**.
+
+- **Uscita di Scena**: Un evento narrativo drammatico causato da un **Pericolo**, che mette temporaneamente fuori gioco l’eroe (es. cattura, perdita di conoscenza). L’eroe rientra nella scena successiva, spesso con una **Sventura** o un nuovo spunto narrativo.
