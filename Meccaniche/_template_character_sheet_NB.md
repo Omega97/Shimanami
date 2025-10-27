@@ -67,12 +67,3 @@ Livello ⚪️
 - ...
 
 ---
-
-## Cicatrici ⚡️
-
-
-- **[nome cicatrice]**: [effetto]
-    
-- ...
-
----
