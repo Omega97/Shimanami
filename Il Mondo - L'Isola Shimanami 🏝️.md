@@ -3,6 +3,8 @@
 
 > *L'isola è ricca di misteri, zone da esplorare, e persone da incontrare...*
 
+![Shimanami Wallpaper](../GitHub/Immagini/Shimanami%20Wallpaper.png)
+
 [Barbero] Allora, cominciamo col dire che siamo nel Giappone del primo Cinquecento. Non quello dei samurai in armatura lucente dei film, ma un arcipelago frammentato, dove il potere centrale dello Shōgun è ormai un’ombra lontana e le terre vengono amministrate, o contese, da clan locali, gilde artigiane, e famiglie nobiliari ormai radicate. È il principio di quella che diventerà l’epoca degli stati in guerra, ma non ancora: il caos è latente, e in molte isole, come **Shimanami**, l’equilibrio è mantenuto da un delicato intreccio di consuetudini, reputazione e interessi materiali.
 
 [Barbero] Shimanami non è un dominio militare. È un’isola indipendente, remota, fuori dalle grandi rotte, ma perfettamente viva, ecco… Le sue tre città principali — Kanemura, Takamura e Umihana — sono connesse da strade battute, commerci marittimi e alleanze silenziose. Ogni città ha una vocazione diversa, e una personalità tutta sua, ma tutte partecipano allo stesso gioco sottile: accumulare ricchezza, influenza, e onore.
@@ -15,10 +17,13 @@
 
 [Barbero] Ed è in questo mondo — ordinato in apparenza, ma pieno di fratture pronte ad aprirsi — che inizia la vostra storia.
 
+![Shimanami Wallpaper](../GitHub/Immagini/Shimanami_island_3d_tiltshift.png)
 
 ---
 
 ## Mappa
+
+![Shimanami Wallpaper](../GitHub/Immagini/Shimanami_paper_map.png)
 
 ```
 ⬆️Kanemura: 3300 abitanti 🟡
