@@ -23,8 +23,6 @@
 
 ## Mappa
 
-![Paper Map](https://github.com/Omega97/Shimanami/blob/main/Immagini/Shimanami_paper_map.png)
-
 ```
 ⬆️Kanemura: 3300 abitanti 🟡
 ↘️Takamura: 2200 abitanti 🔥
@@ -95,6 +93,8 @@ Leader: **Takatsu Azuki** – maestra ceramista che cerca segretamente di carpir
 A sud-ovest, aperta verso il mare del Giappone, sorge Umihana. Qui il sale punge l’aria e il canto dei pescatori si mescola a quello dei bambini. È la più umile delle tre città, e forse la più vera. Celebra le stagioni con canti e lanterne, e ancora oggi, dopo la Grande Tempesta, cerca di risorgere con dignità, un remo alla volta.
 
 Leader: **Nakahara Sōgen** – capo flotta anziano che nasconde una perla nera rubata anni prima, ha cercato di venderla in segreto a Kanemura.
+
+![Paper Map](https://github.com/Omega97/Shimanami/blob/main/Immagini/Shimanami_paper_map.png)
 
 ---
 
