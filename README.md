@@ -3,7 +3,7 @@
 
 > *L'isola è ricca di misteri, zone da esplorare, e persone da incontrare...*
 
-![Shimanami Wallpaper](../GitHub/Immagini/Shimanami%20Wallpaper.png)
+![Shimanami Wallpaper](https://github.com/Omega97/Shimanami/blob/main/Immagini/Shimanami%20Wallpaper.png)
 
 [Barbero] Allora, cominciamo col dire che siamo nel Giappone del primo Cinquecento. Non quello dei samurai in armatura lucente dei film, ma un arcipelago frammentato, dove il potere centrale dello Shōgun è ormai un’ombra lontana e le terre vengono amministrate, o contese, da clan locali, gilde artigiane, e famiglie nobiliari ormai radicate. È il principio di quella che diventerà l’epoca degli stati in guerra, ma non ancora: il caos è latente, e in molte isole, come **Shimanami**, l’equilibrio è mantenuto da un delicato intreccio di consuetudini, reputazione e interessi materiali.
 
@@ -11,19 +11,17 @@
 
 [Barbero] La società sull’isola è stratificata, ma non immobile. I **nobili locali** — i kazoku** — conservano il potere formale, ma sono costantemente sotto pressione da parte delle **gilde artigiane**, dei **mercanti emergenti**, e perfino dei **capiflotta pescherecci**, che controllano risorse fondamentali. I **contadini** mantengono il tessuto alimentare dell’isola, mentre gli **artigiani**, specie a Takamura, detengono il sapere tecnico e l’estetica raffinata. Ci sono anche **ex-samurai**, decaduti e riconvertiti in funzionari o maestri di cerimonia. E poi, ovviamente, ci sono i **giovani intraprendenti** — come voi.
 
+![Shimanami 3D](https://github.com/Omega97/Shimanami/blob/main/Immagini/Shimanami_island_3d_tiltshift.png)
+
 [Barbero] Sull’isola di Shimanami, **il rispetto, l’onore e la reputazione personale** sono alla base della vita quotidiana. La popolazione — contadini, artigiani, mercanti, persino samurai decaduti — agisce secondo un codice non scritto, in cui un gesto gentile, un’inchino ben dosato o una parola mantenuta contano più di qualsiasi legge. Il crimine, in questo contesto, non è soltanto una colpa legale: è una macchia sociale, un disonore che può escludere una persona dalla comunità come fosse un malato contagioso. L’equilibrio dell’isola si regge su questo sistema silenzioso di fiducia reciproca, in cui l’armonia è più importante del guadagno, e un uomo che tradisce viene dimenticato prima ancora che condannato.
 
 [Barbero] Eppure, tra le pieghe di questa società ordinata, si muovono ombre discrete. Piccoli gruppi legati al mondo **criminale** — mai apertamente dichiarati, ma ben riconoscibili da chi sa osservare — hanno cominciato a operare ai margini. Si occupano di riscossione debiti, offrono “protezione”, si infiltrano nel commercio e negli eventi pubblici. Non osano sfidare apertamente l’autorità del Daimyō o la moralità collettiva, ma tessono legami, distribuiscono favori e coltivano un potere sottile. Sono tollerati, finché non esagerano. Perché a Shimanami, l’onore è più prezioso del denaro, e molto più difficile da comprare.
 
 [Barbero] Ed è in questo mondo — ordinato in apparenza, ma pieno di fratture pronte ad aprirsi — che inizia la vostra storia.
 
-![Shimanami Wallpaper](../GitHub/Immagini/Shimanami_island_3d_tiltshift.png)
-
 ---
 
 ## Mappa
-
-![Shimanami Wallpaper](../GitHub/Immagini/Shimanami_paper_map.png)
 
 ```
 ⬆️Kanemura: 3300 abitanti 🟡
@@ -95,6 +93,8 @@ Leader: **Takatsu Azuki** – maestra ceramista che cerca segretamente di carpir
 A sud-ovest, aperta verso il mare del Giappone, sorge Umihana. Qui il sale punge l’aria e il canto dei pescatori si mescola a quello dei bambini. È la più umile delle tre città, e forse la più vera. Celebra le stagioni con canti e lanterne, e ancora oggi, dopo la Grande Tempesta, cerca di risorgere con dignità, un remo alla volta.
 
 Leader: **Nakahara Sōgen** – capo flotta anziano che nasconde una perla nera rubata anni prima, ha cercato di venderla in segreto a Kanemura.
+
+![Paper Map](https://github.com/Omega97/Shimanami/blob/main/Immagini/Shimanami_paper_map.png)
 
 ---
 
