@@ -17,13 +17,13 @@
 
 [Barbero] Ed è in questo mondo — ordinato in apparenza, ma pieno di fratture pronte ad aprirsi — che inizia la vostra storia.
 
-![Shimanami Wallpaper](../GitHub/Immagini/Shimanami_island_3d_tiltshift.png)
+![Shimanami 3D](https://github.com/Omega97/Shimanami/blob/main/Immagini/Shimanami_island_3d_tiltshift.png)
 
 ---
 
 ## Mappa
 
-![Shimanami Wallpaper](../GitHub/Immagini/Shimanami_paper_map.png)
+![Paper Map](https://github.com/Omega97/Shimanami/blob/main/Immagini/Shimanami_paper_map.png)
 
 ```
 ⬆️Kanemura: 3300 abitanti 🟡
