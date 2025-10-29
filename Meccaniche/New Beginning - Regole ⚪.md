@@ -90,9 +90,9 @@ Con soli due colori – ⚪ bianchi e ⚫ neri – ogni estrazione decide il
 	  
 * Spendi tutti i ⚫ che hai estratto, scegliendo tra: 
        
-	* 1 ⚫ per farti raccontare una **COMPLICAZIONE** dal **NARRATORE**. Un esito imprevisto, con impatto sull'**EROE** o sulla **SCENA** nel suo complesso.
+	* 1 ⚫ per farti raccontare una **COMPLICAZIONE** dal **NARRATORE**. Un esito imprevisto, con impatto immediato sull'**EROE** o sulla **SCENA** nel suo complesso.
 	    
-	* 1 ⚫ per farti infliggere una **SVENTURA** dal **NARRATORE** (vedi [[New Beginning - Regole ⚪#Sventure ⚫️|Sventure]] ). L'impatto è diretto sull'**EROE**, ed ha effetto sulle **PROVE** che affronti finché non vi si pone rimedio, o gli effetti si esauriscono. 
+	* 1 ⚫ per farti infliggere una **SVENTURA** dal **NARRATORE** (vedi [[New Beginning - Regole ⚪#Sventure ⚫️|Sventure]] ). L'impatto è diretto sull'**EROE**, a lungo termine, ed ha effetto sulle **PROVE** che affronti finché non vi poni rimedio, o gli effetti si esauriscono.
 
 
 > 📌 **NOTA BENE: Il Successo Non è Garantito** 
@@ -132,19 +132,20 @@ Prima di affrontare una **PROVA**, il **NARRATORE** può scegliere di **applicar
 
 > _Ogni azione audace porta con sé un’ombra di rischio. Quando il Narratore dichiara un Pericolo, il destino del tuo eroe è appeso a un filo: un’estrazione sbagliata potrebbe condurti a un momento drammatico, un’**Uscita di Scena** che cambia il corso della storia._
 
-Quando affronti una **Prova**, il **Narratore** può stabilire un livello di **PERICOLO**, un numero di ⚫ (da 1 a 3) che rappresenta la gravità delle conseguenze in caso di esito sfortunato. Se estrai un numero di ⚫ pari o superiore al livello di Pericolo, subisci un’**USCITA DI SCENA**; un evento narrativo che ti mette temporaneamente fuori gioco.
+Quando affronti una **Prova**, il **Narratore** può stabilire un livello di **PERICOLO**, un numero di ⚫ che rappresenta la gravità delle conseguenze in caso di esito sfortunato. Se estrai un numero di ⚫ pari o superiore al livello di Pericolo, subisci un’**USCITA DI SCENA**; un evento narrativo che ti mette temporaneamente fuori gioco.
 
 **Come funziona il Pericolo?**
 
-1. Il **NARRATORE** annuncia il livello di **Pericolo** prima dell’estrazione, basandosi sul contesto e sull’intensità della Prova (es. Pericolo 2 per una scalata sotto la pioggia, Pericolo 3 per un duello mortale).
-2. Estrai i **TOKEN** come di consueto.
-3. Se il numero di ⚫ estratti è pari o superiore al livello di **PERICOLO**, il Narratore descrive l’**USCITA DI SCENA**, collaborando con te per renderla significativa e coerente con la storia.
+1. Il **NARRATORE** annuncia il livello di **PERICOLO** prima dell’estrazione, basandosi sul contesto e sull’intensità della **PROVA** (1⚫ = massimo pericolo, 2⚫ = alto pericolo, ...).
+2. Affronta la **PROVA** normalmente.
+3. Se il numero di ⚫ estratti è **pari o superiore** al livello di **PERICOLO**, il **NARRATORE** descrive l’**USCITA DI SCENA**, collaborando con te per renderla significativa e coerente con la storia.
+
 
 **USCIRE DI SCENA**
 
 Un’**USCITA DI SCENA** è un momento drammatico in cui il tuo eroe viene temporaneamente messo fuori gioco durante una **PROVA**, a causa di un pericolo attivato (estraendo un numero di ⚫ pari o superiore al livello stabilito dal **NARRATORE**). Potresti perdere conoscenza, essere catturato o affrontare un ostacolo insormontabile. Non è una sconfitta definitiva: rientri nella scena successiva, spesso con una Sventura o un nuovo spunto narrativo. Collabora con il **NARRATORE** per rendere questo evento un’occasione per arricchire la tua storia, trasformando il rischio in un nuovo inizio.
 
-> **📌 NOTA BENE: Calibrare il Rischio** Il Narratore dovrebbe usare il Pericolo con parsimonia, riservandolo a momenti cruciali o situazioni ad alta tensione. Il livello di Pericolo dovrebbe riflettere la Difficoltà della Prova (es. Difficoltà Normale = Pericolo 1 o 2, Difficoltà Difficile = Pericolo 2 o 3). Evita esiti estremi a meno che non siano concordati con i giocatori per il tono della campagna. Il Pericolo non è una punizione, ma un invito a rendere la storia più intensa.
+> **📌 NOTA BENE: Calibrare il Rischio** Il NARRATORE dovrebbe usare il PERICOLO con parsimonia, riservandolo a momenti cruciali o situazioni ad alta tensione. Il livello di PERICOLO dovrebbe riflettere la difficoltà della PROVA. Evita esiti estremi a meno che non siano concordati con i giocatori per il tono della campagna. Il Pericolo non è una punizione, ma un invito a rendere la storia più intensa.
 
 ---
 
@@ -169,7 +170,7 @@ Affronti una **PROVA CRUCIALE** quando la consideri determinante per lo sviluppo
 	    
 	- Impari una **LEZIONE**: una nuova competenza acquisita grazie a un'esperienza cruciale; ti darà effetti vantaggiosi in contesti narrativi specifici, inerenti alla prova appena affrontata. Se hai fallito la **PROVA**, cerca di fare in modo che la **LEZIONE** lo rifletta.
 	
- 4. Se hai fallito la **PROVA**, vieni segnato da una "cicatrice", il segno lasciato da un evento traumatico significativo; **SPENDI** **ameno** 1⚫️ su una **SVENTUA**.
+ 4. Se hai fallito la **PROVA**, vieni segnato da un evento traumatico significativo; **SPENDI** **ameno** 1⚫️ su una **SVENTURA**.
 
 
 > 📌 **NOTA:** 
@@ -198,13 +199,13 @@ Quando affronti una **Prova Cruciale**, il tuo personaggio ha l’opportunità d
 
 Hai deciso di spendere uno o più ⚫ estratti durante una **PROVA** per farti infliggere una **SVENTURA** dal **NARRATORE**. Segui i seguenti passaggi:
 
-1) **Annotala sulla Scheda**: Segna il numero di ⚫ spesi. (Puoi avere più **SVENTURE** attive)
+1) **Annotala sulla Scheda**: Segna il **livello** della **SVENTURA**, ovvero il numero di ⚫ spesi per crearla. (Puoi avere più **SVENTURE** attive)
     
 2) **Personalizzala**: Collabora con il **NARRATORE** per darle un nome e una descrizione legati alla **PROVA**.
     
-3) **Effetto**: La Sventura aggiunge tanti ⚫ extra quanti spesi alla sua creazione alle **PROVE** correlate al suo contesto.
+3) **Effetto**: La **SVENTURA** aggiunge ⚫ extra pari al suo **livello** alle **PROVE** inerenti.
     
-4) **Risoluzione**: Elimina la **SVENTURA** con un’azione narrativa o una **PROVA** specifica. Alcune sventure svaniscono col tempo, a discrezione del **NARRATORE**. Stabilisci subito delle linee guida generali per permettere al **NARRATORE** di decidere quando risolvere la **SVENTURA**.
+4) **Risoluzione**: Elimina la **SVENTURA** con un’azione narrativa o una **PROVA** specifica. Alcune sventure svaniscono col tempo, a discrezione del **NARRATORE**. Stabilisci assieme al **NARRATORE** delle linee guida generali per decidere quando risolvere la **SVENTURA**.
 
 ---
 
@@ -215,15 +216,21 @@ Hai deciso di spendere uno o più ⚫ estratti durante una **PROVA** per farti i
 
 > _I personaggi possono unire le forze per affrontare una prova, condividendo risorse e rischi per ottenere un risultato comune._
 
-Se affronti una **PROVA**, altri **EROI** o **PERSONAGGI SECONDARI** con un **TRATTO** rilevante possono scegliere di **COLLABORARE**. Ogni collaboratore aggiunge 1⚪ al sacchetto e descrive come contribuisce. Tuttavia, ogni collaboratore rischia di subire una **COMPLICAZIONE** o **SVENTURA** se vengono estratti ⚫. In alternativa, il gruppo può dichiarare una **PROVA DI GRUPPO**:
+Se affronti una **PROVA**, altri **EROI** o **PERSONAGGI SECONDARI** con un **TRATTO** rilevante possono scegliere di **COLLABORARE**. Ogni **COLLABORARE**:
+- aggiunge uno e un solo ⚪ al sacchetto, e descrive in che modo sta aiutando. 
+- aumenta anche la difficoltà di 1⚫ (eccetto per il primo).  
+- rischia di subire una **COMPLICAZIONE** o **SVENTURA** se vengono estratti ⚫. 
 
-- Un giocatore guida la prova, descrivendo l’azione collettiva.
+
+**Prova di Gruppo**
+
+- Un giocatore **guida la prova**, descrivendo l’azione collettiva.
     
 - Ogni partecipante aggiunge 1⚪ per un tratto rilevante (ricorda che hai fino a 6⚪ a disposizione).
     
-- Il Narratore aumenta la **DIFFICOLTÀ** di 1⚫ per ogni collaboratore **oltre il primo**.
+- Il **NARRATORE** aumenta la **DIFFICOLTÀ** di 1⚫ per ogni collaboratore **oltre il primo**.
     
-- Il leader **ESTRAE** i token e spende i ⚪; i ⚫ si applicano a tutto il gruppo o a un singolo membro, a discrezione del Narratore.
+- Il leader **ESTRAE** i **TOKEN** e spende i ⚪; i ⚫ si applicano a tutto il gruppo o a un singolo membro, a discrezione del **NARRATRE**.
 
 ---
 
@@ -264,7 +271,7 @@ OPZIONE 2: **Prove Contrapposte** (più onesto, ma richiede scoprire se l'altro 
 # Esempi
 
 
-#### Esempi di Successo e Fallimento
+### Esempi di Successo e Fallimento
 
 | TOKEN nel sacchetto | TOKEN ESTRATTI | Esito                     |
 | ------------------- | -------------- | ------------------------- |
@@ -275,12 +282,116 @@ OPZIONE 2: **Prove Contrapposte** (più onesto, ma richiede scoprire se l'altro 
 
 ---
 
-#### Esempi di Sventura
+### Esempio Successo Totale – **Il Furto Perfetto**
+
+> Narratore: *“Vuoi rubare un anello prezioso dal tavolo di un mercante distratto. Il mercante è occupato. È una prova Facile (2⚫).”*
+
+1. **Descrivi l’azione**: *“Mi avvicino furtivamente, prendo l’anello e lo infilo in tasca senza farmi notare.”*
+2. **Costruisci il sacchetto**:  
+   - 2⚫ (Difficoltà Facile)  
+   - 3⚪ (Tratti del tuo personaggio: *Furtivo, Mani Leste II*)
+   → **Sacchetto**: ⚪⚪⚪⚫⚫  
+3. Decidi di estrarre 2 **TOKEN**: ⚪⚪ → **SUCCESSO TOTALE** ✅✅  
+4. **Spendi i TOKEN:  
+   - 1 ⚪ → **Superi la PROVA**.  
+   - 1 ⚪ → **Collochi un ⚪** su *Furtivo*. La prossima volta che userai questo tratto, potrai aggiungerlo al sacchetto.
+
+> Narratore: *“Con un movimento fluido, l’anello scivola nella tua tasca. La guardia si volta, ma tu sei già nell’ombra. Un lavoro perfetto.”*
+
+---
+
+### Esempio Successo Parziale – **La Scalata sotto la Pioggia**
+
+> **Narratore**: *"Scali il muro di un maniero in una notte di tempesta. Difficoltà normale (3⚫). Pericolo alto (2⚫).*
+
+1. **Descrivi**: *“Mi arrampico velocemente, usando le sporgenze a mio vantaggio.”*
+2. **Sacchetto**:  
+   - 3⚫ (Difficoltà Media)
+   - 2⚪ (Tratti: *Scalatore* e *Agile*)  
+   → **Sacchetto**: ⚪⚪⚫⚫⚫  
+3. Decidi di estrarre 3 **TOKEN**: ⚪⚫⚫ → **SUCCESSO PARZIALE** ✅  
+4. **Spendi i TOKEN**:
+   - 1⚪ → Superi la **PROVA**.  
+   - 1⚫ → **SVENTURA**
+   - 1⚫ → **COMPLICAZIONE**
+
+> **Narratore**: *“Raggiungi la cima, ma scivoli leggermente.
+> Ricevi la sventura Scarpe Bagnate: (1⚫ extra alle prove di equilibrio finché non ti asciughi).
+> Subisci una complicazione: Una tegola si stacca e cade, attirando l’attenzione di una sentinella. Una voce grida: ‘Chi va là?’”*
+
+---
+
+### Esempio Fallimento Parziale – **Il Duello d’Onore**
+
+> **Narratore**: *"Sfidi a duello un nobile arrogante per difendere il tuo onore. Difficoltà normale (3⚫)."*
+
+1. **Descrivi**: “Carico con la spada, mirando al braccio per disarmarlo.”  
+2. **Sacchetto**:  
+   - 3⚫ (Difficoltà)  
+   - 3⚪ (Tratti: *Spadaccino*, *Coraggioso*, *Vendicativo*)  
+   → **Sacchetto**: ⚪⚪⚪⚫⚫⚫
+3. Decidi di estrarre 4 **TOKEN**: ⚪⚫⚫⚫ → **FALLIMENTO PARZIALE** ❓ (Hai estratto tutti i ⚫ del sacchetto.)
+4. **Spendi i TOKEN**:  
+   - 1⚫ → **SVENTURA**
+   - 1⚫ → **COMPLICAZIONE**
+   - 1⚫ → **COMPLICAZIONE**
+   - Non puoi spendere i ⚪ perché non hai superato la **PROVA**.
+
+> **Narratore**: *“La tua lama sfiora il nobile, ma lui para e ti colpisce di piatto. La folla ride. Il tuo onore è intatto… ma la tua reputazione no.
+> Ricevi la sventura Orgoglio Ferito (1⚫ extra alle prove sociali con nobili finché non ottieni la tua rivincita).
+> Subisci una complicazione; ad assistere al duello c'era niente meno che il nobile sul quale volevi fare una buona impressione...
+> Subisci un altra complicazione; la tua famiglia ti aveva avvisato di non cacciarti in guai simili. Stanno ripensando se affidarti o meno il business di famiglia."*
+
+---
+
+### Esempio Fallimento Totale – **La Fuga Disperata**
+
+> **Narratore**: *"Stai cercando di fuggire da una prigione con le guardie alle calcagna. Difficoltà molto alta (5⚫).”
+
+1. **Descrivi**: “Corro verso la finestra, salto e mi aggrappo al carro in movimento.”  
+2. **Sacchetto**:  
+   - 5⚫ (Difficoltà)  
+   - 1⚪ (Tratto: *Atletico*)  
+   → **Sacchetto**: ⚪⚫⚫⚫⚫⚫  
+3. Decidi di estrarre 2 **TOKEN**: ⚫⚫ → **FALLIMENTO TOTALE** ❌ (Hai estratto solo ⚫)
+4. **Spendi i TOKEN**:
+   - 2⚫ → **SVENTURA**
+   - Non puoi spendere i ⚪ perché non hai superato la **PROVA**.
+
+> **Narratore**: *“Salti… ma atterri male. Un dolore lancinante alla caviglia. Le guardie ti raggiungono. ‘Fine della corsa.’
+> Ricavi la sventura Zoppo (2⚫ extra alle prove di movimento finché non guarisci).”*
+
+---
+
+### Esempio di Prova di Gruppo
+
+> **Narratore**: *"I **tre eroi** vogliono sfondare una porta mentre i **mercenari** li stanno cercando. Difficoltà bassa (2⚫)”*
+
+1. **Sacchetto**:  
+   - 2⚫ (Difficoltà)
+   - 1⚫ extra perché ci sono due collaboratori 
+   - 3⚪ (tratti del leader: *Forza Bruta*, *Coraggioso*, *Determinato*)
+   - 2⚪ extra perché ci sono due collaboratori (*Robusto, Abituato alla lotta*)
+   → **Sacchetto**: ⚪⚪⚪⚪⚪⚫⚫⚫  
+2. **Il leader decide di estrarre 3 TOKEN**: ⚪⚪⚫ → **SUCCESSO PARZIALE** ✅  
+3. **Il leader spende i TOKEN**:
+   - 1⚪ → Superate la **PROVA**.  
+   - 1⚪ → **Migliora la Scena**
+   - 1⚫ → **COMPLICAZIONE**
+
+> **Narratore**: *“La porta si spalanca!
+> Dietro la porta trovate dei barili, che potrebbero aiutarvi a ostruire il passaggio.
+> Subite una complicazione: I mercenari sentono il rumore della porta, e corrono verso di voi.”*
+
+---
+
+### Esempi di Sventura
 
 > *"Pare che il barista non abbia apprezzato il tuo ennesimo commento sulla sua forma tondeggiante... Alimentati dalla lingua tagliente del barista, nel bar, i pettegolezzi sul tuo conto si diffondono a macchia d'olio."*
 
-**SVENTURA**: **L'Ultima Goccia** ⚫⚫: Ricevi 1⚫ extra di difficoltà ogni volta che affronti una **PROVA** nel suddetto bar.
+**SVENTURA**: **L'Ultima Goccia** ⚫⚫: Ricevi 2⚫ extra di difficoltà ogni volta che affronti una **PROVA** nel suddetto bar.
 Renditi amico il barista per eliminare questa **SVENTURA**.
+
 
 > *"Hai fallito una prova cruciale, in cui ti eri posto di sconfiggere la tua nemesi in un duello. Il tuo orgoglio è ferito."*
 
@@ -289,19 +400,28 @@ Sconfiggi la tua nemesi in duello per eliminare questa **SVENTURA**.
 
 ---
 
-#### Esempio di Pericolo
+### Esempio Pericolo – **La Scalata sotto la Pioggia**
 
-*"Stai scalando il muro del maniero in una notte di pioggia per entrare inosservato."*  
+**Situazione**: Devi scalare il muro di un maniero in una notte di tempesta per entrare inosservato.  
+**Narratore**: “**Difficoltà Normale** (3⚫). **Pericolo = 2** – se estraggi 2 o più ⚫, scatta un’**Uscita di Scena**.”
 
-Difficoltà **3⚫** (normale), usi **2⚪** per i tratti _Scalatore_ e _Agile_. Il Narratore fissa **PERICOLO = 2** (con **≥2⚫ estratti** scatta un’**USCITA DI SCENA**)
+1. **Descrivi l’azione**: “Mi arrampico con cautela, usando le sporgenze bagnate dalla pioggia.”  
+2. **Costruisci il sacchetto**:  
+   - 3⚫ (Difficoltà Normale)  
+   - 2⚪ (Tratti: *Scalatore* e *Agile*)  
+   → **Sacchetto**: ⚪⚪⚫⚫⚫  
+3. **Estrai 3 token**: ⚪⚫⚫ → **SUCCESSO PARZIALE** ✅  
+4. **Spendi i token**:  
+   - 1⚪ → Superi la Prova.  
+   - 1⚫ → **Sventura**: *“Scarpe Fradice”* (1⚫ extra alle Prove di equilibrio finché non ti asciughi).  
+   - 1⚫ → **Complicazione**: “La grondaia cede con un crack! Cadi nel cortile.”  
+   - **Pericolo scatta** (2⚫ estratti): **Uscita di Scena** – vieni catturato dalle guardie.
 
-**Sacchetto:** ⚪⚪⚫⚫⚫
-Decidi di **ESTRARRE 3** **TOKEN**.
-**Esito:** **⚪⚫⚫ →** superi la prova ma scatta il **PERICOLO**: ti aggrappi alla grondaia, che **cedendo** ti fa precipitare nel cortile. **Uscita di scena**: sei catturato dalle guardie e finirai nella segreta (rientrerai in gioco nella scena successiva)
+> *Narratore*: “Raggiungi la cima, ma la grondaia si spezza sotto il tuo peso. Cadi nel cortile con un tonfo. Le guardie ti circondano: ‘Prendetelo!’ Ti svegli in una cella… ma la storia continua nella prossima scena.”
 
 ---
 
-#### Esempi di Lezione
+### Esempi di Lezione
 
 La **LEZIONE** è un effetto applicabile in una **PROVA** inerente alla **PROVA CRUCIALE** dalla quale ha avuto origine. Ecco alcuni esempi:
 
@@ -329,7 +449,7 @@ Se la **PROVA CRUCIALE** non ha avuto l'effetto desiderato, cerca di far riflett
 
 ---
 
-#### Esempi di Migliorare un Tratto
+### Esempi di Migliorare un Tratto
 
 | Tratto      | Livello 2            | Livello 3             | Livello 4                |
 | ----------- | -------------------- | --------------------- | ------------------------ |
@@ -338,19 +458,6 @@ Se la **PROVA CRUCIALE** non ha avuto l'effetto desiderato, cerca di far riflett
 | Furtivo     | Ombra Silenziosa II  | Fantasma Urbano III   | -                        |
 | Scalatore   | Scalatore II         | Scalatore Esperto III | -                        |
 | Forza Bruta | Muscoli d’Acciaio II | Furia Controllata III | Colosso Inarrestabile IV |
-
----
-
-#### Esempio di Prova di Gruppo
-
-*Tre compagni vogliono **sfondare** una porta sprangata mentre i mercenari si avvicinano.*
-
-È una **Prova di Gruppo**: uno guida, gli altri contribuiscono. 
-Difficoltà **2⚫** (_facile_). Partecipano in **3**: ciascuno mette **1⚪**; il Narratore **aumenta la Difficoltà di +1⚫ per ogni collaboratore oltre il primo** → totale **4⚫**. **Whites:** 3⚪. **Blacks:** 4⚫. Il leader **ESTRAE** e poi spende i ⚪ per il gruppo.
-
-**Sacchetto:** ⚪⚪⚪⚫⚫⚫⚫
-Il leader decide di **ESTRARRE 3** token.
-**Esito possibile.** **⚪⚪⚫ →** **successo parziale**: la porta cede. **COMPLICAZIONE**: le cerniere schizzano via e uno dei personaggi si **ferisce** al braccio, subendo una **Sventura** leggera; il **NARRATORE** può applicarla al gruppo o a un singolo membro.
 
 ---
 
@@ -402,6 +509,6 @@ Ora prendete i vostri personaggi, il sacchetto, il coraggio, e iniziate. La vost
 
 - **Token**: I gettoni bianchi (⚪) e neri (⚫) estratti dal sacchetto per determinare l’esito di una **Prova**. I ⚪ rappresentano il potenziale dell’eroe, i ⚫ gli ostacoli.
 
-- **Tratto**: Una caratteristica del personaggio (**Archetipo**, **Qualità** o **Abilità**) che aggiunge 1⚪ al sacchetto quando usata in una **Prova**. Può essere migliorata o guadagnata tramite **Prove Cruciali**.
+- **Tratto**: Una caratteristica del personaggio (**Archetipo**, **Qualità** o **Abilità**) che aggiunge 1⚪ (e talvolta 1⚫) al sacchetto quando usata in una **Prova**. Può essere migliorata o guadagnata tramite **Prove Cruciali**.
 
 - **Uscita di Scena**: Un evento narrativo drammatico causato da un **Pericolo**, che mette temporaneamente fuori gioco l’eroe (es. cattura, perdita di conoscenza). L’eroe rientra nella scena successiva, spesso con una **Sventura** o un nuovo spunto narrativo.
