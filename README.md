@@ -3,7 +3,7 @@
 
 > *L'isola è ricca di misteri, zone da esplorare, e persone da incontrare...*
 
-![Shimanami Wallpaper](../GitHub/Immagini/Shimanami%20Wallpaper.png)
+![Shimanami Wallpaper](https://github.com/Omega97/Shimanami/blob/main/Immagini/Shimanami%20Wallpaper.png)
 
 [Barbero] Allora, cominciamo col dire che siamo nel Giappone del primo Cinquecento. Non quello dei samurai in armatura lucente dei film, ma un arcipelago frammentato, dove il potere centrale dello Shōgun è ormai un’ombra lontana e le terre vengono amministrate, o contese, da clan locali, gilde artigiane, e famiglie nobiliari ormai radicate. È il principio di quella che diventerà l’epoca degli stati in guerra, ma non ancora: il caos è latente, e in molte isole, come **Shimanami**, l’equilibrio è mantenuto da un delicato intreccio di consuetudini, reputazione e interessi materiali.
 
