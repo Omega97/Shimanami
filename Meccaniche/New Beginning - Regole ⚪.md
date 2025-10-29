@@ -18,11 +18,11 @@ Con soli due colori – ⚪ bianchi e ⚫ neri – ogni estrazione decide il
     
 3. Schede personaggio con 8 **TRATTI** iniziali: 
      
-	- 1 **ARCHETIPO**,
+	- 1 **ARCHETIPO** (definisce chi è il tuo eroe, e il suo ruolo nel mondo)
 	    
-	- 3 **QUALITÀ**, 
+	- 3 **QUALITÀ** (descrivono le caratteristiche personali, emotive o morali del personaggio)
 	    
-	- 4 **ABILITÀ**.
+	- 4 **ABILITÀ** (rappresentano competenze pratiche, tecniche o professionali che il personaggio ha sviluppato)
 	    
 	- [Scheda personaggio](https://github.com/Omega97/Shimanami/blob/main/Meccaniche/_template_character_sheet_NB.pdf), con il nome del personaggio, descrizione, **TRATTI**, possedimenti, **LEZIONI**, e **SVENTURE**.
 
@@ -34,9 +34,9 @@ Con soli due colori – ⚪ bianchi e ⚫ neri – ogni estrazione decide il
 
 1. Descrivi ciò che vuoi fare.
     
-2. Aggiungi i **TOKEN** nel sacchetto (vuoto):
+2. Aggiungi i **TOKEN** nel sacchetto vuoto:
      
-    - ⚫ pari alla **DIFFICOLTÀ** decisa dal **NARRATORE**, 
+    - ⚫ pari alla **DIFFICOLTÀ** decisa dal **NARRATORE**,
         
     - ⚪ pari al numero di **TRATTI** utili che decidi di mettere in gioco.
         
@@ -59,7 +59,9 @@ Con soli due colori – ⚪ bianchi e ⚫ neri – ogni estrazione decide il
 
 
 > **📌 NOTA BENE: La Storia è di Tutti**
-> In certi tipi di campagna, puoi sperimentare lasciando ai giocatori la libertà di _proporre_ le **COMPLICAZIONI** e le **SVENTURE** che vogliono subire, entro i limiti e il buon senso stabilito dal **NARRATORE**. Questo approccio aumenta l’investimento emotivo e rende le conseguenze ancora più personali e significative.
+> In certi tipi di campagna, puoi sperimentare lasciando ai giocatori la libertà di _proporre_ le complicazioni e le sventure che vogliono subire, entro i limiti e il buon senso stabilito dal narratore. Questo approccio aumenta l’investimento emotivo e rende le conseguenze ancora più personali e significative.
+
+> **📌 NOTA:** Il sacchetto può contenere fino a 6⚪ e 6⚫, per un totale massimo di 12 token.
 
 ---
 
@@ -90,9 +92,9 @@ Con soli due colori – ⚪ bianchi e ⚫ neri – ogni estrazione decide il
 	  
 * Spendi tutti i ⚫ che hai estratto, scegliendo tra: 
        
-	* 1 ⚫ per farti raccontare una **COMPLICAZIONE** dal **NARRATORE**. Un esito imprevisto, con impatto immediato sull'**EROE** o sulla **SCENA** nel suo complesso.
+	* 1 ⚫ per ciascuna **COMPLICAZIONE** che vuoi farti raccontare dal **NARRATORE**. Un esito imprevisto, con impatto immediato sull'**EROE** o sulla **SCENA** nel suo complesso.
 	    
-	* 1 ⚫ per farti infliggere una **SVENTURA** dal **NARRATORE** (vedi [[New Beginning - Regole ⚪#Sventure ⚫️|Sventure]] ). L'impatto è diretto sull'**EROE**, a lungo termine, ed ha effetto sulle **PROVE** che affronti finché non vi poni rimedio, o gli effetti si esauriscono.
+	* 1 o più ⚫ per farti infliggere una **SVENTURA** dal **NARRATORE**. L'impatto è diretto sull'**EROE**, a lungo termine, ed ha effetto sulle **PROVE** che affronti finché non vi poni rimedio, o gli effetti si esauriscono.
 
 
 > 📌 **NOTA BENE: Il Successo Non è Garantito** 
@@ -130,16 +132,17 @@ Prima di affrontare una **PROVA**, il **NARRATORE** può scegliere di **applicar
 
 ## Pericolo ❗️
 
-> _Ogni azione audace porta con sé un’ombra di rischio. Quando il Narratore dichiara un Pericolo, il destino del tuo eroe è appeso a un filo: un’estrazione sbagliata potrebbe condurti a un momento drammatico, un’**Uscita di Scena** che cambia il corso della storia._
+> _Ogni azione audace porta con sé un’ombra di rischio. Quando il narratore dichiara un pericolo, il destino del tuo eroe è appeso a un filo: un’estrazione sbagliata potrebbe condurti a un momento drammatico, un’**uscita di scena** che cambia il corso della storia._
 
-Quando affronti una **Prova**, il **Narratore** può stabilire un livello di **PERICOLO**, un numero di ⚫ che rappresenta la gravità delle conseguenze in caso di esito sfortunato. Se estrai un numero di ⚫ pari o superiore al livello di Pericolo, subisci un’**USCITA DI SCENA**; un evento narrativo che ti mette temporaneamente fuori gioco.
+Quando affronti una **PROVA**, il **NARRATORE** può stabilire un livello di **PERICOLO**, il numero di ⚪ che dovrai estrarre per non **USCITRE DI SCENA**; un evento narrativo che ti mette temporaneamente fuori gioco.
 
 **Come funziona il Pericolo?**
 
-1. Il **NARRATORE** annuncia il livello di **PERICOLO** prima dell’estrazione, basandosi sul contesto e sull’intensità della **PROVA** (1⚫ = massimo pericolo, 2⚫ = alto pericolo, ...).
+1. Il **NARRATORE** annuncia il livello di **PERICOLO** prima dell’estrazione, basandosi sul contesto e sull’intensità della **PROVA** (1⚪ = basso pericolo, 2⚪ = medio pericolo, ...).
 2. Affronta la **PROVA** normalmente.
-3. Se il numero di ⚫ estratti è **pari o superiore** al livello di **PERICOLO**, il **NARRATORE** descrive l’**USCITA DI SCENA**, collaborando con te per renderla significativa e coerente con la storia.
+3. Se il numero di ⚪ estratti è **inferiore** al livello di **PERICOLO**, il **NARRATORE** descrive l’**USCITA DI SCENA**, collaborando con te per renderla significativa e coerente con la storia.
 
+#todo da decidere se si esce di scena estraendo $\ge⚫$ o $<⚪$.
 
 **USCIRE DI SCENA**
 
@@ -236,7 +239,7 @@ Se affronti una **PROVA**, altri **EROI** o **PERSONAGGI SECONDARI** con un **TR
 
 ## Conflitto tra Giocatori 🏹
 
-#todo da decidere
+#todo da decidere se prova singola o prove contrapposte
 
 OPZIONE 1: **Prova Singola** (meglio allineata con lo spirito "asincrono" della campagna)
 
@@ -271,6 +274,67 @@ OPZIONE 2: **Prove Contrapposte** (più onesto, ma richiede scoprire se l'altro 
 # Esempi
 
 
+### Esempi di Tratti
+
+
+**ARCHETIPO**: *Il Guerriero Errante*
+	Un combattente senza patria, alla ricerca di un nuovo scopo o di redenzione. Porta con sé le cicatrici di battaglie passate. 
+
+**ARCHETIPO**: *La Sognatrice Mistica*
+    Una figura legata ai sogni, agli spiriti o al mondo dell'incubo. Vede ciò che gli altri non vedono. 
+
+**ARCHETIPO**: *Il Mercante Astuto*
+    Un commerciante che sa sempre trovare un vantaggio, anche nelle situazioni più disperate. Conosce ogni prezzo e ogni persona. 
+
+**ARCHETIPO**: *Il Guardiano Solitario*
+    Un protettore silenzioso, spesso isolato, che difende un luogo, una persona o un segreto. La sua forza è nella determinazione. 
+
+**QUALITÀ**: *Coraggioso*  
+     Non hai paura di affrontare il pericolo, anche quando tutti gli altri fuggono. Il tuo cuore batte forte, ma non si ferma.  
+
+**QUALITÀ**: *Astuto*  
+    Sei abile a trovare soluzioni indirette, a ingannare o a usare l'ambiente a tuo vantaggio. Non sempre vinci con la forza, ma con la mente.  
+    *Effetto Narrativo:* In prove di intrigo, furtività o risoluzione di enigmi, la tua intelligenza ti apre strade nascoste. Aggiungi 1⚪ al sacchetto.
+
+**QUALITÀ**: *Empatico*
+    Senti profondamente le emozioni degli altri e sai come calmarle, incitarle o manipolarle. Le persone si aprono con te. 
+
+**QUALITÀ**: *Testardo*
+    Una volta presa una decisione, non ti fermi fino a raggiungere l'obiettivo. Può essere una forza... o una debolezza. (Qualche volta conterà come ⚫)
+
+**QUALITÀ**: *Sfortunato*
+    La sorte non è mai dalla tua parte. Ogni azione sembra portare a un imprevisto. Ma hai imparato a conviverci. (Qualche volta conterà come ⚫)
+
+**ABILITÀ**
+
+
+*   **Furtivo**  
+    *Descrizione:* Sai muoverti nell'ombra, evitare guardie e rubare senza farti notare. Il tuo corpo è un'arma silenziosa.  
+    *Effetto Narrativo:* In prove di furtività, intrusione o evasione, la tua agilità e il tuo silenzio ti rendono quasi invisibile. Aggiungi 1 ⚪ al sacchetto.
+
+*   **Scalatore**  
+    *Descrizione:* Sai arrampicarti su qualsiasi superficie, dalle pareti di pietra ai tetti delle case. La gravità è solo un suggerimento.  
+    *Effetto Narrativo:* In prove di scalata, equilibrio o movimento in ambienti verticali, la tua padronanza del terreno ti salva. Aggiungi 1 ⚪ al sacchetto.
+
+*   **Spadaccino**  
+    *Descrizione:* Hai affinato la tua tecnica con la spada fino a renderla un'estensione del tuo braccio. Sai parare, colpire e sfuggire.  
+    *Effetto Narrativo:* In prove di combattimento corpo a corpo, la tua maestria con la lama ti dà un vantaggio. Aggiungi 1 ⚪ al sacchetto.
+
+*   **Persuasivo**  
+    *Descrizione:* Sai parlare con eloquenza, convincere, ingannare o ispirare. Le parole sono il tuo strumento più potente.  
+    *Effetto Narrativo:* In prove di negoziazione, diplomazia o leadership, la tua voce può plasmare la realtà. Aggiungi 1 ⚪ al sacchetto.
+
+*   **Mani Leste**  
+    *Descrizione:* Hai dita veloci e precise, perfette per rubare, scassinare serrature o maneggiare oggetti delicati.  
+    *Effetto Narrativo:* In prove di destrezza, furto o manipolazione di oggetti, la tua abilità manuale ti fa superare ogni ostacolo. Aggiungi 1 ⚪ al sacchetto.
+
+*   **Erudito**  
+    *Descrizione:* Hai studiato antichi testi, mappe e storie. Conosci segreti, linguaggi perduti e leggende.  
+    *Effetto Narrativo:* In prove di ricerca di conoscenze, decifrazione di simboli o comprensione di enigmi, la tua erudizione ti guida. Aggiungi 1 ⚪ al sacchetto.
+
+
+---
+
 ### Esempi di Successo e Fallimento
 
 | TOKEN nel sacchetto | TOKEN ESTRATTI | Esito                     |
@@ -302,7 +366,7 @@ OPZIONE 2: **Prove Contrapposte** (più onesto, ma richiede scoprire se l'altro 
 
 ### Esempio Successo Parziale – **La Scalata sotto la Pioggia**
 
-> **Narratore**: *"Scali il muro di un maniero in una notte di tempesta. Difficoltà normale (3⚫). Pericolo alto (2⚫).*
+> **Narratore**: *"Scali il muro di un maniero in una notte di tempesta. Difficoltà normale (3⚫). Pericolo basso (1⚪).*
 
 1. **Descrivi**: *“Mi arrampico velocemente, usando le sporgenze a mio vantaggio.”*
 2. **Sacchetto**:  
@@ -310,7 +374,8 @@ OPZIONE 2: **Prove Contrapposte** (più onesto, ma richiede scoprire se l'altro 
    - 2⚪ (Tratti: *Scalatore* e *Agile*)  
    → **Sacchetto**: ⚪⚪⚫⚫⚫  
 3. Decidi di estrarre 3 **TOKEN**: ⚪⚫⚫ → **SUCCESSO PARZIALE** ✅  
-4. **Spendi i TOKEN**:
+4. Hai estratto il ⚪ necessario per restare in scena.
+5. **Spendi i TOKEN**:
    - 1⚪ → Superi la **PROVA**.  
    - 1⚫ → **SVENTURA**
    - 1⚫ → **COMPLICAZIONE**
@@ -367,7 +432,8 @@ OPZIONE 2: **Prove Contrapposte** (più onesto, ma richiede scoprire se l'altro 
 
 > **Narratore**: *"I **tre eroi** vogliono sfondare una porta mentre i **mercenari** li stanno cercando. Difficoltà bassa (2⚫)”*
 
-1. **Sacchetto**:  
+1. **Descrivi la scena**.
+2. **Riempi il sacchetto**:
    - 2⚫ (Difficoltà)
    - 1⚫ extra perché ci sono due collaboratori 
    - 3⚪ (tratti del leader: *Forza Bruta*, *Coraggioso*, *Determinato*)
@@ -402,22 +468,22 @@ Sconfiggi la tua nemesi in duello per eliminare questa **SVENTURA**.
 
 ### Esempio Pericolo – **La Scalata sotto la Pioggia**
 
-**Situazione**: Devi scalare il muro di un maniero in una notte di tempesta per entrare inosservato.  
-**Narratore**: “**Difficoltà Normale** (3⚫). **Pericolo = 2** – se estraggi 2 o più ⚫, scatta un’**Uscita di Scena**.”
+> **Narratore**: "Devi scalare il muro di un maniero in una notte di tempesta per entrare inosservato.  
+> Difficoltà Normale (3⚫). **Pericolo = 2⚪** – se estrai meno di 2⚪, scatta un’**Uscita di Scena**.”
 
-1. **Descrivi l’azione**: “Mi arrampico con cautela, usando le sporgenze bagnate dalla pioggia.”  
+1. **Descrivi l’azione**: *“Mi arrampico con cautela, usando le sporgenze bagnate dalla pioggia.”* 
 2. **Costruisci il sacchetto**:  
    - 3⚫ (Difficoltà Normale)  
    - 2⚪ (Tratti: *Scalatore* e *Agile*)  
    → **Sacchetto**: ⚪⚪⚫⚫⚫  
-3. **Estrai 3 token**: ⚪⚫⚫ → **SUCCESSO PARZIALE** ✅  
-4. **Spendi i token**:  
+1. **Estrai 3 TOKEN**: ⚪⚫⚫ → **SUCCESSO PARZIALE** ✅  
+2. **Spendi i TOKEN**:  
    - 1⚪ → Superi la Prova.  
    - 1⚫ → **Sventura**: *“Scarpe Fradice”* (1⚫ extra alle Prove di equilibrio finché non ti asciughi).  
    - 1⚫ → **Complicazione**: “La grondaia cede con un crack! Cadi nel cortile.”  
    - **Pericolo scatta** (2⚫ estratti): **Uscita di Scena** – vieni catturato dalle guardie.
 
-> *Narratore*: “Raggiungi la cima, ma la grondaia si spezza sotto il tuo peso. Cadi nel cortile con un tonfo. Le guardie ti circondano: ‘Prendetelo!’ Ti svegli in una cella… ma la storia continua nella prossima scena.”
+> **Narratore**: *“Raggiungi la cima, ma la grondaia si spezza sotto il tuo peso. Cadi nel cortile con un tonfo. Le guardie ti circondano: ‘Prendetelo!’ Ti svegli in una cella… ma la storia continua nella prossima scena.”*
 
 ---
 

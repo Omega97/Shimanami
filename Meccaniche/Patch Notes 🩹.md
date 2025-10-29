@@ -2,13 +2,14 @@
 
 ## Aggiunte
 
-- **Manuale Shimanami**: nuovo tipo di svolta; il [[Manuale Shimanami 📖#Le Svolte|Miglioramento]] 🌱.  
+- **Manuale Shimanami**: nuovo tipo di svolta; il [[Manuale Shimanami 📖#Le Svolte|Miglioramento]] 🌱, per un contributo diretto alle proprie attività e relazioni. 
 - Nuovi esempi di [[New Beginning - Regole ⚪#Esempi di Lezione e Cicatrice|Lezione]].
 - Scegliere come gestire il [[New Beginning - Regole ⚪#Conflitto tra Giocatori 🏹|Conflitto tra Giocatori]] (prova singola o prove contrapposte)
 - Capitolo sulle [[New Beginning - Regole ⚪#Le Sventure ⚫️|Sventure]].
 - Capitolo sul [[New Beginning - Regole ⚪#Pericolo ❗️|Pericolo]]
 - Capitolo sulle [[New Beginning - Regole ⚪#Lezioni ⚪️|Lezioni]]
 - Esempi di [[New Beginning - Regole ⚪#Esempio Successo Totale – **Il Furto Perfetto**|estrazione]] e spendere i token
+- Esempi di [[New Beginning - Regole ⚪#Esempi di Tratti|tratti]]
 
 ---
 
@@ -19,4 +20,4 @@
 - La Cicatrice altro non è che una [[New Beginning - Regole ⚪#Esempi di Lezione|Lezione]] che porta con se una Sventura.
 - I [[New Beginning - Regole ⚪#Affrontare una Prova 🎯|tratti]] possono ufficialmente influire negativamente sulla prova.
 - Rimosso il limite sul [[New Beginning - Regole ⚪#Materiali 🎒|numero di tratti]].
-- Sistemata alla [[New Beginning - Regole ⚪#Dare una Mano ✋|prova di gruppo]].
+- Sistema di [[New Beginning - Regole ⚪#Dare una Mano ✋|prove di gruppo]] assimilato in "Dare una Mano".
