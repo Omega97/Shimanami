@@ -305,33 +305,23 @@ OPZIONE 2: **Prove Contrapposte** (più onesto, ma richiede scoprire se l'altro 
 **QUALITÀ**: *Sfortunato*
     La sorte non è mai dalla tua parte. Ogni azione sembra portare a un imprevisto. Ma hai imparato a conviverci. (Qualche volta conterà come ⚫)
 
-**ABILITÀ**
+**ABILITÀ**: *Furtivo*
+    Sai muoverti nell'ombra, evitare guardie e rubare senza farti notare. Il tuo corpo è un'arma silenziosa.  
 
+**ABILITÀ**:*Scalatore*
+    Sai arrampicarti su qualsiasi superficie, dalle pareti di pietra ai tetti delle case. La gravità è solo un suggerimento.
 
-*   **Furtivo**  
-    *Descrizione:* Sai muoverti nell'ombra, evitare guardie e rubare senza farti notare. Il tuo corpo è un'arma silenziosa.  
-    *Effetto Narrativo:* In prove di furtività, intrusione o evasione, la tua agilità e il tuo silenzio ti rendono quasi invisibile. Aggiungi 1 ⚪ al sacchetto.
+**ABILITÀ**: *Spadaccino*
+    Hai affinato la tua tecnica con la spada fino a renderla un'estensione del tuo braccio. Sai parare, colpire e sfuggire.
 
-*   **Scalatore**  
-    *Descrizione:* Sai arrampicarti su qualsiasi superficie, dalle pareti di pietra ai tetti delle case. La gravità è solo un suggerimento.  
-    *Effetto Narrativo:* In prove di scalata, equilibrio o movimento in ambienti verticali, la tua padronanza del terreno ti salva. Aggiungi 1 ⚪ al sacchetto.
+**ABILITÀ**: *Persuasivo*
+    Sai parlare con eloquenza, convincere, ingannare o ispirare. Le parole sono il tuo strumento più potente.
 
-*   **Spadaccino**  
-    *Descrizione:* Hai affinato la tua tecnica con la spada fino a renderla un'estensione del tuo braccio. Sai parare, colpire e sfuggire.  
-    *Effetto Narrativo:* In prove di combattimento corpo a corpo, la tua maestria con la lama ti dà un vantaggio. Aggiungi 1 ⚪ al sacchetto.
+**ABILITÀ**: *Mani Leste*
+    Hai dita veloci e precise, perfette per rubare, scassinare serrature o maneggiare oggetti delicati.
 
-*   **Persuasivo**  
-    *Descrizione:* Sai parlare con eloquenza, convincere, ingannare o ispirare. Le parole sono il tuo strumento più potente.  
-    *Effetto Narrativo:* In prove di negoziazione, diplomazia o leadership, la tua voce può plasmare la realtà. Aggiungi 1 ⚪ al sacchetto.
-
-*   **Mani Leste**  
-    *Descrizione:* Hai dita veloci e precise, perfette per rubare, scassinare serrature o maneggiare oggetti delicati.  
-    *Effetto Narrativo:* In prove di destrezza, furto o manipolazione di oggetti, la tua abilità manuale ti fa superare ogni ostacolo. Aggiungi 1 ⚪ al sacchetto.
-
-*   **Erudito**  
-    *Descrizione:* Hai studiato antichi testi, mappe e storie. Conosci segreti, linguaggi perduti e leggende.  
-    *Effetto Narrativo:* In prove di ricerca di conoscenze, decifrazione di simboli o comprensione di enigmi, la tua erudizione ti guida. Aggiungi 1 ⚪ al sacchetto.
-
+**ABILITÀ**: *Erudito*
+    Hai studiato antichi testi, mappe e storie. Conosci segreti, linguaggi perduti e leggende.
 
 ---
 
