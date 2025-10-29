@@ -11,13 +11,13 @@
 
 [Barbero] La società sull’isola è stratificata, ma non immobile. I **nobili locali** — i kazoku** — conservano il potere formale, ma sono costantemente sotto pressione da parte delle **gilde artigiane**, dei **mercanti emergenti**, e perfino dei **capiflotta pescherecci**, che controllano risorse fondamentali. I **contadini** mantengono il tessuto alimentare dell’isola, mentre gli **artigiani**, specie a Takamura, detengono il sapere tecnico e l’estetica raffinata. Ci sono anche **ex-samurai**, decaduti e riconvertiti in funzionari o maestri di cerimonia. E poi, ovviamente, ci sono i **giovani intraprendenti** — come voi.
 
+![Shimanami 3D](https://github.com/Omega97/Shimanami/blob/main/Immagini/Shimanami_island_3d_tiltshift.png)
+
 [Barbero] Sull’isola di Shimanami, **il rispetto, l’onore e la reputazione personale** sono alla base della vita quotidiana. La popolazione — contadini, artigiani, mercanti, persino samurai decaduti — agisce secondo un codice non scritto, in cui un gesto gentile, un’inchino ben dosato o una parola mantenuta contano più di qualsiasi legge. Il crimine, in questo contesto, non è soltanto una colpa legale: è una macchia sociale, un disonore che può escludere una persona dalla comunità come fosse un malato contagioso. L’equilibrio dell’isola si regge su questo sistema silenzioso di fiducia reciproca, in cui l’armonia è più importante del guadagno, e un uomo che tradisce viene dimenticato prima ancora che condannato.
 
 [Barbero] Eppure, tra le pieghe di questa società ordinata, si muovono ombre discrete. Piccoli gruppi legati al mondo **criminale** — mai apertamente dichiarati, ma ben riconoscibili da chi sa osservare — hanno cominciato a operare ai margini. Si occupano di riscossione debiti, offrono “protezione”, si infiltrano nel commercio e negli eventi pubblici. Non osano sfidare apertamente l’autorità del Daimyō o la moralità collettiva, ma tessono legami, distribuiscono favori e coltivano un potere sottile. Sono tollerati, finché non esagerano. Perché a Shimanami, l’onore è più prezioso del denaro, e molto più difficile da comprare.
 
 [Barbero] Ed è in questo mondo — ordinato in apparenza, ma pieno di fratture pronte ad aprirsi — che inizia la vostra storia.
-
-![Shimanami 3D](https://github.com/Omega97/Shimanami/blob/main/Immagini/Shimanami_island_3d_tiltshift.png)
 
 ---
 
