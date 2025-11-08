@@ -54,7 +54,7 @@ La **Svolta** è il principale meccanismo con cui la narrazione si evolve. Ogni 
 | ❓ **Imprevisto**     | Un evento inatteso, fuori dal tuo controllo                   |
 | 🫂 **Incontro**      | Entra in scena un nuovo personaggio significativo             |
 | 🕵️ **Intrigo**      | Sospetti, inganni, o segreti, che ti coinvolgono direttamente |
-| 🌱 **Miglioramento** | Migliora una tua attività o relazione                         |
+| 🌱 **Miglioramento** | Migliora (o peggiora?) una tua attività o relazione           |
 
 | 🎉Evento Pubblico | Un festival, un incendio, un naufragio… Questi eventi coinvolgono l’intera isola, e invitano tutti a reagire |
 | ----------------- | ------------------------------------------------------------------------------------------------------------ |

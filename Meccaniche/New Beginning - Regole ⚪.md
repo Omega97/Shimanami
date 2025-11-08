@@ -138,11 +138,23 @@ Quando affronti una **PROVA**, il **NARRATORE** può stabilire un livello di **P
 
 **Come funziona il Pericolo?**
 
-1. Il **NARRATORE** annuncia il livello di **PERICOLO** prima dell’estrazione, basandosi sul contesto e sull’intensità della **PROVA** (1⚪ = basso pericolo, 2⚪ = medio pericolo, ...).
+1. Il **NARRATORE** annuncia il livello di **PERICOLO** prima dell’estrazione, basandosi sul contesto e sull’intensità della **PROVA**.
+    
 2. Affronta la **PROVA** normalmente.
-3. Se il numero di ⚪ estratti è **inferiore** al livello di **PERICOLO**, il **NARRATORE** descrive l’**USCITA DI SCENA**, collaborando con te per renderla significativa e coerente con la storia.
+    
+3. Se il numero di ⚪ estratti è: 
+	- **inferiore** al livello di **PERICOLO**: il **NARRATORE** descrive l’**USCITA DI SCENA**, collaborando con te per renderla significativa e coerente con la storia.
+	- **maggiore o uguale** al livello di **PERICOLO**: il personaggio resta in scena.
 
-#todo da decidere se si esce di scena estraendo $\ge⚫$ o $<⚪$.
+| Numero di ⚪                  | Livello di Pericolo |
+| ---------------------------- | ------------------- |
+| 0                            | Nessuno             |
+| 1                            | Minimo              |
+| 2                            | Medio               |
+| 3                            | Alto                |
+| ...                          |                     |
+| Numero di ⚪<br>nel sacchetto | Massimo             |
+
 
 **USCIRE DI SCENA**
 
@@ -221,13 +233,13 @@ Hai deciso di spendere uno o più ⚫ estratti durante una **PROVA** per farti i
 
 Se affronti una **PROVA**, altri **EROI** o **PERSONAGGI SECONDARI** con un **TRATTO** rilevante possono scegliere di **COLLABORARE**. Ogni **COLLABORARE**:
 - aggiunge uno e un solo ⚪ al sacchetto, e descrive in che modo sta aiutando. 
-- aumenta anche la difficoltà di 1⚫ (eccetto per il primo).  
+- aumenta anche la difficoltà di 1⚫ (eccetto per il primo collaboratore).  
 - rischia di subire una **COMPLICAZIONE** o **SVENTURA** se vengono estratti ⚫. 
 
 
 **Prova di Gruppo**
 
-- Un giocatore **guida la prova**, descrivendo l’azione collettiva.
+- Un giocatore **guida la PROVA**, descrivendo l’azione collettiva.
     
 - Ogni partecipante aggiunge 1⚪ per un tratto rilevante (ricorda che hai fino a 6⚪ a disposizione).
     
@@ -239,19 +251,32 @@ Se affronti una **PROVA**, altri **EROI** o **PERSONAGGI SECONDARI** con un **TR
 
 ## Conflitto tra Giocatori 🏹
 
-#todo da decidere se prova singola o prove contrapposte
 
-OPZIONE 1: **Prova Singola** (meglio allineata con lo spirito "asincrono" della campagna)
+A volte due personaggi possono trovarsi in contrasto — per ideali, orgoglio o interessi.  
+Puoi gestire questi momenti scegliendo **una delle due modalità seguenti**, a seconda di quanto vuoi mantenere il mistero sull’intento dei giocatori.
 
-1) Solo il **primo giocatore** affronta una **PROVA**.
-2) Aggiungi ⚫ nell sacchetto pari al numero di **TRATTI** del **secondo giocatore** che sono a lui favorevoli.
+#### OPZIONE 1: **Prova Singola** 
+
+> Per quando vuoi mantenere l’illusione che un personaggio sia solo un altro abitante del mondo — non un avversario controllato da un giocatore.
+
+1) Solo **uno dei due giocatori** effettua la **PROVA**.
+    
+2) Aggiungi ⚫ al sacchetto pari al numero di **TRATTI** dell'altro giocatore che lo favoriscono o si oppongono al primo.
+
+🕊️ _L’altro giocatore resta “invisibile” alla meccanica: la tensione si manifesta solo attraverso i token. Usa questa opzione per prove di minore importanza; se vuoi preservare il mistero, o lasciare che la fiction decida chi ha davvero “mosso il primo passo”._
 
 
-OPZIONE 2: **Prove Contrapposte** (più onesto, ma richiede scoprire se l'altro personaggio è un PC oppure no, e può rallentare il gioco)
+#### OPZIONE 2: **Prova Contrapposta** 
+
+> Per quando entrambi i giocatori sanno (o vogliono ammettere) che stanno agendo l’uno contro l’altro. Questa opzione è più **onesta** nei confronti dei giocatori in quanto **entrambi hanno un ruolo attivo** nella prova.
 
 1) Il **primo giocatore** affronta la **PROVA** normalmente.
-2) A prescindere dall'esito, anche il **secondo giocatore** entra in gioco
-3) Solo dopo aver svolto le due estrazioni, il narratore descrive la scena in base agli esiti, e ai livelli di successo.
+    
+2) Subito dopo, anche il **secondo giocatore** effettua la propria estrazione.
+    
+3) Il **NARRATORE** interpreta i due esiti insieme, descrivendo la scena in base ai livelli di successo e alle tensioni emerse.
+
+🪶 _Usa questa opzione se il conflitto è ormai aperto, o se la prova è importante, e pensi che **entrambi i giocatori vorrebbero partecipare**._
 
 ---
 
@@ -481,12 +506,12 @@ Sconfiggi la tua nemesi in duello per eliminare questa **SVENTURA**.
 
 La **LEZIONE** è un effetto applicabile in una **PROVA** inerente alla **PROVA CRUCIALE** dalla quale ha avuto origine. Ecco alcuni esempi:
 
-| LEZIONE           | Flavuor                                                                      | Effetto                                                                                                                                             |
+| LEZIONE           | Flavor                                                                       | Effetto                                                                                                                                             |
 | ----------------- | ---------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Dream Team        | *"Hai imparato che il vero tesoro sono gli amici... o qualcosa del genere."* | Aggiungi 1⚪️ nel sacchetto.                                                                                                                         |
 | La Superluna      | *"Durante una notte di luna piena..."*                                       | Aggiungi 2⚪️ nel sacchetto.                                                                                                                         |
+| Ultima chance     | *"Hai imparato a non arrenderti mai davanti a un fallimento."*               | Se stai per fallire, puoi scegliere di estrarre ancora un TOKEN.                                                                                    |
+| Dream Team        | *"Hai imparato che il vero tesoro sono gli amici... o qualcosa del genere."* | Aggiungi 1⚪️ nel sacchetto.                                                                                                                         |
 | Dividi et Impera  | *"La tua ambizione è conquistare e controllare."*                            | Dopo aver estratto, puoi scegliere di scambiare i TOKEN estratti con quelli ancora nel sacchetto, ma dovrai spendere anche i ⚫️ che avevi estratto. |
-| <br>Ultima chance | *"Hai imparato a non arrenderti mai davanti a un fallimento."*               | Se stai per fallire, puoi scegliere di estrarre ancora un TOKEN.                                                                                    |
 | "Luck in the end" | *"Quando le cose non vanno secondo i piani, c'è una lezione da imparare."*   | Se fallisci parzialmente, puoi comunque COLLOCARE 1⚪️ su un TRATTO che hai usato nella prova.                                                       |
 | Veggente          | *"Alcuni la chiama fortuna, ma tu sai che si sbagliano."*                    | Chiama il numero di ⚪️ che stai per ESTRARRE. Se indovini, i ⚪️ dopo il primo li puoi spendere 2 volte.                                             |
 | Ordine            | *"Ti piace la routine, e tenere tutto ben in ordine."*                       | BRUCIA 2 ⚪️ e 1 ⚫️ dal sacchetto.                                                                                                                   |
@@ -496,7 +521,7 @@ Se la **PROVA CRUCIALE** non ha avuto l'effetto desiderato, cerca di far riflett
 | LEZIONE               | Flavuor                                                                        | Effetto                                                                                                                                     |
 | --------------------- | ------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------- |
 | Perseverante          | *"Non ti dai mai per vinto... MAI."*                                           | Rimescola nel sacchetto 1⚫️ che hai estratto, poi estrai un altro TOKEN.                                                                    |
-| <br>Coriaceo          | *"Hai ottenuto saggezza, e una nuova prospettiva sulla vita."*                 | Se **FALLISCI** una **PROVA**, puoi spendere 1⚫️ per **COLLOCARLO** su un **TRATTO** che hai usato.                                         |
+| Coriaceo              | *"Hai ottenuto saggezza, e una nuova prospettiva sulla vita."*                 | Se **FALLISCI** una **PROVA**, puoi spendere 1⚫️ per **COLLOCARLO** su un **TRATTO** che hai usato.                                         |
 | Pensare in fretta     | *"Non c'è tempo da perdere... prendi una decisione senza pensarci due volte."* | Puoi ritentare l'estrazione, ma a meno di un successo totale, ricevi 1⚫️ in più.                                                            |
 | Esagerato             | *"Strafare non è un difetto, è il tuo marchio di fabbrica."*                   | Estrai tutti i TOKEN tranne uno. Se fallisci, puoi rimettere 1 ⚫️ nel sacchetto, ma i ⚪️ oltre il primo non contano.                        |
 | Cauto                 | *"Dopo l'ultima volta, non correrai mai più rischi inutili..."*                | BRUCIA tutti i ⚪️, e tutti i ⚫️ tranne uno.                                                                                                 |
