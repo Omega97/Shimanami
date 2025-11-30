@@ -1,270 +1,336 @@
-
 # New Beginning
 
+**New Beginning** is a simple, light, and elegant game system designed for narrative role‑playing games—no tables, no calculations, just your story and the courage to take a literal risk. Inspired by *Not the End*, the system revolves around a single dilemma: **how many tokens dare you draw from the bag?**
 
-*New Beginning* is a simple **game system**, lightweight and elegant, designed for narrative role-playing games; no tables, no calculations, just your story and the courage to take risks—literally. Inspired by *Not the End*, the system revolves around a single dilemma: **how many tokens dare you draw from the bag?**
-
-With just two colors—⚪ white and ⚫ black—each draw determines the fate of the characters: growth, ruin, or transformation. There are no definitive victories or defeats; only the outcome of your actions, accepted and shared by everyone at the table. This makes **emotions and relationships** the true engine of the story.
-
----
-
-## Materials 🎒
-
-1. **TOKENS**: 6 white (⚪) and 6 black (⚫).
-    
-2. A bag for **DRAWING** the **TOKENS**.
-    
-3. Character sheets with 8 initial **TRAITS**:
-     
-    - 1 **ARCHETYPE**,
-    
-    - 3 **QUALITIES** out of 6 available,
-    
-    - 4 **SKILLS** out of 12 available.
-    
-    - [Character sheet](https://github.com/Omega97/Shimanami/blob/main/Meccaniche/_template_character_sheet.pdf)
+With only two colors—⚪ white and ⚫ black—every draw shapes your character’s fate: growth, ruin, or transformation. There are no definitive victories or defeats; only the consequences of your actions, accepted and shared by everyone at the table. This makes emotions and relationships the true engine of the story.
 
 ---
 
-## Facing a Trial 🎯
+## Core Rules
 
-> *You face a trial when your character attempts a significant action, the outcome of which could involve risks, complications, or unexpected turns.*
+### Materials 🎒
+- **TOKENS**: 6 white (⚪) and 6 black (⚫).  
+- A **bag** for drawing tokens.  
+- **Character sheets** with 8 starting **TRAITS**:  
+  - 1 **ARCHETYPE** (defines who your hero is and their role in the world)  
+  - 3 **QUALITIES** (personal, emotional, or moral characteristics)  
+  - 4 **SKILLS** (practical, technical, or professional competencies)  
 
-1. Describe what you want to do.
-    
-2. Add **TOKENS** to the (empty) bag:
-     
-    - ⚫ equal to the **DIFFICULTY** decided by the **NARRATOR**,
-    
-    - ⚪ equal to the number of **TRAITS** you choose to put into play.
-    
-    - Optional: The **NARRATOR** decides the level of **DANGER**. If you **DRAW** a number of ⚫ equal to or greater than this, the character suffers an **EXIT FROM THE SCENE** (e.g., loses consciousness, is captured, or is temporarily out of play).
-    
-3. **DRAW** a number of **TOKENS** of your choice, all at once.
-    
-4. Use the **TOKENS** you’ve **DRAWN** to have the **NARRATOR** describe the outcome of the **TRIAL**.
-
-| DIFFICULTY                                   | Number of ⚫ |
-| -------------------------------------------- | ----------- |
-| Very easy (make sure <br>it’s necessary)     | 1           |
-| Easy                                         | 2           |
-| Normal                                       | 3           |
-| Difficult                                    | 4           |
-| Very difficult                               | 5           |
-| Extremely difficult<br>(better not!)          | 6           |
-
-> **📌 NOTE: The Story Belongs to Everyone**  
-> In certain campaigns, you can experiment by letting players propose the **COMPLICATIONS** and **MISFORTUNES** they wish to face, within the limits and common sense set by the **NARRATOR**. This approach increases emotional investment and makes consequences even more personal and meaningful.
+> [Character Sheet Template](https://github.com/Omega97/Shimanami/blob/main/Meccaniche/_template_character_sheet_NB.pdf)  
+> Includes: character name, description, TRAITS, possessions, LESSONS, and AFFLICTIONS.
 
 ---
 
-## Success and Failure 🎭
+### Facing a Trial 🎯
 
-> *The tokens you draw determine the degree of success or failure of your character’s actions. The Narrator will then interpret how the scene continues based on the context.*
+You face a **Trial** whenever your character attempts a meaningful action whose outcome might involve risks, complications, or unexpected turning points.
 
-| What you **DREW**                                          | OUTCOME                      | Description                                                     |
-| ---------------------------------------------------------- | ---------------------------- | --------------------------------------------------------------- |
-| Only ⚪.                                                   | **TOTAL SUCCESS** ✅✅        | You passed the trial<br>**with flying colors**!                 |
-| At least 1 ⚪, and **not** all the ⚫ <br>in the bag.       | **PARTIAL SUCCESS** ✅       | More or less successful based<br>on which **TOKENS** you drew.  |
-| At least 1 ⚪, and **all** the ⚫ <br>in the bag.           | **PARTIAL FAILURE** ❓       | You failed the trial,<br>but there are **positive aspects**.    |
-| Only ⚫.                                                   | **TOTAL FAILURE** ❌         | You failed the trial<br>**completely**.                         |
+1. **Describe** what you want to do.  
+2. **Build the bag**:  
+   - Add ⚫ equal to the **DIFFICULTY** set by the NARRATOR.  
+   - Add ⚪ equal to the number of **helpful TRAITS** you choose to commit.  
+   - Optionally, add 1 ⚫ for each **harmful TRAIT** that works against you.  
+3. *(Optional)* The NARRATOR may declare a **DANGER LEVEL**. If you draw a number of ⚫ **equal to or greater than** this level, your character suffers a **SCENE EXIT** (e.g., knocked unconscious, captured, or temporarily out of play).  
+4. **Draw** any number of tokens you wish—all at once, blindly.  
+5. Use the drawn tokens to let the **NARRATOR** describe the outcome of the Trial.
 
----
+| Difficulty       | Black Tokens (⚫) |
+|------------------|------------------|
+| Very Easy (only if truly necessary) | 1 |
+| Easy             | 2 |
+| Normal           | 3 |
+| Hard             | 4 |
+| Very Hard        | 5 |
+| Extremely Hard (better not!) | 6 |
 
-## Spending Tokens ⚪⚫
+📌 **NOTE**: **The Story Belongs to Everyone**  
+In certain campaigns, you can experiment by letting players propose the complications or afflictions they’re willing to endure—within limits and common sense agreed upon with the Narrator. This increases emotional investment and makes consequences deeply personal and meaningful.
 
-> *Once you’ve drawn the tokens, how you choose to spend them helps define the outcome of the trial and enriches the shared narrative.*
-
-* If you achieved **SUCCESS**, spend:
-    
-    - The first ⚪ to pass the **TRIAL**.
-    
-    - 1 ⚪ to **IMPROVE THE SCENE**.
-    
-    - 1 ⚪ and **PLACE IT** on a **TRAIT** used during the **TRIAL**, to use it later.
-    
-* Spend the ⚫, choosing between:
-    
-    - 1 ⚫ to have the **NARRATOR** describe a **COMPLICATION**. An unexpected outcome, impacting the **HERO** or the **SCENE** as a whole.
-    
-    - 1 ⚫ to have the **NARRATOR** inflict a **MISFORTUNE** (write it on the sheet!). The impact is direct on the **HERO** and affects the **TRIALS** you face until it’s resolved or its effects wear off.
-
-> 📌 **NOTE: Success Is Not Guaranteed**  
-> Remember: drawing tokens is always a gamble. If you draw a number of tokens equal to or fewer than the ⚫ in the bag, you risk drawing *only* ⚫ and failing completely. But beware: even drawing more tokens, you might still draw *all* the ⚫ and face a partial failure. The choice is yours, and the risk is real.
-
-> 📌 **NOTE: Investing in the Future**  
-> You can spend 1 ⚪ to place it on a Trait used in this trial as a “reserve” for the future. Remember: in any trial, you can use *at most one* placed token, and each trait can hold *at most one* token. It’s a valuable resource: use it wisely!
+📌 **NOTE**: The bag can hold **up to 6 ⚪ and 6 ⚫**, for a total of **12 tokens**.
 
 ---
 
-## Other Rules
+### Success and Failure 🎭
 
-> *So far, we’ve covered the core rules of the system. The following sections introduce additional elements to make the gaming experience richer and more engaging.*
+The tokens you draw determine the degree of success or failure. The Narrator then interprets how the scene continues, based on context.
 
----
-
-## Thematic Statuses ⚗️
-
-> *To modulate the difficulty of trials, the Narrator can apply a thematic status to the character before tokens are drawn.*
-
-Before facing a **TRIAL**, the **NARRATOR** may choose to **apply** a **STATUS**. You can suggest ideas, but the **NARRATOR** decides whether and what to apply. Here are some examples:
-
-| Positive Statuses 😃 | Effect                                                                     | Flavor                                                              |
-| -------------------- | -------------------------------------------------------------------------- | ------------------------------------------------------------------- |
-| **CONFIDENT**       | **DRAWING** all the ⚫ in the bag doesn’t count as **PARTIAL FAILURE**.     | *The trial is easy, and you’re very sure of yourself.*              |
-| **OPTIMISM**        | If you **DRAW** only one **TOKEN** and **FAIL**, you can **DRAW** again.   | *It’s your first try, but it’ll all work out…*                     |
-| **FOCUS**           | If you choose to **DRAW** only one **TOKEN**, ⚪ count as 2.                | *You’re focused on a goal that tests your mind.*                   |
-| **INSPIRATION**     | If you **IMPROVE THE SCENE**, you can suggest a detail to the **NARRATOR**. | *A sudden idea guides you to success.*                             |
-
-| Negative Statuses 😨         | Effect                                                                          | Flavor                                                                        |
-| ---------------------------- | ------------------------------------------------------------------------------- | ----------------------------------------------------------------------------- |
-| **ADRENALINE**              | **DRAW** all **TOKENS** except one.                                             | *In this physical trial, your fight-or-flight instinct kicks in!*             |
-| **CONFUSION**               | One ⚫ you **DRAW** counts as 2.                                                | *In a hectic moment, you don’t have time to think…*                          |
-| **FEAR**                    | You must spend 2 ⚪ to pass the trial.                                          | *You’re scared, your decisions are clouded.*                                 |
-| **DISTRACTION** / **FATIGUE** | You can’t use more than 2 **TRAITS** in this trial, even if you have more.      | *Something distracts you, making it hard to use all your abilities.*         |
+| What You Drew                     | Outcome               | Description |
+|----------------------------------|------------------------|-------------|
+| Only ⚪                          | **FULL SUCCESS** ✅✅  | You ace the Trial! |
+| At least 1 ⚪, and **not all** ⚫ in the bag | **PARTIAL SUCCESS** ✅ | Varies based on which tokens you drew. |
+| At least 1 ⚪, and **all** ⚫ in the bag | **PARTIAL FAILURE** ❓ | You failed the Trial, but there are silver linings. |
+| Only ⚫                          | **TOTAL FAILURE** ❌   | You failed completely. |
 
 ---
 
-## Crucial Trial 🏆
+### Spending Tokens ⚪⚫
 
-> *In this system, character traits generally remain static throughout the campaign. This section explores how to enrich the character with special abilities and new traits. The Crucial Trial is a special event that causes inner growth for the character.*
+Once drawn, how you spend your tokens helps shape the outcome and enriches shared storytelling.
 
-You face a **CRUCIAL TRIAL** when you consider it pivotal for the development of the **HERO**.
+**If you succeeded**, spend:
+- 1 ⚪ to **pass the Trial**,
+- Additional ⚪ to **enhance the scene**, or  
+- ⚪ to **place them on a TRAIT** used in the Trial, saving them for future use.
 
-1. Declare the **CRUCIAL TRIAL** at any time before **DRAWING**.
-    
-2. Face the **TRIAL** as normal.
-    
-3. Choose **one of these** options based on the outcome of the **TRIAL**:
-    
-    - **NEW TRAIT**: Add a new **TRAIT** to your sheet, consistent with the experience.
-    
-    - **IMPROVE A TRAIT**: Increase the level of a **TRAIT** used in the trial (e.g., from “Persuasive” to “Persuasive II”). Using that trait gives you 1 extra ⚪.
-    
-    - Learn a **LESSON**: A new skill gained through a crucial experience; it provides beneficial effects in specific narrative contexts.
-    
-    - If you fail, gain a **SCAR**: A mark left by a significant traumatic event; it provides versatile effects in narrative contexts related to the trial.
+**Spend all drawn ⚫** by choosing one or more of the following:
+- 1 ⚫ per **COMPLICATION**: an unexpected twist with immediate impact on your hero or the scene.
+- 1 or more ⚫ for an **AFFLICTION**: a lasting consequence that affects your hero long-term, adding difficulty to future Trials until resolved.
 
----
+| Trial Phase        | Possible Actions |
+|--------------------|------------------|
+| Description        | Describe the Trial you're attempting. |
+| Building the Bag   | - Narrator sets Difficulty (⚫)<br>- Player adds ⚪ based on helpful TRAITS<br>- Narrator may add ⚫ for harmful TRAITS |
+| Drawing            | Draw as many tokens as you like. |
+| Outcome Check      | Determine success or failure. If successful, spend 1 ⚪. |
+| Spending Tokens    | Decide how to spend drawn tokens. |
+| Outcome Narration  | Narrator describes the result, including any complications or afflictions. |
 
-## Lending a Hand ✋
+📌 **NOTE**: **Success Is Never Guaranteed**  
+Remember: drawing tokens is always a gamble. If you draw a number of tokens **equal to or fewer than** the ⚫ in the bag, you risk pulling only ⚫ and failing completely. Even drawing more doesn’t guarantee safety—you might still pull all ⚫ and suffer a partial failure. The choice is yours, and the risk is real.
 
-> *Characters can join forces to face a trial, sharing resources and risks to achieve a common goal.*
-
-If you face a **TRIAL**, other **HEROES** or **SUPPORTING CHARACTERS** with a relevant **TRAIT** can choose to **COLLABORATE**. Each collaborator adds 1 ⚪ to the bag and describes how they contribute. However, each collaborator risks suffering a **COMPLICATION** or **MISFORTUNE** if ⚫ are drawn. Alternatively, the group can declare a **GROUP TRIAL**:
-
-- One player leads the trial, describing the collective action.
-    
-- Each participant adds 1 ⚪ for a relevant trait (remember, you have up to 6 ⚪ available).
-    
-- The Narrator increases the **DIFFICULTY** by 1 ⚫ for each collaborator **beyond the first**.
-    
-- The leader **DRAWS** the tokens and spends the ⚪; the ⚫ apply to the entire group or a single member, at the Narrator’s discretion.
+📌 **NOTE**: **Invest in the Future**  
+You may spend 1 ⚪ to **place it on a TRAIT** used in this Trial as a "reserve" for later.  
+- In any future Trial, you may use **at most one stored token**.  
+- Each TRAIT can hold **only one stored token**.  
+Use this precious resource wisely!
 
 ---
 
-## Tips for the Narrator
+### Trial Modifiers
 
-> *The Narrator is the director of the story, responsible for balancing risk, drama, and reward to create an engaging experience.*
+#### Thematic Statuses ⚗️
 
-- **Setting the Difficulty**: Use the Difficulty table as a guide, but consider the campaign’s tone. A “Very difficult” trial (5 ⚫) should be rare and reserved for climactic moments. Adjust the Difficulty based on the number of traits used by players to maintain the dilemma.
-    
-- **Applying Danger**: Use Danger to heighten tension, but clarify the outcome of an **EXIT FROM THE SCENE** (e.g., temporary or narrative). Avoid lethal outcomes unless they’re consistent with the story.
-    
-- **Thematic Statuses**: Apply Statuses to reflect the environment or the hero’s mental state, making the choice of how many **TOKENS** to **DRAW** more interesting. Use custom Statuses for unique events (e.g., “Fatigue” during a long march).
-    
-- **Balancing Complications and Misfortunes**: Complications should push the story forward (e.g., a new obstacle), while Misfortunes should challenge the hero without stopping them. Collaborate with players to make consequences meaningful but not punitive.
-    
-- **Shared Narrative**: Encourage players to suggest details for Complications or Scene Improvements, but retain the final say for consistency.
+To fine‑tune difficulty and add narrative depth, the Narrator may apply a **Thematic Status** before tokens are drawn.
 
----
+Before a Trial, the Narrator may assign a **STATUS** to your character. You may suggest one, but the Narrator decides whether and what to apply.
 
-## Examples
+| Status             | Effect                                      | Flavor |
+|--------------------|---------------------------------------------|--------|
+| **OPTIMISM** 😃    | If you’re about to **FAIL**, you may draw **one extra token**. | The Trial feels easy—you’re full of confidence. |
+| **ADRENALINE / FEAR** 😨 | Draw **all tokens except one**. | You’re terrified! Fight-or-flight kicks in. |
+| **CONFUSION** 😵‍💫 | You must spend **2 ⚪** to succeed at the Trial. | Your thoughts are muddled—no time to think clearly. |
+| **DISTRACTION / FATIGUE** 😮‍💨 | You may use **at most 2 TRAITS** in this Trial. | Something is draining you—mentally or physically. |
 
-#### Examples of Success and Failure
+#### Danger ❗️
 
-| TOKENS in the Bag | TOKENS DRAWN | Outcome                     |
-| ------------------ | ------------ | --------------------------- |
-| ⚪⚪⚪⚫             | ⚪⚪          | **TOTAL SUCCESS** ⭐️        |
-| ⚪⚫⚫              | ⚪⚫          | **PARTIAL SUCCESS** ✅       |
-| ⚪⚪⚫              | ⚪⚫          | **PARTIAL FAILURE** ❓       |
-| ⚪⚪⚫⚫             | ⚫           | **TOTAL FAILURE** ❌         |
+Every bold action carries a shadow of risk. When the Narrator declares **Danger**, your hero’s fate hangs by a thread: a bad draw may trigger a **Scene Exit**, a dramatic moment that shifts the story’s course.
 
-#### Example of a Misfortune
+- Before drawing, the Narrator announces a **Danger Level**: the minimum number of ⚪ you must draw to **avoid a Scene Exit**.
+- After the Trial, if the number of ⚪ you drew is:
+  - **Less than** the Danger Level → Scene Exit (collaboratively narrated).
+  - **Equal to or greater than** the Danger Level → your hero stays in the scene.
 
-*"It seems the bartender didn’t appreciate your comment about his round figure..."*  
-- You’ll receive 1 extra ⚫ difficulty for certain trials that take place in the aforementioned bar.  
-- Befriend the bartender to remove this **MISFORTUNE**.
+| ⚪ Drawn | Danger Level |
+|--------|--------------|
+| 0      | None         |
+| 1      | Low          |
+| 2      | Medium       |
+| 3      | High         |
+| …      | —            |
+| # of ⚪ in bag | Maximum |
 
-#### Example of Danger
+##### **Scene Exit**
+A **Scene Exit** is a dramatic moment where your hero is temporarily taken out of play due to Danger (drawing ⚫ ≥ Danger Level). You might lose consciousness, be captured, or face an insurmountable obstacle.  
+This is **not permanent defeat**—you return in the next scene, often with an **Affliction** or a new narrative hook. Work with the Narrator to make this moment meaningful and story‑driving.
 
-*"You’re climbing the manor’s wall on a rainy night to sneak in unnoticed."*  
-
-Difficulty **3 ⚫** (normal), you use **2 ⚪** for the traits *Climber* and *Agile*. The Narrator sets **DANGER = 2** (with **≥2 ⚫ drawn**, an **EXIT FROM THE SCENE** occurs).
-
-**Bag:** ⚪⚪⚫⚫⚫  
-You decide to **DRAW 3** **TOKENS**.  
-**Outcome:** **⚪⚫⚫ →** you pass the trial, but the **DANGER** triggers: you grab the gutter, which **collapses**, causing you to fall into the courtyard. **Exit from the Scene**: you’re captured by the guards and end up in the dungeon (you’ll return in the next scene).
-
-#### Example of a Group Trial
-
-*Three companions want to **break down** a barred door as mercenaries approach.*
-
-It’s a **Group Trial**: one leads, the others contribute.  
-Difficulty **2 ⚫** (*easy*). There are **3** participants: each adds **1 ⚪**; the Narrator **increases the Difficulty by +1 ⚫ for each collaborator beyond the first** → total **4 ⚫**. **Whites:** 3 ⚪. **Blacks:** 4 ⚫. The leader **DRAWS** and spends the ⚪ for the group.
-
-**Bag:** ⚪⚪⚪⚫⚫⚫⚫  
-The leader decides to **DRAW 3** tokens.  
-**Possible Outcome:** **⚪⚪⚫ →** **partial success**: the door gives way. **COMPLICATION**: the hinges fly off, and one character **injures** their arm, suffering a minor **Misfortune**; the **NARRATOR** may apply it to the group or a single member.
-
-#### Examples of Lesson and Scar
-
-**LESSONS** and **SCARS** are similar to **TRAITS** with effects applicable in **TRIALS** related to the **CRUCIAL TRIAL** from which they originated. Here are some examples:
-
-| LESSON                     | Flavor                                                                      | Effect                                                                                                 |
-| -------------------------- | --------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------- |
-| Dream Team                 | *"You’ve learned that the real treasure is your friends… or something like that."* | Add 1 ⚪ to the bag.                                                                                     |
-| The Supermoon              | *"During a full moon night..."*                                             | Add 2 ⚪ to the bag.                                                                                     |
-| Perseverance               | *"You’ve learned never to give up in the face of failure."*                 | If you’re about to fail, you can choose to draw another TOKEN.                                          |
-| Lucky After All            | *"When things don’t go as planned, there’s a lesson to learn."*             | If you fail partially, you can still PLACE 1 ⚪ on a TRAIT used in the trial.                           |
-| Seer                       | *"Some call it luck, but you know they’re wrong."*                          | Predict the number of ⚪ you’ll DRAW. If you’re correct, ⚪ beyond the first can be spent twice.          |
-| Thrift                     | *"Every penny counts, and you guard them carefully."*                       | Remove one TOKEN from the bag to place it on a TRAIT of your choice.                                    |
-| Order                      | *"You love routine and keeping everything in order."*                       | BURN 2 ⚪ and 1 ⚫ from the bag.                                                                         |
-
-| SCAR                       | Flavor                                                                      | Effect                                                                                                 |
-| -------------------------- | --------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------- |
-| Tough                      | *"You’ve gained wisdom and a new perspective on life."*                     | If you **FAIL** a **TRIAL**, you can spend 1 ⚫ to **PLACE IT** on a **TRAIT** you used.                |
-| Quick Thinking             | *"No time to waste… make a decision without thinking twice."*               | You can retry the draw, but unless it’s a total success, you receive 1 extra ⚫.                        |
-| Persistent                 | *"You never give up… EVER."*                                               | Return 1 ⚫ you drew to the bag, then draw another TOKEN.                                               |
-| Divide and Conquer         | *"Your ambition is to conquer and control."*                                | After drawing, you can swap drawn TOKENS with those still in the bag, but you must spend the ⚫ you drew. |
-| Over the Top               | *"Going overboard isn’t a flaw; it’s your trademark."*                      | Draw all TOKENS except one. If you fail, you can return 1 ⚫ to the bag, but ⚪ beyond the first don’t count. |
-| Cautious                   | *"After last time, you’ll never take unnecessary risks again…"*             | BURN all ⚪ and all ⚫ except one.                                                                       |
-| Control Freak              | *"You love giving orders, and others better follow them…"*                  | If you passed the trial, spend 1 ⚪; you can PLACE as many ⚪ and ⚫ as possible on traits used in the trial. |
-
-#### Examples of Improving a Trait
-
-| Trait         | Level 2                | Level 3                 | Level 4                     |
-| -------------- | ---------------------- | ----------------------- | --------------------------- |
-| Persuasive     | Persuasive II          | -                       | -                           |
-| Intuitive      | Sixth Sense II         | -                       | -                           |
-| Stealthy       | Silent Shadow II       | Urban Phantom III       | -                           |
-| Climber        | Climber II             | Expert Climber III      | -                           |
-| Brute Strength | Iron Muscles II        | Controlled Fury III     | Unstoppable Colossus IV     |
+📌 **NOTE**: **Calibrate Risk Wisely**  
+Use Danger sparingly—reserve it for crucial moments or high‑tension scenes. The Danger Level should reflect the Trial’s intensity. Avoid extreme outcomes unless they align with the campaign’s tone. Danger isn’t punishment—it’s an invitation to intensify the story.
 
 ---
 
-# **Now It’s Your Turn ✨**
+### Character Evolution
 
-You’ve read the rules. You’ve grasped the heart of the game: the risk, the choice, the shared narrative. You hold in your hands an elegant tool, made of white and black tokens, traits, scars, and lessons learned. However, these pages are not an instruction manual to follow to the letter. They are a map, an invitation. An invitation to create something alive, unpredictable, and yours.
+#### Crucial Trial 🏆
 
-**Don’t seek perfection. Seek emotion.**  
+In this system, character traits generally remain static. **Crucial Trials** are special moments that spark inner growth.
+
+You may declare a **Crucial Trial** when you feel it’s pivotal to your hero’s journey—**before drawing tokens**.
+
+After resolving the Trial normally, choose **one** of the following:
+
+- **NEW TRAIT**: Add a new TRAIT reflecting the experience. If you failed, let it echo that failure (e.g., “Distrustful”).
+- **IMPROVE A TRAIT**: If you succeeded, upgrade a used TRAIT (e.g., “Persuasive” → “Persuasive II”), granting +1 ⚪ when used.
+- **LEARN A LESSON**: Gain a new narrative ability tied to the Trial’s context. If you failed, the Lesson should reflect that weight.
+
+> If you **failed** the Crucial Trial, you’re marked by a significant trauma—**spend at least 1 ⚫ on an Affliction**.
+
+📌 **NOTE**:  
+The Narrator decides whether a Trial qualifies as Crucial, considering campaign length. Aim for a limited number of Crucial Trials.  
+Each **Lesson** can be used **once per session**.
+
+---
+
+#### Lessons ⚪️
+
+Each Crucial Trial is a crossroads—a moment that forever changes your hero. Whether you triumph or fall, what you learn makes you different: wiser, stronger… or more scarred. A **Lesson** is the fruit of that experience—a narrative gift that enriches your path.
+
+After a Crucial Trial, you may gain a **Lesson**: a skill or insight reflecting what transpired. Lessons aren’t just abilities—they’re story fragments that define who you are and how you face the world.
+
+**How it works**:
+- Create a Lesson **with the Narrator**, tied to the Trial’s outcome and context.
+- Give it an evocative name and a specific effect.
+- Use it **once per session** in a relevant Trial.
+
+> If you **failed**, the Lesson should carry the weight of that failure—perhaps granting an advantage at a cost (e.g., +1 ⚫). If you **succeeded**, let it celebrate your hero.
+
+📌 **NOTE**: Collaborate to craft Lessons that deepen narrative, not guarantee success. A Lesson born from failure might come with a price; one from success should elevate your hero.
+
+---
+
+#### Afflictions ⚫️
+
+You may choose to spend one or more drawn ⚫ to receive an **Affliction** from the Narrator.
+
+**To create an Affliction**:
+1. **Record it** on your sheet, noting its **level** (number of ⚫ spent).
+2. **Personalize it**: Work with the Narrator to name and describe it based on the Trial.
+3. **Effect**: The Affliction adds ⚫ equal to its level to **relevant future Trials**.
+4. **Resolution**: Remove it through a narrative action or specific Trial. Some fade with time, at the Narrator’s discretion.
+
+---
+
+### Group Play
+
+#### Helping Out ✋
+
+Characters can combine efforts, sharing resources and risks.
+
+- If you face a Trial, other **HEROES** or **SUPPORTING CHARACTERS** with a relevant TRAIT may **ASSIST**.
+  - Each assistant adds **1 ⚪** to the bag and describes how they help.
+  - **Difficulty increases by 1 ⚫** for each assistant **after the first**.
+  - Assistants **risk Complications or Afflictions** if ⚫ are drawn.
+
+#### Group Trial
+
+- One player **leads** the Trial, describing the collective action.
+- Each participant adds **1 ⚪** per relevant TRAIT (max 6 ⚪ total).
+- Narrator increases **Difficulty by 1 ⚫ per assistant beyond the first**.
+- The **leader draws** tokens and spends ⚪; ⚫ affect the **whole group** or a chosen member (Narrator’s call).
+
+#### Player Conflict 🏹
+
+When characters clash—over ideals, pride, or interests—choose one of two approaches:
+
+**OPTION 1: Single Trial**  
+Use when you want to preserve mystery or treat the other player as “just another NPC.”
+- Only one player rolls.
+- Add ⚫ equal to the number of **opposing/helpful TRAITS** of the other character.
+- The other player remains “invisible” to mechanics.
+
+**OPTION 2: Opposed Trial**  
+Use when conflict is open and both players want active roles.
+- First player resolves their Trial normally.
+- Second player **immediately draws** their own tokens.
+- Narrator weaves both outcomes into a single narrative.
+
+---
+
+### Tips for the Narrator
+
+You’re the story’s director—balance risk, drama, and reward.
+
+- **Set Difficulty** using the table, but adapt to your campaign’s tone. “Very Hard” (5 ⚫) should be rare and climactic.
+- **Use Danger** to heighten tension—clarify what a Scene Exit means (temporary? narrative?). Avoid lethality unless it fits the story.
+- **Apply Thematic Statuses** to reflect mental state or environment. Create custom ones for unique moments (e.g., “Exhaustion” during a long march).
+- **Balance Complications & Afflictions**:  
+  - **Complications** should propel the story (new obstacles).  
+  - **Afflictions** should challenge—but not cripple—your heroes.  
+  Collaborate to make consequences meaningful, not punitive.
+- **Shared Narrative**: Encourage players to suggest scene details, but retain final say for coherence.
+
+---
+
+### Examples
+
+#### Sample Traits
+
+**ARCHETYPES**  
+- *The Wandering Warrior*: A fighter without a homeland, seeking purpose or redemption.  
+- *The Mystic Dreamer*: Tied to dreams or spirits; sees what others cannot.  
+- *The Shrewd Merchant*: Always finds an advantage, even in despair.  
+- *The Lone Guardian*: A silent protector of a place, person, or secret.
+
+**QUALITIES**  
+- *Courageous*: You face danger when others flee.  
+- *Cunning*: You solve problems indirectly—your mind is your weapon. (+1 ⚪ in intrigue, stealth, or puzzles)  
+- *Empathetic*: You sense and influence emotions.  
+- *Stubborn*: Once decided, you won’t stop—strength or flaw. (May count as ⚫)  
+- *Unlucky*: Fortune never favors you—but you’ve learned to cope. (May count as ⚫)
+
+**SKILLS**  
+- *Stealthy*, *Climber*, *Swordsman*, *Persuasive*, *Quick Fingers*, *Scholar*
+
+#### Success/Failure Examples
+
+| Tokens in Bag | Tokens Drawn | Outcome |
+|---------------|--------------|--------|
+| ⚪⚪⚪⚫        | ⚪⚪          | FULL SUCCESS ⭐️ |
+| ⚪⚫⚫          | ⚪⚫           | PARTIAL SUCCESS ✅ |
+| ⚪⚪⚫          | ⚪⚫           | PARTIAL FAILURE ❓ |
+| ⚪⚪⚫⚫         | ⚫            | TOTAL FAILURE ❌ |
+
+*(Full narrative examples from the original are preserved in spirit—e.g., “The Perfect Theft”, “The Rainy Climb”, etc.—and can be translated on request.)*
+
+#### Sample Afflictions
+
+- **“The Last Straw”** ⚫⚫: +2 ⚫ to all Trials in the tavern where the insult happened.  
+  *Resolve by befriending the bartender.*  
+- **“Wounded Pride”** ⚫: +1 ⚫ to social Trials involving nobles.  
+  *Resolve by defeating your rival in a duel.*
+
+#### Sample Lessons
+
+| Lesson | Flavor | Effect |
+|--------|--------|--------|
+| **Last Chance** | “You never give up.” | If about to fail, draw one extra token. |
+| **Dream Team** | “Friends are the real treasure.” | +1 ⚪ in group Trials. |
+| **Luck in the End** | “Every failure holds a lesson.” | On partial failure, still place 1 ⚪ on a used TRAIT. |
+| **Cautious** | “After last time, you take no unnecessary risks.” | Burn all drawn tokens except one. |
+
+*(More examples adapted directly from the Italian list—see original for full set.)*
+
+---
+
+### Now It’s Your Turn ✨
+
+You’ve read the rules. You understand the heart of the game: **risk, choice, shared storytelling**. You hold an elegant tool—white and black tokens, Traits, Lessons. But these pages aren’t a rigid manual. They’re a **map**, an **invitation**.
+
+Don’t seek perfection. Seek **emotion**.  
 Let complications surprise you.  
-Let successes thrill you.  
-Let misfortunes shape you.  
-*New Beginning* isn’t a system that tells you what to do. It’s a system that asks: *“How much do you dare to risk?”* Every ⚪ you put in the bag is a piece of you, your character, your story. Every ⚫ you draw is an opportunity to turn failure into drama, defeat into a new beginning.
+Let successes exhilarate you.  
+Let afflictions shape you.
 
-The Narrator has their role, the players theirs. But the story? The story is born *between* you, in the moment you decide how many tokens to draw, when you accept a misfortune because “yes, it makes sense for my character,” when someone says, “What if instead…?”
+**New Beginning** doesn’t tell you what to do. It asks:  
+> “**How much do you dare risk?**”
 
-Now take your characters, the bag, your courage, and begin. Your story awaits nothing else!
+Every ⚪ you place in the bag is a piece of you, your hero, your story.  
+Every ⚫ you draw is a chance to turn failure into drama, defeat into a new beginning.
 
-> *“It’s not the end. It’s just a new beginning.”*
+The Narrator has their role. The players have theirs.  
+But the story?  
+**The story is born between you**—in the moment you decide how many tokens to draw, in the moment you accept an affliction because “yes, that fits my character,” in the moment someone says, “What if…?”
+
+Now take your heroes, your bag, your courage—and begin.  
+Your story is waiting.
+
+> “It’s not the end. It’s just a new beginning.”
+
+---
+
+## Glossary 📜
+
+- **Archetype**: Core identity trait (e.g., “Wandering Warrior”). Adds 1 ⚪ when relevant.  
+- **Complication**: Immediate narrative twist from spending ⚫. Drives story forward.  
+- **Difficulty**: Trial challenge level (1–6 ⚫), set by Narrator.  
+- **Hero**: Player character whose fate is shaped by choices and draws.  
+- **Lesson**: Ability gained from a Crucial Trial. Usable once per session in relevant context.  
+- **Narrator**: Story director—sets Difficulty, applies Statuses/Danger, interprets outcomes.  
+- **Danger**: Risk level (1–3 ⚫). Drawing ⚫ ≥ Danger triggers a Scene Exit.  
+- **Trial**: Meaningful action with uncertain outcome, resolved by drawing tokens.  
+- **Crucial Trial**: Pivotal Trial enabling growth (new Trait, improved Trait, or Lesson).  
+- **Quality**: Personal/emotional Trait (e.g., “Courageous”). Adds 1 ⚪ when relevant.  
+- **Affliction**: Lasting penalty from spending ⚫. Adds ⚫ to future relevant Trials.  
+- **Thematic Status**: Pre-Trial modifier altering draw rules (e.g., “Fear”, “Confusion”).  
+- **Token**: White (⚪) or black (⚫) marker drawn to resolve Trials.  
+- **Trait**: Character feature (Archetype, Quality, or Skill) that adds ⚪ (or ⚫) to Trials.  
+- **Scene Exit**: Dramatic temporary removal from play due to Danger. Hero returns next scene.

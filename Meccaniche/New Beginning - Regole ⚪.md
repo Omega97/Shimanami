@@ -101,10 +101,8 @@ Con soli due colori – ⚪ bianchi e ⚫ neri – ogni estrazione decide il
 | -------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 | Descrizione                | Descrivi la PROVA che stai cercando di affrontare.                                                                                                                                                     |
 | Costruire <br>il Sacchetto | - Il NARRATORE decide la difficoltà (⚫) della prova.<br>- Il giocatore aggiunge ⚪ nel sacchetto in base ai TRATTI favorevoli<br>- Eventualmente, il NARRATORE aggiunge ⚫ in base ai TRATTI sfavorevoli |
-| Usare modificatori         | Ora è il momento di usare eventuali modificatori che il tuo personaggio ha acquisito, e che si attivano prima dell'estrazione. (vedi Lezioni)                                                          |
 | Estrazione                 | Estrai tanti TOKEN quanti desideri dal sacchetto.                                                                                                                                                      |
 | Verifica dell'esito        | Verifica se hai superato o fallito la PROVA. Se l'hai superata, spendi 1⚪.                                                                                                                             |
-| Usare modificatori II      | Ora puoi usare eventuali modificatori che si attivano dopo l'estrazione.                                                                                                                               |
 | Spendere i Token           | Il giocatore decide come spendere i TOKEN.                                                                                                                                                             |
 | Descrizione dell'Esito     | Il NARRATORE descrive l'esito della scena, e decide le eventuali complicazioni e sventure da assegnare al giocatore.                                                                                   |
 
@@ -113,7 +111,25 @@ Con soli due colori – ⚪ bianchi e ⚫ neri – ogni estrazione decide il
 > Ricorda: estrarre token è sempre un azzardo. Se estrai un numero di token pari o inferiore ai ⚫ nel sacchetto, rischi di pescare _solo_ ⚫ e fallire totalmente. Ma attenzione; anche estraendone di più, potresti comunque beccare _tutti_ i ⚫ e incappare in un fallimento parziale. La scelta è tua, e il rischio è reale.
 
 > 📌 **NOTA BENE: Investire nel Futuro** 
-> Puoi spendere 1 ⚪ per collocarlo su un Tratto usato in questa prova, come "riserva" per il futuro. Ricorda: in ogni prova puoi usare _al massimo un solo_ token collocato, e ogni tratto può ospitare _al massimo un_ token. È una risorsa preziosa: usala con saggezza!
+> Puoi spendere 1 ⚪ per collocarlo su un tratto usato in questa prova, come "riserva" per il futuro. Ricorda: in ogni prova puoi usare _al massimo un solo_ token collocato, e ogni tratto può ospitare _al massimo_ un ⚪. È una risorsa preziosa: usala con saggezza!
+
+---
+
+### Collocare i Token su un Tratto
+
+>  Collocare un ⚪ è una risorsa preziosa, ma limitata. Richiede un successo, un Tratto rilevante e una scelta consapevole. Usala con saggezza: quei token “risparmiati” possono fare la differenza quando tutto sembra perduto.
+
+Quando superi una **PROVA** con successo, hai la possibilità di **COLLOCARE** uno o più token bianchi (⚪) appena estratti su uno dei **TRATTI** che hai messo in gioco durante quella **PROVA**. Questo gesto rappresenta un investimento nel tuo personaggio: stai “fissando” una parte del tuo successo in quel **TRATTO**, per poterlo richiamare in futuro.
+
+- Puoi **COLLOCARE** **al massimo un solo ⚪ per TRATTO**.
+    
+- In una qualsiasi **PROVA** futura, puoi **usare un solo TOKEN collocato**, anche se ne hai più di uno su Tratti diversi.
+    
+- Il **TOKEN** collocato viene **aggiunto al sacchetto** prima dell’estrazione, come se fosse un ⚪ normale, e può essere estratto come tutti gli altri.
+    
+- Una volta estratto, il **TOKEN** collocato **non ritorna automaticamente** sul Tratto: se vuoi ri-collocarlo, devi farlo nuovamente spendendo un ⚪ dopo un successo.
+    
+- Alcune meccaniche che vedremo in seguito ti permetteranno di collocare anche ⚫.
 
 ---
 
@@ -124,22 +140,14 @@ Con soli due colori – ⚪ bianchi e ⚫ neri – ogni estrazione decide il
 
 > _Per modulare la difficoltà delle prove, e aggiungere un ulteriore livello di personalizzazione e contesto alle prove, il narratore può applicare uno status tematico al personaggio prima che vengano estratti i token._
 
-Prima di affrontare una **PROVA**, il **NARRATORE** può scegliere di **applicare** uno **STATUS**. Puoi fare suggerimenti, ma sarà il **NARRATORE** a decidere se e cosa applicare. Ecco alcuni esempi:
+Prima di affrontare una **PROVA**, il **NARRATORE** può scegliere di applicare uno **STATUS** al tuo personaggio. Puoi fare suggerimenti, ma sarà il **NARRATORE** a decidere se e cosa applicare. Ecco alcuni esempi:
 
-| Status Positivi 😃 | Effetto                                                                     | Flavour                                                              |
-| ------------------ | --------------------------------------------------------------------------- | -------------------------------------------------------------------- |
-| **FIDUCIOSO**      | **ESTRARRE** tutti i ⚫ nel sacchetto non conta come **FALLIMENTO PARZIALE** | *La prova è facile, e sei molto sicuro di te.*                       |
-| **OTTIMISMO**      | Se **ESTRAI** un sono **TOKEN** e **FALLISCI**, puoi **ESTRARRE** ancora.   | *È la prima volta che ci provi, ma andrà tutto bene...*              |
-| **CONCENTRAZIONE** | Se scegli di **ESTRARRE** un solo **TOKEN**, i ⚪ contano come 2.            | *Sei focalizzato su un obiettivo che mette alla prova la tua mente.* |
-| **ISPIRAZIONE**    | Se **MIGLIORI LA SCENA**, puoi suggerire un dettaglio al **NARRATORE**      | _Un’idea improvvisa ti guida verso il successo._                     |
-|                    |                                                                             |                                                                      |
-
-| Status Negativi 😨           | Effetto                                                                          | Flavour                                                                        |
-| ---------------------------- | -------------------------------------------------------------------------------- | ------------------------------------------------------------------------------ |
-| **ADRENALINA**               | **ESTRAI** tutti i **TOKEN** tranne uno.                                         | *In questa prova fisica entra in gioco il tuo istinto lotta-o-fuggi!*<br>      |
-| **CONFUSIONE**               | Un ⚫ che **ESTRAI** conterà come 2.                                              | *In un momento concitato, non hai il tempo di pensare...*                      |
-| **PAURA**                    | Devi spendere 2⚪ per superare la prova.                                          | *Sei spaventato, le tue decisioni sono offuscate.*                             |
-| **DISTRAZIONE** / **FATICA** | Non puoi usare più di 2 **TRATTI** in questa prova, anche se ne possiedi di più. | _Qualcosa ti deconcentra, rendendo difficile sfruttare tutte le tue capacità._ |
+| Status                         | Effetto                                                          | Flavour                                                                                                       |
+| ------------------------------ | ---------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------- |
+| **OTTIMISMO** 😃               | Se stai per **FALLISRE**, puoi **ESTRARRE** ancora un **TOKEN**. | *La prova è facile, e sei molto **sicuro di te**.*                                                            |
+| **ADRENALINA / PAURA** 😨      | **ESTRAI** tutti i **TOKEN** tranne uno.                         | *Sei **spaventato**! In questa prova fisica entra in gioco il tuo istinto lotta-o-fuggi!*<br>                 |
+| **CONFUSIONE** 😵‍💫           | Devi spendere 2⚪ per superare la **PROVA**.                      | *Sei **confuso**! Le tue decisioni sono offuscate.* *In un momento concitato, non hai il tempo di pensare...* |
+| **DISTRAZIONE / FATICA** 😮‍💨 | In questa prova puoi usare al più 2 **TRATTI** .                 | _Qualcosa ti sta **provando** fisicamente o mentalmente, rendendo difficile sfruttare tutte le tue capacità._ |
 
 ---
 
@@ -386,7 +394,7 @@ Puoi gestire questi momenti scegliendo **una delle due modalità seguenti**, a s
 3. Decidi di estrarre 2 **TOKEN**: ⚪⚪ → **SUCCESSO TOTALE** ✅✅  
 4. **Spendi i TOKEN:  
    - 1 ⚪ → **Superi la PROVA**.  
-   - 1 ⚪ → **Collochi un ⚪** su *Furtivo*. La prossima volta che userai questo tratto, potrai aggiungerlo al sacchetto.
+   - 1 ⚪ → **COLLOCHI un ⚪** su *Furtivo*. La prossima volta che userai questo tratto, potrai aggiungerlo al sacchetto.
 
 > Narratore: *“Con un movimento fluido, l’anello scivola nella tua tasca. La guardia si volta, ma tu sei già nell’ombra. Un lavoro perfetto.”*
 
@@ -517,43 +525,52 @@ Sconfiggi la tua nemesi in duello per eliminare questa **SVENTURA**.
 
 ### Esempi di Lezione
 
-La **LEZIONE** è un effetto applicabile in una **PROVA** inerente alla **PROVA CRUCIALE** dalla quale ha avuto origine. Ecco alcuni esempi:
+La **LEZIONE** è un effetto applicabile in una **PROVA** inerente alla **PROVA CRUCIALE** dalla quale ha avuto origine. Cerca di bilanciare la lezione in modo che non sia applicabile troppo facilmente.
 
-| LEZIONE           | Flavor                                                                       | Effetto                                                                                                                                             |
-| ----------------- | ---------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------- |
-| La Superluna      | *"Durante una notte di luna piena..."*                                       | Aggiungi 2⚪️ nel sacchetto.                                                                                                                         |
-| Ultima chance     | *"Hai imparato a non arrenderti mai davanti a un fallimento."*               | Se stai per fallire, puoi scegliere di estrarre ancora un TOKEN.                                                                                    |
-| Dream Team        | *"Hai imparato che il vero tesoro sono gli amici... o qualcosa del genere."* | Aggiungi 1⚪️ nel sacchetto.                                                                                                                         |
-| Dividi et Impera  | *"La tua ambizione è conquistare e controllare."*                            | Dopo aver estratto, puoi scegliere di scambiare i TOKEN estratti con quelli ancora nel sacchetto, ma dovrai spendere anche i ⚫️ che avevi estratto. |
-| "Luck in the end" | *"Quando le cose non vanno secondo i piani, c'è una lezione da imparare."*   | Se fallisci parzialmente, puoi comunque COLLOCARE 1⚪️ su un TRATTO che hai usato nella prova.                                                       |
-| Veggente          | *"Alcuni la chiama fortuna, ma tu sai che si sbagliano."*                    | Chiama il numero di ⚪️ che stai per ESTRARRE. Se indovini, i ⚪️ dopo il primo li puoi spendere 2 volte.                                             |
-| Ordine            | *"Ti piace la routine, e tenere tutto ben in ordine."*                       | Prima di estrarre, BRUCIA 2 ⚪️ e 1 ⚫️ dal sacchetto.                                                                                                |
+Le **LEZIONI** hanno effetto tra gli step della **PROVA**:
+- Il **NARRATORE** inserisce i **TOKEN** nel sacchetto. 
+- 🔃 Alcune lezioni modificano il numero di **TOKEN** nel sacchetto.
+- **ESTRAI** i **TOKEN** dal sacchetto.
+- ✌️ Alcune lezioni ti permettono di **reinserire** i **TOKEN** nel sacchetto, o **ESTRARRE** ancora.
+- Se hai superato la **PROVA**, devi spendere 1⚪.
+- 💸 **BRUCIARE** vuol dire rimuovere i **TOKEN** dalla prova. Altre lezioni ti permettono di **COLLOCARE** i **TOKEN** in modo particolare.
+- Spendi normalmente i **TOKEN** restanti: (migliorare la scena, collocare su un tratto, complicazione, sventura)
+
+| LEZIONE                  | Flavor                                                                       | Effetto                                                                                                                                             |
+| ------------------------ | ---------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------- |
+| La Super-luna<br>🔃<br>  | *"Durante una notte di luna piena..."*                                       | Aggiungi 2⚪️ nel sacchetto.                                                                                                                         |
+| Dream Team<br>🔃<br>     | *"Hai imparato che il vero tesoro sono gli amici... o qualcosa del genere."* | Aggiungi 1⚪️ nel sacchetto (oltre a quello/i che hai già aggiunto).                                                                                 |
+| Ordine<br>🔃             | *"Ti piace la routine, e tenere tutto ben in ordine."*                       | Prima di estrarre, BRUCIA 2 ⚪️ e 1 ⚫️ dal sacchetto.                                                                                                |
+| Veggente<br>🔃💸         | *"Alcuni la chiama fortuna, ma tu sai che si sbagliano."*                    | Chiama il numero di ⚪️ che stai per ESTRARRE. Se indovini, i ⚪️ dopo il primo li puoi spendere 2 volte.                                             |
+| Ultima chance<br>✌️      | *"Hai imparato a non arrenderti mai davanti a un fallimento."*               | Se stai per fallire, puoi scegliere di estrarre ancora un TOKEN.                                                                                    |
+| Dividi et Impera<br>✌️💸 | *"La tua ambizione è conquistare e controllare."*                            | Dopo aver estratto, puoi scegliere di scambiare i TOKEN estratti con quelli ancora nel sacchetto, ma dovrai spendere anche i ⚫️ che avevi estratto. |
+| "Luck in the end"<br>💸  | *"Quando le cose non vanno secondo i piani, c'è una lezione da imparare."*   | Se fallisci parzialmente, puoi comunque COLLOCARE 1⚪️ su un TRATTO che hai usato nella prova.                                                       |
 
 Se la **PROVA CRUCIALE** non ha avuto l'effetto desiderato, cerca di far riflettere ciò nella nuova **LEZIONE**. Ecco alcuni esempi:
 
-| LEZIONE               | Flavuor                                                                        | Effetto                                                                                                                                               |
-| --------------------- | ------------------------------------------------------------------------------ | ----------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Perseverante          | *"Non ti dai mai per vinto... MAI."*                                           | Rimescola nel sacchetto 1⚫️ che hai estratto, poi estrai un altro TOKEN.                                                                              |
-| Coriaceo              | *"Hai ottenuto saggezza, e una nuova prospettiva sulla vita."*                 | Se **FALLISCI** una **PROVA**, puoi spendere 1⚫️ per **COLLOCARLO** su un **TRATTO** che hai usato.                                                   |
-| Pensare in fretta     | *"Non c'è tempo da perdere... prendi una decisione senza pensarci due volte."* | Puoi ritentare l'estrazione, ma a meno di un successo totale, ricevi 1⚫️ in più.                                                                      |
-| Esagerato             | *"Strafare non è un difetto, è il tuo marchio di fabbrica."*                   | Estrai tutti i TOKEN tranne uno. Se fallisci, puoi rimettere 1 ⚫️ nel sacchetto, ma i ⚪️ oltre il primo non contano.                                  |
-| Cauto                 | *"Dopo l'ultima volta, non correrai mai più rischi inutili..."*                | BRUCIA tutti i ⚪️, e tutti i ⚫️ che hai estratto, tranne uno.                                                                                         |
-| Maniaco del controllo | *"Adori dare ordini, e gli altri faranno meglio a seguirli..."*                | Se hai superato la prova, spendi un ulteriore ⚪️; puoi scegliere di COLLOCARE quanti più ⚪️ e ⚫️ possibili sui tratti che hai usato durante la prova. |
-| Parsimonia            | *"Ogni centesimo conta, e tu li custodisci con cura."*                         | Rimuovi un TOKEN dal sacchetto per collocarlo su un TRATTO a tua scelta.                                                                              |
-
-> **📌 NOTA:** Ricorda che, quado hai superato la prova con successo, devi spendere 1⚪.
-
+| LEZIONE                     | Flavuor                                                                        | Effetto                                                                                                                                               |
+| --------------------------- | ------------------------------------------------------------------------------ | ----------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Parsimonia<br>🔃            | *"Ogni centesimo conta, e tu li custodisci con cura."*                         | Prima di estrarre, rimuovi un TOKEN dal sacchetto per collocarlo su un TRATTO a tua scelta.                                                           |
+| Perseverante<br>✌️          | *"Non ti dai mai per vinto... MAI."*                                           | Rimescola nel sacchetto 1⚫️ che hai estratto, poi estrai un altro TOKEN.                                                                              |
+| Pensare in fretta<br>✌      | *"Non c'è tempo da perdere... prendi una decisione senza pensarci due volte."* | Puoi ritentare l'estrazione, ma a meno di un successo totale, ricevi 1⚫️ in più.                                                                      |
+| Esagerato<br>✌              | *"Strafare non è un difetto, è il tuo marchio di fabbrica."*                   | Estrai tutti i TOKEN tranne uno. Se fallisci, rimetti 1⚫️ e 1⚪️ nel sacchetto, e pesca ancora un TOKEN.                                               |
+| Coriaceo<br>💸              | *"Hai ottenuto saggezza, e una nuova prospettiva sulla vita."*                 | Se **FALLISCI** una **PROVA**, puoi spendere 1⚫️ per **COLLOCARLO** su un **TRATTO** che hai usato.                                                   |
+| Cauto<br>💸                 | *"Dopo l'ultima volta, non correrai mai più rischi inutili..."*                | BRUCIA tutti i ⚪️, e tutti i ⚫️ che hai estratto, tranne uno.                                                                                         |
+| Maniaco del controllo<br>💸 | *"Adori dare ordini, e gli altri faranno meglio a seguirli..."*                | Se hai superato la prova, spendi un ulteriore ⚪️; puoi scegliere di COLLOCARE quanti più ⚪️ e ⚫️ possibili sui tratti che hai usato durante la prova. |
+ 
 ---
 
 ### Esempi di Migliorare un Tratto
 
-| Tratto      | Livello 2            | Livello 3             | Livello 4                |
-| ----------- | -------------------- | --------------------- | ------------------------ |
-| Persuasivo  | Persuasivo II        | -                     | -                        |
-| Intuitivo   | Sesto Senso II       | -                     | -                        |
-| Furtivo     | Ombra Silenziosa II  | Fantasma Urbano III   | -                        |
-| Scalatore   | Scalatore II         | Scalatore Esperto III | -                        |
-| Forza Bruta | Muscoli d’Acciaio II | Furia Controllata III | Colosso Inarrestabile IV |
+I tratti possono essere migliorati fino al livello 3. Quando usi il tratto, ricevi ⚪ in base al livello.
+
+| Tratto      | Livello 2            | Livello 3             |
+| ----------- | -------------------- | --------------------- |
+| Persuasivo  | Persuasivo II        | Persuasivo III        |
+| Intuitivo   | Intuitivo II         | Sesto Senso III       |
+| Furtivo     | Ombra Silenziosa II  | Fantasma Urbano III   |
+| Scalatore   | Scalatore II         | Scalatore Esperto III |
+| Forza Bruta | Muscoli d’Acciaio II | Furia Controllata III |
 
 ---
 
