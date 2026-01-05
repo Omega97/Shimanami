@@ -566,10 +566,6 @@ Gli altri due circondano la casa. C'era Rika Hebi a reggere la porta. Trovano i 
     
 * Vito non ama sforzarsi a gestire un business, o ragionare per trovare soluzioni ai problemi, per lui penseremo ad un game-style più semplice e high-level.
     
-* Vito è un po' pigro, preferisce rispondere a semplici domande si/no piuttosto che andare a cercare modi creativi di interagire col mondo.
-    
-* E' probabile che Vito non colga le sottigliezze implicite e le possibili ramificazioni delle svolte, quindi per lui ricorreremo ad un messaggio più diretto.
-    
 * Punta a divertirsi, vuole fare l'arrampicata sociale.
     
 * Vito punta alla vittoria diplomatica, incontrando persone di rilievo ed entrando in politica.

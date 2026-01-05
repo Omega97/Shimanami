@@ -104,4 +104,4 @@ _Reika_ sta cercando di ricucire i rapporti con la sua famiglia, ma senza molto 
     
 - Sospettosa di #Vito, le guardie non possono farlo entrare nell'allevamento.
     
-- Sua sorella ha gli occhi Dorati
+- ha fatto un colloquio con #Zilla e #Vito, dove non sono riusciti a convincerla che #Cris è un criminale
