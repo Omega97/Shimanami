@@ -16,15 +16,13 @@ Con soli due colori – ⚪ bianchi e ⚫ neri – ogni estrazione decide il
     
 2. Un sacchetto per **ESTRARRE** i **TOKEN**.
     
-3. Schede personaggio con 8 **TRATTI** iniziali: 
+3. [Scheda personaggio](https://github.com/Omega97/Shimanami/blob/main/Meccaniche/_template_character_sheet_NB.pdf), con il nome del personaggio, descrizione, possedimenti, **LEZIONI**, **SVENTURE**. e 8 **TRATTI** iniziali: 
      
 	- 1 **ARCHETIPO** (definisce chi è il tuo eroe, e il suo ruolo nel mondo)
 	    
 	- 3 **QUALITÀ** (descrivono le caratteristiche personali, emotive o morali del personaggio)
 	    
 	- 4 **ABILITÀ** (rappresentano competenze pratiche, tecniche o professionali che il personaggio ha sviluppato)
-	    
-	- [Scheda personaggio](https://github.com/Omega97/Shimanami/blob/main/Meccaniche/_template_character_sheet_NB.pdf), con il nome del personaggio, descrizione, **TRATTI**, possedimenti, **LEZIONI**, e **SVENTURE**.
 
 ---
 

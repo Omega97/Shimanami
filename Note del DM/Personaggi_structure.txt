@@ -1,0 +1,67 @@
+NPC\Altri Personaggi\Famiglia Sakurada - I Signori delle Miniere ⛏️.md
+NPC\Altri Personaggi\Hatanaka Oki – La Ronin Errante☝️.md
+NPC\Altri Personaggi\Kenta Mitsuyui - Lo Stratega Timoniere 🛶.md
+NPC\Altri Personaggi\La Ciurma di Nanami ⛵️.md
+NPC\Altri Personaggi\Minamoto no Haruto – Il Custode del Protocollo Imperiale 🏯.md
+NPC\Altri Personaggi\Pierre Delacroix - Lo Straniero della Tempesta ⛈.md
+NPC\Altri Personaggi\Sakurada Kiyomaru – Il Collezionista di Kimono 🥋.md
+NPC\Altri Personaggi\Tanaka Kenji – Il Ronin Solitario 🥷.md
+NPC\Città di Kanemura\Bugyō Kiritani Dōan – Il Palato del Porto 🍱.md
+NPC\Città di Kanemura\Daimyō Aokabe Munetaka – Il Leader Silenzioso di Shimanami 🏯.md
+NPC\Città di Kanemura\Ex-Bugyō Fukuda Masanori – Il Funzionario dalle Abitudini Raffinate 🏮.md
+NPC\Città di Kanemura\Famiglia Kujō – I Sovrani delle Chele di Kanemura 🦀.md
+NPC\Città di Kanemura\Gyōkai – Il Guardiano del Rito Antico 🏯.md
+NPC\Città di Kanemura\Hanamura Akito - Il Monaco Disponibile ✋.md
+NPC\Città di Kanemura\Hanamura Renji - Il Fiore che Inclina il Capo 🌷.md
+NPC\Città di Kanemura\Jōshu Hoshino Gen – Il Leader Stratega di Kanemura ⚔️.md
+NPC\Città di Kanemura\Katodami Anzu – L’Eleganza Silenziosa di Kanemura 🌸.md
+NPC\Città di Kanemura\Kujō Reika – La Mano che Stringe le Chele 🦀.md
+NPC\Città di Kanemura\Okonogi Rentarō - Il Mercante d’arte di Kanemura 🎨.md
+NPC\Città di Kanemura\Shirakawa Norikane – Il Mercante nell’Ombra 🏮.md.md
+NPC\Città di Kanemura\Shirakawa Tomoe – La Padrona del Tè Silenzioso 👘.md
+NPC\Città di Kanemura\Tachikawa Rin - La Tessitrice di Memorie 🧶.md
+NPC\Città di Kanemura\Takizawa Isshō – Il Cartografo delle Katane Perdute 📚.md
+NPC\Città di Kanemura\Tenshin - Il Giardiniere Silenzioso del Respiro Verde 🧘‍♂️.md
+NPC\Città di Kanemura\Tsukigane Gorō - Il Collezionista d’Acciaio ⚔️.md
+NPC\Città di Kanemura\Yamahoka (Ichinose) Kameko  - La Custode del Riso e dei Conti 🌾.md
+NPC\Città di Kanemura\Yamahoka Kazuo – Il Custode del Riso Senza Sorriso 🌾.md
+NPC\Città di Takamura\Arimura Kenzan – Il Collezionista Bruciante 🗡️.md
+NPC\Città di Takamura\Bugyō Yasuhide Chikamoto - Il Santo Yasuhide 😇.md
+NPC\Città di Takamura\Famiglia Hanamura – I Fiori della Dignità Perduta 🌷.md
+NPC\Città di Takamura\Katsuro Ishida – L’Architetto delle Altezze 🧱.md
+NPC\Città di Takamura\Kurata Itsuki – l'Allevatore di Galline 🐓.md
+NPC\Città di Takamura\Rika Hebi - la Tessitrice di Reti 🥅.md
+NPC\Città di Takamura\Shuda Enjin – Il Monaco dell’Argilla Vivente 🍶.md
+NPC\Città di Takamura\Tachibana Nozomi – La Mercante del Tè Controverso 🍵.md
+NPC\Città di Takamura\Takatsu Azuki – La Maestra Ceramista dai Desideri Segreti 🪴.md
+NPC\Città di Takamura\Umaghi Masaru – Lo Chef Innovativo di Takamura🧑‍🍳.md
+NPC\Città di Takamura\Venerabile Hoshikawa Ryūzen – Il Monaco dai Tre Respiri 🕊.md
+NPC\Città di Takamura\Yazaki Renzō – L’Arciere dei Riti Perduti 🏹.md
+NPC\Città di Umihana\Aoyama Reiji – L’Orafo dalle Perle 💍.md
+NPC\Città di Umihana\Araki Shunsuke - Lo Squalo di Umihana 🦈.md
+NPC\Città di Umihana\Bugyō Hirataka Shōei - ll Collezionista d’Ombre ☂️.md
+NPC\Città di Umihana\Famiglia Hamada – I Signori delle Alghe di Umihana 🌿.md
+NPC\Città di Umihana\Famiglia Nagatomo – I Custodi del Profondo 🦪.md
+NPC\Città di Umihana\Fujikawa Sayuri – La Geisha dell'Ambizione Silenziosa 🎐.md
+NPC\Città di Umihana\Hachirobei “Hachi” – Il Vecchio Pescatore di Umihana 🐟.md
+NPC\Città di Umihana\Hamada Genbei – Il Re delle Alghe di Umihana 🌿.md
+NPC\Città di Umihana\Hamada Hinojo – L'Oste del Gusto Fermentato 🍙.md
+NPC\Città di Umihana\Inoue Daichi – Il Giovane Mercante Estroverso 🎎.md
+NPC\Città di Umihana\Isokawa Ranka – Capociurma della Vecchia Freccia 🌊.md
+NPC\Città di Umihana\Kai Ume – La Danzatrice dell’Abisso 🐚.md
+NPC\Città di Umihana\Kobayashi Hideo – Il Mercante delle Mille Perle 🦪.md
+NPC\Città di Umihana\Kōsen – Il Monaco del Mare Silente 🌊.md
+NPC\Città di Umihana\Matsuda Ayaka – L’Arciera Invincibile di Shimanami 🏹.md
+NPC\Città di Umihana\Matsui Noboru - Il Capitano Navigato ⛵️.md
+NPC\Città di Umihana\Moriyasu Keijirō - Il Venditore della Cenere 🔥.md
+NPC\Città di Umihana\Nagatomo Kazuhiko – Il Signore delle Conchiglie 🐚.md
+NPC\Città di Umihana\Nakahara Sōetsu - Intendente di Permessi Portuali 🛳.md
+NPC\Città di Umihana\Nakahara Sōgen – Il Capo Flotta di Umihana ⚓️.md
+NPC\Città di Umihana\Nakai Taichi – Il Ragazzo del Cantiere Navale 🚣‍♂️.md
+NPC\Città di Umihana\Takeda Yasukatsu - Il Pescatore Ambizioso 🎣.md
+PC\Cris\Ishiyama Takemura - Il Figlio del Mare 🟡.md
+PC\Kleit\Kanemoro Hirata - l’Artista del Tè ⚪️.md
+PC\Nic\Shingi Tadano - Il Maestro del Sake 🔴.md
+PC\Peter\Ichinose Tōji - Il Mercante Ambizioso 🟢.md
+PC\Vito\Takebe Saori - Il Fascino di Kanemura 🟣.md
+PC\Zilla\Suzuki Taichi - Il Mercante dal Cuore d'Oro 🔵.md

@@ -2,7 +2,7 @@
 #  Shimanami: Regole di Interazione e Dinamiche di Gioco del Gestionale Asincrono
 
 
-## Obiettivo del Gioco
+##   Obiettivo del Gioco
 
 > L'obiettivo principale del gioco è accumulare più *ricchezza* possibile sull'isola di Shimanami.
 

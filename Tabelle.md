@@ -57,6 +57,7 @@ Come punto di riferimento, 1 Koku = 400 Ryō di riso (40🟡) nutrono un uomo me
 | Fagioli Azuki 🫛        | 14 ⚪️           |
 | Cocco 🥥                | 13 ⚪️           |
 | Mango 🥭                | 12 ⚪️           |
+| Granchi 🦀              | 12 ⚪️           |
 | Pesce 🐟                | 11 ⚪️           |
 | Riso 🌾                 | 10 ⚪️           |
 | Patate dolci 🍠         | 4 ⚪️            |
