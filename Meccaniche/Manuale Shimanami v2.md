@@ -1,8 +1,17 @@
 
 #  Shimanami: Regole di Interazione e Dinamiche di Gioco del Gestionale Asincrono
 
+#todo gli stampini diventano il punti "influenza" pari al livello del PC (somma dei livelli dei tratti + numero lezioni)
+#todo i PC dedicano come impiegare ciascuno slot dell'"influenza" 
+#todo formalizzare meglio svolta
+#todo decidere come legare *Shimanami* a *New beginning*
+#todo semplificare funzionamento dei business/introiti
+#todo formalizzare miglioramento dei business
+
 
 ##   Obiettivo del Gioco
+
+#todo forse suddividere obbiettivo in vari achievements per diversificare il play-style dei giocatori
 
 > L'obiettivo principale del gioco è accumulare più *ricchezza* possibile sull'isola di Shimanami.
 
